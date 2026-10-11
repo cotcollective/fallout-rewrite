@@ -1,0 +1,249 @@
+#
+# He's fairly short, stocky and self-assured, and looks to be well-traveled.
+#
+{100}{}{Tu vois un homme petit et trapu.}
+{101}{}{On n'aime pas trop les gens comme toi dans le coin.}
+{102}{}{Salut, l'étranger. T'as l'air nouveau ici. C'est quoi ton nom ?}
+{103}{}{Mon nom n'a pas d'importance.}
+{104}{}{Je suis }
+{105}{}{.}
+{106}{}{Hein ?}
+{107}{}{Eh bien, dans ce cas, toi non plus.}
+{108}{}{Enchanté. Moi c'est Ian.}
+{109}{}{Tu fais quoi ici ?}
+{110}{}{J'aimerais en savoir plus sur cet endroit. Tu peux m'aider ?}
+{111}{}{Désolé, mais j'ai pas de temps à perdre avec les crétins.}
+{112}{}{J'étais garde pour les marchands du Hub. Mais je me suis fait tirer dessus pendant un raid de bandits. Je suis resté ici depuis, les gens m'ont aidé à me rétablir. Et puis, ma connaissance du monde extérieur et mon expérience me rendent utile ici. Shady Sands c'est chez moi maintenant. De temps en temps, je vais même à Junktown ou au Hub pour commercer, vu que je suis le seul ici à avoir vraiment quitté la ville.}
+{113}{}{Tu vois : Ian.}
+{114}{}{Désolé d'apprendre pour ta blessure.}
+{115}{}{C'est où ce Hub, et Junktown ?}
+{116}{}{Tu peux me parler des bandits ?}
+{117}{}{Shady Sands est une petite communauté mais autosuffisante. Les seuls problèmes ici, c'est les bandits et les radscorpions.}
+{118}{}{Pourquoi les radscorpions posent problème ?}
+{119}{}{Y'a beaucoup de bandits ?}
+{120}{}{Y'en a plusieurs. Ils viennent de différents groupes. Ils volent notre nourriture et tirent sur quelques personnes de temps en temps. Seth a organisé les gardes pour les repousser.}
+{121}{}{Tu peux me parler de Seth ?}
+{122}{}{Y'a différents groupes ? C'est qui ?}
+{123}{}{Les radscorpions sont très dangereux. Ils ont un dard venimeux au bout de la queue, et ils sont très rapides. Aradesh essaie de trouver un moyen de s'en débarrasser. Si tu te sens courageux, tu pourrais lui en parler.}
+{124}{}{Merci. Ça guérit bien, grâce à Razlo.}
+{125}{}{Seth est un combattant très courageux. Il va parfois dans les grottes des radscorpions pour en tuer quelques-uns, mais ils reviennent toujours. Y'en a juste trop pour lui.}
+{126}{}{Les radscorpions sont vraiment si dangereux ?}
+{127}{}{En quoi je peux t'aider ?}
+{128}{}{Y'a trois groupes : les Khans, les Vipers et les Jackals. Ils se détestent à peu près tous, mais ils attaquent tous Shady Sands.}
+{129}{}{Parle-moi plus de Shady Sands.}
+{130}{}{Il a l'assurance décontractée d'un combattant expérimenté.}
+
+# TRANSLATION NOTE
+# The player-character's name is inserted by the code in between lines 131 and 132.
+{131}{}{Alors, }
+{132}{}{, que puis-je faire pour toi ?}
+{133}{}{Parle-moi des pillards.}
+{134}{}{Parle-moi des radscorpions.}
+{135}{}{Parle-moi de Shady Sands.}
+{136}{}{Parle-moi de Seth.}
+{137}{}{Tu peux m'indiquer la route pour le Hub et Junktown ?}
+{138}{}{Rien, merci.}
+{139}{}{Le Hub est un grand centre de commerce loin au sud de Shady Sands. Il est tenu par plusieurs groupes de caravanes de marchands : les Marchands d'Eau, la Caravane Cramoisie et les Far Go Traders. Junktown est un peu au sud et vers l'ouest. C'est plus petit, mais c'est un bon endroit pour prendre un verre. C'est surveillé par un type nommé Killian Darkwater ; le boutiquier, le shérif et le maire local.}
+{140}{}{Merci.}
+{141}{}{Je suis peut-être plus un très bon combattant, mais je suis encore assez bon pour te mettre minable !}
+
+# TRANSLATION NOTE
+# The player-character's name is inserted by the code in between lines 142 and 143.
+{142}{}{Que puis-je faire pour toi, }
+{143}{}{?}
+
+{144}{}{Hmm. Rien. Laisse tomber, Ian.}
+{145}{}{Tu peux partir maintenant.}
+{146}{}{Tu peux m'indiquer la route pour le Hub et Junktown ?}
+{147}{}{Bon, puisque tu demandes, d'accord. À plus.}
+{148}{}{Non merci. On a besoin de moi ici.}
+{149}{}{Tu pourrais me filer un coup de main ? Ton expérience serait utile.}
+{150}{}{On y va. Ça fera du bien de se remettre dans l'action !}
+{151}{}{Ici c'est chez Killian, un magasin général. Killian est un brave type, et ils ont plein de stock.}
+{152}{}{Le casino de Gizmo. Un nid de jeux et d'activités louches. Attention -- on dit que les jeux sont truqués.}
+{153}{}{Cet endroit me file les jetons.}
+{154}{}{C'est quoi ce bordel ici ?}
+{155}{}{Ça va être un morceau dur.}
+{156}{}{Hmm. Offre tentante, vu que cet endroit devient ennuyeux. Voilà ce que je te propose. Tarif standard : 100 capsules, et c'est d'accord.}
+{157}{}{D'accord.}
+{158}{}{Non merci.}
+{159}{}{Et si on partageait plutôt le butin ?}
+{160}{}{D'accord, je t'aide en échange de ma part du butin.}
+{161}{}{Non, je crois pas. Reviens quand t'auras des capsules.}
+{162}{}{Ici c'est l'armurerie. C'est tenu par Beth. Elle est bonne pour les flingues, mais encore meilleure pour les ragots.}
+{163}{}{Les Armes de Jake. Cher, mais vraiment de bons flingues.}
+{164}{}{Bureau des Marchands d'Eau. C'est eux les gros bonnets du Hub, vu qu'ils fournissent l'eau qui fait tout tourner.}
+{165}{}{Ici c'est la Caravane Cramoisie. J'ai bossé pour eux. Ils font beaucoup de boulots à haut risque.}
+{166}{}{Far Go Traders, tenu par Butch Harris. Il est pas très té-fu, si tu vois ce que je veux dire.}
+{167}{}{Ah, le Faucon Maltais c'est l'endroit où il faut être. Bonne musique, bons verres et bonne compagnie.}
+{168}{}{Quel vilain fils de pute !}
+{169}{}{Tu gagnes 100 points d'expérience pour avoir convaincu Ian de se joindre à ta quête.}
+{170}{}{J'avais entendu parler de certains de ces endroits, mais jamais mis les pieds dedans. Ça a l'air propre et net... un peu trop propre à mon goût.}
+{171}{}{C'est pas que tu me l'aies demandé, mais ce type devrait te lâcher un peu la grappe.}
+{172}{}{Tu sais, cette nana saurait pas mener un tango, encore moins une révolution.}
+{173}{}{Avec quelles armes tu sais te battre ?}
+{174}{}{Je suis bon tireur avec à peu près n'importe quel pistolet, et je sais aussi me servir d'une mitraillette. Et je sais manier un couteau.}
+
+#
+# Translation note
+# The following line is directed at Katja, a female scavenger, not at the player.
+# Ian is noting that he thinks that L.A. Boneyard was a worse place than the
+# mutants' military base.
+#
+
+{175}{}{Je croyais que L.A. Boneyard c'était pire.}
+
+
+{200}{}{Sors ta meilleure arme la prochaine fois qu'on va au combat.}
+{201}{}{Pas de problème.}
+{202}{}{Je peux faire quelque chose pour toi avant de partir ?}
+{203}{}{Euh, ouais. Je crois qu'on devrait rester ensemble, finalement.}
+{204}{}{Euh, non. Merci.}
+
+#
+# Ian Tell-Me-Abouts
+#
+
+{1000}{}{Eau}
+{1001}{}{Guerre}
+{1002}{}{Shady}
+{1003}{}{Junktown}
+{1004}{}{Hub}
+{1005}{}{Pillards}
+{1006}{}{Caravanes}
+{1007}{}{Puce}
+{1008}{}{Sands}
+{1009}{}{Disciples}
+{1010}{}{Cathédrale}
+{1011}{}{Garl}
+{1012}{}{Maître}
+{1013}{}{Unité}
+{1014}{}{Set}
+{1015}{}{Watershed}
+{1016}{}{Nécropolis}
+{1017}{}{Hall}
+{1018}{}{Bibliothèque}
+{1019}{}{Superviseur}
+{1020}{}{Médecin}
+{1021}{}{Soins}
+{1022}{}{Abri}
+{1023}{}{Abri13}
+{1024}{}{Abri 13}
+{1025}{}{Killian}
+{1026}{}{Gizmo}
+{1027}{}{Boneyard}
+{1028}{}{Casino}
+{1029}{}{Magasin}
+{1030}{}{Écorcheur}
+{1031}{}{Exode}
+{1032}{}{Initiés}
+{1033}{}{Paladins}
+{1034}{}{Scribes}
+{1035}{}{Enfants}
+{1036}{}{Confrérie}
+{1037}{}{Cuves}
+{1038}{}{Militaire}
+{1039}{}{Base}
+{1041}{}{Apocalypse}
+{1042}{}{Mutants}
+{1043}{}{Morpheus}
+{1044}{}{Khans}
+{1045}{}{Tandi}
+{1046}{}{Alya}
+{1047}{}{Diana}
+{1048}{}{Gwen}
+{1049}{}{Petrox}
+{1050}{}{Tolya}
+{1051}{}{Alcool}
+{1052}{}{Drogues}
+{1053}{}{Seth}
+{1054}{}{Aradesh}
+{1055}{}{Razlo}
+{1056}{}{Zimmerman}
+{1057}{}{Régulateurs}
+{1058}{}{Fouineurs}
+{1059}{}{Lames}
+{1060}{}{Nicole}
+{1061}{}{Lieutenant}
+{1062}{}{Psioniques}
+{1063}{}{Expériences}
+{1064}{}{Police}
+{1065}{}{Marchands}
+
+{1100}{}{Aucune idée de ce qu'est une Puce d'eau. Désolé, l'ami.}
+{1101}{}{C'est arrivé y'a une centaine d'années. En gros, un paquet de pays sont devenus nerveux, et tout a fait BOUM !}
+{1102}{}{Un petit village paisible. Probablement la communauté la plus prometteuse du désert.}
+{1103}{}{Une ville moyenne faite de bric-à-brac, surveillée par un shérif nommé Killian. C'est à quelques jours au sud-ouest de Shady Sands.}
+{1104}{}{Le Hub est le plus grand centre de commerce du Nouvel Ouest. Il est tenu surtout par un groupe appelé les Marchands d'Eau, mais y'a d'autres marchands aussi. C'est une ville en plein essor, mais y'a beaucoup de guéguerres politiques entre les marchands.}
+{1105}{}{Y'a plusieurs groupes de pillards là-dehors. Le plus organisé s'appelle les Khans ; ils semblent croire qu'ils peuvent conquérir le monde ou un truc comme ça.}
+{1106}{}{La plupart des caravanes viennent du Hub. Elles voyagent partout. J'ai bossé pour un groupe appelé la Caravane Cramoisie avant ma blessure malencontreuse.}
+{1107}{}{Aucune idée de ce qu'est une Puce d'eau. Désolé, l'ami.}
+{1108}{}{Un petit village paisible. Probablement la communauté la plus prometteuse du désert.}
+{1109}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1110}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1111}{}{Garl c'est un crétin qui croit pouvoir conquérir le monde avec ses pillards minables. Ouais, c'est ça.}
+{1112}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1113}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1114}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1115}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1116}{}{C'est pas la ville mythique des morts ?}
+{1117}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1118}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1119}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1120}{}{Razlo est un super docteur. Tu devrais aller le voir si t'es blessé.}
+{1121}{}{Razlo rafistole bien les gens, et son jus de junja vaut vraiment le coup !}
+{1122}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1123}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1124}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1125}{}{Killian est le maire de Junktown. Il tient aussi un magasin là-bas. C'est un brave type. J'ai jamais bossé pour lui, mais il a l'air correct.}
+{1126}{}{Gizmo tient un casino à Junktown. J'ai entendu dire qu'il est truqué, par contre.}
+{1127}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1128}{}{Le casino c'est le gros projet de Gizmo à Junktown. Ça ramène plein de touristes et d'argent, mais les problèmes viennent avec.}
+{1129}{}{Killian tient un bon magasin général à Junktown.}
+{1130}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1131}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1132}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1133}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1134}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1135}{}{Ouais, y'a des gamins à Shady Sands. Et alors ? Aucun n'est à moi.}
+{1136}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1137}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1138}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1139}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1141}{}{Tu sais, y'aura toujours la guerre. Sauf que la prochaine se fera à coups de bâtons.}
+{1142}{}{J'ai vu des trucs bizarres quand je gardais des caravanes pour le Hub. Des coyotes mutés, des mantes, des scorpions ; ce genre de trucs.}
+{1143}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1144}{}{C'est un groupe minable de pillards qui attaquent Shady Sands et qui croient qu'ils vont conquérir le monde ou une connerie du genre.}
+{1145}{}{C'est la fille d'Aradesh. Elle est plutôt mignonne, mais quelqu'un m'attend à la maison.}
+{1146}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1147}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1148}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1149}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1150}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1151}{}{T'as une bière ? J'aurais besoin d'un verre.}
+{1152}{}{J'ai pris du Psycho une fois pendant un raid de caravane. Ça m'a rendu nerveux. Bizarre.}
+{1153}{}{Seth est le capitaine des gardes. Entre nous, il saurait pas garder un fruit même cloué à sa jambe.}
+{1154}{}{Aradesh est le chef de Shady Sands. Un homme bon et patient, même s'il est un peu timbré.}
+{1155}{}{Hé, si t'as besoin d'aide, c'est Razlo qu'il faut voir. C'est un super docteur.}
+{1156}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1157}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1158}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1159}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1160}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1161}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1162}{}{J'sais pas. Je crois qu'y'a quelque chose, ouais, mais y'a juste pas assez de preuves.}
+{1163}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1164}{}{Désolé, pote. J'en sais pas grand-chose.}
+{1165}{}{Des marchands viennent du Hub pour commercer avec Junktown. C'est tout ce que je sais.}
+
+{1999}{}{J'ai appris de nouveaux trucs !}
+{2000}{}{Discutons de nos tactiques de combat.}
+{2001}{}{Ouais ?}
+{2010}{}{Sors ta meilleure arme.}
+{2011}{}{Change d'armure.}
+{2012}{}{Préfère le combat à distance contre le rapproché.}
+{2013}{}{Préfère le corps à corps contre la distance.}
+{2014}{}{Choisis la distance toi-même.}
+{2015}{}{C'est tout pour l'instant.}
+{2100}{}{Pas de problème, pote.}
+

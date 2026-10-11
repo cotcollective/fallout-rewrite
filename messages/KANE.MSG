@@ -1,0 +1,365 @@
+{100}{}{Tu vois : Kane.}
+{101}{}{C'est quoi le boulot, et ça paie combien ?}
+{102}{}{Bosser pour ce trou ? Faut rigoler.}
+{103}{}{Tout à fait, et on dirait que je vais devoir te botter le cul, juste comme ça.}
+{104}{}{Désolé, peut-être plus tard.}
+{105}{}{Non merci.}
+{106}{}{Tuk ?}
+{107}{}{Les rapports devaient être faux, dégage. On n'embauche pas les clodos.}
+{108}{}{C'est pas du boulot de clodo. Faudra faire « ça » vite et propre. Le boss te donnera les détails, mais ça paie plus qu'un mois à bosser pour les caravanes, mais seulement si t'es assez bon. On n'aime pas trop les échecs, si tu vois ce que je veux dire.}
+{109}{}{Ça marche.}
+{110}{}{Je peux pas pour l'instant. Je reviens vers toi.}
+{111}{}{Qui je dois tuer ?}
+{112}{}{Non merci. J'ai pas besoin d'argent.}
+{113}{}{Je suis sûr que tu connais notre genre d'affaires, alors disons juste que ce serait dans ton intérêt de garder ça pour toi. On y va ?}
+{114}{}{J'espère pour toi que c'était de l'humour. Ne nous double pas, tu le regretteras.}
+{115}{}{Bien sûr. Et ce « boulot », c'est quoi ?}
+{116}{}{Ouais, c'est ça, gros dur.}
+{117}{}{Je crois que tu m'as pas compris. Laisse-moi clarifier. Si tu surveilles pas tes manières, tu vas te retrouver mort, gros dur.}
+{118}{}{Je crois que tu m'as pas compris. Laisse-moi clarifier. Si tu surveilles pas tes manières, tu vas te retrouver morte, ma grande.}
+{119}{}{Non, laisse-moi clarifier — si tu fais pas gaffe, je vais porter ton cul en chaussure.}
+{120}{}{D'accord. J'ai compris. Maintenant, qu'est-ce que tu veux que je fasse ?}
+{121}{}{Je te parlerai plus tard. Faut que j'y aille.}
+{123}{}{Oh, je t'en prie. On va retenir notre souffle.}
+{124}{}{Mais bien sûr, bonne journée.}
+{125}{}{Pas besoin d'argent ? Tu dois plaisanter, mais d'après ce que j'ai entendu sur toi, le boulot que j'avais en tête pourrait te plaire.}
+{126}{}{Vraiment ? Ça pourrait m'intéresser, vas-y.}
+{127}{}{Non merci.}
+{128}{}{Je reviens vers toi.}
+{129}{}{C'est... Ça te dirait de m'accompagner en bas ? Y a trop d'oreilles ici.}
+{130}{}{Bien sûr.}
+{131}{}{Pas intéressé.}
+{132}{}{Pas pour l'instant, je reviens vers toi.}
+{133}{}{Dégage, j'ai pas la patience.}
+{134}{}{Tu tiens à ta vie ?}
+{135}{}{T'as eu ta chance, maintenant dégage.}
+{136}{}{Tu cherches les ennuis ?}
+{137}{}{T'apprends jamais, hein ? Tu vas vite apprendre le respect.}
+{138}{}{J'ai entendu parler de toi. On dit que t'es un vrai fils de pute. Si tu cherches du boulot, je peux peut-être te brancher avec quelqu'un. Ça t'intéresse ?}
+{139}{}{J'ai entendu parler de toi. On dit que t'es une vraie garce. Si tu cherches du boulot, je peux peut-être te brancher avec quelqu'un. Ça t'intéresse ?}
+{140}{}{J'ai entendu parler de toi. C'est toi qui as buté Killian à Junktown, beau boulot. Gizmo a dû bien te payer pour celle-là. Qu'est-ce qui t'amène au Hub, tu cherches du boulot ?}
+{141}{}{J'ai entendu parler de toi. C'est toi qui as buté Gizmo à Junktown. Killian a dû te payer une belle somme pour ce boulot. T'es là pour du boulot, peut-être ?}
+{142}{}{J'ai entendu parler de toi. C'est toi la garce qui as buté Killian et Gizmo. Voilà comment on règle un problème... Alors, qu'est-ce qui t'amène au Maltese Falcon ? Tu cherches du boulot ?}
+{143}{}{J'ai entendu parler de toi. C'est toi l'enfoiré qui as buté Killian et Gizmo. Voilà comment on règle un problème... Alors, qu'est-ce qui t'amène au Maltese Falcon ? Tu cherches du boulot ?}
+{144}{}{J'ai entendu parler de toi. Tu te fais un nom. Qu'est-ce qui t'amène au Hub ?}
+{145}{}{Je cherche une Puce d'eau.}
+{146}{}{Je dois parler à Decker.}
+{147}{}{C'est toi qui tiens ce bouge ? }
+{148}{}{Je suis là pour te botter le cul.}
+{149}{}{Je crois que je vais devoir te faire mal maintenant.}
+{150}{}{T'auras plus à t'inquiéter pour ta santé quand j'en aurai fini avec toi.}
+{151}{}{Je purifie le monde de tout ce qui est mal !}
+{152}{}{Faut que j'y aille, salut.}
+{153}{}{C'est tout, salut.}
+{154}{}{Tuk ?}
+{155}{}{Barooka !}
+{156}{}{Une Puce d'eau ? Jamais entendu parler, on ne vend que des boissons. Va voir le Bob's Iguana Bits, si t'as faim.}
+{157}{}{C'est un dispositif électronique qui régule le système de filtration d'un purificateur d'eau et surveille la production pour détecter toute contamination. Le mien est cassé et j'en cherche un de rechange.}
+{158}{}{Non, c'est une petite pièce de machinerie qui fait tourner un purificateur d'eau.}
+{159}{}{Une autre question pour toi... }
+{160}{}{D'accord merci. Salut.}
+{161}{}{J'ai une tête de marchand ? Arrête de me faire perdre mon temps.}
+{162}{}{Tu devrais voir les Marchands d'Eau. Ils sont au sud du Marché. Tu peux pas les rater. Ils entourent un grand château d'eau.}
+{163}{}{Toi ? C'est le truc le plus drôle que j'ai jamais entendu.}
+{164}{}{Ça va te paraître très drôle quand j'aurai fini de te réarranger la face !}
+{165}{}{On verra qui rira quand le sang aura séché.}
+{166}{}{Tu crois pouvoir me prendre ? T'es peut-être costaud, mais ça t'aidera pas à esquiver une balle.}
+{167}{}{T'as raison, je suis vraiment désolé. S'il te plaît, me tire pas dessus.}
+{168}{}{Je vois. T'es obligé de te cacher derrière un flingue, c'est ça ?}
+{169}{}{T'es pitoyable. Je devrais peut-être te mettre une balle dans la tête tout de suite et abréger tes souffrances. Qu'est-ce que t'en dis, ça te dirait un nouveau trou dans ton crâne vide ?}
+{170}{}{Je suis désolé. Je le pensais vraiment pas. S'il te plaît, me tire pas dessus.}
+{171}{}{Tu peux me battre qu'avec un flingue ? T'as peur que je te botte le cul sans ?}
+{172}{}{Quoi ? T'as peur d'une petite fille comme moi, t'es obligé d'utiliser un flingue ? }
+{173}{}{Bien sûr.}
+{174}{}{Ça y est ! Si tu crois savoir ce que sont la douleur et la souffrance, attends que j'en aie fini avec toi. }
+{175}{}{Tiens ce clebs en laisse ou il est mort. }
+{176}{}{Mêle pas ton pote à ça. }
+{177}{}{Mêlez pas vos potes à ça ou ils sont morts. }
+{178}{}{Reculez les gars, il est à moi.}
+{179}{}{Reculez les gars, elle est à moi.}
+{180}{}{Tu m'as déçu, je te croyais plus coriace que ça.}
+{181}{}{Me cacher ? J'ai besoin de me cacher derrière rien et j'ai PAS besoin d'un flingue pour m'occuper de toi. }
+{182}{}{Tiens ce clebs en laisse ou il est mort. }
+{183}{}{Mêle pas ton pote à ça. }
+{184}{}{Mêlez pas vos potes à ça ou ils sont morts. }
+{185}{}{[par-dessus son épaule] Reculez les gars, il est à moi.}
+{186}{}{[par-dessus son épaule] Reculez les gars, elle est à moi.}
+{187}{}{Bien parlé, petit bonhomme. Écoute, je range mes jouets et on verra qui reste debout.}
+{188}{}{Bien parlé, petite. Écoute, je range mes jouets et on verra qui reste debout.}
+{189}{}{Je suis désolé. Je le pensais vraiment pas. S'il te plaît, me fais pas mal.}
+{190}{}{Viens la chercher.}
+{191}{}{D'accord, mais ça me ferait mal de te faire pleurer.}
+{192}{}{Non, merci. J'ai pas le temps, salut.}
+{193}{}{Tu ferais bien de pas tourner le dos après ce que t'as dit. Tu devrais me remercier d'être aussi magnanime... pour cette fois. À la prochaine.}
+{194}{}{Ça va me plaire. }
+{195}{}{Tiens juste ce clebs en laisse ou il est mort.}
+{196}{}{Mêle juste pas ton pote à ça.}
+{197}{}{Mêlez juste pas vos potes à ça ou ils sont morts. }
+{198}{}{[par-dessus son épaule] Reculez, les gars. Elle est à moi.}
+{199}{}{[par-dessus son épaule] Reculez, les gars. Il est à moi.}
+{200}{}{Te purifier ? C'est bien gentil, mais le « mal » est très subjectif. Ce que toi tu considères comme mal pourrait très bien être l'inverse pour quelqu'un d'autre.}
+{201}{}{Oui je suis d'accord, mais ça veut dire qu'on reste assis à rien faire parce qu'on est pas sûrs ?}
+{202}{}{C'est ridicule. Le mal, c'est le mal. Ceux qui disent le contraire sont juste stupides.}
+{203}{}{Peu importe. Je rigolais.}
+{204}{}{J'espère bien. On a déjà assez de problèmes dans ce monde sans un fanatique aveugle qui court partout en tuant tout le monde.}
+{205}{}{Dommage. Un fanatique aveugle est dangereux en effet. J'espère que ton séjour au Hub sera pas long. On n'aime pas trop les meurtres qui sont pas auth... les meurtres quels qu'ils soient. Bonne journée.}
+{206}{}{Non.}
+{207}{}{Belle réponse, crétin. C'est qui le chef ?}
+{208}{}{Qui ça ?}
+{209}{}{Crétin ? T'as idée à qui tu parles ? Pour ton bien, j'espère que non. Je « dirige » pas le Maltese Falcon mais c'est MOI le chef. Qu'est-ce que tu veux avant que je perde patience.}
+{210}{}{Je sais qui t'es, et crois-moi, t'ES un crétin.}
+{211}{}{Oh, pardon. Qui dirige cet endroit ?}
+{212}{}{On verra. Passe une « bonne » journée.}
+{213}{}{Si tu sais pas, tu devrais pas demander. Ça peut être mauvais pour ta santé.}
+{214}{}{À propos de quoi ?}
+{215}{}{Un boulot.}
+{216}{}{C'est un secret.}
+{217}{}{Ça te regarde pas. Maintenant, amène-moi à lui.}
+{218}{}{Tente pas ta chance, mon pote, ou tu rencontreras Decker dans un sac. Par ici, et tiens-toi bien. Je te surveille.}
+{219}{}{Tente pas ta chance, ma belle, ou tu rencontreras Decker dans un sac. Par ici, et tiens-toi bien. Je te surveille.}
+{220}{}{Je crois que SI ça me regarde et je crois pas que je vais te montrer quoi que ce soit... si t'as de la chance. Maintenant, dégage.}
+{221}{}{Désolé, mais tout ce que t'as à dire à Decker peut m'être dit. Je suis son bras droit et y a rien qui se passe ici qu'on sache pas tous les deux.}
+{222}{}{C'est à propos d'un boulot.}
+{223}{}{Désolé, j'ai juré le secret. Je peux en parler qu'à Decker.}
+{224}{}{Dans ce cas, tu le verras pas.}
+{225}{}{Qui t'envoie ?}
+{226}{}{Beth m'envoie.}
+{227}{}{Lorenzo m'envoie.}
+{228}{}{Loxley m'envoie.}
+{229}{}{Le shérif m'envoie.}
+{230}{}{Personne.}
+{231}{}{Beth qui ?}
+{232}{}{Tu sais.}
+{233}{}{Elle a pas dit. Elle tient l'armurerie.}
+{234}{}{Dégage de ma vue. J'ai pas le temps pour tes jeux.}
+{235}{}{Alors tu verras personne.}
+{236}{}{Dis à notre ami le shérif Greene que l'emploi du temps de Decker est un peu chargé et qu'il devrait repasser dans quelques mois. Je suis désolé, mais je crois que tu devrais partir... pour de bon.}
+{237}{}{Je crois pas qu'elle t'ait envoyé ici. Pars, s'il te plaît.}
+{238}{}{Ah oui ? Ils sont prêts à passer sous notre protection ? T'en es un ?}
+{239}{}{Je sais pas de quoi tu parles. Il a juste dit que Decker aurait peut-être du boulot pour moi.}
+{240}{}{Moi ? Bosser pour ces voleurs ? Jamais. Je préfère surveiller mes arrières que mon porte-monnaie.}
+{241}{}{Vous nous protégez ? JAMAIS !}
+{242}{}{Écoute, mon pote. Je cherche juste du boulot honnête, propre et bien payé.}
+{243}{}{Ah oui ? Eh bien t'es pas au bon endroit, le Hub a tout sauf d'honnête. Retourne dans le trou d'où t'es sorti. Tu seras plus heureux là-bas.}
+{244}{}{C'est possible. Eh bien suis-moi et on verra à quel point tu nous es utile. Souviens-toi juste que ce serait dans ton intérêt de garder pour toi tout ce qu'on te dira.}
+{245}{}{C'est possible. T'es membre de leur « Cercle des Voleurs » ?}
+{246}{}{Oui.}
+{247}{}{Non.}
+{248}{}{Eh bien, désolé, mais on travaille pas avec tes petits amis. On tolère à peine leur existence et on travaillerait jamais avec eux.}
+{249}{}{Dans ce cas. Tu pourrais nous être utile après tout. Souviens-toi juste que ce serait dans ton intérêt de garder pour toi tout ce qu'on te dira.}
+{250}{}{C'est possible. Quel genre de boulot tu cherchais ?}
+{251}{}{Vous avez besoin d'un autre garde ?}
+{252}{}{Oh, rien de particulier. Je me demandais juste.}
+{253}{}{N'importe quoi. Si ça paie bien, je le fais.}
+{254}{}{N'importe quoi qui m'attirera pas d'ennuis avec la loi.}
+{255}{}{Essaie les marchands. J'ai entendu dire qu'ils paient raisonnablement bien.}
+{256}{}{Non, je crois qu'on est bons. Bonne journée.}
+{257}{}{Voilà ce que j'aime entendre. Je crois qu'on va devenir amis après tout. Laisse-moi te montrer le chemin. Souviens-toi juste que ce serait dans ton intérêt de garder pour toi tout ce qu'on te dira.}
+{258}{}{Bien. Suis-moi, mais souviens-toi que ce serait dans ton intérêt de garder pour toi tout ce qu'on te dira.}
+{259}{}{Bien sûr qu'il l'a fait, au revoir... Oh, et au fait. Ne me mens plus jamais, j'aime pas qu'on me mente. Peu de gens vivent pour entendre ce conseil.}
+{260}{}{Un homme d'action. J'aime ça, même si t'es un peu dérangé.}
+{261}{}{Une femme d'action. J'aime ça. Même si t'es un peu dérangée.}
+{262}{}{Ouais, qu'est-ce que tu veux ? Ça a intérêt à être bon.}
+{263}{}{Si tu veux me parler, range ton arme.}
+{264}{}{T'as un problème de mémoire ? Range ton arme si tu veux me parler.}
+{265}{}{Ton arme ?}
+{266}{}{Pas mal, pas mal du tout, tu m'as surpris. Je te croyais pas si coriace. Je suis normalement bon juge, peut-être que t'es ce qu'on cherche. Ça t'intéresse, un boulot ?}
+{267}{}{Merde ! Beau combat ! J'ai pas eu un bon match depuis longtemps, et je me souviens pas de la dernière fois où on m'a battu. Beau boulot ! Ça te dirait un boulot ?}
+{268}{}{Bien sûr, c'est quoi le boulot ?}
+{269}{}{Non merci.}
+{270}{}{Je peux pas pour l'instant. Je reviens vers toi.}
+{271}{}{C'est pas du boulot de clodo. Faudra faire « ça » vite et propre. Le boss te donnera les détails, mais ça paie plus qu'un mois à bosser pour les caravanes. Je crois que tu t'en sortiras très bien.}
+{272}{}{Ça marche, vas-y.}
+{273}{}{Hm, je peux y réfléchir ? J'ai beaucoup d'autres choses en cours.}
+{274}{}{ Non, je crois pas.}
+{275}{}{Bien sûr, mais préviens-moi dès que tu peux. Plus vite le boulot est fait, mieux c'est.}
+{276}{}{Préviens-moi si tu changes d'avis. Ça me ferait mal de voir un tel talent gâché à garder des caravanes.}
+{277}{}{Parfait, je crois que ça va bien se passer. Souviens-toi juste que tout ce que t'entendras en bas ne doit pas remonter. D'accord, on y va.}
+{278}{}{Je sais que t'es responsable de la mort d'un marchand et de sa femme. Je sais pas quels différends vous aviez et je m'en fiche.}
+{279}{}{Qui te l'a dit ?}
+{280}{}{Je sais pas de quoi tu parles.}
+{281}{}{Wak ?}
+{282}{}{C'est pas ça qui devrait t'inquiéter. Personne ne fait de contrat sur quelqu'un sans notre aval. Je crois que ce serait mieux que tu quittes notre ville, tant que tu peux encore.}
+{283}{}{J'ai peur que si et si tu sais ce qui est bon pour toi, tu devrais quitter cette ville tant que tu peux encore.}
+{284}{}{Je pensais pas que tu voulais le boulot. J'espère que c'était juste un malentendu. Je te paierai la moitié, et estime-toi heureux que je te donne quoi que ce soit. [Kane te donne 1500 capsules]}
+{285}{}{Merci.}
+{286}{}{Oh désolé, je croyais avoir le boulot. Y a une chance que je puisse encore bosser pour vous ?}
+{287}{}{Donne-moi le reste de l'argent maintenant ou tu le regretteras !}
+{288}{}{Ghu ?}
+{289}{}{On verra. En bas, Decker veut te parler.}
+{290}{}{Tu auras rien.}
+{291}{}{Je sais pas à quel jeu tu joues mais si tu sais ce qui est bon pour toi, tu devrais quitter cette ville tant que tu peux encore.}
+{292}{}{Tu disais pas vouloir le boulot. Je suis surpris que tu sois revenu. T'as fait une grosse erreur de le faire tout seul. Je te conseille de quitter la ville tant que tu peux encore.}
+{293}{}{Je sais que t'es responsable de la mort de Jain, la Grande Prêtresse. Je sais pas quels différends vous aviez et je m'en fiche, mais on t'en est très reconnaissants quand même. [Kane te donne 1000 capsules]}
+{294}{}{Qui te l'a dit ?}
+{295}{}{Je sais pas de quoi tu parles.}
+{296}{}{Wah ?}
+{297}{}{Ça te regarde pas et j'ai peur qu'on puisse pas traiter avec toi. T'as violé nos lois mais vu le problème que tu as éliminé pour nous, on te tuera pas, mais je crois que tu devrais partir.}
+{298}{}{J'ai peur que si, mentir peut être très mauvais pour la santé. T'as violé nos lois mais vu le problème que tu as éliminé pour nous, on te tuera pas, mais je crois que tu devrais partir.}
+{299}{}{Je sais pas à quel jeu tu joues, mais ça m'amuse pas. T'as violé nos lois mais vu le problème que tu as éliminé pour nous, on te tuera pas, mais je crois que tu devrais partir.}
+{300}{}{Touche pas cette porte, si tu tiens à la vie. Je suis le seul à pouvoir ouvrir cette porte.}
+{301}{}{Le marchand et sa femme habitent vers l'ouest d'ici. Ils sont au coin de la rue Barter et de l'avenue Thunder, dans les Hauteurs, il aura probablement des gardes. Essaie d'être discret et assure-toi qu'on te voie pas, mais si quelqu'un te voit, assure-toi qu'il vive pas pour le raconter. Une fois ta petite course finie, reviens ici. Encore une chose. Ne pense même pas à aller voir la police, c'est la pire erreur que tu pourrais faire. Si tu peux, essaie de pas attirer leur attention en bossant, ils peuvent être assez pénibles parfois. [Kane te donne 500 capsules]}
+{302}{}{Beau boulot. Voilà tes capsules pour l'accomplissement du premier boulot. [Kane te tend 2500 capsules].}
+{303}{}{Beau boulot pour le marchand. J'attends les mêmes résultats pour ton prochain boulot. Voilà ton dernier paiement pour le premier boulot et le premier pour le second. [Kane te tend 3500 capsules]. Je suis sûr que tu sais déjà, mais les Enfants de la Cathédrale sont au sud, juste au nord des Marchands d'Eau. Encore une fois, pas de témoins « vivants ».}
+{304}{}{T'étais pressé de partir ? T'as pas pris tes capsules. Voilà ton fric, le paiement initial et le bonus d'accomplissement pour le premier boulot. [Kane te tend 3000 capsules]}
+{305}{}{Hé, beau boulot ! T'as oublié de prendre ton paiement initial pour le boulot, alors le voilà avec les frais d'accomplissement. Tu t'es montré très utile. }
+{306}{}{ [Kane te tend 5000 capsules]}
+{307}{}{Et c'est tout ce que t'auras. Maintenant, dégage avant de le regretter.}
+{308}{}{Voilà ta paie de départ. [Kane te tend 1000 capsules] Je suis sûr que tu sais déjà, mais les Enfants de la Cathédrale sont au sud, juste au nord des Marchands d'Eau. Encore une fois, pas de témoins « vivants ».}
+{309}{}{Merde, ça fait beaucoup de fric. Decker voulait vraiment que cette garce meure. Voilà tes capsules. [Kane te donne 4000 capsules] Tu t'es montré très utile. }
+{310}{}{Qu'est-ce que tu veux, bordel ? Je croyais que tu voulais pas rencontrer Decker.}
+{311}{}{Non, mais tu peux lui transmettre un message ?}
+{312}{}{Ouais, je veux le rencontrer, pour lui faire un trou dans la tête !}
+{313}{}{Je suis désolé, je t'ai mal compris.}
+{314}{}{Tout à fait, pourquoi je voudrais rencontrer un idiot pareil !}
+{315}{}{Grug.}
+{316}{}{Taa ?}
+{317}{}{On n'embauche pas les clodos. Maintenant, pars avant que je m'énerve.}
+{318}{}{Ça dépend du message.}
+{319}{}{Dis-lui que c'est un lâche de se cacher dans sa petite grotte. S'il veut être un homme, il devrait essayer de sortir dans le vrai monde.}
+{320}{}{Dis-lui de commencer à prier pour un miracle, parce qu'il va en avoir besoin quand j'en aurai fini avec lui.}
+{321}{}{J'ai oublié.}
+{322}{}{Dis-lui que c'est mon idole, et que j'admire son travail.}
+{323}{}{Dis-lui que je vais lui faire ce qu'il a fait au dernier gars qui dirigeait cet endroit !}
+{324}{}{Ah oui ? Ça promet d'être amusant.}
+{325}{}{T'es un idiot.}
+{326}{}{T'es quoi, une espèce de monstre ? Dégage d'ici !}
+{327}{}{Oh, je lui dirai, c'est sûr. Je suis sûr que ça l'intéressera beaucoup... prier, tu disais ? T'as ma « parole », il aura le message.}
+{328}{}{Je t'avais dit de dégager ! Ma patience s'use ! Tu vas me dire pourquoi tu voulais voir Decker ou pas ?}
+{330}{}{J'ai pas à te dire quoi que ce soit.}
+{331}{}{Je suis désolé, je voulais juste un boulot.}
+{332}{}{Je te l'ai dit, c'est un secret !}
+{333}{}{Non !}
+{334}{}{Ru ?}
+{335}{}{Quand tu seras plus sous l'emprise de la drogue, viens me voir.}
+{336}{}{Je vais te laisser le voir, mais surveille ton langage... après toi ?}
+{337}{}{Non. Au revoir.}
+{338}{}{C'est un secret que tu emporteras dans la tombe. Decker parlera jamais à un clodo comme toi.}
+{339}{}{Alors je te conseille de partir.}
+{340}{}{Oui ?}
+{341}{}{Lorenzo m'envoie pour un boulot.}
+{342}{}{Salut !}
+{343}{}{Je veux un boulot.}
+{344}{}{Rien, salut.}
+{345}{}{Kru.}
+{346}{}{Salut.}
+{347}{}{Comment ça va ?}
+{348}{}{Salut.}
+{349}{}{Bien.}
+{350}{}{Comment vont les gosses ?}
+{351}{}{Belle journée, non ?}
+{352}{}{T'es très beau aujourd'hui.}
+{353}{}{Salut... [Kane te regarde en plissant les yeux, comme s'il essayait de comprendre ce que tu manigances]}
+{354}{}{Je suppose. [Kane commence à te lancer un drôle de regard]}
+{355}{}{T'as l'heure ?}
+{356}{}{Les chaussures en brahmine sont très savoureuses.}
+{357}{}{Non... Tu voulais quelque chose ? [Kane semble s'énerver]}
+{358}{}{Oui.}
+{359}{}{Non.}
+{360}{}{Je crois qu'il te faut un autre verre, mon pote.}
+{361}{}{Je crois qu'il te faut un autre verre, ma belle.}
+{362}{}{[Kane attend quelques secondes] Eh bien... c'est quoi ? [Kane a l'air très énervé]}
+{363}{}{C'est quoi, quoi ?}
+{364}{}{J'ai oublié.}
+{365}{}{Oh, rien.}
+{366}{}{[On dirait presque que de la vapeur sort des oreilles de Kane et les veines de son cou semblent visiblement pulser] DÉGAGE ! [Quelques secondes plus tard, tu entends à nouveau] ...D'ICI ! ESPÈCE D'IDIOT !}
+{367}{}{[Kane grince des dents et t'ignore.]}
+{368}{}{T'as oublié ? [soupir] Pourquoi ça me surprend pas ? [Secouant la tête, incrédule] Maintenant... DÉGAGE !}
+{369}{}{[Kane regarde un des gardes et fait tourner un doigt près de son oreille]}
+{370}{}{De quoi tu parles, bordel ?}
+{371}{}{C'est PAS la bonne réponse !}
+{372}{}{Je vois... T'es pas des leurs.}
+{373}{}{Réponse... à QUOI ? [Kane a l'air confus et légèrement énervé]}
+{374}{}{Au mot de passe secret !}
+{375}{}{Je suis désolé, mais j'ai pas le droit d'en parler. Au revoir.}
+{376}{}{[Kane a l'air en colère, tu sais pas pourquoi.] Dégage d'ici, espèce de fils de pute.}
+{377}{}{[Kane a l'air en colère, tu sais pas pourquoi.] Dégage d'ici, espèce de garce.}
+{378}{}{Je t'ai dit de dégager d'ici, espèce de fils de pute.}
+{379}{}{Je t'ai dit de dégager d'ici, espèce de garce.}
+{380}{}{Non, je suppose pas. Maintenant DÉGAGE. [Il n'a pas l'air amusé]}
+{381}{}{J'ai PAS de gosses !}
+{382}{}{T'as l'air un peu contrarié. Tu veux en parler ?}
+{383}{}{Eh bien tu devrais, ils font de bons serviteurs.}
+{384}{}{C'est pas ce que Mary a dit.}
+{385}{}{ Vraiment ? C'est bizarre... Très bizarre...}
+{386}{}{QUOI ? TU... JE... NON ! Je veux PAS en parler. Tu te prends pour qui, bordel ? Dégage de ma vue.}
+{387}{}{J'AI DIT que je veux PAS en parler.}
+{388}{}{Euh, ouais. Bien sûr, mon pote. Ce que tu dis.}
+{389}{}{Euh, ouais. Bien sûr, ma belle. Ce que tu dis.}
+{390}{}{T'en as à vendre alors ?}
+{391}{}{Bon alors. Salut !}
+{392}{}{[Kane regarde un de ses hommes de main et hausse les épaules]}
+{393}{}{Non, j'en ai PAS ! Maintenant, pars.}
+{394}{}{Mary ? Je connais pas de Mary... J'ai pas le TEMPS pour ça ! Je sais même pas de qui tu parles. Si elle veut de l'argent, dis-lui de venir me parler elle-même !}
+{395}{}{Tu gagnes 100 points d'expérience pour avoir bien énervé Kane.}
+{396}{}{[Pendant une fraction de seconde, tu crois voir Kane rougir] C'est... [il regarde de chaque côté] gentil. Maintenant, qu'est-ce que tu voulais.}
+{397}{}{Que dirais-tu d'un rencard ? }
+{398}{}{Oh, rien. Salut.}
+{399}{}{Oui, je veux dire non. Je veux dire je... je peux pas. Je... [Kane frappe soudain un de ses gardes à la mâchoire] Qu'est-ce que tu regardes ? [il te regarde à nouveau] Tu fais encore quoi ici ?}
+{400}{}{[Kane t'ignore] Qu'est-ce que tu veux ?}
+{401}{}{Comment vont les gosses ?}
+{402}{}{Belle journée, non ?}
+{403}{}{Par ici.}
+{404}{}{Tu connais le chemin, allons-y.}
+{405}{}{Ouvrez les gars.}
+{406}{}{D'accord.}
+{407}{}{OK.}
+{408}{}{Tu peux vouloir tout ce que tu veux, maintenant dégage.}
+{409}{}{T'as d'autres boulots ?}
+{410}{}{Salut !}
+{411}{}{Rien, salut.}
+{412}{}{Acru !}
+{413}{}{Te revoilà.}
+{414}{}{Quoi ? T'as pas eu le cran, hein ? [Il te chuchote] T'inquiète pas, on s'y habitue. S'il a des gardes, essaie d'attendre qu'ils partent. Ils doivent manger parfois, non ? Si tu peux, distrais-les. Fais tout ce qu'il faut, on n'accepte pas les échecs. Fais-le et t'auras ton argent, puis tu pourras te tirer d'ici. Alors... t'avais vraiment besoin de quelque chose ?}
+{415}{}{Pourquoi « ça » n'est toujours pas fait. Tu ferais mieux de le faire. Je veux plus te voir avant que t'aies de bonnes nouvelles, sinon on aura un problème. Tu ferais mieux de pas nous décevoir.}
+{416}{}{C'est fini. T'as fait ta dernière erreur. Tu ferais mieux de quitter la ville maintenant, si tu veux pas y rester... six pieds sous terre.}
+{417}{}{Eh bien... tu vas faire le boulot ou pas ? Ils sont juste par ici [Kane pointe à nouveau ton écran de carte de ville du Pip-Boy 2000]. Tu ferais mieux de te dépêcher, le boss s'attend à ce que ce soit fait bientôt.}
+{418}{}{C'EST QUOI CE BORDEL... [Kane regarde autour puis chuchote] Tu fais quoi ici, bordel ? Tu ferais mieux de finir l'autre, et qu'il n'y ait AUCUN témoin.}
+{419}{}{C'est fini. T'as tout foiré. Maintenant tu vas devoir payer pour tes erreurs. J'espère que tu comptais pas passer la nuit ici.}
+{420}{}{T'as pas fini ton petit boulot. [chuchotant] Tu sais ce qui est en jeu ici. Tu le fais et tu deviens riche et on est tous contents. Tu foires et personne sera content.}
+{421}{}{Si t'as du mal avec ton boulot, essaie d'attendre qu'elle soit seule.}
+{422}{}{Tu manques de temps et je manque de patience.}
+{423}{}{Je le ferai pas.}
+{424}{}{Elle sera morte très bientôt.}
+{425}{}{Hm.}
+{426}{}{Tu veux pas ? C'est dommage. On peut pas laisser les gens donner leur parole puis la reprendre. Désolé qu'on ait pas pu bosser ensemble. Passe une « bonne » journée.}
+{427}{}{D'accord ! Je vais faire ce putain de boulot. Mais t'as intérêt à avoir l'argent quand j'aurai fini.}
+{428}{}{Merci.}
+{429}{}{Oh, je l'aurai. T'inquiète pas.}
+{430}{}{Toujours vivant, je vois ! Eh bien, tu dois pas t'être fait de nouveaux amis récemment. J'espère que tu les surveilles.}
+{431}{}{[Kane a l'air assez suffisant. Il reste planté là avec un sourire mauvais.]}
+{432}{}{Eh bien ! Je suis très surpris de te voir vivant. T'as survécu, c'est très impressionnant. Je suppose que je vais te laisser vivre, tu vaux bien ça. Maintenant, dégage.}
+{433}{}{Ne pense même pas à ça.}
+{434}{}{Je rate jamais.}
+{435}{}{Je te permets de vivre, sois reconnaissant.}
+{436}{}{Je crois pas que tu veuilles me tester.}
+{437}{}{J'espère que tu comptais pas t'en servir, pour ton bien.}
+{438}{}{Tu devrais partir.}
+{439}{}{Sois pas stupide.}
+{440}{}{Tu le regretteras.}
+{441}{}{T'es soit très courageux, soit TRÈS stupide de montrer ta face ici, mais t'inquiète pas ; on passera te dire « bonjour » un de ces jours.}
+{442}{}{[Kane te fusille juste du regard.]}
+{443}{}{T'as survécu à ma fête d'adieu... Je sais pas comment t'as fait, j'ai dû te sous-estimer. Pars et tu vivras peut-être.}
+{444}{}{[Kane t'ignore, mais son arme est prête à tirer.]}
+{445}{}{Allez ! Dehors !}
+{446}{}{Je te le dirai pas deux fois. Dégage.}
+{447}{}{Je t'avais prévenu. OK les gars, faites-lui sa fête !}
+{448}{}{Je t'avais prévenu. OK les gars, faites-lui sa fête !}
+{449}{}{Me dérange pas, au boulot. T'as un boulot à faire, et tu ferais mieux de le faire.}
+{450}{}{Tu vas t'y mettre. Je t'ai déjà dit quoi faire. Fais-le, c'est tout.}
+{451}{}{Je sais que t'as fini ce putain de boulot. T'as pas besoin de me le dire. C'est à Decker qu'il faut parler.}
+{452}{}{Je t'ai dit de parler à Decker !}
+{453}{}{[Kane te lance un regard mortel] Eh bien... J'essaierai de te faire voir bientôt. Je vais m'assurer de te le présenter - morceau par morceau.}
+{454}{}{Désolé que tu le prennes comme ça. J'espère que tu « apprécieras » le reste de ton séjour dans notre merveilleuse ville. }
+{455}{}{[Kane t'ignore.]}
+{456}{}{[Kane te fixe pendant quelques secondes] D'accord. Je vais te donner une dernière chance de le voir. Suis-moi.}
+{457}{}{[Kane te fixe pendant quelques secondes] T'as raté ta chance. Dégage.}
+{458}{}{Qu'est-ce que tu fous ici, bordel ?!?! Tu dois être encore plus idiot que je pensais. Je savais que Decker aurait pas dû embaucher un inconnu.}
+{459}{}{De quoi tu parles ?}
+{460}{}{Hein ?}
+{461}{}{[Kane baisse la voix] T'as foiré la mission, crétin ! Tu devais tuer les deux Hightower, pas les blesser, bordel ! Dès que t'es parti des Hauteurs, ils se sont enfuis avec leurs gardes. Crois-moi, ils ont pas perdu de temps à faire leurs bagages. Dieu sait où ils sont maintenant !}
+{462}{}{Eh bien, qu'est-ce que je peux dire ? Je suis désolé.}
+{463}{}{Mouais. DÉsolé.}
+{464}{}{Désolé ça suffit pas. T'as mis Decker dans un risque inacceptable. Tu peux te considérer comme un ennemi de l'Underground à partir de maintenant. Je veux plus jamais voir ta face ici.}
+
+{465}{}{Tu peux pas passer la porte avec Kane ici.}
