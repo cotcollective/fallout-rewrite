@@ -8,7 +8,7 @@ Utilisé par Gemini, Muse ou tout autre modèle pour réécrire le jeu.
 
 - `scripts/` — 1 039 fichiers `.SSL` source (Sduibek/FTL FixT)  
 - `prototypes/` — 411 fichiers `.PRO` (items, armes, PNJ)  
-- `messages/` — fichiers `.msg` accessibles (extrait montré)  
+- `messages/` — fichiers `.msg` (dialogues et textes du jeu — **c'est ici que se fait la réécriture** ; extraction complète disponible via `archives/data/`)  
 - `mapping.md` + `mapping.json` — beat-mapping actuel → nouvelle lore (BIBLE.md)  
 - `archives/` — archives découpées pour faciliter le transfert  
   - `archives/data/` :  
@@ -49,21 +49,21 @@ tar -xzf fallout-dats.tar.gz            # donne master.dat, critter.dat, f1_res.
 1. **Lisez `BIBLE.md`** (intégré dans ce README ci-dessous) pour comprendre la nouvelle prémisse.  
 2. **Consultez `mapping.md`** pour voir quelles quêtes actuelles correspondent à quels rôles dans la nouvelle histoire.  
 3. **Respectez les contraintes techniques** :  
-   - **Ne modifiez jamais les IDs** `{100}` (ex. `{100}`, `{101}`…)  
+   - **Ne renumérotez jamais les entrées** `{N}` des `.msg` (ex. `{100}`, `{101}`…) — ce sont des numéros de messages ; les scripts les référencent via `message_str(63, 100)`, `gsay_reply(51, 101)`. La correspondance numéro ↔ texte doit rester identique.  
    - **Ne modifiez jamais les GVAR** (variables globales)  
    - **Gardez le même nombre de choix de dialogue** par nœud  
-   - **Ne touchez pas à la structure des procédures** (appels, sauts, etc.)  
-4. **Mettez à jour le texte** :  
+   - **Ne touchez pas aux `.SSL`** sauf les rares strings littérales affichées (ex. `display_msg("...")` avec du vrai texte) — la logique du jeu ne change pas  
+4. **Mettez à jour le texte (dans `messages/`)** :  
+   - Seul le **texte** des entrées change, jamais les numéros `{N}`  
    - Remplacez les noms selon le **glossaire imposé** (voir `mapping.md`)  
    - Réécrivez les dialogues pour correspondre à la nouvelle lore (Matrix + Terminator)  
    - Respectez le ton Fallout : humour noir, rétrofuturisme, ambiance de fin du monde  
    - Longueur cible : ~1-2 lignes par entrée de dialogue (sauf narration)  
-5. **Travaillez sur une branche** :  
-   - `git checkout -b your-feature`  
-   - Modifiez les fichiers dans `scripts/` (priorité aux quêtes principales)  
-   - `git add scripts/*.SSL`  
-   - `git commit -m "Réécriture : [description]"`  
-   - Ouvrez une Pull Request → révision automatisée + humaine
+5. **Travaillez par batches** :  
+   - Modifiez les fichiers dans `messages/` (priorité aux dialogues des quêtes principales : le Maître, l'Abri 13, la puce d'eau)  
+   - `git add messages/*.msg`  
+   - `git commit -m "Rewrite batch N : [fichiers]"`  
+   - Poussez sur `master` (commits atomiques, revert facile) ou ouvrez une Pull Request pour révision
 
 ---
 
@@ -141,11 +141,11 @@ L'anomalie du joueur est ce qui casse la boucle cette fois-ci.
 
 ### 4. Contraintes techniques (pour chaque fichier réécrit)
 
-1. **Ne jamais modifier les IDs** `{100}` — la logique du jeu les référence.  
+1. **Ne jamais renuméroter les entrées** `{N}` des `.msg` — les scripts référencent ces numéros (`message_str`, `gsay_reply`) ; la correspondance numéro ↔ texte doit rester identique.  
 2. **Garder le même nombre d'options de dialogue** par nœud (si un nœud a 3 choix, il doit en garder 3).  
 3. **Préserver les noms de procédures et les appels** (pas de refactorisation du code).  
 4. **Ne pas changer l'ordre des lignes** sauf si absolument nécessaire pour le texte (garder le diff lisible).  
-5. **Respecter le encoding d'origine** (ASCII/extended tel que dans les .SSL source).  
+5. **Respecter l'encodage d'origine** des `.msg` (vérifiez l'absence de mojibake après extraction — le jeu FR utilise typiquement Windows-1252 ; ne pas convertir en UTF-8 si l'original ne l'est pas).  
 6. **Lors de l'ajout de nouveau texte**, garder le même style de ligne (pas de lignes extrêmement longues sauf si l'original en avait).  
 7. **Tester vos changements** : le jeu doit toujours démarrer et atteindre au moins le premier écran de titre.  
 
@@ -156,7 +156,7 @@ L'anomalie du joueur est ce qui casse la boucle cette fois-ci.
 1. Clonez ce dépôt : `git clone https://github.com/cotcollective/fallout-rewrite.git`  
 2. Ouvrez-le dans votre outil d'IA préféré (Gemini Canvas, Muse, etc.)  
 3. Commencez par lire `mapping.md` et `mapping.json`  
-4. Réécrivez les scripts un à un dans `scripts/` selon les consignes ci-dessus  
+4. Réécrivez les `.msg` un à un dans `messages/` selon les consignes ci-dessus (les `.SSL` restent intouchés)  
 5. Faites des commits réguliers et ouvrez des Pull Requests pour révision  
 
 Bon rewrite, et que l'anomalie vous guide ! — ATANOR (foreman de l'Architecte)

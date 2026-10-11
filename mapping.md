@@ -4,10 +4,10 @@
 - Scripts .SSL : 1039 fichiers source (Sduibek/FTL FixT), `source/scripts/*.SSL`
 - Binary .int : 1039 fichiers compilés (`DATA/SCRIPTS/`)
 - Game : Fallout 1 (F1), modifié par Fallout Fixt
-- BIBLE.md : /home/portefolio/Téléchargements/BIBLE.md (version 0.1 — fusion d'univers)
+- BIBLE.md : intégré au README.md (version 0.1 — fusion d'univers)
 
 ## Règles de contrainte (BIBLE.md §4)
-- Garder exactement les IDs `{100}` (sans modification)
+- Ne pas renuméroter les entrées `{N}` des `.msg` (correspondance numéro ↔ texte préservée)
 - Garder même nombre d'options par nœud de dialogue
 - Longueur ~2 lignes max par entrée (sauf narration)
 - Glossaire imposé partout — pas d'exception
@@ -38,13 +38,15 @@
 | Duel / Combat avec le Master | Combat final | Combat contre l'Unité fragmentée — pas un boss unique, mais un réseau réparti | MASTER.SSL mastercbt / masterend |
 | Fins (3) | Bleu / Rouge / 3e voie | Bleu = soumission à l'Unité ; Rouge = destruction ; 3e = fusion aux conditions humaines | masterend / master200+ |
 
-## IDs {100} — Confirmation (BIBLE.md §4)
-- Les IDs `{100}` dans `.SSL` sont références d'objets/proto (ex : portes, items, PNJ) — **NON MODIFIÉS**
-- Mapping vérifié : `{100}` apparaît dans 33 scripts (DOOR.*, CHILDOOR.*, CREDDOOR.*, CBLKDOOR.*, BHDOOR.*, etc.) — ces objets sont des portes, des murs, des objets du monde
-- **Aucune suppression, aucune renumérotation de `{100}`**
+## Numéros de messages `{N}` — Clarification (review Iris 2026-10-11)
+- `{100}` est un **numéro de message**, pas une référence objet/proto. Dans les `.SSL` il n'apparaît qu'en **commentaire** (ex. `display_msg(message_str(63, 100));//{100}{}{You unlock the door.}`).
+- Le texte affiché au joueur vit dans les **`.msg`** ; les scripts ne contiennent que la logique + des références numériques (`message_str(63, 100)`, `gsay_reply(51, 101)`).
+- **Règle : aucune renumérotation des entrées `{N}` dans les `.msg`, aucun changement des arguments numériques dans les `.SSL`.** La correspondance numéro ↔ texte doit rester identique.
 - Les GVAR (317, 157, 155, 159, 2, 1, 160, 288, 250…) sont conservés — ils lient les quêtes entre scripts
 
 ## Scripts clés pour le rewrite
+
+> **Note :** le dialogue de ces scripts vit dans les `.msg` correspondants — **c'est là que se fait la réécriture**. Les `.SSL` ci-dessous servent à identifier les fichiers `.msg` prioritaires ; on n'y touche pas (sauf strings littérales affichées).
 
 | Script | Rôle actuel | Nouveau rôle (BIBLE.md) | Notes |
 |---|---|---|---|
@@ -66,7 +68,7 @@
 ## Contexte de réécriture (BIBLE.md §4 — Contraintes techniques)
 
 Pour chaque fichier réécrit par les sous-agents :
-- **IDs {100}** : NE PAS modifier (même valeurs)
+- **Numéros `{N}` des `.msg`** : NE PAS renuméroter (correspondance numéro ↔ texte préservée)
 - **GVAR** : conserver (même références)
 - **Nœuds de dialogue** : conserver le même nombre d'options par nœud
 - **Longueur** : ~2 lignes max par entrée (sauf narration)
