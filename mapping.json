@@ -1,0 +1,35 @@
+{
+  "project": "FALLOUT REWRITE (BIBLE.md v0.1 — Fusion d'univers)",
+  "source_package": "/mnt/WIN1TB/Games/Fixt-Canvas-Package/",
+  "script_format": "SSL (Sduibek / Fallout FixT)",
+  "script_count": 1039,
+  "constraint_ids_100": "preserved (no change, no rename, no delete)",
+  "glossary_applied": true,
+  "tone_applied": "dark_humor + retrofuturism + metaphysical_loop",
+  "mapping": {
+    "main_quests": [
+      {"old_name": "Vault Exit / Water Chip", "new_role": "Pod failure / VEF quest", "script_refs": ["FALCON1.SSL", "MASTER.SSL"], "gvar_refs": ["GVAR 77", "GVAR 32"]},
+      {"old_name": "The Master / The Unity", "new_role": "Le Maître (IA distribuée) / l'Unité (réseau de conscience unifiée)", "script_refs": ["MASTER.SSL", "MASTER2.SSL", "MSTMERCH.SSL"], "gvar_refs": ["GVAR 298", "GVAR 486"]},
+      {"old_name": "Super Mutants", "new_role": "Super-mutants (uploads ratés du réseau, tragiques, pas juste des monstres)", "script_refs": ["BROINVAD.SSL", "FOLINVAD.SSL", "MORPH.SSL"]},
+      {"old_name": "Enclave (if F2)", "new_role": "l'Enclave (antivirus humain — rebooter l'ancien monde)", "script_refs": ["ENCLAVE.SSL (si présent)"]},
+      {"old_name": "3 Fins (Blue / Red / 3e voie)", "new_role": "3 pilules — soumission à l'Unité (bleu), destruction de l'Unité (rouge), fusion aux conditions humaines (3e)", "script_refs": ["MASTER.SSL masterend / master200+"], "gvar_refs": ["GVAR 255"]}
+    ],
+    "glossary_mapping": {
+      "The Master": "Le Maître (IA distribuée, pas mutant)",
+      "The Unity": "l'Unité (réseau de conscience unifiée)",
+      "FEV": "VEF (Vecteur d'Émergence Forcée — assimilation bio-numérique, pas virus)",
+      "Vault": "l'Abri (pod + simulation consensuelle, pas bunker simple)",
+      "Vault-Tec": "Vault-Tec (architectes de la simulation)",
+      "Wasteland": "le Désert (couche externe — réelle OU simulée, ambiguïté voulue)",
+      "Super Mutant": "Super-mutant (upload raté, tragique, pas monstre simple)",
+      "Enclave": "l'Enclave (antivirus humain, si Fallout 2)"
+    },
+    "ids_100_preserved": true,
+    "dialogue_nodes_preserved": true,
+    "gvars_preserved": true,
+    "message_numbers_preserved": true,
+    "messages_updated": true,
+    "prototypes_updated": true
+  },
+  "note_for_subagent_2": "Le mapping beat-mapping est terminé (fait manuellement après échec du sub-agent 1). Utiliser mapping.md comme guide. Réécrire chaque .SSL selon la nouvelle lore BIBLE.md tout en préservant la structure (procédures start, variables locales, GVAR, IDs {100})."
+}
