@@ -1,0 +1,170 @@
+{100}{}{Tu vois : Vree.}
+{101}{Vree00}{Pardon, tu interromps ma méditation. Veux-tu bien partir.}
+{102}{}{Pardon. Je repasserai une autre fois.}
+{103}{}{Je reviendrai.}
+{104}{}{Comment veux-tu que je connaisse ton emploi du temps ?}
+{105}{}{Hein ?}
+{106}{Vree01}{Ne hausse pas le ton avec moi. Faut-il que l'un des Frères t'apprenne les bonnes manières.}
+{107}{}{Pardon.}
+{108}{}{Ouais, d'accord. Comme tu veux.}
+{109}{}{Oh, j'ai peur.}
+{110}{Vree02}{Salutations. C'est une belle journée pour apprendre. Puis-je t'aider ?}
+{111}{}{Je sais que tu es la Scribe en chef, mais ça veut dire quoi ?}
+{112}{}{J'ai besoin d'informations techniques.}
+{113}{}{Euh...}
+{114}{Vree03}{J'enregistre le savoir de nos ancêtres pour les générations futures.}
+{115}{}{Intéressant. Donc tu connais des trucs.}
+{116}{Vree03a}{Oui. On peut dire que je connais des « trucs ».}
+{117}{Vree17}{En quoi puis-je t'aider ?}
+{118}{Vree17a}{Vas-y.}
+{119}{}{J'ai besoin de faire réparer une Puce d'eau. Tu peux m'aider ?}
+{120}{}{J'aimerais en savoir plus sur les armes qu'on fabrique ici.}
+{121}{}{J'ai entendu parler d'holodisques, comment je les lis ?}
+{122}{}{Comment éviter l'empoisonnement par radiation ?}
+{123}{}{Qu'est-ce qui cause toutes ces mutations ?}
+{124}{Vree18}{Parle aux Chevaliers. Demande-leur de te montrer l'un des derniers pistolets laser que j'ai conçus.}
+{125}{}{Merci !}
+{126}{}{J'ai une autre question...}
+{127}{Vree19}{Tu n'es pas encore capable d'utiliser correctement le savoir sacré.}
+{128}{Vree21}{Utilise ton Pip-Boy 2000 pour lire les disques. Insère le disque dans le lecteur. Si tu as les compétences informatiques requises, tu pourras scanner les données.}
+{129}{}{Où est-ce que j'apprends l'informatique ?}
+{130}{}{Merci.}
+{131}{}{Je peux poser une autre question ?}
+{132}{Vree22}{La Confrérie propose des cours automatisés. Tiens, je vais te montrer.}
+{133}{Vree23}{Utilise ce terminal pour apprendre les bases de l'informatique.}
+{134}{Vree24}{Tu n'es pas très futé, hein ? Tu portes un lecteur d'holodisques au bras.}
+{135}{Vree25}{Il te faudrait des médicaments anti-radiation. J'en ai. Prends-les immédiatement si tu penses être près d'une source de radiation.}
+{136}{}{Merci !}
+{137}{}{Je peux te demander autre chose ?}
+{138}{Vree26}{Ne bois pas l'eau qui brille.}
+{139}{Vree27}{Entre les armes nucléaires et biogénétiques utilisées pendant la Guerre, c'est étonnant qu'il n'y ait pas plus de mutations. Mais si nous tenons bon, tout ira bien.}
+{140}{}{Pourquoi tu dis ça ?}
+{141}{}{Tu as raison. Tout ira bien.}
+{142}{}{J'ai une autre question...}
+{143}{Vree28}{Tous les mutants que j'ai étudiés étaient stériles — incapables de se reproduire avec qui que ce soit. Et leurs tissus portent les traces d'une dégradation cumulative : chaque génération de cellules est plus pâle que la précédente. Si nous purifions les sources de mutation, il nous suffira de survivre aux mutants.}
+{144}{}{Ça ressemble à un plan.}
+{145}{}{Théorie intéressante. Des preuves ?}
+{146}{}{J'ai une autre question...}
+{147}{Vree29}{Tiens, prends cet holodisque — il contient mes autopsies de cadavres de mutants. Il prouve clairement qu'aucun mutant ne peut se reproduire... et que leurs copies se dégradent à chaque itération.}
+{148}{}{Merci.}
+{149}{}{Je peux demander autre chose ?}
+{150}{Vree30}{Je ne crois pas devoir te dire quoi que ce soit. Peut-être plus tard, si tu fais tes preuves pour la cause de la Confrérie. }
+{151}{Vree31}{Je suis à peu près sûre que tu n'es pas au bon endroit. Pars, je t'en prie, je suis très occupée.}
+{152}{Vree32}{Tu vas détruire le savoir qui peut sauver le monde !}
+{153}{}{Ouais, en commençant par toi.}
+{154}{}{Non. J'arrête ceux qui pourraient provoquer une autre guerre nucléaire.}
+{155}{Vree33}{Jamais ! La Confrérie veillera à ce que ça n'arrive plus jamais !}
+{156}{}{C'est ce qu'ils disent tous... sauf toi. Tu seras morte.}
+{157}{Vree34}{En quoi puis-je t'aider ?}
+{158}{}{J'ai des nouvelles importantes au sujet de Kedrick. C'est un traître.}
+{159}{}{Que ferais-tu s'il y avait de la corruption au sein de la Confrérie.}
+{160}{}{Nan. Nan-nan-nan !}
+{161}{Vree35}{Très bien. Je vois que les leçons ont porté leurs fruits.}
+{162}{Vree36}{Kedrick ? C'est un membre loyal de la Confrérie depuis toujours. Je doute que tu saches ce que ça veut dire.}
+{163}{}{Si, je sais. Kedrick est un traître et prépare un coup contre vos dirigeants.}
+{164}{}{Peut-être bien.}
+{165}{Vree37}{Tu en es sûr ? Peut-être devrions-nous aller parler au Haut Aîné.}
+{166}{Vree38}{Ne me fatigue pas avec des insinuations. Apporte des preuves au Haut Aîné, ou ne dis rien.}
+{167}{Vree39}{Fais ce qui doit être fait. Écrase l'hérésie et élimine les responsables de cette souillure.}
+{168}{}{Même si c'était un membre de confiance de la Confrérie.}
+{169}{}{Et qui s'en chargerait ?}
+{170}{Vree40}{Quand même. Mais il faudrait des preuves.}
+{171}{}{Kedrick est un traître. Il prépare l'assassinat des Aînés.}
+{172}{}{Je vais chercher les preuves.}
+{173}{Vree41}{Alors nous devons aller voir le Haut Aîné. Apporte tes preuves et nous irons lui parler.}
+{174}{Vree42}{Le Haut Aîné et Rhombus, bien sûr.}
+{175}{Vree43}{Tu as entendu parler de l'Initié disparu ? C'est terrible !}
+{176}{}{Je suis d'accord.}
+{177}{}{Nan-han.}
+{178}{Vree44}{Si tu peux l'aider, je t'en serai très reconnaissante.}
+{179}{Vree45}{Les bonnes actions méritent récompense. Pour avoir aidé l'Initié, prends ceci.}
+{180}{Vree46}{Oh, c'est toi. Que veux-tu ?}
+{181}{}{Je suis venu m'excuser.}
+{182}{}{Pardon, mauvaise pièce.}
+{183}{Vree47}{Merci pour tes excuses. }
+{184}{Vree47a}{Bonne journée.}
+{185}{Vree48}{Ça ressemble à un problème de fabrication. Nous ne faisons que la théorie et la conception. Demande à l'un des Chevaliers de t'aider.}
+{186}{}{Merci quand même.}
+{187}{}{Je peux demander autre chose ?}
+{188}{Vree200}{Parle à l'un des autres Scribes, je t'en prie. J'essaie de finir des rapports pour les autres Aînés.}
+{189}{Vree201}{Je ne sais rien là-dessus. Mais ça a l'air de mériter des recherches.}
+{190}{Vree202}{Désolée, ce n'est pas ma spécialité. Un autre Frère saura peut-être.}
+{191}{Vree203}{Gardes ! Gardes !}
+{192}{Vree204}{Tu as saccagé ma chambre !}
+{193}{Vree205}{Que crois-tu faire avec mes affaires ?}
+{194}{Vree300}{Qui ? Attends, ce nom me dit quelque chose. C'est peut-être un chef chez les mutants.}
+{195}{Vree301}{Je suppose que tu parles de la dernière guerre nucléaire. La Confrérie fait tout son possible pour restaurer ce qui a été perdu.}
+{196}{Vree302}{Ce sont des dispositifs de stockage à cristaux manufacturés, lisibles au laser, haute densité. Chacun contient plus de 4000 gigaoctets d'informations.}
+{197}{Vree303}{Le seul salut de cette planète torturée et de son peuple. Sans nous, l'humanité périra à coup sûr.}
+{198}{Vree304}{Je ne sais pas. Demande à la Fabrication.}
+{199}{Vree305}{Il veille à ce que la Confrérie reste sur le chemin de la droiture.}
+{200}{Vree306}{Il fait appliquer les volontés du Haut Aîné. Par la force, si nécessaire.}
+{300}{}{Intéressant.}
+{301}{}{D'accord, ça devrait suffire.}
+{302}{}{Ça devrait corriger le problème.}
+{303}{}{Bien.}
+{304}{}{Je savais que ça allait marcher.}
+{305}{}{C'était quoi, déjà, la formule ?}
+{306}{}{L'algorithme est faux, c'est impossible. L'ordinateur doit avoir un problème.}
+{307}{}{Nous y voilà.}
+{308}{}{D'accord, alors si on fait ça... oui, je pense que ça va marcher.}
+{400}{}{Tu peux utiliser ce terminal pour augmenter tes compétences en informatique.}
+{401}{}{La leçon se termine six heures plus tard. Tu te sens épuisé.}
+
+
+
+{980}{Vree200}{Parle à l'un des autres Scribes, je t'en prie. J'essaie de finir des rapports pour les autres Aînés.}
+
+
+#
+# Vree Tell-Me-Abouts
+#
+
+
+{1000}{}{Maître}
+{1001}{}{Guerre}
+{1002}{}{disques}
+{1003}{}{Confrérie}
+{1004}{}{Puce}
+{1005}{}{Aîné}
+{1006}{}{Rhombus}
+{1007}{}{Exode}
+{1008}{}{Armée}
+{1009}{}{Marchands}
+{1010}{}{Caravanes}
+{1011}{}{Hub}
+{1012}{}{Cathédrale}
+{1013}{}{Initiés}
+{1014}{}{Scribes}
+{1015}{}{Chevaliers}
+{1016}{}{Paladins}
+{1017}{}{Holodisque}
+{1018}{}{Holo-disque}
+{1019}{}{Holo-disc}
+{1020}{}{Holodisc}
+{1021}{}{Holo}
+
+
+{1100}{Vree300}{Qui ? Attends, ce nom me dit quelque chose. C'est peut-être un chef chez les mutants.}
+{1101}{Vree301}{Je suppose que tu parles de la dernière guerre nucléaire. La Confrérie fait tout son possible pour restaurer ce qui a été perdu.}
+{1102}{Vree302}{Ce sont des dispositifs de stockage à cristaux manufacturés, lisibles au laser, haute densité. Chacun contient plus de 4000 gigaoctets d'informations.}
+{1103}{Vree303}{Le seul salut de cette planète torturée et de son peuple. Sans nous, l'humanité périra à coup sûr.}
+{1104}{Vree304}{Je ne sais pas. Demande à la Fabrication.}
+{1105}{Vree305}{Il veille à ce que la Confrérie reste sur le chemin de la droiture.}
+{1106}{Vree306}{Il fait appliquer les volontés du Haut Aîné. Par la force, si nécessaire.}
+{1107}{Vree200}{Parle à l'un des autres Scribes, je t'en prie. J'essaie de finir des rapports pour les autres Aînés.}
+{1108}{Vree201}{Je ne sais rien là-dessus. Mais ça a l'air de mériter des recherches.}
+{1109}{Vree200}{Parle à l'un des autres Scribes, je t'en prie. J'essaie de finir des rapports pour les autres Aînés.}
+{1110}{Vree201}{Je ne sais rien là-dessus. Mais ça a l'air de mériter des recherches.}
+{1111}{Vree200}{Parle à l'un des autres Scribes, je t'en prie. J'essaie de finir des rapports pour les autres Aînés.}
+{1112}{Vree200}{Parle à l'un des autres Scribes, je t'en prie. J'essaie de finir des rapports pour les autres Aînés.}
+{1113}{Vree200}{Parle à l'un des autres Scribes, je t'en prie. J'essaie de finir des rapports pour les autres Aînés.}
+{1114}{Vree200}{Parle à l'un des autres Scribes, je t'en prie. J'essaie de finir des rapports pour les autres Aînés.}
+{1115}{Vree200}{Parle à l'un des autres Scribes, je t'en prie. J'essaie de finir des rapports pour les autres Aînés.}
+{1116}{Vree200}{Parle à l'un des autres Scribes, je t'en prie. J'essaie de finir des rapports pour les autres Aînés.}
+{1117}{Vree302}{Ce sont des dispositifs de stockage à cristaux manufacturés, lisibles au laser, haute densité. Chacun contient plus de 4000 gigaoctets d'informations.}
+{1118}{Vree302}{Ce sont des dispositifs de stockage à cristaux manufacturés, lisibles au laser, haute densité. Chacun contient plus de 4000 gigaoctets d'informations.}
+{1119}{Vree302}{Ce sont des dispositifs de stockage à cristaux manufacturés, lisibles au laser, haute densité. Chacun contient plus de 4000 gigaoctets d'informations.}
+{1120}{Vree302}{Ce sont des dispositifs de stockage à cristaux manufacturés, lisibles au laser, haute densité. Chacun contient plus de 4000 gigaoctets d'informations.}
+{1121}{Vree302}{Ce sont des dispositifs de stockage à cristaux manufacturés, lisibles au laser, haute densité. Chacun contient plus de 4000 gigaoctets d'informations.}
+
