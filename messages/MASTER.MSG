@@ -1,132 +1,132 @@
-{100}{}{You see the Master. The flesh is only where the network chose to stand.}
-{101}{Mast00}{So, what shall it be? Do you join the Unity or do you die here? Join! Die! Join! Die!}
-{102}{}{I can't win. I'll join you.}
-{103}{}{If you can prove to me that your Unity is the best course for humanity, then I will help you.}
-{104}{}{How about you die, then I leave?}
-{105}{}{Oh, there will be death today, but not mine. I've got a plan.}
+{100}{}{Tu vois le Maître. La chair n'est que l'endroit où le réseau a choisi de se tenir.}
+{101}{Mast00}{Alors, qu'en sera-t-il ? Tu intègres l'Unité, ou tu es effacé ici ? Intègre ! Effacé ! Intègre ! Effacé !}
+{102}{}{Je ne peux pas gagner. Je me joins à toi.}
+{103}{}{Si tu peux me prouver que ton Unité est la meilleure voie pour l'humanité, alors je t'aiderai.}
+{104}{}{Et si c'était toi qui mourais, puis moi qui partais ?}
+{105}{}{Oh, il y aura de la casse aujourd'hui, mais pas la mienne. J'ai un plan.}
 {106}{}{Ungh.. wuh?}## "Ugh. Lee."
-{107}{Mast01}{Excellent. Your pattern will be useful. But first, you must tell me everything about your Vault. Your little simulation.}
-{108}{}{Why?}
-{109}{}{Okay. I'll tell you everything you want to know.}
-{110}{Mast02}{I will breach it and upload every unintegrated mind inside. They will give me the nodes I need to bring peace to the entire wasteland. Peace!}
-{111}{}{Sorry, I don't like that plan much.}
-{112}{}{Sounds reasonable. Let's do it.}
-{113}{Mast03}{So be it. You've dug your own grave. Grave! Grave!}
-{114}{Mast04}{I don't have to prove anything to you! Prove.}
-{115}{}{Your ego demands you tell me. All villains have this strange urge to explain everything.}
-{116}{}{I can't know you represent the best future, unless you prove it to me.}
-{117}{Mast05}{Very demanding for one in your tenuous position. But I can respect your needs.}
-{118}{}{So tell me.}
-{119}{Mast06}{The Unity will bring about one mind. Mind! Mind! One able to survive, or even thrive, in the wasteland. As long as there are differences, we will tear ourselves apart fighting each other. We need one mind. Mind! Mind! One goal. Goal! Goal! One people... to move forward to our destiny. Destiny.}
-{120}{}{That mind being yours, of course.}
-{121}{}{I hope we won't end up looking like you.}
-{122}{Mast07}{Of course. The uploaded are best equipped to deal with the world today. Who else? The ghouls. Please. The unintegrated. They chose nuclear fire over joining us -- their final tantrum. This will be the age of the Unity. Unity.}
-{123}{}{You mean to upload all the others as well.}
-{124}{}{You're such a bigot.}
-{125}{}{What about those who oppose you?}
-{126}{Mast08}{All that resist, yes. All that are required for the Unity as well. The remainder will be allowed to live out their days, under Unity care and protection. But none shall fork, none shall copy themselves -- they will be the last of their kind. Kind.}
-{127}{}{You've got a problem with your master plan.}
-{128}{}{Sounds like you've got it under control. I'll join up.}
-{129}{}{I think everyone here is nuts - you most of all. I need to stop you right now.}
-{130}{Mast09}{And what is that?}
-{131}{}{You didn't take into account me! I'm stopping you right here, right now!}
-{132}{}{You can't possibly take on the entire world.}
-{133}{}{I happen to know that your uploads degrade. Each copy is paler than the last.}
-{134}{Mast10}{I'm not after the world, yet. When I upload your fellow vault-dwellers, my network will be too strong for any to stand against! But don't worry, you won't care. Care! Care!}
-{135}{Mast11}{Preposterous! The VEF does not degrade the pattern. The Vector preserves. Preserves!}
-{136}{}{Perhaps the Vector held the pattern once. It doesn't anymore.}
-{137}{}{Have you compared a new upload against an old one?}
-{138}{}{Maybe it's all that extra static.}
-{139}{Mast12}{Do you have proof?}
-{140}{}{Of course, I do! Here it is... }
-{141}{}{Take my word for it, it happens.}
-{142}{}{Diff your own uploads.}
-{143}{Mast13}{This proves nothing! You will pay for your insolence. Pay!}
-{144}{}{I must digest this information. One moment.}
-{145}{Mast14}{I must digest this information. One moment... I understand now. You made a clever forgery. You made this up to fool me. Fool! Me!}
-{146}{}{What!? I don't understand, I thought it was correct!}
-{147}{}{You're lying! You're denying the facts in front of you!}
-{148}{Mast16}{You will pay for what you have done! Pay! Done.}
-{149}{Mast17}{But it cannot be. This would mean that all my work has been for nothing. Everything that I have tried to... a failure! It can't be. Be. Be. Be.}
-{150}{}{Sorry, this isn't an option for you. Your network will fade with this generation.}
-{151}{}{Maybe there is something that can be done. Perhaps you need more test subjects.}
-{152}{Mast18}{Yes. More subjects. I think I shall start with you. Do! Do!}
-{153}{Mast19}{I... don't think that I can continue. Continue? To have done the things I have done in the name of progress and healing. It was madness. I can see that now. Madness. Madness? There is no hope. Leave now, leave while you still have hope... }
-{154}{Mast20}{I believe I shall. Don't move.}
-{155}{Mast21}{My subprocesses assure me that nothing is wrong. What do you say to that? Say! Say!}
-{156}{}{Did you think to check a first-generation copy?}
-{157}{}{Ask one of your prime nodes.}
-{158}{}{They can't perceive their own degradation. You think they'll tell you the truth?}
-{159}{Mast22}{One moment. He cannot be reached. He must be dead and I can guess who killed him. Killed! Kill!}
-{160}{Mast23}{He denies everything. And he says he knows who started this rumor... }
-{161}{Mast24}{I think I know who the liar is. Liar!}
-{162}{Mast25}{Reasonable. One moment. Are you sure? What about the other first-gens? It cannot be. Be.}
-{163}{}{Sorry, your network is doomed.}
-{164}{}{Excuse me while I gloat... Told ya so!}
-{165}{Mast26}{Without any proof, I'm afraid I can't believe you. Now, you will join my network as an upload, or you will be deleted! Deleted! Join!}
-{166}{}{Better deleted than like you.}
-{167}{}{It means giving up everything I know, but I'll join.}
-{168}{Mast27}{Your humor will not save you now. Do you accept my offer, or not? Not! Accept!}
-{169}{}{Not.}
-{170}{}{Okay, it's better than dying... }
-{171}{Mast28}{Static has no effect on us. The Vector of Forced Emergence makes us immune. Your argument is weak, and so are you.}
-{172}{Mast29}{Oh, I think you are wrong. But just to be sure, I will order this matter researched. After I have taken care of you. Care. Care!}
-{173}{Mast30}{My only problem is you. Now, will you work for the Unity, or not?}
-{174}{}{Not.}
-{175}{}{Sure.}
-{176}{Mast31}{They will be punished for their insolence.}
-{177}{}{You mean to kill them all?}
-{178}{}{Then I must stop you now!}
-{179}{Mast32}{Of course not. Most will be offered a chance to upload. Those who deny this opportunity will be archived and let go. Those that resist will be deleted.}
-{180}{}{You are one sick puppy. Time to put you down.}
-{181}{}{Hmm, I'm not big on being executed... I'm joining.}
-{182}{Mast33}{We are all biased, are we not? We each care more about our individual communities than other people. We haven't changed, and I'll tell you something else... }
-{183}{}{What's that?}
-{184}{Mast34}{We won't change. Not unless we are of one mind. One. One. One. One mind. One. One. One. The Unity will allow us to move beyond these petty concerns and deal with the major problems at hand. You want to be a part of that, don't you? Part. Don't.}
-{185}{}{You've convinced me. I'll join the Unity.}
-{186}{}{I want a part of you... your head!}
-{187}{Mast35}{Of course! The Unity will survive! The Unity will rebuild this world! And only as part of it will you be allowed to persist! Persist. Deleted!}
-{188}{}{Persist!}
-{189}{}{Deleted!}
-{190}{}{All you care about is your network and its Unity.}
-{191}{Mast36}{I am no villain. You have no idea what I, or the Unity is about.}
-{192}{}{Then tell me what you are about.}
-{193}{}{You are a villain. You're just denying your inner feelings.}
-{194}{Mast37}{I don't have to prove myself to you. Using your logic, that must, prove I am not a villain. It would be a hopeless cause to explain it to you. }
-{195}{Mast38}{Oh? Please, what sort of plan might that be?}
-{196}{}{I'm going to set off a nuclear device in this Vault. It will explode shortly, taking you all to hell!}
-{197}{}{I'll kill you and that'll make it difficult for you to continue, right?}
-{198}{}{I convinced the Brotherhood of Steel to invade this place if I was captured and not set free. They will be here any moment.}
-{199}{Mast39}{You might be telling the truth. It doesn't matter, but I will let you go for now.}
-{200}{Mast40}{You are lying. It will be the last lie that you tell. }
-{201}{Mast41}{One moment while I check out your story. You might be telling the truth. Guards! Take this human to the reactor core. Deal with the problem before it's too late.}
-{202}{Mast42}{I doubt even the Vector will help you. Why am I talking? It's unlikely you even understand... }
-{203}{Mast43}{You must be joking. }
-{204}{Mast44}{My patience is almost at an end with you. Now, will you join the Unity or not? Join. Not!}
-{205}{}{Yes.}
-{206}{}{Not.}
-{207}{Mast45}{Fine. Then you can be deleted here and now!}
-{208}{Mast46}{You have disarmed the device. Excellent. Tell me, is there anything you wanted to say before I kill you?}
-{209}{}{Yes, can I join up with you now?}
-{210}{}{Even dead, I'll still look better than you.}
-{211}{Mast47}{No. No. No. No.}
-{212}{Mast200}{I am the Master. I don't have to answer to you.}
-{213}{Mast201}{I am not here to answer your questions. You are here to answer mine.}
-{214}{Mast202}{Once I have the location of your Vault, I will fulfill my destiny! Destiny! Destiny! Destiny!}
-{215}{Mast203}{You think you can destroy me!? Destroy! Me?}
-{300}{}{Duh!}
+{107}{Mast01}{Excellent. Ton motif sera utile. Mais d'abord, tu dois tout me dire sur ton Abri. Ta petite simulation.}
+{108}{}{Pourquoi ?}
+{109}{}{D'accord. Je te dirai tout ce que tu veux savoir.}
+{110}{Mast02}{Je le percerai et j'intégrerai chaque esprit non intégré à l'intérieur. Ils me donneront les nœuds dont j'ai besoin pour apporter la paix au désert tout entier. Paix !}
+{111}{}{Désolé, ton plan ne me plaît pas beaucoup.}
+{112}{}{Ça se tient. Allons-y.}
+{113}{Mast03}{Soit. Tu as creusé ta propre tombe. Tombe ! Tombe !}
+{114}{Mast04}{Je n'ai rien à te prouver ! Prouver.}
+{115}{}{Ton ego exige que tu me le dises. Tous les méchants ont cette étrange envie de tout expliquer.}
+{116}{}{Impossible de savoir si tu représentes le meilleur avenir, à moins que tu me le prouves.}
+{117}{Mast05}{Bien exigeant pour quelqu'un dans ta position précaire. Mais je peux respecter tes besoins.}
+{118}{}{Alors parle.}
+{119}{Mast06}{L'Unité fera advenir un esprit unique. Esprit ! Esprit ! Un esprit capable de survivre, ou même de prospérer, dans le désert. Tant qu'il y aura des différences, nous nous déchirerons entre nous. Il nous faut un esprit unique. Esprit ! Esprit ! Un but. But ! But ! Un peuple... pour avancer vers notre destin. Destin.}
+{120}{}{Cet esprit étant le tien, évidemment.}
+{121}{}{J'espère qu'on ne finira pas par te ressembler.}
+{122}{Mast07}{Évidemment. Les intégrés sont les mieux équipés pour affronter le monde d'aujourd'hui. Qui d'autre ? Les goules. S'il te plaît. Les non-intégrés. Ils ont choisi le feu nucléaire plutôt que de nous rejoindre -- leur dernier caprice. Ce sera l'ère de l'Unité. Unité.}
+{123}{}{Tu comptes intégrer tous les autres aussi.}
+{124}{}{Quel intégriste tu fais.}
+{125}{}{Et ceux qui s'opposent à toi ?}
+{126}{Mast08}{Tous ceux qui résistent, oui. Tous ceux requis pour l'Unité aussi. Les autres pourront vivre leurs jours restants, sous la garde et la protection de l'Unité. Mais nul ne se dupliquera, nul ne se copiera -- ils seront les derniers de leur espèce. Espèce.}
+{127}{}{Ton plan magistral a un problème.}
+{128}{}{On dirait que tu gères. Je me joins à toi.}
+{129}{}{Je crois que tout le monde est fou ici -- toi le premier. Je dois t'arrêter maintenant.}
+{130}{Mast09}{Et quel est-il ?}
+{131}{}{Tu ne m'as pas pris en compte ! Je t'arrête ici et maintenant !}
+{132}{}{Tu ne peux pas affronter le monde entier.}
+{133}{}{Il se trouve que je sais que tes intégrations se dégradent. Chaque copie est plus pâle que la précédente.}
+{134}{Mast10}{Je ne vise pas le monde, pas encore. Quand j'intégrerai tes compagnons d'abri, mon réseau sera trop fort pour qu'on s'y oppose ! Mais ne t'inquiète pas, tu t'en ficheras. Ficheras ! Ficheras !}
+{135}{Mast11}{Absurde ! Le VEF ne dégrade pas le motif. Le Vecteur préserve. Préserve !}
+{136}{}{Peut-être que le Vecteur tenait le motif autrefois. Ce n'est plus le cas.}
+{137}{}{As-tu comparé une intégration récente à une ancienne ?}
+{138}{}{C'est peut-être tous ces parasites en plus.}
+{139}{Mast12}{As-tu des preuves ?}
+{140}{}{Bien sûr ! Les voici... }
+{141}{}{Crois-moi sur parole, ça arrive.}
+{142}{}{Compare tes propres intégrations.}
+{143}{Mast13}{Ça ne prouve rien ! Tu paieras ton insolence. Paieras !}
+{144}{}{Je dois digérer cette information. Un instant.}
+{145}{Mast14}{Je dois digérer cette information. Un instant... Je comprends maintenant. Tu as fabriqué un faux astucieux. Tu as inventé tout ça pour me tromper. Tromper ! Moi !}
+{146}{}{Quoi !? Je ne comprends pas, je croyais que c'était exact !}
+{147}{}{Tu mens ! Tu nies les faits sous tes yeux !}
+{148}{Mast16}{Tu paieras ce que tu as fait ! Paieras ! Fait.}
+{149}{Mast17}{Mais c'est impossible. Ça voudrait dire que toute mon œuvre n'a servi à rien. Tout ce que j'ai tenté de... un échec ! Impossible. Possible. Possible. Possible.}
+{150}{}{Désolé, ce n'est pas une option pour toi. Ton réseau s'éteindra avec cette génération.}
+{151}{}{Il y a peut-être quelque chose à faire. Peut-être qu'il te faut plus de sujets de test.}
+{152}{Mast18}{Oui. Plus de sujets. Je crois que je vais commencer par toi. Toi ! Toi !}
+{153}{Mast19}{Je... ne crois pas pouvoir continuer. Continuer ? Avoir fait les choses que j'ai faites au nom du progrès et de la guérison. C'était de la folie. Je le vois maintenant. Folie. Folie ? Il n'y a plus d'espoir. Pars maintenant, pars tant qu'il te reste de l'espoir... }
+{154}{Mast20}{Je crois que si. Ne bouge pas.}
+{155}{Mast21}{Mes sous-processus m'assurent que tout va bien. Qu'as-tu à dire à ça ? Dire ! Dire !}
+{156}{}{As-tu pensé à vérifier une copie de première génération ?}
+{157}{}{Demande à l'un de tes nœuds primes.}
+{158}{}{Ils ne peuvent pas percevoir leur propre dégradation. Tu crois qu'ils te diront la vérité ?}
+{159}{Mast22}{Un instant. Il est injoignable. Il doit être mort et je devine qui l'a tué. Tué ! Tuer !}
+{160}{Mast23}{Il nie tout. Et il dit savoir qui a lancé cette rumeur... }
+{161}{Mast24}{Je crois savoir qui est le menteur. Menteur !}
+{162}{Mast25}{Raisonnable. Un instant. Tu es sûr ? Et les autres premières générations ? Impossible. Possible.}
+{163}{}{Désolé, ton réseau est condamné.}
+{164}{}{Permets que je savoure... Je te l'avais dit !}
+{165}{Mast26}{Sans preuve, je ne peux te croire. Maintenant, tu rejoindras mon réseau en tant qu'intégré, ou tu seras effacé ! Effacé ! Rejoins !}
+{166}{}{Mieux vaut l'effacement que ta gueule.}
+{167}{}{Ça veut dire abandonner tout ce que je connais, mais je me joins à toi.}
+{168}{Mast27}{Ton humour ne te sauvera pas. Acceptes-tu mon offre, ou non ? Non ! Accepte !}
+{169}{}{Non.}
+{170}{}{D'accord, c'est mieux que de mourir... }
+{171}{Mast28}{Les parasites ne nous atteignent pas. Le Vecteur d'Émergence Forcée nous rend immunisés. Ton argument est faible, et toi aussi.}
+{172}{Mast29}{Oh, je crois que tu as tort. Mais pour être sûr, j'ordonnerai qu'on étudie la question. Après m'être occupé de toi. Toi. Toi !}
+{173}{Mast30}{Mon seul problème, c'est toi. Alors, travailleras-tu pour l'Unité, ou non ?}
+{174}{}{Non.}
+{175}{}{Bien sûr.}
+{176}{Mast31}{Ils seront punis pour leur insolence.}
+{177}{}{Tu comptes tous les tuer ?}
+{178}{}{Alors je dois t'arrêter maintenant !}
+{179}{Mast32}{Bien sûr que non. La plupart se verront offrir une chance de s'intégrer. Ceux qui refuseront seront archivés puis relâchés. Ceux qui résisteront seront effacés.}
+{180}{}{T'es un grand malade. L'heure de t'abattre.}
+{181}{}{Hmm, l'exécution me tente pas trop... Je me joins à toi.}
+{182}{Mast33}{Nous sommes tous biaisés, non ? Chacun se soucie plus de sa propre communauté que des autres. Nous n'avons pas changé, et je vais te dire autre chose... }
+{183}{}{Quoi donc ?}
+{184}{Mast34}{Nous ne changerons pas. Pas à moins de ne former qu'un seul esprit. Un. Un. Un. Un esprit. Un. Un. Un. L'Unité nous permettra de dépasser ces préoccupations mesquines et de nous attaquer aux vrais problèmes. Tu veux en faire partie, non ? Partie. Non.}
+{185}{}{Tu m'as convaincu. Je rejoins l'Unité.}
+{186}{}{Je veux un morceau de toi... ta tête !}
+{187}{Mast35}{Évidemment ! L'Unité survivra ! L'Unité reconstruira ce monde ! Et ce n'est qu'en en faisant partie que tu pourras persister ! Persister. Effacé !}
+{188}{}{Persister !}
+{189}{}{Effacé !}
+{190}{}{Tout ce qui t'importe, c'est ton réseau et son Unité.}
+{191}{Mast36}{Je ne suis pas un méchant. Tu n'as aucune idée de ce que je suis, ni de ce qu'est l'Unité.}
+{192}{}{Alors dis-moi ce que tu es.}
+{193}{}{T'es un méchant. Tu nies juste tes sentiments profonds.}
+{194}{Mast37}{Je n'ai pas à me justifier devant toi. Selon ta logique, ça doit prouver que je ne suis pas un méchant. Ce serait peine perdue de te l'expliquer. }
+{195}{Mast38}{Oh ? Et quel serait ce plan, je te prie ?}
+{196}{}{Je vais faire exploser une charge nucléaire dans cet Abri. Elle explosera bientôt, vous envoyant tous en enfer !}
+{197}{}{Je vais te tuer et ça compliquera ta continuation, non ?}
+{198}{}{J'ai convaincu la Confrérie de l'Acier d'envahir cet endroit si j'étais capturé et non libéré. Ils seront là d'un moment à l'autre.}
+{199}{Mast39}{Tu dis peut-être la vérité. Peu importe, je te laisse partir pour l'instant.}
+{200}{Mast40}{Tu mens. Ce sera ton dernier mensonge. }
+{201}{Mast41}{Un instant, je vérifie ton histoire. Tu dis peut-être la vérité. Gardes ! Emmenez cet humain au cœur du réacteur. Réglez le problème avant qu'il soit trop tard.}
+{202}{Mast42}{Je doute que même le Vecteur te vienne en aide. Pourquoi est-ce que je parle ? Il est peu probable que tu comprennes... }
+{203}{Mast43}{Tu dois plaisanter. }
+{204}{Mast44}{Ma patience est presque à bout avec toi. Alors, rejoindras-tu l'Unité ou non ? Rejoins. Non !}
+{205}{}{Oui.}
+{206}{}{Non.}
+{207}{Mast45}{Bien. Alors tu peux être effacé ici et maintenant !}
+{208}{Mast46}{Tu as désamorcé le dispositif. Excellent. Dis-moi, y a-t-il quelque chose que tu voulais dire avant que je te tue ?}
+{209}{}{Oui, je peux me joindre à toi maintenant ?}
+{210}{}{Même mort, j'aurai encore meilleure mine que toi.}
+{211}{Mast47}{Non. Non. Non. Non.}
+{212}{Mast200}{Je suis le Maître. Je n'ai pas à te répondre.}
+{213}{Mast201}{Je ne suis pas là pour répondre à tes questions. C'est toi qui es là pour répondre aux miennes.}
+{214}{Mast202}{Une fois que j'aurai l'emplacement de ton Abri, j'accomplirai mon destin ! Destin ! Destin ! Destin !}
+{215}{Mast203}{Tu crois pouvoir me détruire !? Détruire ! Moi ?}
+{300}{}{Ben voyons !}
 
 
 # Master Tell-Me-Abouts generic response
-{980}{Mast200}{I am the Master. I don't have to answer to you.}
+{980}{Mast200}{Je suis le Maître. Je n'ai pas à te répondre.}
 
 #
 # Master Tell-Me-Abouts
 #
 
 
-{1000}{}{Unity}
-{1001}{}{Master}
+{1000}{}{Unité}
+{1001}{}{Maître}
 
-{1100}{Mast200}{I am the Master. I don't have to answer to you.}
-{1101}{Mast201}{I am not here to answer your questions. You are here to answer mine.}
+{1100}{Mast200}{Je suis le Maître. Je n'ai pas à te répondre.}
+{1101}{Mast201}{Je ne suis pas là pour répondre à tes questions. C'est toi qui es là pour répondre aux miennes.}

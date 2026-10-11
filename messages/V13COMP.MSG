@@ -1,37 +1,37 @@
-{100}{}{You use the pod hatch terminal. The terminal does not accept your access code.}
-{101}{}{You use the pod hatch terminal. A speaker crackles to life.}
-{102}{}{Sorry, but we can't let you back in right now. Uh, technical problems. Try again later.}
-{103}{}{You see the Vault 13 pod hatch terminal.}
+{100}{}{Tu utilises le terminal du sas du pod. Le terminal n'accepte pas ton code d'accès.}
+{101}{}{Tu utilises le terminal du sas du pod. Un haut-parleur grésille.}
+{102}{}{Désolé, on ne peut pas te laisser rentrer pour l'instant. Euh, problèmes techniques. Réessaie plus tard.}
+{103}{}{Tu vois le terminal du sas du pod de l'Abri 13.}
 #
 # Cast out:
 #
-{104}{}{We are grateful to you for saving us, but we can't let you in.}
-{105}{}{We're sorry, but you can't come back. We wish you the best.}
-{106}{}{The Overseer has spoken; you must leave.}
-{107}{}{Look, many of us are outraged with the Overseer's decision, but we must comply with his wishes.}
-{108}{}{You must make your life out there from now on. Good luck, friend.}
+{104}{}{Nous te sommes reconnaissants de nous avoir sauvés, mais on ne peut pas te laisser entrer.}
+{105}{}{On est désolés, mais tu ne peux pas revenir. On te souhaite le meilleur.}
+{106}{}{Le Superviseur a parlé ; tu dois partir.}
+{107}{}{Écoute, beaucoup d'entre nous sont outrés par la décision du Superviseur, mais nous devons nous y plier.}
+{108}{}{Tu dois refaire ta vie dehors désormais. Bonne chance, l'ami.}
 #
 # Killed Overseer:
 #
-{109}{}{You are a danger to the future of this Vault; leave at once.}
-{110}{}{You are not welcome here. Leave.}
-{111}{}{We won't allow murderers in the Vault. Go away!}
-{112}{}{We are afraid of what you have become and what you may do to us. Leave.}
-{113}{}{After what you did to the Overseer, you think we'll let you back?}
-{114}{}{How could you betray us like this?!}
-{115}{}{Go away, you maniac.}
+{109}{}{Tu es un danger pour l'avenir de cet Abri ; pars sur-le-champ.}
+{110}{}{Tu n'es pas le bienvenu ici. Pars.}
+{111}{}{On ne laissera pas les meurtriers entrer dans l'Abri. Va-t'en !}
+{112}{}{Nous avons peur de ce que tu es devenu et de ce que tu pourrais nous faire. Pars.}
+{113}{}{Après ce que tu as fait au Superviseur, tu crois qu'on va te laisser revenir ?}
+{114}{}{Comment as-tu pu nous trahir comme ça ?!}
+{115}{}{Va-t'en, espèce de fou.}
 #
 #
 # Fallout Fixt:
 #
 #
-{116}{}{The terminal explodes in a spectacular shower of sparks and wiring, short-circuiting the entire configuration.}
-{117}{}{You see the destroyed Vault 13 pod hatch terminal.}
-{118}{}{It's a total mess and completely beyond repair.}
+{116}{}{Le terminal explose dans une gerbe spectaculaire d'étincelles et de câbles, court-circuitant toute la configuration.}
+{117}{}{Tu vois le terminal détruit du sas du pod de l'Abri 13.}
+{118}{}{C'est un désastre total, irréparable.}
 #Spaces at beginning of 119 and 120 and end of 121/122 are intentional
-{119}{}{ The hatch will never close again.}
-{120}{}{ The hatch will never open again.}
-{121}{}{Direct hit! }
-{122}{}{Uh-oh! }
-{123}{}{The terminal is unusable.}
-{124}{}{With the hatch forever sealed shut and no replacement Water Chip, the inhabitants of Vault 13 will soon discover that their pod has become a tomb.}
+{119}{}{ Le sas ne se refermera jamais.}
+{120}{}{ Le sas ne s'ouvrira jamais.}
+{121}{}{En plein dans le mille ! }
+{122}{}{Oups ! }
+{123}{}{Le terminal est inutilisable.}
+{124}{}{Avec le sas scellé à jamais et sans Puce d'eau de rechange, les habitants de l'Abri 13 découvriront bientôt que leur pod est devenu un tombeau.}
