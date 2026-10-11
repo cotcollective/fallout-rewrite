@@ -1,0 +1,238 @@
+{100}{}{Tu vois un homme en armure de cuir poussiéreuse, avec un trench-coat et un masque à gaz.}
+{101}{}{Tu vois : Tycho, le Ranger du désert.}
+{102}{}{Encore un nouveau visage. Les voyageurs ici, c'est pas ce qui manque. Mais vous avez l'air différent. Ça vous dirait de prendre un verre avec moi ?}
+{103}{}{Désolé, je suis plutôt pressé.}
+{104}{}{Bien sûr.}
+{105}{}{Hein ?}
+{106}{}{Charmant. J'espère que ça ne vous dérange pas que votre verre soit bien allongé ; ici ils traitent la bière comme si c'était une plante verte.}
+{107}{}{Alors, c'est quoi votre histoire ?}
+{108}{}{Ouais, un verre d'eau. Laissez tomber.}
+{109}{}{Je pourrais vous retourner la question. Par amitié, je suppose que je vais commencer. On m'appelle Tycho. Je viens de l'est, de ce qu'on appelait autrefois le Nevada.}
+{110}{}{C'est un sacré voyage.}
+{111}{}{Comment avez-vous survécu à tous les dangers ?}
+{112}{}{Ouais, c'était long. J'ai décidé de lever le pied un moment. Cet endroit a du potentiel, dès que quelqu'un aura nettoyé la racaille.}
+{113}{}{Pourquoi pas vous ?}
+{114}{}{Ouais, j'ai remarqué. Qu'est-ce que vous savez sur ces crétins ?}
+{115}{}{J'ai eu une plutôt bonne formation, et de bonnes armes aussi. Mon grand-père était Ranger il y a bien longtemps, et il a tout appris à mon père. Papa me l'a transmis. Donc j'en sais assez pour ne pas boire d'eau qui brille, pour ainsi dire.}
+{116}{}{Intéressant. Merci pour le verre.}
+{117}{}{Vraiment ? La survie est dure ces temps-ci. Vous devez être sacrément calé.}
+{118}{}{Pas mon rôle. Je préfère ne pas me mettre Killian à dos, après tout. Il nettoiera cette ville quand il s'y mettra. Un homme bien, retenez mes mots. Mais méfiez-vous de ce type, Gizmo. Il me rappelle un autre gros porc dont mon père me parlait, à Las Vegas.}
+{119}{}{Merci pour le tuyau, et pour le verre.}
+{120}{}{Y'a deux catégories de racailles ici. Y'a les Skulz, un gang qui traîne derrière le dortoir de Marcelles. C'est juste des petits minables. Mais les autres répondent à un gros porc dont vous devinez probablement le nom. Il tient le casino. Ces types-là sont organisés et dangereux.}
+{121}{}{Je vois. Merci pour les infos.}
+{122}{}{Ouais, enfin, ma famille m'a appris tout ce qu'il faut savoir sur la survie. Ne buvez pas d'eau totalement claire et sans insectes ni mousse, par exemple. Seule une eau empoisonnée ou radioactive serait aussi propre dans la nature. Y'a plein d'autres petits trucs à surveiller aussi.}
+{123}{}{Comme quoi ?}
+{124}{}{Eh bien, si vous avez un moment, je pourrais vous donner quelques conseils.}
+{125}{}{Bien sûr, ce serait super.}
+{126}{}{Désolé, je suis un peu pressé.}
+{127}{}{Hé, pas si vite. On n'a jamais fini les présentations, vous vous souvenez ? C'est quoi votre nom, l'étranger ?}
+{128}{}{Je suis }
+{129}{}{.}
+{130}{}{Ça vous regarde pas, espèce de dingue.}
+{131}{}{Enchanté. Marchez prudemment, l'ami.}
+{132}{}{Allons, allons, pas besoin d'être impoli. Mais avec cette attitude, vous feriez mieux de passer votre chemin.}
+{133}{}{Va te faire voir.}
+{134}{}{Peu importe. Salut.}
+{135}{}{Qu'est-ce que vous voulez ?}
+{136}{}{Désolé de déranger votre moment privé. Allez vous branler ailleurs.}
+{137}{}{J'ai besoin d'infos sur les gangs d'ici.}
+{138}{}{J'ai besoin d'infos sur la ville.}
+{139}{}{Rebonjour. Comment puis-je vous aider ?}
+{140}{}{Killian m'a demandé de nettoyer cette ville, et j'aimerais votre aide.}
+{141}{}{Eh bien, ici c'est le Skum Pitt, un repaire misérable de crapules et tout le reste. Juste à l'ouest y'a le Gizmo's, un grand casino. On dit que les jeux sont truqués. Un peu au sud y'a le dortoir, tenu par Marcelles, où on peut dormir une nuit pour bien trop de capsules. Après ça y'a chez Killian. Killian tient un magasin général, et il fait aussi respecter la loi dans cette ville -- un homme bien. Puis au sud y'a Doc Morbid, dont l'activité est un peu louche, si vous voyez ce que je veux dire.}
+{142}{}{J'espère que mon petit cours vous aura un peu aidé.}
+{143}{}{}
+{144}{}{Le bruit court que vous avez eu des contacts avec Gizmo. Je ferais attention autour de ce tonneau de saindoux si j'étais vous.}
+{145}{}{Mes affaires ne vous regardent pas.}
+{146}{}{Ouais, je bosse pour Gizmo maintenant. Ça vous fait quoi ?}
+{147}{}{Soit, mais surveillez vos arrières. Gizmo n'est pas connu pour ses égards envers ses employés.}
+{148}{}{Disons que votre employeur a causé bien assez de misère et de conflits dans cette ville. N'attendez pas beaucoup d'aide de qui que ce soit, et surtout pas de Gizmo. Dommage. Vous auriez pu changer cette ville en mieux.}
+{149}{}{Que puis-je faire pour vous ?}
+{150}{}{Des recommandations ?}
+{151}{}{Merci pour votre aide. Je crois qu'il est temps de se séparer.}
+{152}{}{Ouais, je resterais loin de ce qui a fait ça. Sérieusement, j'ai jamais rien vu de tel. Je crois que notre meilleure option c'est de bouger, vite.}
+{153}{}{Très bien. Je dois dire que ce fut un honneur et un plaisir.}
+{154}{}{Attention aux points chauds radioactifs. Cet endroit a visiblement subi une frappe nucléaire directe, et les radiations secondaires en cascade peuvent être mauvaises. Je recommanderais d'éviter complètement cet endroit si on peut.}
+{155}{}{Notez l'absence de toute vie animale sur une bonne distance. Et les piles d'os. Quoi que ce soit qui vit ici, c'est une vraie bête. Gardez votre arme à portée de main.}
+{156}{}{Un endroit militaire comme celui-ci doit bien avoir une salle de commandement centrale quelque part.}
+{157}{}{Je parie qu'on pourrait passer ces générateurs de champ de force avec un peu de bidouillage, ou si on trouvait l'ordinateur de contrôle du champ de force.}
+{158}{}{Y'a beaucoup d'histoires étranges sur Nécropolis, la ville des morts. Restez alerte, parce que ça pourrait devenir dangereux très vite.}
+{159}{}{Je dois changer de formation.}
+{160}{}{À quelle distance vous me voulez ?}
+{161}{}{Restez près.}
+{162}{}{Gardez une distance modérée.}
+{163}{}{Éloignez-vous à plus longue portée.}
+{164}{}{Quelles compétences d'armes avez-vous apprises ?}
+{165}{}{Plutôt bonne formation de Ranger : je suis doué avec les petits pistolets et les fusils. Je sais aussi me servir d'une lance, bien sûr, au besoin.}
+{166}{}{Euh, laissez tomber.}
+#
+# TRANSLATION NOTE: The following line is not spoken to the player, but instead
+# is spoken to Katja, a female thief who may be a member of the player's group.
+# (See Katja.msg for particulars about Katja).
+#
+{167}{}{Ouais, si tu l'aimes bien cuit, ton lézard.}
+{168}{}{Eh bien il était temps. Montrez la voie, monsieur, et faisons un peu de nettoyage. Je recommanderais de renverser Gizmo, si je peux me permettre.}
+{169}{}{Eh bien il était temps. Montrez la voie, madame, et faisons un peu de nettoyage. Je recommanderais de renverser Gizmo, si je peux me permettre.}
+{170}{}{Oui ?}
+{171}{}{Je crois qu'on devrait peut-être rester ensemble, finalement.}
+{172}{}{Rien. Laissez tomber.}
+{173}{}{Vous gagnez 300 points d'expérience pour avoir recruté Tycho, le Ranger du désert.}
+
+# for Fallout Fixt:
+
+{174}{}{on être amis ?}
+
+{175}{}{Tu vas tomber.}
+{176}{}{L'heure de la revanche.}
+{177}{}{Les citoyens de Junktown seront vengés !}
+{178}{}{Tu te crois au-dessus des lois ?}
+{179}{}{J'approuve pas la racaille comme toi}
+{180}{}{Tout acte a des conséquences.}
+
+{181}{}{Tu vois : Tycho.}
+
+#
+# Tycho Tell-Me-Abouts
+#
+
+{1000}{}{Junktown}
+{1001}{}{Rangers}
+{1002}{}{Puce}
+{1003}{}{Guerre}
+{1004}{}{Désert}
+{1005}{}{Disciples}
+{1006}{}{Cathédrale}
+{1007}{}{Garl}
+{1008}{}{Maître}
+{1009}{}{Unité}
+{1010}{}{Set}
+{1011}{}{Watershed}
+{1012}{}{Nécropolis}
+{1013}{}{Hall}
+{1014}{}{Bibliothèque}
+{1015}{}{Superviseur}
+{1016}{}{Médecin}
+{1017}{}{Soins}
+{1018}{}{Abri}
+{1019}{}{Abri 13}
+{1020}{}{Abri13}
+{1021}{}{Killian}
+{1022}{}{Gizmo}
+{1023}{}{Boneyard}
+{1024}{}{Shady}
+{1025}{}{Sands}
+{1026}{}{Hub}
+{1027}{}{Casino}
+{1028}{}{Magasin}
+{1029}{}{Écorcheur}
+{1030}{}{Exode}
+{1031}{}{Initiés}
+{1032}{}{Paladins}
+{1033}{}{Scribes}
+{1034}{}{Enfants}
+{1036}{}{Confrérie}
+{1037}{}{Cuves}
+{1038}{}{Militaire}
+{1039}{}{Base}
+{1041}{}{Apocalypse}
+{1042}{}{Mutants}
+{1043}{}{Morpheus}
+{1044}{}{Khans}
+{1045}{}{Tandi}
+{1046}{}{Alya}
+{1047}{}{Diana}
+{1048}{}{Gwen}
+{1049}{}{Petrox}
+{1050}{}{Tolya}
+{1051}{}{Alcool}
+{1052}{}{Drogues}
+{1053}{}{Seth}
+{1054}{}{Aradesh}
+{1055}{}{Razlo}
+{1056}{}{Zimmerman}
+{1057}{}{Régulateurs}
+{1058}{}{Fouineurs}
+{1059}{}{Lames}
+{1060}{}{Nicole}
+{1061}{}{Lieutenant}
+{1062}{}{Psioniques}
+{1063}{}{Expériences}
+{1064}{}{Police}
+{1065}{}{Marchands}
+
+{1100}{}{Eh bien, Junktown c'est pas vraiment chez moi, mais c'est une ville intéressante. Elle a du potentiel, même si je sais pas si construire avec les déchets du passé est la meilleure façon de bâtir l'avenir.}
+{1101}{}{Nous les Rangers venons de l'est, de ce qu'on appelait autrefois le Nevada. Notre héritage remonte à l'époque des Texas Rangers. Nous apprenons la survie et le combat pour sortir dans le monde et avoir une chance de survivre et d'améliorer les choses.}
+{1102}{}{J'ai pas vu une relique de vieille technologie comme une Puce d'eau depuis longtemps. Personnellement, mieux vaut compter sur vous-même que sur un bout de technologie que vous pouvez pas réparer.}
+{1103}{}{La Guerre fut le testament de la cupidité et de la folie humaines. Espérons que nous avons assez appris pour ne jamais répéter une telle folie.}
+{1104}{}{Le désert est hostile et dangereux, même pour le voyageur prudent. Les radiations et les créatures étranges feront des ravages. Marchez avec prudence, et souvenez-vous que tout ce que vous voyez et entendez est un indice.}
+{1105}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1106}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1107}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1108}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1109}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1110}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1111}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1112}{}{La Ville des Morts porte bien son nom. Elle se trouve à l'emplacement de ce qui était la petite ville de Bakersfield. Maintenant, c'est le repaire des goules et pire encore.}
+{1113}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1114}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1115}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1116}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1117}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1118}{}{J'ai entendu parler des grands Abris souterrains. J'en sais pas grand-chose, par contre.}
+{1119}{}{J'ai entendu parler des grands Abris souterrains. J'en sais pas grand-chose, par contre.}
+{1120}{}{J'ai entendu parler des grands Abris souterrains. J'en sais pas grand-chose, par contre.}
+{1121}{}{Killian est un homme bien qui fait un boulot difficile.}
+{1122}{}{Gizmo est... enfin, il me fait l'effet d'un escroc. Il aura ce qu'il mérite à la fin.}
+{1123}{}{L.A. Boneyard ? On m'a dit que c'est un endroit de gangs et de vie dure, près de la côte.}
+{1124}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1125}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1126}{}{Le Hub est une communauté marchande géante, juste un peu au sud de Junktown.}
+{1127}{}{Le casino de Gizmo est probablement l'un des derniers endroits où j'irais, à moins d'aller piétiner le cou de Gizmo. Non que je puisse passer un pied à travers tout ce lard.}
+{1128}{}{Killian a un magasin général correct à Junktown.}
+{1129}{}{J'ai entendu des histoires sur quelque chose de plus rapide, plus gros et plus méchant qu'aucune créature vivante ne devrait l'être. Pas beaucoup d'histoires, par contre, ce qui veut dire que ça laisse pas beaucoup de survivants. Grosses griffes, caractère féroce.}
+{1130}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1131}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1132}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1133}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1134}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1136}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1137}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1138}{}{Je sais que l'armée avait plusieurs bases secrètes éparpillées. Je sais juste pas où.}
+{1139}{}{Je sais que l'armée avait plusieurs bases secrètes éparpillées. Je sais juste pas où.}
+{1141}{}{L'armageddon nucléaire fut le résultat de l'orgueil et de la sottise. Maintenant, nous payons le prix.}
+{1142}{}{Y'a certainement des choses étranges là-dehors. J'ai vu des scorpions mutés et des vaches à deux têtes, et j'ai entendu dire que Nécropolis abrite des goules, qui semblent humaines mais sont bien différentes.}
+{1143}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1144}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1145}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1146}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1147}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1148}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1149}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1150}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1151}{}{Je préfère une bonne stout bien forte, ou peut-être un Nuka-Cola.}
+{1152}{}{Je resterais loin des drogues si j'étais vous. Bien sûr, ça peut donner un coup de fouet, mais on finit toujours par le payer à la fin.}
+{1153}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1154}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1155}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1156}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1157}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1158}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1159}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1160}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1161}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1162}{}{Vous voulez dire télépathiques ? Héhé... sérieusement, j'y crois pas.}
+{1163}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1164}{}{Désolé, je ne peux pas vous aider là-dessus.}
+{1165}{}{Des marchands du Hub visitent Junktown et d'autres villes régulièrement.}
+
+{1999}{}{Je me sens plus puissant maintenant !}
+{2000}{}{Discutons de nos tactiques de combat.}
+{2001}{}{Oui ?}
+{2010}{}{Sors ta meilleure arme.}
+{2011}{}{Change d'armure.}
+{2012}{}{Préfère le combat à distance contre le rapproché.}
+{2013}{}{Préfère le corps à corps contre la distance.}
+{2014}{}{Choisis la distance toi-même.}
+{2015}{}{C'est tout pour l'instant.}
+{2100}{}{Très bien.}
+

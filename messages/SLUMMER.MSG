@@ -1,0 +1,249 @@
+{100}{}{Tu vois un zombie. }
+{101}{}{Tu as commis bien des péchés. Je prierai pour ta rédemption. }
+{102}{}{Gloire au Maître ! Gloire à la Sainte Flamme ! Gloire à la paix et à l'Unité ! }
+{103}{}{Bonjour mon enfant. Pourquoi tiens-tu une arme ? Peut-être as-tu besoin d'être instruit dans les voies de la paix ? }
+{104}{}{Louange au Maître, qui m'a enfin permis de trouver un endroit où déposer les armes et embrasser la paix ! }
+{105}{}{Ça me plaît. Qui m'instruirait ? }
+{106}{}{Je suis de garde. }
+{107}{}{Ça me plaît bien. Et une instruction avec un massage du dos, ça te dit ? }
+{108}{}{Ils ont du vin sacré dans ce bouge ? }
+{109}{}{La paix, mon cul. Le Maître prépare un coup de force, et je veux ma part du gâteau. Où il est ? }
+{110}{}{Tu me traites d'idiot ? }
+{111}{}{Bonjour. Beau temps, non ? }
+{112}{}{Ouais, mais y a de l'orage dans l'air. Les ennemis de la Cathédrale sont partout. T'as entendu quoi comme rumeurs ? }
+{113}{}{J'ai vu mieux. C'est qui le chef ici ? }
+{114}{}{Ouais, beau temps. }
+{115}{}{Beau temps si un bronzage radioactif te dérange pas. }
+{116}{}{Ils ont du vin sacré dans ce bouge ? }
+{117}{}{Le temps, j'm'en fous. Je suis là pour tuer le Maître. Il est où, ce minable ? }
+{118}{}{Ouais. Soleil. Soleil bien. }
+{119}{}{Bonjour mon ami. Ça fait plaisir de te voir. Pose ton arme, tu es entre amis ici ! }
+{120}{}{Désolé, la semaine a été dure. Alors, tu peux me parler de cet endroit ? }
+{121}{}{Désolé, mais j'ai appris à être prudent. C'est qui le chef ici ? }
+{122}{}{Des amis, hein ? C'est bizarre, j'ai entendu beaucoup de mal sur vous. }
+{123}{}{Bon de savoir que je suis entre amis. Quoi de neuf ? }
+{124}{}{Des amis ? Jusqu'où tu veux aller avec cette amitié... }
+{125}{}{Ils ont du vin sacré dans ce bouge ? }
+{126}{}{Arme ? }
+{127}{}{Bonjour étranger. Pardonne-moi, mais tu ne devrais pas dégainer ton arme dans la Cathédrale. }
+{128}{}{J'ai mis mon flingue au service de la Cathédrale et de son Maître. T'as un problème avec ça ? }
+{129}{}{Merci. Je m'en souviendrai. }
+{130}{}{Vieille habitude. Y a beaucoup de choses qui ont essayé de me tuer dernièrement. Tu peux me parler de cet endroit ? }
+{131}{}{Ils ont du vin sacré dans ce bouge ? }
+{132}{}{Arme ? }
+{133}{}{Bonjour étranger. Si tu es venu ici pour être racheté, tu es le bienvenu, mais je te suggère de ranger ton arme. }
+{134}{}{J'ai mis mon flingue au service de la Cathédrale et de son Maître. T'as un problème avec ça ? }
+{135}{}{Bien sûr. Racheté. Ça me plaît. }
+{136}{}{Vieille habitude. Y a beaucoup de choses qui ont essayé de me tuer dernièrement. Tu peux me parler de cet endroit ? }
+{137}{}{Suggère ce que tu veux, mais si tu veux continuer à respirer, tu vas me dire ce que je veux savoir. }
+{138}{}{Mon cul, le rachat, zombie. }
+{139}{}{Ils ont du vin sacré dans ce bouge ? }
+{140}{}{Arme ? }
+{141}{}{Bonjour mon ami ! Je suis si content de voir que tu as rejoint notre cause ! }
+{142}{}{Pas encore, mais ça m'intéresse. À part ce truc de paix et d'unité, vous êtes quoi au juste ? }
+{143}{}{Fallait que ça arrive. Je vois qui pour l'initiation ? }
+{144}{}{Je suis venu pour être instruit. Je peux voir le Maître ? }
+{145}{}{Des amis ? Jusqu'où tu veux aller avec cette amitié... }
+{146}{}{Ils ont du vin sacré dans ce bouge ? }
+{147}{}{Raaar ! La cause ! Raaar !? }
+{148}{}{Bonjour étranger. Puis-je t'aider ? }
+{149}{}{Bien sûr. J'ai entendu ton message, et je veux en savoir plus sur vous ! }
+{150}{}{Je cherchais la personne responsable de cet endroit. }
+{151}{}{Ce truc de paix et d'unité, ça peut pas être vrai. }
+{152}{}{C'est qui, ce type, le Maître ? }
+{153}{}{J'aurais bien besoin d'un massage complet et peut-être d'un petit extra. Ça t'intéresse ? }
+{154}{}{Ils ont du vin sacré dans ce bouge ? }
+{155}{}{De l'aide ? Euh... non. }
+{156}{}{Pardonne-moi étranger, mais j'ai beaucoup de devoirs. Excuse-moi. }
+{157}{}{Gloire au Maître ! Gloire à la paix ! Gloire à la Sainte Flamme ! Gloire à l'Unité ! }
+{158}{}{La paix, je veux bien, mais pourquoi le Maître est si important ? }
+{159}{}{Je cherchais la personne responsable de cet endroit. }
+{160}{}{Ce truc de paix et d'unité, ça peut pas être vrai. }
+{161}{}{C'est qui, ce type, le Maître ? }
+{162}{}{Ils ont du vin sacré dans ce bouge ? }
+{163}{}{Je te suggère de trouver Frère Lasher. C'est un homme dur, mais le Maître agit de façon mystérieuse. Adieu.}
+{165}{}{Mais on n'a pas de gardes, à part les Nightkin. De quoi tu parles ? }
+{166}{}{Le Maître a ordonné une sécurité renforcée. Je sais pas pourquoi, je trouve que les Nightkin sont déjà assez costauds. T'as une idée de ce qui se passe ? }
+{167}{}{Quelqu'un a foiré mes ordres. Fais pas attention à moi. }
+{168}{}{Je suis pas un des gardes de la Cathédrale, je suis une des patrouilles. }
+{169}{}{On n'en a pas ? Oh merde ! }
+{170}{}{Je suis... euh... Bon, rien qu'une balle peut pas régler. MEURS ! }
+{171}{}{Mes excuses. Gloire au Maître, et bonne journée. }
+{172}{}{Peut-être plus tard. }
+{173}{}{Je crois pas qu'on en ait. Gloire au Maître, c'est sûrement pour le mieux. }
+{174}{}{J'en suis sûr. [grognement] }
+{175}{}{Quelle Cathédrale n'a même pas de vin sacré ? }
+{176}{}{Bon, va falloir que je te tue à jeun alors. Comme maintenant. Meurs, fils de pute ! }
+{177}{}{Beaucoup ont essayé de tuer le Maître, et tous ont échoué. Mais si tu tentes cet acte vil, le Maître te pardonnera peut-être et te trouvera un bon usage. Je prierai pour toi. }
+{178}{}{Je plaisantais. Les gens qui passent beaucoup de temps dans le désert ont un humour bizarre, tu sais. Alors, quoi de neuf par ici ? }
+{179}{}{On verra bien... }
+{180}{}{Personne ne prie pour mon âme. Mais quelqu'un ferait mieux de commencer à prier pour toi, parce que je te tue sur-le-champ ! }
+{181}{}{Tu t'es trompé d'endroit, mon ami. Ici c'est pas le pouvoir. Ici c'est la paix. }
+{182}{}{J'ai entendu dire que notre Croisade se passe bien. Bientôt nous apporterons la Paix et l'Unité à L.A. Boneyard et à toutes les communautés alentour. C'est pas génial ? }
+{183}{}{C'est qui le prochain sur la liste pour recevoir la Paix et l'Unité ? }
+{184}{}{C'est plutôt vague. T'as entendu autre chose ? }
+{185}{}{Bien. Il était temps que quelqu'un nettoie ce dépotoir. }
+{186}{}{Oui. La mort, c'est grandiose, non. }
+{187}{}{La personne que tu cherches, c'est le Père Morpheus. On le trouve dans la tour. C'est tout ? }
+{188}{}{Y a quelque chose que je devrais savoir avant de le rencontrer ? }
+{189}{}{On verra bien... }
+{190}{}{Merci ! De la chair fraîche enfin ! }
+{191}{}{Y a autre chose qui te tracasse, mon enfant ? }
+{192}{}{Désolé, la semaine a été dure. Alors, tu peux me parler de cet endroit ? }
+{193}{}{Je cherche à être instruit davantage dans les voies de la Cathédrale. Qui je dois voir ? }
+{194}{}{Je me demandais qui est le chef ? }
+{195}{}{J'aurais bien besoin d'un massage complet et peut-être d'un petit extra. Ça t'intéresse ? }
+{196}{}{Ils ont du vin sacré dans ce bouge ? }
+{197}{}{Je me demandais à quoi tu ressemblerais si un fou éparpillait ta cervelle sur le beau sol de la Cathédrale. Découvrons-le ! }
+{198}{}{T'as un très bon sens de l'humour, mon enfant. Raconte juste pas de blagues à Frère Lasher. }
+{199}{}{Y a d'autres serviteurs du Maître dont je devrais me méfier ? }
+{200}{}{Peut-être qu'elle a passé un peu trop de temps dans le désert ? }
+{201}{}{Je voudrais voir le Maître. }
+{202}{}{Je me demandais qui est le chef ? }
+{203}{}{Ils ont du vin sacré dans ce bouge ? }
+{204}{}{Tu sais, c'est la chose la plus gentille qu'on m'ait dite aujourd'hui. Je crois que je vais pas te tuer finalement. }
+{205}{}{J'ai peur que tu aies pris trop de soleil. J'espère que tu trouveras la guérison ici. Gloire au Maître ! Gloire à la Sainte Flamme ! }
+{206}{}{Tes paroles sont pleines de douleur et de haine ! J'ai pitié de toi, mon ami, mais la pitié peut se changer en joie. Cherche le Père Morpheus dans la tour. C'est un homme merveilleux, et il peut rouvrir ton cœur à l'amour. }
+{207}{}{T'es jamais venu à la Cathédrale ? C'est un lieu de Paix et d'Unité. Un lieu où les différences sont oubliées et où l'on cherche un avenir d'unité et de prospérité pour tous. Un avenir où les horreurs que nos ancêtres nous ont infligées ne pourront plus jamais arriver ! }
+{208}{}{Et comment on atteint cette Utopie parfaite ? }
+{209}{}{Mais faut-il sacrifier le libre arbitre pour créer l'Utopie ? }
+{210}{}{Je voudrais voir le Maître et entendre ce qu'il a à dire. }
+{211}{}{Comment tu peux être sûr que c'est pas une forme de contrôle mental ? }
+{212}{}{Ils ont du vin sacré dans ce bouge ? }
+{213}{}{D'accord. Je préfère infliger mes propres horreurs aux gens. }
+{214}{}{Nos ennemis nous calomnient ! Les gens ont si facilement peur, surtout quand quelqu'un leur dit quoi faire ! Mais comme je suis le Maître et la Sainte Flamme, je n'ai plus à avoir peur ! Le Maître m'a dit de ne pas avoir peur ! }
+{215}{}{Et comment on atteint cette Utopie parfaite ? }
+{216}{}{Tant mieux pour le Maître ! Une idée d'où je peux le trouver ? }
+{217}{}{Mais y a des rumeurs sur des armées de mutants... }
+{218}{}{On t'a jamais dit que t'étais un zombie ? }
+{219}{}{D'accord. Je préfère infliger mes propres horreurs aux gens. }
+{220}{}{Je fais que louer le Maître. Je me lasse jamais de louer le Maître. Pourquoi tu loues pas le Maître avec moi, mon ami ? }
+{221}{}{Pourquoi je devrais louer le Maître ? Vas-y, convaincs-moi. }
+{222}{}{Bien sûr. Gloire au Maître ! Ça va comme ça ? }
+{223}{}{Je crois pas. }
+{224}{}{On t'a jamais dit que t'étais un zombie ? }
+{225}{}{Louons-le avec quelques bouteilles de vin sacré. La louange passe bien mieux quand l'esprit te transporte... }
+{226}{}{Tu sais, celle que t'as dans la main ? }
+{227}{}{Oh, cette arme-là. }
+{228}{}{Euh, elle est chargée ? }
+{229}{}{J'en sais pas beaucoup. L'esprit du Maître est si grand... Je sais que les Enfants marchent vers le nord. Nous prendrons le contrôle de toutes les colonies, et nous baptiserons tout le monde ! Le baptême nous changera et nous rapprochera de Dieu, pour que nous ayons la paix et l'unité, et qu'il n'y ait plus jamais ni guerre ni destruction ! }
+{230}{}{Et elle est où, la cuve baptismale ? }
+{231}{}{On dirait qu'il va plonger tout le monde dans le VEF ! }
+{232}{}{Quelle merveilleuse journée ça va être ! }
+{233}{}{Bon, j'en ai entendu assez. }
+{234}{}{Alors je ferais mieux de profiter de la destruction tant que je peux. Meurs, charogne ! }
+{235}{}{Gloire au Maître ! Que la paix soit avec toi ! Profite bien de ton séjour à la Cathédrale. }
+{236}{}{C'est un sanctuaire, où ceux qui veulent bâtir un avenir paisible peuvent aller, pour réaliser leur vision. }
+{237}{}{Et de quel droit tu imposes ton avenir à tout le monde ? }
+{238}{}{Mais les gens doivent quitter les sanctuaires et sortir dans le vaste monde. Sinon, un sanctuaire devient une prison. }
+{239}{}{Personne veut la paix. Tout le monde pense qu'à sa gueule, mon pote. Réveille-toi ! }
+{240}{}{Ça me plaît. Je vois qui pour m'inscrire ? }
+{241}{}{La paix ? Un sanctuaire ? Tu me rends malade, zombie-boy ! }
+{242}{}{Je suis content d'entendre que la paix t'intéresse. Parle avec le Père Morpheus et Frère Lasher. Ils pourront t'instruire davantage. }
+{243}{}{J'ai peur de pas pouvoir t'aider. Seul le Père Morpheus communie avec le Maître. Tu le trouveras dans la tour. }
+{244}{}{Y a quelque chose que je devrais savoir avant de le rencontrer ? }
+{245}{}{Merci. À plus. }
+{246}{}{Père Morpheus. Ça sonne vraiment paisible comme nom. C'est qui son assistant, Frère Meurtre ? Frère Mort ? Sœur Tuerie, peut-être ? }
+{247}{}{Je suis plus que prêt à renaître pour ma cause. Tue-moi si tu dois, mais je serai racheté et tu mourras. }
+{248}{}{Gamin, d'une façon ou d'une autre, tu vas cracher tes tripes tout de suite ! }
+{249}{}{Ça me ferait plaisir que tu la fermes. Vous les zombies, vous me filez mal à la tête. }
+{250}{}{T'as du cran, gamin. J'admire ça. Peut-être que je te tuerai pas. }
+{251}{}{Ton âme, j'm'en fous royalement, gamin, mais je refuserai pas l'invitation. Un martyr, ça marche ! }
+{252}{}{Bon... Euh... Que la paix soit avec toi... je crois... Adieu... }
+{253}{}{Regarde autour de toi ? Tu n'entends pas les messages ? Comment peux-tu douter de la sincérité du Maître ? }
+{254}{}{Personne veut la paix. Tout le monde pense qu'à sa gueule, mon pote. Réveille-toi ! }
+{255}{}{C'est facile de parler de paix, mais le Maître fait quoi vraiment ? }
+{256}{}{Pardonne-moi, frère. Le monde est un endroit si terrible, et j'ai peur de perdre notre liberté... }
+{257}{}{C'est facile de parler de paix, mais j'entends de terribles rumeurs sur des armées de mutants... }
+{258}{}{Peut-être que t'as raison. Je vois qui pour m'inscrire ? }
+{259}{}{La sincérité ne sort que du canon d'un flingue ! }
+{260}{}{Il est le Gardien de la Sainte Flamme, celui qui s'efforce d'effacer toutes les divisions, toutes les haines. Il manie l'épée et la charrue, mais préférerait construire que détruire. Gloire au Maître ! Gloire à l'Unité ! }
+{261}{}{J'ai entendu dire que notre Croisade se passe bien. Nous marchons vers le nord, et comme le Maître l'a promis, les forces de l'Âge Sombre ne font pas le poids face à une armée d'Illuminés. Quelle époque glorieuse ! Lève la tête, mon ami, et crie ta louange ! }
+{262}{}{Et qu'arrive-t-il à ceux qu'on vainc ? Peut-on dissiper un Âge Sombre par le sang ? Par la tyrannie ? }
+{263}{}{Mec, j'ai juste envie de danser ! }
+{264}{}{Bon, j'en ai entendu assez. }
+{265}{}{Non merci. J'ai mal à la gorge. Je préfère célébrer à ma façon -- en te tuant ! }
+{266}{}{Je voulais pas t'insulter, ni gêner tes devoirs. Accepte mes excuses. Que le Maître te bénisse pour ton service. }
+{267}{}{Mes excuses. Gloire au Maître, et bonne journée. }
+{268}{}{Ton âme est triste, mon ami. Je devine à peine quelles horreurs t'as vues pour fermer ton esprit. Ouvre-le maintenant, et trouve la paix. Regarde les écrans, écoute le Père Morpheus, et loue le Maître. }
+{269}{}{Je ne sais rien, mon ami, rien ! Tu devras trouver quelqu'un d'autre pour répondre à ta question. Mais il n'est pas sage de poser des questions sur les Nightkin. }
+{270}{}{Bien sûr. Pas de problème. }
+{271}{}{Pourquoi ça ? }
+{272}{}{J'ai juste une question sur eux. Ils hurlent bien fort quand on les tue ? }
+{273}{}{Tu sais rien ? T'es forcément idiot. }
+{274}{}{Nightkin ! Nightkin ! Tuer ! }
+{275}{}{Cette discussion a été merveilleuse, mais je prends du retard dans mes louanges. Adieu. Gloire au Maître ! Gloire à la Sainte Flamme ! Chantons les cantiques sacrés... }
+{276}{}{Si ça te plaît pas ici, tu peux partir. Gloire au Maître, et bonne journée. }
+{277}{}{Je plains le désert, si c'est un échantillon de l'humour tordu qu'il produit. Je le partagerais pas avec les autres. }
+{278}{}{Y a quelqu'un en particulier que je devrais éviter ? }
+{279}{}{Cet endroit doit être d'un ennui mortel ! }
+{280}{}{D'accord, j'arrête les blagues. }
+{281}{}{T'as entendu celle du pilote de nuke et du vendeur itinérant ? }
+{282}{}{T'es sûr que je peux pas te montrer ce que je fais pour rire... }
+{283}{}{Pas que je sache. Adieu, mon ami. }
+{284}{}{Je crois pas pouvoir t'aider, mon ami. Adieu, et bonne journée. Gloire au Maître ! Gloire à la Sainte Flamme... }
+{285}{}{J'ai peur de pas pouvoir t'aider. Bon, je dois méditer sur les gloires du Maître. Excuse-moi. Gloire au Maître ! Gloire à la Sainte Flamme ! }
+{286}{}{Tout le monde ici est rempli d'amour ! Mais c'est dur pour certains d'exprimer leur amour, et les Nightkin trouvent ça extrêmement dur. Mais tu découvriras ça tout seul. Gloire au Maître ! Gloire à la Sainte Flamme ! }
+{287}{}{Nous devons nous soumettre au Maître et à la Sainte Flamme. Quand nous aurons fait nos preuves, nous serons baptisés et plus proches de Dieu. Quand tous auront été baptisés, nous ne ferons qu'un, une Unité sous le Maître ! }
+{288}{}{Parle-moi davantage de ce baptême. }
+{289}{}{Qu'arrive-t-il si quelqu'un veut pas être baptisé ? }
+{290}{}{Ça m'intéresse. Ça te dérange si je regarde un peu autour ? }
+{291}{}{Je crois que vous êtes tous une bande de zombies. }
+{292}{}{Il n'y a qu'une seule Unité pour l'humanité, et c'est quand on devient de la bouffe pour vers. }
+{293}{}{Nous avons le droit de survivre. Les anciens ont essayé de survivre en gardant leur liberté, et regarde ce qu'ils nous ont fait ! Nous ne devons pas refaire les mêmes erreurs. L'Unité est la seule solution. C'est la seule façon de sauver ce que l'humanité est devenue ! }
+{294}{}{Qu'est-ce que tu veux dire par ce que l'humanité est devenue ? On est toujours parfaitement humains. }
+{295}{}{Peut-être que l'erreur de nos ancêtres c'était pas le manque d'unité. Peut-être qu'ils pouvaient juste pas laisser les autres tranquilles. }
+{296}{}{Je suis pas philosophe, mais je sais reconnaître le bien du mal, et ça c'est mal. }
+{297}{}{Peut-être que t'as raison. }
+{298}{}{L'humanité vaut pas la peine d'être sauvée, et toi non plus. Meurs, petit zombie ! }
+{299}{}{Le Maître a dit que c'était le manque d'Unité, donc ça devait l'être. Cherche son Grand Prêtre ! Le Père Morpheus corrigera les mensonges qu'on t'a racontés. }
+{300}{}{On n'est pas des zombies ! Quand j'étais membre du gang de rue Fighting Flesh, j'étais un fou psychotique qui faisait tout ce que les chefs disaient ! Louange au Maître de ne plus être aussi aveugle ! Oh, louange au Maître ! Louons-le ensemble, tu veux ? }
+{301}{}{Je pourrais mieux le louer si je savais ce qu'il fait. }
+{302}{}{Gloire au Maître ! }
+{303}{}{Toi loue le Maître, moi je me tire. }
+{304}{}{Et si on le louait ensemble avec du vin sacré. J'ai besoin d'un verre ! }
+{305}{}{J'ai une encore meilleure idée. Je le louerai sur ton cadavre de zombie. L'heure de mourir ! }
+{306}{}{C'est pas merveilleux que le Maître veuille unir humains et mutants ? Il transcende la haine et les préjugés. Tu vois pas ? Ça prouve qu'il veut le meilleur pour tout le monde ! }
+{307}{}{Je suppose que les armées partagent l'amour et la fraternité partout où elles vont... }
+{308}{}{J'imagine qu'il le fait pas parce que les mutants sont des tueurs plus efficaces. }
+{309}{}{Gloire au Maître ! }
+{310}{}{Il me faut plus de preuves. }
+{311}{}{Et si on le louait ensemble avec du vin sacré. J'ai besoin d'un verre ! }
+{312}{}{Je vois. Je vais suivre l'exemple du Maître ! Je sais ce qui est le mieux pour toi, donc je dois te tuer maintenant ! C'est logique... }
+{313}{}{Ouvre ton cœur. Ouvre ton esprit. Écoute ce que les gens disent, et tu trouveras l'illumination. }
+{314}{}{Y a peut-être quelqu'un qui peut expliquer les choses plus directement. Le Maître est disponible ? }
+{315}{}{Ce que je vois, c'est une bande de zombies ! }
+{316}{}{C'est pas des raisons, c'est de la propagande ! }
+{317}{}{Je crois que je vais juste me promener et voir par moi-même. }
+{318}{}{Je préfère ouvrir une bouteille de vin. Y a de l'alcool par ici ? }
+{319}{}{Vous les zombies, vous me rendez malade ! Je veux tous vous tuer ! }
+{320}{}{Comme c'est triste. Je prierai pour toi. }
+{321}{}{Malheureusement, j'ai jamais eu le privilège de voir la cuve baptismale. Peut-être que si je loue assez le Maître, je recevrai une bénédiction. Gloire au Maître ! Gloire à la Sainte Flamme ! Gloire à la paix et à l'Unité ! }
+{322}{}{Bien sûr que non. C'est le Maître. Il ferait jamais ça à ses disciples. C'est son saint pouvoir par le baptême, et la Sainte Flamme, qui nous transformera. Le virus est un mal des temps anciens, qui sera sûrement purifié. }
+{323}{}{On veut pas te causer de détresse. Si on peut pas te réconforter, trouve un autre endroit où gérer ton tourment. Ici c'est un lieu de paix. }
+{324}{}{Je me tire ! }
+{325}{}{Je t'ai dit de la fermer. Pourquoi tu peux pas écouter ? }
+{326}{}{J'imagine que le seul moyen d'avoir la paix et le silence, c'est de tous vous tuer ! Mourez !! }
+{327}{}{Tu devras trouver la réponse à cette question toi-même. Gloire au Maître ! Gloire à la Sainte Flamme ! }
+{328}{}{Le baptême nous changera tous, et rapprochera nos formes physiques de l'image de Dieu. Quand nous serons tous devenus Dieu, toutes nos différences disparaîtront, pour que nous ayons enfin la paix et l'unité, et qu'il n'y ait plus jamais ni guerre ni destruction ! }
+{329}{}{Et elle est où, la cuve baptismale ? }
+{330}{}{On dirait qu'il va plonger tout le monde dans le VEF ! }
+{331}{}{Quelle merveilleuse journée ça va être ! }
+{332}{}{Bon, j'en ai entendu assez. }
+{333}{}{Alors je ferais mieux de profiter de la destruction tant que je peux. Meurs, connard ! }
+{334}{}{Une fois que les gens comprendront le Maître et ce qu'il représente, tout le monde voudra être baptisé. Les seuls qui ne voudraient pas être baptisés sont les fous, et on devrait les achever par pitié, pour leur propre sécurité, pauvres misérables. }
+{335}{}{T'es pas surpris par le nombre de fous que t'as déjà rencontrés ? }
+{336}{}{T'es fou ! }
+{337}{}{Je crois que je ferais mieux de regarder un peu autour. }
+{338}{}{Ouais. Pauvres misérables. Si on sortait le vin sacré pour trinquer à leur santé ! }
+{339}{}{Hé, si t'as besoin de quelqu'un pour les achever -- ou pour t'achever -- je suis disponible ! }
+{340}{}{Mon ami, si tu cherches la vérité l'esprit ouvert, tu nous trouveras à t'attendre. Gloire au Maître ! Je te souhaite bonne chance dans ta quête d'illumination. }
+{341}{}{Nous devons nous rapprocher de Dieu, mutants et humains confondus. Je sais pas trop ce que le Maître veut dire avec cette partie du message, mais ça doit être vrai. Gloire au Maître, il est si sage ! }
+{342}{}{Mais s'il était vraiment sage, son message aurait-il la moindre ambiguïté ? }
+{343}{}{T'es fou ! }
+{344}{}{Je crois que je ferais mieux de regarder un peu autour. }
+{345}{}{Ouais. J'ai une super idée ! Si on sortait le vin sacré pour trinquer à la sagesse du Maître ! }
+{346}{}{Toute la sagesse du monde servira à rien contre une balle de .56 entre les deux yeux. }
+{347}{}{Nous forgeons un monde meilleur pour tout le monde. C'est tout. Désolé si tu comprends pas encore. Je prie pour que quelqu'un de plus sage que moi te fasse changer d'avis. Adieu, mon ami. Gloire au Maître ! Gloire à la paix et à l'Unité ! }
+{348}{}{Le monde réserve bien des surprises, mon ami, des agréables, des désagréables. Adieu, mon ami, et gloire au Maître ! }
+{349}{}{[Done] }
