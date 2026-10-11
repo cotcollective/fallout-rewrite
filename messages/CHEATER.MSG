@@ -1,0 +1,184 @@
+# TRANSLATION NOTE:
+# PLAYERS WILL ONLY SEE THESE MESSAGES IF THEY ARE TESTERS
+#
+# Numbers in front of entries are to let the player know 
+# which number they can hit on keyboard 
+# to navigate dialog using keyboard
+#
+# IT IS PROBABLY BEST TO NOT TRANSLATE ANY OF THIS
+# IT IS PROBABLY BEST TO NOT TRANSLATE ANY OF THIS
+# IT IS PROBABLY BEST TO NOT TRANSLATE ANY OF THIS
+#
+{100}{}{Voulez-vous entrer dans le dialogue de débogage ? [Si incertain, cliquez Non]}
+{101}{}{1  Remonter le temps.}
+{102}{}{D'accord. De combien ? [Les chiffres au début sont ceux à taper au clavier pour choisir]}
+{103}{}{1    Une seconde  [10 ticks]}
+{104}{}{2    Une minute}
+{105}{}{3    Une heure}
+{106}{}{4    Un jour}
+{107}{}{5    Une semaine}
+{108}{}{6    Un mois [30 jours]}
+{109}{}{7    Six mois}
+{110}{}{9    Laisser tomber.}
+{111}{}{2  Avancer le temps.}
+{112}{}{D'accord. De combien ? [Les chiffres au début sont ceux à taper au clavier pour choisir]}
+{113}{}{1    Une seconde  [10 ticks]}
+{114}{}{2    Une minute}
+{115}{}{3    Une heure}
+{116}{}{4    Un jour}
+{117}{}{5    Une semaine}
+{118}{}{6    Un mois [30 jours]}
+{119}{}{7    Six mois}
+{120}{}{9    Laisser tomber.}
+{121}{}{7  Donnez-moi toutes les clés du jeu.}
+{122}{}{Dans un sac à dos ou directement dans votre inventaire ?}
+{123}{}{1    Dans un sac à dos.}
+{124}{}{2    Dans mon inventaire.}
+{125}{}{3    Laisser tomber.}
+{126}{}{8    13 ans}
+{127}{}{8    13 ans}
+{200}{}{Comment puis-je Vous Tricher aujourd'hui ?}
+{201}{}{1  Expérience.}
+{202}{}{2  Dégâts, Poison, Radiation.}
+{203}{}{6    Poison}
+{204}{}{7    Radiation}
+{205}{}{3  Supprimer TOUS les objets de mon inventaire - y compris l'équipement !}
+{206}{}{4  Basculer la variable globale « CORRECTIONS UNIQUEMENT » [gvar 0]}
+{207}{}{8  Rien. [fermer le dialogue]}
+{208}{}{Le mode « Corrections uniquement » est actuellement ACTIVÉ. Désactiver ?}
+{209}{}{1    Oui, désactive-le.}
+{210}{}{2    Non. [retour]}
+{211}{}{Le mode « Corrections uniquement » est actuellement DÉSACTIVÉ. Activer ?}
+{212}{}{1    Oui, active-le.}
+{213}{}{avant : }
+{214}{}{après : }
+{215}{}{[Vous tend un Burrito Supreme] Régalez-vous avec du bœuf de catégorie D.}
+{216}{}{Maintenant vous rayonnez comme une ampoule de 50 rads.}
+{217}{}{Terminé.}
+{221}{}{[Sourire vicieux] J'étais ravi de vous « aider ».}
+{222}{}{Comment puis-je abuser de vous aujourd'hui ?}
+{223}{}{1    Estropier jambe gauche}
+{224}{}{2    Estropier jambe droite}
+{225}{}{3    Estropier bras gauche}
+{226}{}{4    Estropier bras droit}
+{227}{}{5    M'aveugler }
+{228}{}{8    Ne me faites pas mal. [gémit]}
+{229}{}{JETS DE TEST miam, des jets}
+{230}{}{Terminé.}
+{231}{}{message ici}
+{232}{}{1    500}
+{233}{}{2    1 millier}
+{234}{}{3    5 milliers}
+{235}{}{4    10 milliers}
+{236}{}{5    50 milliers}
+{237}{}{6    210 milliers}
+{238}{}{7    5 milliers négatifs}
+{239}{}{8    Laisser tomber}
+{240}{}{OK, vous les avez.}
+{241}{}{Combien de points d'Exp voulez-vous ? [Les chiffres au début sont ceux à taper au clavier pour choisir]}
+{242}{}{9    Points de vie.}
+{243}{}{D'accord, combien de PV voulez-vous perdre ?}
+{244}{}{1    Un PV.}
+{245}{}{2    Cinq PV.}
+{246}{}{3    Dix PV.}
+{247}{}{4    Vingt PV.}
+{248}{}{5    Trente PV.}
+{249}{}{6    Quarante PV.}
+{250}{}{7    Cinquante PV.}
+{251}{}{9    999 PV. (tuez-moi...)}
+{252}{}{9  Téléporter vers une autre carte...}
+{253}{}{1    Nécropolis - Hôtel}
+{254}{}{2    Abri 13 - Intérieur}
+{255}{}{3    Junktown - Casino}
+{256}{}{4    Confrérie - 1/2}
+{257}{}{5    Base militaire - Cuves}
+{258}{}{6    Shady Sands - Ouest}
+{259}{}{7    Le Hub - Centre-ville}
+{260}{}{8    Laisser tomber.}
+{261}{}{9    Antre du Maître - 3/4}
+{262}{}{D'accord, quelle carte ?}
+{263}{}{5  Modifier l'heure du jeu (reculer ou avancer)}
+{264}{}{6  Donnez-moi les objets de débogage du tricheur (plein)}
+{265}{}{Oui.}
+{266}{}{D'accord, reculer ou avancer ?}
+{267}{}{Vous êtes sûr ?}
+{268}{}{Non. [retour]}
+{269}{}{1  Nécropolis, Abri 13, Abri 15}
+{270}{}{2  Junktown, Confrérie de l'Acier, Cité}
+{271}{}{3  Enfants de la Cathédrale, Antre du Maître, Côte, Montagne}
+{272}{}{4  Le Hub}
+{273}{}{5  Les Cendres Adytum, Pillards}
+{274}{}{6  Shady Sands, Base militaire}
+{275}{}{7  Le Glow, Désert}
+{276}{}{8  Caravanes}
+{277}{}{9  Spéciaux}
+{278}{}{9    Laisser tomber.}
+{279}{}{7    Laisser tomber.}
+{280}{}{8    Diaporama de fin.}
+{300}{}{DESERT1.MAP}
+{301}{}{DESERT2.MAP}
+{302}{}{DESERT3.MAP}
+{303}{}{Necropolis - HALLDED.MAP}
+{304}{}{Necropolis - HOTEL.MAP}
+{305}{}{Necropolis - WATRSHD.MAP}
+{306}{}{Vault 13 - VAULT13.MAP}
+{307}{}{Vault fifteen - VAULTENT.MAP}
+{308}{}{Vault fifteen - VAULTBUR.MAP}
+{309}{}{Necropolis - VAULTNEC.MAP}
+{310}{}{JUNKENT.MAP}
+{311}{}{JUNKCSNO.MAP}
+{312}{}{JUNKKILL.MAP}
+{313}{}{BROHDENT.MAP}
+{314}{}{BROHD12.MAP}
+{315}{}{BROHD34.MAP}
+{316}{}{CAVES.MAP - Radscorpion Caves}
+{317}{}{CHILDRN1.MAP}
+{318}{}{CHILDRN2.MAP}
+{319}{}{CITY1.MAP}
+{320}{}{COAST1.MAP}
+{321}{}{COAST2.MAP}
+{322}{}{COLATRUK.MAP}
+{323}{}{FSAUSER.MAP}
+{324}{}{RAIDERS.MAP}
+{325}{}{SHADYE.MAP}
+{326}{}{SHADYW.MAP}
+{327}{}{GLOWENT.MAP}
+{328}{}{LAADYTUM.MAP - Entrance}
+{329}{}{LAFOLLWR.MAP}
+{330}{}{MBENT.MAP}
+{331}{}{MBSTRG12.MAP - MB lvl 1, 2}
+{332}{}{MBVATS12.MAP - MB lvl 3, 4}
+{333}{}{MSTRLR12.MAP}
+{334}{}{MSTRLR34.MAP}
+{335}{}{Vault 13 - V13ENT.MAP}
+{336}{}{HUBENT.MAP}
+{337}{}{DETHCLAW.MAP - Cave}
+{338}{}{HUBDWNTN.MAP}
+{339}{}{HUBHEIGT.MAP}
+{340}{}{HUBOLDTN.MAP}
+{341}{}{HUBWATER.MAP}
+{342}{}{GLOW1.MAP}
+{343}{}{GLOW2.MAP}
+{344}{}{LABLADES.MAP}
+{345}{}{LARIPPER.MAP}
+{346}{}{LAGUNRUN.MAP}
+{347}{}{CHILDEAD.MAP}
+{348}{}{MBDEAD.MAP}
+{349}{}{MOUNTN1.MAP}
+{350}{}{MOUNTN2.MAP}
+{351}{}{FOOT.MAP}
+{352}{}{TARDIS.MAP}
+{353}{}{TALKCOW.MAP}
+{354}{}{USEDCAR.MAP}
+{355}{}{BRODEAD.MAP (not used in-game)}
+{356}{}{DESCRVN1.MAP}
+{357}{}{DESCRVN2.MAP}
+{358}{}{MNTCRVN1.MAP}
+{359}{}{MNTCRVN2.MAP}
+{360}{}{VIPERS.MAP (not used in-game)}
+{361}{}{DESCRVN3.MAP}
+{362}{}{MNTCRVN3.MAP}
+{363}{}{DESCRVN4.MAP}
+{364}{}{MNTCRVN4.MAP}
+{365}{}{HUBMIS0.MAP - Irwin}
+{366}{}{HUBMIS1.MAP - Irwin}

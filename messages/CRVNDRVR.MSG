@@ -1,0 +1,162 @@
+{100}{}{Tu vois un conducteur de caravane.}
+{101}{}{Désolé, je te connais pas. Si tu veux un boulot, faut parler à Rutger.}
+{102}{}{Me parle pas de boulot, parle à Rutger.}
+{103}{}{Quoi, t'as claqué tout ton fric dans la drogue ? Si tu continues comme ça, ta nouvelle maison sera à Old Town, entouré de skags.}
+{104}{}{Tu ferais mieux de dessoûler. Reviens quand tu seras prêt et capable de bosser.}
+{105}{}{Tu cherches un autre boulot ?}
+{106}{}{Bien sûr.}
+{107}{}{Non, peut-être plus tard.}
+{108}{}{Lug.}
+{109}{}{Rok !}
+{110}{}{Prêt à partir ? On part aujourd'hui.}
+{111}{}{Ouais !}
+{112}{}{Non.}
+{113}{}{Hrurra ?}
+{114}{}{Désolé, on veut plus travailler avec toi. Tente ta chance avec une autre caravane ; peut-être qu'ils te supporteront.}
+{115}{}{Désolé, on embauche pas.}
+{116}{}{T'as un sacré culot de te montrer ici. Je crois que tu devrais partir.}
+{117}{}{J'ai dit dégage !}
+{118}{}{Qu'est-ce que tu veux ? T'embaucher a été une catastrophe.}
+{119}{}{Donne-moi une autre chance, s'il te plaît ! J'avais pas le choix !}
+{120}{}{Oh, ouais ? J'en ai rien à foutre.}
+{121}{}{Rien. Salut.}
+{122}{}{Kah.}
+{123}{}{Moo.}
+{124}{}{Écoute, je sais pas ce qui s'est passé là-bas, mais on a perdu toute la caravane ! T'aurais pas dû revenir si tu pouvais pas la protéger.}
+{125}{}{Pas question, dégage !}
+{126}{}{J'ai dit dégage !}
+{127}{}{Qu'est-ce que tu veux ?}
+{128}{}{Ah, la ferme et pousse-toi de mon chemin !}
+{129}{}{Je veux un autre boulot.}
+{130}{}{Rien.}
+{131}{}{Zug.}
+{132}{}{Ug.}
+{133}{}{Quoi ? Après que t'as abandonné ton dernier boulot ? T'as de la chance qu'ils aient survécu.}
+{134}{}{J'ai de la chance ? T'as de la chance que je te défonce pas la gueule !}
+{135}{}{Hé ! J'avais des endroits où aller et des gens à voir.}
+{136}{}{Je savais pas que j'avais pas le droit de partir. Tout avait l'air d'aller bien.}
+{137}{}{Parle franchement ou dégage.}
+{138}{}{Skag.}
+{139}{}{On embauche pas les ivrognes.}
+{140}{}{On embauche pas les drogués.}
+{141}{}{(Le conducteur de la caravane t'ignore.)}
+{142}{}{Reviens quand tu auras cuvé.}
+{143}{}{Espèce de tordu. Retourne dans les enclos.}
+{144}{}{Ça avait l'air d'aller ? On quitte jamais une caravane, même pas à un kilomètre du rendez-vous. T'étais embauché pour la garder pendant tout le trajet, sinon on aurait pris quelqu'un d'autre.}
+{145}{}{Bon, personne m'a dit que je pouvais pas partir !}
+{146}{}{Je suis désolé, ça n'arrivera plus jamais.}
+{147}{}{Va te faire foutre.}
+{148}{}{Quoi ? C'est ta première caravane ? Comment t'as été embauché ? C'est un boulot très délicat et important ; faut le prendre au sérieux. Des vies sont en jeu, celles de la caravane et celles des villes qu'on ravitaille.}
+{149}{}{Et tu dois être bien fier de toi.}
+{150}{}{Quoi ? Tu veux une médaille ou quoi ?}
+{151}{}{Laisse-moi sauver des vies, s'il te plaît ! Je veux aider !}
+{152}{}{J'espère bien ! C'est un boulot très délicat et important ; faut le prendre au sérieux. Des vies sont en jeu ! Les caravanes et les villes qu'on ravitaille dépendent de nous !}
+{153}{}{Tu dois être bien fier de toi.}
+{154}{}{Quoi ? Tu veux une médaille ou quoi ?}
+{155}{}{Laisse-moi sauver des vies, s'il te plaît ! Je veux aider !}
+{156}{}{Bien sûr que oui.}
+{157}{}{Alors, je peux avoir un autre boulot ?}
+{158}{}{T'es un idiot !}
+{159}{}{Faut que j'y aille. Salut.}
+{160}{}{Euh, ouais. C'est un boulot dur et sale ! On risque nos vies pour ceux qui sont dans des endroits moins favorisés.}
+{161}{}{Trouve-toi une vie !}
+{162}{}{Oh ? Et tous les moins favorisés juste sous ton nez ?}
+{163}{}{T'as raison. Je peux avoir un autre boulot ou quoi ?}
+{164}{}{Quoi ? Je sais pas de quoi tu parles ! Oh, tu veux dire les skags ? Ils comptent pas. Ils ont choisi de vivre comme ça.}
+{165}{}{Je suppose que t'as raison.}
+{166}{}{Tu me dégoûtes.}
+{167}{}{Faut que j'y aille.}
+{168}{}{Quoi ? Qu'est-ce que j'ai dit ?}
+{169}{}{Bien sûr que oui. Je suis quelqu'un de bien au fond... la plupart du temps.}
+{170}{}{Bien sûr que oui. Je peux avoir un autre boulot ou quoi ?}
+{171}{}{Je me tire d'ici.}
+{172}{}{C'est l'attitude ! Dommage que je puisse pas te donner un autre boulot.}
+{173}{}{Après tout ça ? Oh allez, je peux avoir un autre boulot s'il te plaît ?}
+{174}{}{Bon, retour à sauver le monde alors.}
+{175}{}{C'est très bien. Mais t'attends jamais à retravailler pour nous !}
+{176}{}{Oh, s'il te plaît ! Ça n'arrivera plus jamais !}
+{177}{}{Comme si j'en avais envie !}
+{178}{}{Bon d'accord, une dernière chance. Notre prochaine caravane part }
+{179}{}{aujourd'hui}
+{180}{}{demain}
+{181}{}{le }
+{182}{}{8}
+{183}{}{18}
+{184}{}{28}
+{185}{}{. Préviens-moi quand tu seras prêt à partir. Ça paie le tarif standard de 400 capsules.}
+{186}{}{Désolé, mais j'ai déjà fait une belle erreur en te donnant une chance la dernière fois que t'as tout foiré.}
+{187}{}{Super, quelle route tu voulais prendre ?}
+{188}{}{Salut. La caravane part pas avant demain. Tu devrais revenir à ce moment-là si tu veux toujours le boulot.}
+{189}{}{Je veux pas le boulot.}
+{190}{}{J'essaierai d'être là.}
+{191}{}{D'accord, on se voit à ce moment-là.}
+{192}{}{Da.}
+{193}{}{Salut. T'es en avance. Bien en avance. La prochaine caravane ne part pas avant le }
+{194}{}{8}
+{195}{}{18}
+{196}{}{28}
+{197}{}{. Repasse à ce moment-là si ça t'intéresse toujours.}
+{198}{}{Je veux pas le boulot.}
+{199}{}{J'essaierai d'être là.}
+{200}{}{D'accord. Salut.}
+{201}{}{Da.}
+{202}{}{D'accord. Ça m'est égal.}
+{203}{}{Eh, ça m'est égal que tu viennes ou pas. On a des gens qui cherchent du boulot tous les jours. Si tu viens pas, c'est pas grave.}
+{204}{}{Je te l'ai déjà dit : t'inquiète pas. Si tu peux pas venir, je ferai avec.}
+{205}{}{La Confrérie de l'Acier}
+{206}{}{L.A. Boneyard.}
+{207}{}{Junktown}
+{208}{}{Laisse tomber. Je veux plus le boulot après tout.}
+{209}{}{Tu tombes bien, nos caravanes partent aujourd'hui. Ça paie le tarif standard de 400 capsules. Quelle route de caravane tu voulais prendre ?}
+{210}{}{Parfait. Notre prochaine caravane part le }
+{211}{}{8}
+{212}{}{18}
+{213}{}{28}
+{214}{}{. Repasse à ce moment-là et on t'assignera à une caravane. Ça paie le tarif standard de 400 capsules.}
+{215}{}{D'accord.}
+{216}{}{Désolé, je peux pas attendre si longtemps.}
+{217}{}{Super. Je vais chercher ton conducteur et le reste de l'équipe. Fais attention là-bas, ça a été un peu rude dernièrement.}
+{218}{}{L'équipe est prête. On part tout de suite.}
+{219}{}{D'accord, ça prendra juste quelques minutes pour rassembler l'équipe.}
+{220}{}{D'accord. On partira pour la Confrérie dès que j'aurai rassemblé le reste de l'équipe.}
+{221}{}{D'accord, tu partiras pour la Confrérie dès que j'aurai monté l'équipe.}
+{222}{}{Prêt à partir ! Assure-toi de rester loin des montagnes.}
+{223}{}{L.A. Boneyard c'est un endroit rude - fais attention. Assure-toi que tout le monde respecte ses tours de garde.}
+{224}{}{L'équipe est presque prête. J'ai entendu dire qu'il y a eu des problèmes autour de L.A. Boneyard récemment - fais gaffe à toi.}
+{225}{}{D'accord, l'équipe de la caravane pour L.A. Boneyard est prête et t'attend.}
+{226}{}{Junktown c'est normalement un trajet court et facile ; tu devrais pas avoir de problèmes.}
+{227}{}{Bien, l'équipe pour la caravane de Junktown est prête.}
+{228}{}{D'accord. Junktown nous attend, allons-y.}
+{229}{}{Tiens, bonjour. Je crois comprendre que tu cherches un boulot. Je suis surpris que Rutger t'ait embauché, mais je suis sûr qu'il a ses raisons. Nos caravanes partent trois fois par mois : le 8, le 18 et le 28. On va régulièrement à trois endroits : la Confrérie de l'Acier, Junktown et L.A. Boneyard. La paie est toujours de 400 capsules, et c'est l'aller simple. Tu peux revenir avec la caravane pour 400 capsules de plus.}
+{230}{}{Tu tombes bien parce qu'elles partent toutes aujourd'hui.}
+{231}{}{Elles partent toutes demain.}
+{232}{}{Elles ne partent que dans }
+{233}{}{ jours.}
+{234}{}{Ça t'intéresse ?}
+{235}{}{Alors, tu veux le boulot ?}
+{236}{}{Elles partent toutes aujourd'hui.}
+{237}{}{Elles partent toutes demain.}
+{238}{}{Elles ne partent que dans }
+{239}{}{ jours.}
+{240}{}{Je suppose que tu veux un boulot. Je pourrais t'en donner un. Ça t'intéresse ?}
+{241}{}{Bien sûr.}
+{242}{}{Non.}
+{243}{}{Tu sais où tu peux te mettre ta caravane.}
+{244}{}{Je sais pas. Faudra que je revienne te voir.}
+{245}{}{Ug.}
+{246}{}{Quelle route tu voulais prendre ?}
+{247}{}{La Confrérie de l'Acier.}
+{248}{}{L.A. Boneyard.}
+{249}{}{Junktown.}
+{250}{}{Désolé, j'ai changé d'avis.}
+{251}{}{Bon, repasse le }
+{252}{}{8}
+{253}{}{18}
+{254}{}{28}
+{255}{}{ et on rassemblera l'équipe.}
+{256}{}{C'est quoi ton problème ?}
+{257}{}{C'est toi le problème, et mon poing est la solution.}
+{258}{}{Tu ferais mieux de faire gaffe.}
+{260}{}{C'est toi.}
+{261}{}{Pas de problème.}
+{262}{}{Ouais, d'accord. Repasse si tu changes d'avis.}

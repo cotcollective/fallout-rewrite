@@ -1,0 +1,206 @@
+{100}{}{Tu vois : Harold.}
+{101}{HROLD0}{Une petite pièce, mon ami, mon pote ? Tu peux aider un pauvre mutant dans la dèche ? *tousse*}
+{102}{}{Ouais, voilà 25 capsules. Bonne chance.}
+{103}{}{Et 5 capsules, ça irait ?}
+{104}{}{Désolé, j'ai pas d'argent sur moi.}
+{105}{}{Reste loin de moi !}
+{106}{}{Hein ?}
+{107}{HROLD1}{Punaise. T'es encore plus mal loti que moi, mon ami. Bonne chance.}
+{108}{HROLD2}{Oh, c'est gentil, mon ami. Très gentil. Tu sais, si j'arrivais à me déboucher les mirettes, tu verrais peut-être une larme dans l'œil du vieux Harold.}
+{109}{}{Pourquoi ça ?}
+{110}{}{De rien.}
+{111}{HROLD3}{*tousse* Le reste des Hubbers me cherchent des noises comme à une vieille crotte de nez depuis que je suis revenu en ville. Mais je peux pas partir. Quand les affaires sont faites *respiration sifflante*, ça reste mon chez-moi.}
+{112}{}{Qu'est-ce qui t'est arrivé ?}
+{113}{}{C'est qui, les Hubbers ?}
+{114}{}{J'espère que ça ira mieux. À plus tard.}
+{115}{HROLD4}{Eh bien, après la Grande Guerre, mon Abri a été un des premiers à s'ouvrir. *grande inspiration* Ouf. Ça date.}
+{116}{}{Raconte-moi plus sur cette époque.}
+{117}{}{Non, non. Je voulais dire, qu'est-ce qui t'a changé ?}
+{118}{HROLD5}{Tout a commencé avec les sirènes. J'étais jeune, mais ohh, je m'en souviens. Des tas d'années terribles ont suivi. Et je me souviens d'être sorti de l'Abri un matin, sur le tard.}
+{119}{}{T'as fait quoi ensuite ?}
+{120}{}{Ton Abri était où ?}
+{121}{}{Tu te rends compte de l'âge que ça te donne ?}
+{122}{HROLD6}{Tu sais, *tousse* je suis plus très sûr. À l'ouest, je crois. Euh attends - à l'est ? Oh, j'en sais rien. *quinte de toux*}
+{123}{}{T'as fait quoi ensuite ?}
+{124}{HROLD7}{Eh bien, j'étais marchand. Je me débrouillais pas mal en faisant la tournée des survivants. J'ai perdu pas mal de braves gens, quand même. *tousse*}
+{125}{}{Comment ?}
+{126}{HROLD8}{Les gangs les ont eus. Des pillards qui attaquaient les caravanes. Et des mutants, nom d'un chien, qui poussaient comme des lapins en mission. *tousse* Fallait une armée de gardes rien que pour faire une affaire.}
+{127}{}{Les gardes aidaient pas ?}
+{128}{}{D'où venaient les mutants ?}
+{129}{HROLD9}{Bien sûr qu'ils aidaient, espèce de tête de nœud ! Juste beaucoup trop nombreux !}
+{130}{}{Comment t'as survécu aux attaques de mutants ?}
+{131}{HROLD9A}{Non. Je suis mort ! *tousse en riant* J'adore cette blague.}
+{132}{}{Euh, ouais.}
+{133}{HROLD10}{Partout ! Bon sang, on aurait dit que tu pouvais pas péter sans en toucher un. Mais surtout au nord-ouest.}
+{134}{}{T'as exploré le coin ?}
+{135}{}{Pourquoi t'as pas juste évité le coin ?}
+{136}{}{T'as pété vers le nord-ouest ?}
+{137}{hrold10a}{*rire étouffé* Pas mal... Noon...}
+{138}{HROLD11}{On a monté une expédition. Bon Dieu, Richard. Richard Grey. Il a mené un petit groupe d'entre nous là-haut.}
+{139}{}{Richard Grey ?}
+{140}{}{Vous êtes allés où exactement ?}
+{141}{HROLD12}{Fallait voir ce qu'il y avait. Peut-être arrêter ce qui crachait ces morveux. On croyait être prêts. On se trompait.}
+{142}{}{Vous avez fait quoi ?}
+{143}{HROLD13}{Je me souviens plus de la route ni rien, mais je suis sacrément sûr que c'était au nord-ouest, quand même... je crois.}
+{144}{}{Y a une version courte de cette histoire ?}
+{145}{}{Et votre chef ?}
+{146}{HROLD14}{Richard Grey était médecin. Un peu plus vieux que moi, et mon ami, qu'est-ce qu'il était intelligent. C'est lui qui a trouvé la source.}
+{147}{}{Et c'était quoi ?}
+{148}{HROLD15}{J'aime la raconter à ma façon. La version courte te coûtera 25 de plus, mon ami. Ce sera quoi ?}
+{149}{}{D'accord, ce sera la longue.}
+{150}{}{La courte.}
+{151}{}{La courte, mais j'ai pas l'argent.}
+{152}{}{Et si c'était ni l'une ni l'autre, vieux croûton ?}
+{153}{HROLD16}{Bon, t'as l'air correct. Je vais accélérer un peu.}
+{154}{}{Merci.}
+{155}{hrold16a}{Mentir à un pauvre vieux mutant. Où va le monde ? *tousse*}
+{156}{hrold17}{Un peu juste niveau fonds, hein ?}
+{157}{hrold17a}{À ma façon ou tu t'en vas. Ton choix, mon ami.}
+{158}{}{Je m'en vais.}
+{159}{}{D'accord. Ce sera la longue.}
+{160}{HROLD18}{Une sorte de vieille base militaire. On a perdu pas mal de monde pour y entrer.}
+{161}{}{Comment vous avez su que cette base était la cause ?}
+{162}{}{Vous vous êtes frottés à quoi ?}
+{163}{HROLD19}{Des robots et tout le bataclan. Un paquet. Putain de surpris qu'ils tournent encore après tout ce temps, avec la guerre et tout. Oh là là, ils nous ont mis une sacrée dérouillée.}
+{164}{}{Vous avez fait quoi une fois passés les robots ?}
+{165}{HROLD20}{Parce que c'était comme si quelqu'un avait fait les soldes à MutantLand ! Punaise ! Moins cher par douzaines ! Je vois pas d'autre raison que ça soit l'usine.}
+{166}{}{Vous avez examiné la base de près ?}
+{167}{HROLD21}{On est allés assez loin à l'intérieur. On n'était plus beaucoup à ce moment-là. Grey, moi et deux-trois autres.}
+{168}{}{Et ensuite ?}
+{169}{HROLD22}{Un de ces robots a eu Francine. Mark était blessé, on l'a renvoyé à la surface. Après c'était plus que Grey et moi.}
+{170}{}{Qu'est-ce qui est arrivé à Mark ?}
+{171}{}{Qu'est-ce qui s'est passé ensuite ?}
+{172}{HROLD23}{À ce jour, j'en sais rien. Il est jamais revenu ici, et... eh bien je... je pouvais plus affronter le désert, alors... j'ai jamais cherché.}
+{173}{}{Et toi et Grey ?}
+{174}{HROLD24}{On a atteint une sorte de noyau central, comme une usine. C'est là que c'est arrivé.}
+{175}{}{Quoi ?}
+{176}{HROLD25}{Une grue robot nous a percutés. La dernière fois que j'ai vu Grey, il volait dans les airs... dans une sorte de bain d'acide. J'étais en mauvais état et... eh bien, je me suis évanoui.}
+{177}{}{Comment t'as survécu ?}
+{178}{}{Et tu n'as jamais revu Grey ?}
+{179}{hrold25a}{Non. Je suis mort ! Haha ! *tousse* Bon Dieu, j'adore cette blague.}
+{180}{}{Ouais, ça se voit.}
+{181}{HROLD26}{Eh bien, j'en ai aucune idée. Je me suis réveillé dans le désert, à peine vivant. J'ai eu de la chance, des marchands que je connaissais m'ont trouvé des jours plus tard. Heureusement, parce que je changeais déjà. Ils m'ont amené ici, et j'y suis depuis.}
+{182}{}{Comment t'as muté ?}
+{183}{}{Sacrée histoire. Merci.}
+{184}{hrold26a}{Eh bien... Merci de m'avoir laissé la raconter.}
+{185}{}{C'était donc la version courte ?}
+{186}{hrold26a}{Eh bien... Merci de m'avoir laissé la raconter.}
+{187}{hrold26b}{Pour moi, oui.}
+{188}{HROLD27}{Non, idiot ! Je viens de dire que je l'ai jamais revu, non ?}
+{189}{}{Comment t'as survécu ?}
+{190}{HROLD28}{Tout ce que je sais, c'est que c'était quelque chose à l'intérieur de cette base.}
+{191}{}{Tu crois que ça pourrait être les radiations ?}
+{192}{}{Désolé, dur coup. Merci pour l'histoire.}
+{193}{HROLD29}{Comment tu veux que je sache ? Grey aurait su, si quelqu'un pouvait. *soupir* Enfin bref, c'est comme ça que ça s'est passé.}
+{194}{}{Merci pour l'histoire.}
+{195}{HROLD30}{Ouais, un siècle ou deux en années de chien.}
+{196}{}{Quoi ?}
+{197}{HROLD31}{Laisse tomber, c'était de mon temps. Je suis grincheux, vieux, et c'est comme ça depuis que j'ai changé.}
+{198}{}{Tu faisais quoi avant que ça t'arrive ?}
+{199}{HROLD32}{Eh bien, j'ai muté. Je suis sûrement pas né aussi laid. C'est arrivé quand on a essayé de découvrir d'où venaient tous les mutants.}
+{200}{}{Qu'est-ce qui s'est passé ?}
+{201}{HROLD33}{C'est du passé. Ça devrait probablement le rester.}
+{202}{}{Raconte-moi ce qui s'est passé, s'il te plaît, ça pourrait m'aider.}
+{203}{}{Comme tu veux.}
+{204}{HROLD34}{Bon, si tu le mets comme ça. J'imagine que ça peut pas faire de mal.}
+{205}{}{Merci.}
+{206}{HROLD35}{Non, non. C'est trop douloureux, même maintenant. Merci pour ton aide, mon ami. Bonne chance.}
+{207}{HROLD36}{T'es au Hub, non ? Les gens qui vivent au Hub ? Les Hubbers. T'as compris ? *tousse* Pff ! Merci pour ton aide et bonne chance... je crois que tu vas en avoir besoin.}
+{208}{HROLD37}{T'es aussi mauvais que les autres. *toux sifflante*}
+{209}{HROLD38}{Oh bon, merci quand même. *tousse*}
+{210}{HROLD39}{Hé, tu peux m'aider, mon ami ?}
+{211}{}{Ouais, voilà 25 capsules.}
+{212}{}{Prends 5 capsules.}
+{213}{}{Me casse pas les pieds.}
+{214}{}{Hein ?}
+{215}{HROLD40}{Hé, merci ! Faut avouer, quand je t'ai vu la première fois, *tousse* je pensais que tu allais me chercher des noises.}
+{216}{}{Pourquoi tu dis ça ?}
+{217}{}{Non, pas moi ! Bonne journée.}
+{218}{HROLD41}{Oh, hé, c'est encore toi.}
+{219}{}{Voilà 20 capsules, si t'en as besoin.}
+{220}{}{Salut.}
+{221}{}{Hein ?}
+{222}{hrold42}{Tu me fais marcher, hein ?}
+{223}{HROLD43}{Je peux faire quelque chose pour toi ?}
+{224}{}{T'as entendu des bons ragots récemment ?}
+{225}{}{J'ai besoin d'infos sur l'Écorcheur, et on m'a dit que t'es l'homme de la situation.}
+{226}{}{C'est quoi ton histoire ?}
+{227}{}{Non.}
+{228}{hrold43a}{Toute l'histoire ? Eh bien...}
+{229}{HROLD44}{Oooh, eh bien merci. J'espère que c'était pas trop dur. *tousse*}
+{230}{HROLD45}{Oooh, ce truc. Mon ami, c'est la ville des cauchemars. Pourquoi tu demandes ça, bon sang ?}
+{231}{}{Je vais le tuer.}
+{232}{}{S'il me rattrape, je veux savoir quoi faire.}
+{233}{HROLD47}{D'accord. Eh bien, c'est comme un sacrément grand bonhomme. Avec des piques et des griffes qui peuvent trancher l'armure la plus lourde. Mais te laisse pas avoir par la taille, c'est rapide.}
+{234}{}{Des faiblesses ?}
+{235}{HROLD49}{Eh bien, d'après ce que j'ai entendu, peut-être lui taper sur la tête ? J'essaierais les yeux. Bien sûr, y a un problème.}
+{236}{}{Quel genre de problème ?}
+{237}{HROLD50}{Tu peux pas les regarder ! On dit que l'Écorcheur peut hypnotiser rien qu'en regardant. Ensuite il s'approche et 'boum', t'es mangé !}
+{238}{}{Super, merci.}
+{239}{HROLD51}{Bonne chance... tu vas en avoir besoin.}
+{240}{}{Ça se pourrait.}
+{241}{HROLD52}{Tu veux pas savoir sur l'Écorcheur, et c'est pas moi qui vais te le dire.}
+{242}{HROLD53}{Eh bien, j'ai entendu qu'un des hommes de Decker retient quelqu'un de la Confrérie de l'Acier prisonnier dans la Vieille Ville.}
+{243}{}{Merci.}
+{244}{HROLD54}{J'y crois pas, mais certains disent qu'une armée de mutants est en route. *tousse*}
+{245}{}{Merci.}
+{246}{HROLD55}{Laisse-moi tranquille. *tousse*}
+{247}{}{Je veux te parler.}
+{248}{}{Voilà un peu d'argent.}
+{249}{HROLD56}{Eh bien, je veux pas te parler. Va-t'en !}
+{250}{HROLD57}{Je veux pas de ton argent. Va-t'en. *tousse*}
+{251}{hrold200}{Autant j'aime marchander, j'ai rien à échanger. *tousse*}
+{252}{hrold201}{J'ai besoin de dormir un peu. Je suis un peu fatigué.}
+{253}{hrold202}{Tu devrais peut-être faire plus attention. *tousse* J'ai entendu que t'as descendu plusieurs personnes récemment.}
+{254}{hrold203}{Euh... Decker te cherche. Il veut te parler. *tousse*}
+{255}{hrold204}{Tout ce que j'ai, c'est des fringues et la liberté, et la deuxième est discutable.}
+{256}{hrold300}{Un gars brillant. Médecin et philosophe. Il y a longtemps, il a mené l'expédition où je suis devenu un mutant.}
+{257}{hrold301}{Qui ? C'est une sorte de sexologue ? J'en aurais bien besoin, tu sais.}
+{258}{hrold302}{Des mutants. Peu importe comment ils s'appellent.}
+{259}{hrold303}{Oh, lui. Il dirige le Cercle des Voleurs. Il se prend pour Robin des Bois. *tousse* Il est pas mal, je suppose.}
+{260}{hrold304}{J'ai vu des religions venir et des religions partir, et j'espère que celle-là va partir. Bientôt.}
+{261}{hrold305}{Ouais, je viens d'un Abri. Trop de monde, pas assez à bouffer ni d'eau. Mais tu connais pas ça, toi, hein ?}
+{262}{hrold306}{Horrible. Le monde est juste devenu fou. Il y a longtemps, mais je l'oublierai jamais. Jamais.}
+{263}{hrold307}{*tousse* Des ennuis. Rien que des ennuis.}
+{264}{hrold400}{Eh bien, comme je disais...}
+{265}{}{Rien, merci.}
+
+#
+# TRANSLATION NOTE: The following groups of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ('my friend' will be masculine); the second line is
+# for the case of the player-character feminine ('my friend' will be feminine).
+#
+
+{266}{HROLD0}{Une petite pièce, mon ami, mon pote ? Tu peux aider un pauvre mutant dans la dèche ? *tousse*}
+{267}{HROLD0}{Une petite pièce, mon amie, ma pote ? Tu peux aider un pauvre mutant dans la dèche ? *tousse*}
+{268}{HROLD2}{Oh, c'est gentil, mon ami. Très gentil. Tu sais, si j'arrivais à me déboucher les mirettes, tu verrais peut-être une larme dans l'œil du vieux Harold.}
+{269}{HROLD2}{Oh, c'est gentil, mon amie. Très gentil. Tu sais, si j'arrivais à me déboucher les mirettes, tu verrais peut-être une larme dans l'œil du vieux Harold.}
+{270}{HROLD35}{Non, non. C'est trop douloureux, même maintenant. Merci pour ton aide, mon ami. Bonne chance.}
+{271}{HROLD35}{Non, non. C'est trop douloureux, même maintenant. Merci pour ton aide, mon amie. Bonne chance.}
+{272}{HROLD39}{Hé, tu peux m'aider, mon ami ?}
+{273}{HROLD39}{Hé, tu peux m'aider, mon amie ?}
+
+#
+# Harold's Tell-Me-Abouts
+#
+{1000}{}{Richard}
+{1001}{}{Maître}
+{1002}{}{Goules}
+{1003}{}{Loxley}
+{1004}{}{Cathédrale}
+{1005}{}{Abri}
+{1006}{}{Guerre}
+{1007}{}{Decker}
+{1008}{}{Grey}
+
+{1100}{hrold300}{Un gars brillant. Médecin et philosophe. Il y a longtemps, il a mené l'expédition où je suis devenu un mutant.}
+{1101}{hrold301}{Qui ? C'est une sorte de sexologue ? J'en aurais bien besoin, tu sais.}
+{1102}{hrold302}{Des mutants. Peu importe comment ils s'appellent.}
+{1103}{hrold303}{Oh, lui. Il dirige le Cercle des Voleurs. Il se prend pour Robin des Bois. *tousse* Il est pas mal, je suppose.}
+{1104}{hrold304}{J'ai vu des religions venir et des religions partir, et j'espère que celle-là va partir. Bientôt.}
+{1105}{hrold305}{Ouais, je viens d'un Abri. Trop de monde, pas assez à bouffer ni d'eau. Mais tu connais pas ça, toi, hein ?}
+{1106}{hrold306}{Horrible. Le monde est juste devenu fou. Il y a longtemps, mais je l'oublierai jamais. Jamais.}
+{1107}{hrold307}{*tousse* Des ennuis. Rien que des ennuis.}
+{1108}{hrold300}{Un gars brillant. Médecin et philosophe. Il y a longtemps, il a mené l'expédition où je suis devenu un mutant.}
+

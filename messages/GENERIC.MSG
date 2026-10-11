@@ -1,0 +1,614 @@
+{100}{}{Qu'est-ce que tu veux ?}
+{101}{}{Laisse-moi tranquille.}
+{102}{}{Quoi ?}
+{103}{}{Touche pas à mes affaires.}
+{104}{}{Salut.}
+{105}{}{Arrrr !}
+{106}{}{Grrrrr !}
+{107}{}{Uungh.}
+{108}{}{Euh.}
+{109}{}{Hé, t'as entendu dire que Set s'est fait buter ?}
+{110}{}{Set est mort. Set est mort. Set est mort...}
+{111}{}{Y a assez d'eau pour tout le monde. Set s'en assure.}
+{112}{}{J'ai entendu dire que les mutants se sont fait chasser de la ville.}
+{113}{}{Depuis que les mutants sont partis, ça va mieux.}
+{114}{}{Bonjour.}
+{200}{}{Tu examines cette pauvre chose, sans comprendre ce qui a pu la rendre ainsi.}
+{201}{}{Ça semble avoir été humain autrefois, ou du moins descendre d'humains. Tu devines que la détérioration du corps est probablement due à l'acide ou aux radiations.}
+{202}{}{Le corps de l'humanoïde semble hautement irradié, mais encore fonctionnel. Bien qu'autrefois humain, il semble avoir régressé vers un mode de vie plus animal.}
+{203}{}{Le corps de l'humanoïde semble hautement irradié, et une bonne partie des muscles et de la matière cérébrale semblent détériorés. Pourtant, les indicateurs génétiques te portent à croire qu'il descend, comme toi, de ceux qui sont entrés dans les Abris.}
+{204}{}{Non merci.}
+{205}{}{Non merci.}
+{206}{}{Bien sûr.}
+{207}{}{Oui.}
+{208}{}{Non.}
+{209}{}{D'accord.}
+
+#############################################################
+#  The following lines are generic noises that the player   #
+#  makes when he/she has a low i.q. level.                  #
+#############################################################
+{300}{}{Ug.}
+{301}{}{Og.}
+{302}{}{Ouga.}
+{303}{}{Urg.}
+
+#############################################################
+#  The following lines are generic non-spoken dialogs       #
+#############################################################
+{350}{}{[FIN]}
+{351}{}{[AU REVOIR]}
+{352}{}{[SUITE]}
+{353}{}{[CONTINUER]}
+{354}{}{[COMBAT]}
+{355}{}{[DONNER DE L'ARGENT]}
+
+#############################################################
+#  The following lines are generic departure dialogs        #
+#############################################################
+{375}{}{Salut.}
+{376}{}{Au revoir.}
+
+#############################################################
+#  The following lines are for special events in the        #
+#  dude_obj                                                 #
+#############################################################
+{450}{}{La voie est libre. On y va !}
+
+#############################################################
+#  The following lines are for miscellaneous things needed    #
+#  throughout the game.                                     #
+#############################################################
+
+{900}{}{La vieille porte usée semble pouvoir être détruite avec un explosif bien placé.}
+
+{905}{}{Ouaf ! Ouaf !}
+
+{910}{}{Tu es secoué par le sol électrifié.}
+{911}{}{ est secoué par le sol électrifié.}
+{912}{}{Le niveau d'énergie tombe à zéro puis remonte à 50 % quand les générateurs de secours démarrent.}
+{913}{}{Un léger bourdonnement se fait entendre tandis que l'énergie circule à nouveau dans la base.}
+
+{930}{}{Houuuuu !}
+
+{950}{}{Tu prends un moment pour t'entraîner. Tes compétences en corps à corps augmentent de 5 %.}
+
+{951}{}{Le rat-taupe combattant tente le coup de grâce.}
+{952}{}{Le match est terminé.}
+{953}{}{Tu prends un moment pour t'entraîner.}
+{954}{}{Tu mets tes lunettes de vision nocturne.}
+{955}{}{Tu retires tes lunettes de vision nocturne.}
+{956}{}{Tu n'apprends rien de nouveau.}
+{957}{}{Tu en apprends beaucoup sur le maniement des armes lourdes.}
+{958}{}{Tu en apprends beaucoup sur le maniement des armes à énergie.}
+{959}{}{Tu en apprends beaucoup sur les techniques médicales.}
+{960}{}{Tu en apprends beaucoup sur le crochetage.}
+{961}{}{Tu en apprends beaucoup sur la science et la technologie.}
+{962}{}{Tu en apprends beaucoup sur les explosifs et les pièges.}
+{963}{}{Tes talents de communication s'améliorent.}
+{964}{}{Tu en apprends beaucoup sur le commerce.}
+{965}{}{Tu n'as pas l'intelligence nécessaire pour comprendre ce livre.}
+{966}{}{Ce livre est un peu trop avancé pour tes connaissances actuelles sur le sujet.}
+{967}{}{Tu acquiers de nouvelles capacités grâce à une étude assidue.}
+{968}{}{Ton vocabulaire s'améliore.}
+{969}{}{Ton éloquence s'améliore.}
+{970}{}{Tu en apprends beaucoup sur la survie en plein air.}
+{971}{}{Tu en apprends beaucoup sur l'électronique avancée.}
+
+#############################################################
+#  Quest Information. Mainly used for solving quests        #
+#############################################################
+
+{1003}{}{Tu désactives les champs de force.}
+{1004}{}{Tu pirates l'ordinateur.}
+{1012}{}{ALERTE ! Fusion COMPLÈTE du réacteur !}
+{1013}{}{ALERTE ! TOXINES libérées dans les conduits d'aération.}
+
+{1050}{}{Tu réduis le venin de scorpion en antidote.}
+
+#############################################################
+#  These are for converting numeric values to number words. #
+#  You want it to go further, add 'em yourself.             #
+#############################################################
+{2000}{}{zéro}
+{2001}{}{un}
+{2002}{}{deux}
+{2003}{}{trois}
+{2004}{}{quatre}
+{2005}{}{cinq}
+{2006}{}{six}
+{2007}{}{sept}
+{2008}{}{huit}
+{2009}{}{neuf}
+{2010}{}{dix}
+{2011}{}{onze}
+{2012}{}{douze}
+{2013}{}{treize}
+{2014}{}{quatorze}
+{2015}{}{quinze}
+{2016}{}{seize}
+{2017}{}{dix-sept}
+{2018}{}{dix-huit}
+{2019}{}{dix-neuf}
+{21020}{}{vingt}
+{2021}{}{vingt et un}
+{2022}{}{vingt-deux}
+{2023}{}{vingt-trois}
+{2024}{}{vingt-quatre}
+{2025}{}{vingt-cinq}
+{2026}{}{vingt-six}
+{2027}{}{vingt-sept}
+{2028}{}{vingt-huit}
+{2029}{}{vingt-neuf}
+{2030}{}{trente}
+{2031}{}{trente et un}
+{2032}{}{trente-deux}
+{2033}{}{trente-trois}
+{2034}{}{trente-quatre}
+{2035}{}{trente-cinq}
+{2036}{}{trente-six}
+{2037}{}{trente-sept}
+{2038}{}{trente-huit}
+{2039}{}{trente-neuf}
+{2040}{}{quarante}
+{2041}{}{quarante et un}
+{2042}{}{quarante-deux}
+{2043}{}{quarante-trois}
+{2044}{}{quarante-quatre}
+{2045}{}{quarante-cinq}
+{2046}{}{quarante-six}
+{2047}{}{quarante-sept}
+{2048}{}{quarante-huit}
+{2049}{}{quarante-neuf}
+{2050}{}{cinquante}
+{2051}{}{cinquante et un}
+{2052}{}{cinquante-deux}
+{2053}{}{cinquante-trois}
+{2054}{}{cinquante-quatre}
+{2055}{}{cinquante-cinq}
+{2056}{}{cinquante-six}
+{2057}{}{cinquante-sept}
+{2058}{}{cinquante-huit}
+{2059}{}{cinquante-neuf}
+{2060}{}{soixante}
+{2061}{}{soixante et un}
+{2062}{}{soixante-deux}
+{2063}{}{soixante-trois}
+{2064}{}{soixante-quatre}
+{2065}{}{soixante-cinq}
+{2066}{}{soixante-six}
+{2067}{}{soixante-sept}
+{2068}{}{soixante-huit}
+{2069}{}{soixante-neuf}
+{2070}{}{soixante-dix}
+{2071}{}{soixante et onze}
+{2072}{}{soixante-deux}
+{2073}{}{soixante-trois}
+{2074}{}{soixante-quatre}
+{2075}{}{soixante-cinq}
+{2076}{}{soixante-six}
+{2077}{}{soixante-sept}
+{2078}{}{soixante-huit}
+{2079}{}{soixante-neuf}
+{2080}{}{quatre-vingts}
+{2081}{}{quatre-vingt-un}
+{2082}{}{quatre-vingt-deux}
+{2083}{}{quatre-vingt-trois}
+{2084}{}{quatre-vingt-quatre}
+{2085}{}{quatre-vingt-cinq}
+{2086}{}{quatre-vingt-six}
+{2087}{}{quatre-vingt-sept}
+{2088}{}{quatre-vingt-huit}
+{2089}{}{quatre-vingt-neuf}
+{2090}{}{quatre-vingt-dix}
+{2091}{}{quatre-vingt-dix-un}
+{2092}{}{quatre-vingt-dix-deux}
+{2093}{}{quatre-vingt-dix-trois}
+{2094}{}{quatre-vingt-dix-quatre}
+{2095}{}{quatre-vingt-dix-cinq}
+{2096}{}{quatre-vingt-dix-six}
+{2097}{}{quatre-vingt-dix-sept}
+{2098}{}{quatre-vingt-dix-huit}
+{2099}{}{quatre-vingt-dix-neuf}
+{2100}{}{cent}
+
+#############################################################
+#  These are generic Reactions to the player's actions in   #
+#  the game to other NPC's. NPC's float these lines.        #
+#############################################################
+
+######
+#  Caught Pickpocketing (Warning)  (3000-3299)
+######
+
+# Tough Guard (3000-3024)
+{3000}{}{}
+
+# Guard (3025-3049)
+{3025}{}{}
+
+# Tough Citizen (3050-3074)
+{3050}{}{Si tu recommences, je vais devoir te tuer.}
+{3051}{}{J'ai rien à voler, idiot.}
+{3052}{}{Je crois pas qu'on se connaisse *si* bien.}
+{3053}{}{Retouche à ça et tu vas le payer.}
+{3054}{}{Bas les pattes !}
+{3055}{}{Refais ça et je t'arrache la tête.}
+{3056}{}{Pas touche !}
+{3057}{}{Tu cherches les ennuis ?}
+{3058}{}{Retouche-moi et tu meurs.}
+{3059}{}{Y a que les ennuis qui sont gratuits.}
+{3060}{}{Hé ! Recule.}
+{3061}{}{Attention !}
+{3062}{}{T'as envie de mourir ?}
+{3063}{}{Recommence et je te défonce la tête.}
+{3064}{}{C'est à moi ; pas touche !}
+
+# Citizen (3075-3099)
+{3075}{}{}
+
+# Custom (3100-3299)
+{3100}{}{ a rejoint le groupe}
+{3101}{}{ a quitté le groupe}
+
+######
+#  Caught Stealing from Something (Warning)   (3300-3599)
+######
+
+# Tough Guard (3300-3324)
+{3300}{}{}
+
+# Guard (3325-3349)
+{3325}{}{Pourquoi tu remettrais pas tout là où tu l'as pris ?}
+{3326}{}{Tu sais, c'est pas bien de prendre ce qui t'appartient pas.}
+{3327}{}{Éloigne-toi de là, petit con !}
+{3328}{}{Me dis pas que tu "cherches juste tes clés". Dégage d'ici !}
+{3329}{}{Quoi que tu cherches, c'est pas là. Compris ?}
+
+# Tough Citizen (3350-3374)
+{3350}{}{}
+
+# Citizen (3375-3399)
+{3375}{}{}
+
+# Custom (3400-3599)
+{3400}{}{Outil de triche du Cpt. Corpse.}
+{3401}{}{Ajouter au groupe : ajoute l'objet ciblé à ton groupe.  Cibles valides : créatures et objets. (pas sur le joueur)}
+{3402}{}{Retirer du groupe : retire l'objet ciblé du groupe. (pas sur le joueur)}
+{3403}{}{Donner armure et équiper : crée une Adv Power Armor MkII sur la cible et l'équipe. (Joueur et PNJ seulement)}
+{3404}{}{Retirer armure : retire l'armure de la cible de son emplacement d'armure}
+{3405}{}{Mettre PV max à 250 (ne fonctionne pas)}
+{3406}{}{Créer drogues de résistance (nécessite le patch add-on)}
+{3407}{}{ pour manier cet objet ?}
+{3408}{}{Retirer arme : fait ranger son arme à un PNJ}
+{3409}{}{Changer l'apparence du PNJ}
+{3410}{}{Détruire décor ou mur : pratique pour dégager un passage}
+{3411}{}{Donner de l'expérience}
+{3412}{}{Pousser le PNJ ciblé}
+{3413}{}{Donner de l'argent}
+{3414}{}{Créer objet : crée un objet précis sur la cible}
+{3415}{}{Soigner joueur ou PNJ : soigne aussi les membres estropiés}
+{3416}{}{Changer les stats du PNJ}
+{3417}{}{Choisir une catégorie}
+{3418}{}{Stats de base}
+{3419}{}{Force}
+{3420}{}{Perception}
+{3421}{}{Endurance}
+{3422}{}{Charisme}
+{3423}{}{Intelligence}
+{3424}{}{Agilité}
+{3425}{}{Chance}
+{3426}{}{Points de vie}
+{3427}{}{Points d'action}
+{3428}{}{Dégâts au corps à corps}
+{3429}{}{Charge maximale}
+{3430}{}{Séquence}
+{3431}{}{Taux de guérison}
+{3432}{}{Chance de critique}
+{3433}{}{Critiques améliorés}
+{3434}{}{Âge}
+{3435}{}{Sexe}
+{3436}{}{Stats du joueur}
+{3437}{}{Points de compétence}
+{3438}{}{Réputation}
+{3439}{}{Karma}
+{3499}{}{Numéro d'équipe défini}
+{3500}{}{Numéro d'équipe : }
+{3501}{}{Quantité}
+{3502}{}{+1}
+{3503}{}{+10}
+{3504}{}{+100}
+{3505}{}{-1}
+{3506}{}{-10}
+{3507}{}{-100}
+{3508}{}{+1000}
+{3509}{}{+10000}
+{3510}{}{+100000}
+{3511}{}{Caisses (2)}
+{3512}{}{Caisses (1)}
+{3513}{}{Frigo}
+{3514}{}{Glacière}
+{3515}{}{Caisse de munitions (grande)}
+{3516}{}{Ordre }
+{3517}{}{Chariot (rouge)}
+{3518}{}{Chariot (blanc)}
+{3519}{}{Coffre-fort au sol}
+{3520}{}{Coffre}
+{3521}{}{Donner un objet}
+
+######
+#  Caught Lockpicking Door (Warning)   (3600-3899)
+######
+
+# Tough Guard (3600-3624)
+{3600}{}{}
+
+# Guard (3625-3649)
+{3625}{}{Hé, toi ! Tu fouines quoi là ?}
+{3626}{}{Si t'as pas une clé en main, tu ferais mieux de t'éloigner.}
+{3627}{}{C'est verrouillé pour une raison, petit con.}
+{3628}{}{Arrête ça avant qu'il y ait des ennuis !}
+
+# Tough Citizen (3650-3674)
+{3650}{}{}
+
+# Citizen (3675-3699)
+{3675}{}{}
+
+# FRM function (3700-3899)
+{3700}{}{Changer le FRM de la cible}
+{3701}{}{Armure assistée}
+{3702}{}{Robes violettes}
+{3703}{}{Armure de combat (F)}
+{3704}{}{Combinaison A13 (F)}
+{3705}{}{Armure de cuir (F)}
+{3706}{}{Mad Maxx (F)}
+{3707}{}{Armure métallique (F)}
+{3708}{}{Combinaison A13 (HC)}
+{3709}{}{Armure métallique (HC)}
+{3710}{}{Armure de combat (H)}
+{3711}{}{Combinaison A13 (H)}
+{3712}{}{Armure de cuir (H)}
+{3713}{}{Mad Maxx (H)}
+{3714}{}{Armure métallique (H)}
+{3715}{}{Brahmine}
+{3716}{}{Chien}
+{3717}{}{M. Handy}
+{3718}{}{Lt Lou (patch ColJack requis)}
+{3719}{}{Rat-taupe}
+{3720}{}{Cuir noir (SM)}
+{3721}{}{Mutant vert}
+{3722}{}{Grand radscorpion}
+{3723}{}{Flotteur}
+{3724}{}{Rat}
+{3725}{}{Centaure}
+{3726}{}{Robe bleue}
+{3727}{}{Enfant}
+{3728}{}{Goule verte}
+{3729}{}{Radieux}
+{3730}{}{Armure assistée (sans casque)}
+{3731}{}{Moine}
+{3732}{}{Blonde}
+{3733}{}{Punk}
+{3734}{}{Armure métallique (F pantalon jaune)}
+{3735}{}{Tandi}
+{3736}{}{Traînée}
+{3737}{}{Combinaison A13 (F rousse)}
+{3738}{}{Paysan noir (chemise rouge)}
+{3739}{}{Paysan (chemise jaune)}
+{3740}{}{Paysan chauve (chemise verte)}
+{3741}{}{Nain roux}
+{3742}{}{Raté}
+{3743}{}{Armure de cuir (H chauve)}
+{3744}{}{Veste de cuir (brute aux cheveux longs)}
+{3745}{}{Paysan (casquette bleue)}
+{3746}{}{Écorcheur adulte}
+{3747}{}{Mante}
+{3748}{}{Robocerveau}
+{3749}{}{Œil flottant}
+{3750}{}{Rat-cochon}
+{3751}{}{Robes brunes}
+{3752}{}{Docteur chauve}
+{3753}{}{Œuf}
+{3754}{}{Petit radscorpion}
+{3755}{}{Petit écorcheur}
+{3761}{}{Robot sentinelle}
+{3764}{}{Citoyen}
+{3769}{}{Citoyenne}
+{3774}{}{Goule neutre}
+{3778}{}{Combinaison d'Abri (F noire)}
+{3779}{}{Robes noires}
+{3782}{}{Flic}
+{3784}{}{Technicien}
+{3798}{}{[FIN]}
+{3799}{}{ }
+{3800}{}{[RETOUR]}
+{3801}{}{[RETOUR AU MENU]}
+{3802}{}{[SORTIE]}
+{3803}{}{Entrer le PID de l'objet (format 4 chiffres : 0000) }
+{3804}{}{Premier chiffre (1000)}
+{3805}{}{Deuxième chiffre (100)}
+{3806}{}{Troisième chiffre   (10)}
+{3807}{}{Quatrième chiffre   (1)}
+{3808}{}{PID : }
+{3809}{}{Nom de l'objet : }
+{3810}{}{Objet cible invalide}
+
+######
+#  Caught Sneaking (Warning)    (3900-4199)
+######
+
+# Tough Guard (3900-3925)
+{3900}{}{}
+
+# Guard (3925-3949)
+{3925}{}{Hé, toi ! Tu fais quoi là ?}
+{3926}{}{T'as rien à faire ici !}
+{3927}{}{Si tu crois passer devant moi comme ça, oublie !}
+{3928}{}{T'as intérêt à pas préparer ce que je crois que tu prépares, étranger.}
+{3929}{}{Quoi ? Tu crois que je te vois pas ? Dégage !}
+
+# Tough Citizen (3950-3974)
+{3950}{}{}
+
+# Citizen (3975-3999)
+{3975}{}{}
+
+# Custom (4000-4199)
+{4000}{}{Vérifier les résistances et seuils de dégâts.}
+{4001}{}{%}
+{4002}{}{ a été soigné.}
+{4003}{}{La jambe gauche estropiée est guérie.}
+{4004}{}{La jambe droite estropiée est guérie.}
+{4005}{}{Le bras gauche estropié est guéri.}
+{4006}{}{Le bras droit estropié est guéri.}
+{4007}{}{L'œil endommagé est guéri.}
+{4008}{}{ n'est pas blessé.}
+{4010}{}{SEUILS ET RÉSISTANCES :}
+{4011}{}{/}
+{4012}{}{--}
+{4100}{}{Normal :    }
+{4101}{}{Laser :     }
+{4102}{}{Feu :       }
+{4103}{}{Plasma :    }
+{4104}{}{Électrique :}
+{4105}{}{IEM :       }
+{4106}{}{Explosion : }
+{4107}{}{Radiation : }
+{4108}{}{Poison :    }
+{4109}{}{ semble en bonne santé.}
+
+######
+#  Being Attacked by the player (Warning)    (4200-4499)
+######
+
+# Tough Guard (4200-4225)
+{4200}{}{}
+
+# Guard (4225-4249)
+{4225}{}{}
+
+# Tough Citizen (4250-4274)
+{4250}{}{}
+
+# Citizen (4275-4299)
+{4275}{}{}
+
+# Custom (4300-4499)
+{4300}{}{Oui, Maître ?}
+{4301}{}{}
+
+######
+#  Call for Help Guards  (4500-4799)
+######
+
+# Tough Guard (4500-4525)
+{4500}{}{}
+
+# Guard (4525-4549)
+{4525}{}{}
+
+# Tough Citizen (4550-4574)
+{4550}{}{}
+
+# Citizen (4575-4599)
+{4575}{}{}
+
+# Custom (4600-4799)
+{4600}{}{}
+
+######
+# Call for Help Others    (4800-5099)
+######
+
+# Tough Guard (4800-4825)
+{4800}{}{}
+
+# Guard (4825-4849)
+{4825}{}{}
+
+# Tough Citizen (4850-4874)
+{4850}{}{}
+
+# Citizen (4875-4899)
+{4875}{}{}
+
+# Custom (4900-5099)
+{4900}{}{}
+
+######
+#  Attack Player  [War Cries]   (5100-5399)
+######
+
+# Tough Guard (5100-5125)
+{5100}{}{}
+
+# Guard (5125-5149)
+{5125}{}{}
+
+# Tough Citizen (5150-5174)
+{5150}{}{}
+
+# Citizen (5175-5199)
+{5175}{}{}
+
+
+########################################
+########################################
+########################################
+# Custom (5200-5399)
+# END GAME MOD BY CORPSE, W/ ADDITIONS BY SDUIBEK
+
+{5201}{}{Veux-tu continuer à jouer à Fallout Fixt avec ce personnage ?}
+{5203}{}{Oui.  [CONTINUER À JOUER : cette fenêtre de dialogue va se fermer et tu resteras sur cette carte. Le jeu continue normalement.]}
+{5202}{}{Non.  [FIN DU JEU : séquence cinématique et générique, puis RETOUR AU MENU PRINCIPAL.]}
+
+########################################
+########################################
+########################################
+
+
+# Watched Comments(5400-5599)
+{5400}{}{Reste loin de là.}
+
+# For Repair Bots
+{9000}{}{Réparations terminées.}
+{9001}{}{Réarmement terminé.}
+{9002}{}{Réparation des dommages structurels en cours.}
+{9003}{}{Aucun dommage structurel détecté.}
+{9004}{}{Fonction de réparation.}
+{9005}{}{Entrez une commande.}
+{9006}{}{Garder cet endroit.}
+{9007}{}{Initialisation de la fonction sentinelle.}
+{9008}{}{Équiper l'armement.}
+{9009}{}{Tu n'en as pas dans ton inventaire.}
+{9010}{}{Fusil à plasma.}
+{9011}{}{Fusil laser.}
+{9012}{}{Minigun.}
+{9013}{}{Laser Gatling.}
+{9014}{}{Armes.}
+{9015}{}{Munitions.}
+{9016}{}{5mm JHP.}
+{9017}{}{5mm AP.}
+{9018}{}{Cellule d'énergie.}
+{9019}{}{M. Handy est programmé pour utiliser des armes à énergie et des miniguns.}
+
+# default options for party members
+{10000}{}{Raconte-moi quelque chose.}
+{10001}{}{Tu devrais te soigner maintenant.}
+{10002}{}{J'ai besoin que tu m'attendes ici jusqu'à mon retour.}
+{10003}{}{Range ton arme.}
+{10004}{}{Reste près de moi.}
+{10005}{}{T'éloigne pas trop.}
+{10006}{}{On devrait s'éparpiller un peu.}
+{10007}{}{C'est tout pour l'instant.}
+{10008}{}{On doit changer la distance entre nous.}
+{10009}{}{Faut que je te parle de ton équipement.}
+{10010}{}{À la réflexion, cette distance me va pour l'instant.}
+{10011}{}{En fait, j'ai rien de spécial à savoir sur ton équipement.}
+{10012}{}{J'ai besoin que tu retires l'armure que tu portes.}
+{10013}{}{J'ai besoin de savoir quelles armes tu peux utiliser.}
+
+# default join me again message
+{10100}{}{On y va.}
+

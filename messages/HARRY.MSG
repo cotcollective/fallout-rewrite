@@ -1,0 +1,164 @@
+{100}{}{Tu vois : Harry, le Super-mutant.}
+{101}{Harry_0}{Hé ! Toi pas ressembler à goule. Pourquoi ?}
+{102}{}{C'est parce que je me suis habillé très chic aujourd'hui.}
+{103}{}{Mais je suis une goule !}
+{104}{}{Laisse-moi deviner... parce que je suis pas une goule ?}
+{105}{}{Hein ?}
+{106}{Harry_0a}{Hein ?}
+{107}{Harry_0a}{Hein ?}
+{108}{Harry_0b}{Koi ?}
+{109}{}{Maman ?}
+{110}{Harry_01}{Oooo... C'était chic, hein ?}
+{111}{}{Nan, je te taquinais. Je suis pas une goule.}
+{112}{}{Tu fais quoi ici ?}
+{113}{Harry_02}{Toi pas goule ! Moi savoir, moi savoir ! Pas tromper Harry !}
+{114}{}{Ouais, c'est assez évident.}
+{115}{}{T'as raison. Et maintenant que tu sais, va falloir que je te tue.}
+{116}{Harry_03}{Toi pas goule. Ordres disent pas-goule, pas être ici.}
+{117}{}{C'est qui qui donne les ordres ?}
+{118}{}{D'accord, merci. Je m'en vais.}
+{119}{Harry_04}{Lou dire moi garder endroit. Laisser entrer personne. Pas normaux surtout. Amener normaux au Lou. Hé...}
+{120}{}{Mais je suis pas un normal !}
+{121}{}{D'accord, allons voir Lou.}
+{122}{}{Zut. Et si c'était : « Pas te laisser vivre » ?}
+{123}{Harry_05}{Oh ho-ho, tu vas voir bientôôôt.}
+{124}{Harry_06}{Oh, euh, d'accord. Bonne... journée.}
+{125}{Harry_07}{Harry croit qu'il va t'écraser la tête maintenant.}
+{126}{Harry_08}{Ooo... Harry confus. Toi pas goule. Toi pas normal. Hmm, toi quoi ? *marmonne*}
+{127}{}{Je suis une nouvelle race de Super-mutant.}
+{128}{}{Je suis un robot très avancé.}
+{129}{}{D'accord, je suis un normal.}
+{130}{Harry_09}{Non ! Harry sait que non. Pas comme toi !}
+{131}{Harry_10}{Oh, d'accord. Harry réfléchit quoi faire.}
+{132}{Harry_11}{Pas comme toi. Te faire mal maintenant. Mal.}
+{133}{Harry_12}{Euh, bonjour, jolie dame. T'es vraiment belle.}
+{134}{}{T'es occupé ? J'aurais besoin d'un homme grand et fort.}
+{135}{}{Rapproche-toi un peu. J'ai quelque chose pour toi.}
+{136}{Harry_13}{Harry doit garder cet endroit. Doit rester juste ici.}
+{137}{}{Ahh, je comprends. Bonne journée, alors.}
+{138}{}{Ça me rend triste.}
+{139}{Harry_14}{Hé, toi un normal ! Faut t'amener au Lou. Maintenant !}
+{140}{}{S'il te plaît, fais pas ça. Laisse-moi partir.}
+{141}{}{Ah, zut alors ! Regarde ces charmes féminins, mutant !}
+{142}{Harry_15}{Ohhh... Pars vite ou Harry avoir des ennuis.}
+{143}{Harry_16}{D'accord. Pars maintenant. Faut garder l'œil pour humains. Pas temps pour toi.}
+{144}{Harry_17}{T'as quoi pour moi ?}
+{145}{}{Une p'tite tape rien que pour toi...}
+{146}{}{Un p'tit bisou rien que pour toi.}
+{147}{Harry_18}{Toi faire mal aux amis de Harry ! Moi... te faire... mal !}
+{148}{Harry_19}{Ohhh... Toi encore ? Tu veux quoi maintenant ?}
+{149}{}{Je veux que tu m'amènes à tes supérieurs.}
+{150}{}{Rien, je passais juste.}
+{151}{}{Je suis revenu te botter le cul.}
+{152}{Harry_20}{Euh... D'accord. Passe ton chemin alors.}
+{153}{Harry_21}{Hé, toi un normal ! Toi venir avec Harry !}
+{154}{Harry_22}{Hmm... D'accord. T'amener au Lou.}
+{155}{Harry_23}{Euh... oui. Toi normal de premier choix. Le Lou va être content. Emmener, emmener.}
+{156}{}{Attends, attends ! Tu comprends pas.}
+{157}{}{Je vais te tuer à mains nues.}
+{158}{Harry_24}{Pas besoin. Harry suit ordres. Amener au Lou.}
+{159}{Harry_25}{Harry croit pas, mais tu peux essayer. Lâchez, les gars.}
+{160}{Harry_26}{Hé, Harry entendre parler de toi. Toi casser les Cuves !}
+{161}{}{Ouais, c'est moi. Et maintenant je vais t'éliminer.}
+{162}{}{Oui, c'est moi. Tu vas faire quoi ?}
+{163}{}{Mouais.}
+{164}{Harry_27}{Euh, moi te laisser partir. D'accord ? Toi plus montrer visage ici ? S'il te plaît ?}
+{165}{}{Pas suffisant.}
+{166}{}{Adieu. Je m'attends pas à te revoir.}
+{167}{}{Euh.}
+{168}{Harry200}{Pas besoin de te dire quoi que ce soit !}
+{169}{Harry201}{Toi tuer Larry !}
+{170}{Harry202}{Toi tuer Gary !}
+{171}{Harry203}{Toi tuer mon frère, Barry !}
+{172}{Harry204}{Toi tuer Terry !}
+{173}{Harry205}{Toi tuer Sally ! Il avait un nom nul. Mais pas raison de le tuer !}
+{174}{Harry26}{Pas m'embêter. Laisser tranquille !}
+{175}{Harry207}{Euh... Pas savoir.}
+{176}{Harry300}{Moi pas savoir, mais croire lui comme un chef gens.}
+{177}{Harry301}{Lui Lou Tenant. Lui mon chef. Le dis pas lui, mais Harry pourrait le battre un bon jour.}
+{178}{Harry302}{Set une poule mouillée. Lui croire lui diriger endroit, mais c'est nous qui dirigeons.}
+{179}{Harry303}{Le quoi ?}
+{180}{Harry304}{Hmph ! Minus.}
+{181}{Harry305}{Faibles. Pas savoir pourquoi le Lou veut normaux. Ils sont nuls !}
+{182}{Harry306}{Ici, idiot. *soupir* Toi stupide ?}
+{183}{Harry307}{L'U-U-U-Unité, je sais pas.}
+{184}{Harry308}{Bien pour petits gars. Harry blessé une fois et ils réparent. Rendent parfait encore !}
+{185}{}{HARRY SE BAT MAINTENANT !}
+{186}{}{HARRY SE BAT MAINTENANT !}
+{187}{}{HARRY SE BAT MAINTENANT !}
+{188}{}{HARRY SE BAT MAINTENANT !}
+{189}{}{HARRY ATTEND 30 SECONDES !}
+{190}{}{HARRY PART MAINTENANT !}
+{191}{}{Tu m'amènes nulle part !}
+{192}{}{D'accord, amène-moi à ton chef.}
+{193}{}{Le mutant t'ignore.}
+
+
+#
+# Harry Tell-Me-Abouts
+#
+{970}{Harry_0b}{Koi ?}
+
+{980}{Harry_0a}{Hein ?}
+{981}{Harry_0b}{Koi ?}
+{982}{Harry207}{Euh... Pas savoir.}
+{983}{Harry303}{Le quoi ?}
+{984}{Harry200}{Pas besoin de te dire quoi que ce soit !}
+
+{1000}{}{Maître}
+{1001}{}{Lou}
+{1002}{}{Set}
+{1003}{}{Hangar}
+{1004}{}{Goules}
+{1005}{}{Normaux}
+{1006}{}{Nécropolis}
+{1007}{}{Unité}
+{1008}{}{Cathédrale}
+{1009}{}{Puce}
+{1010}{}{Hall}
+{1011}{}{Eau}
+{1012}{}{Humain}
+{1013}{}{Normaux}
+{1014}{}{Normaux}
+{1015}{}{Enfants}
+{1016}{}{Enfants de la Cathédrale}
+{1017}{}{Hangar d'eau}
+{1018}{}{Lieutenant}
+{1019}{}{Liutenant}
+{1020}{}{Lou}
+{1021}{}{Lou Tenant}
+{1022}{}{Larry}
+{1023}{}{Barry}
+{1024}{}{Gary}
+{1025}{}{Terry}
+{1026}{}{Sally}
+{1027}{}{Hangar d'eau}
+
+{1100}{Harry300}{Moi pas savoir, mais croire lui comme un chef gens.}
+{1101}{Harry301}{Lui Lou Tenant. Lui mon chef. Le dis pas lui, mais Harry pourrait le battre un bon jour.}
+{1102}{Harry302}{Set une poule mouillée. Lui croire lui diriger endroit, mais c'est nous qui dirigeons.}
+{1103}{Harry306}{Ici, idiot. *soupir* Toi stupide ?}
+{1104}{Harry304}{Hmph ! Minus.}
+{1105}{Harry305}{Faibles. Pas savoir pourquoi le Lou veut normaux. Ils sont nuls !}
+{1106}{Harry306}{Ici, idiot. *soupir* Toi stupide ?}
+{1107}{Harry307}{L'U-U-U-Unité, je sais pas.}
+{1108}{Harry308}{Bien pour petits gars. Harry blessé une fois et ils réparent. Rendent parfait encore !}
+{1109}{Harry303}{Le quoi ?}
+{1110}{Harry207}{Euh... Pas savoir.}
+{1111}{Harry207}{Euh... Pas savoir.}
+{1112}{Harry305}{Faibles. Pas savoir pourquoi le Lou veut normaux. Ils sont nuls !}
+{1113}{Harry305}{Faibles. Pas savoir pourquoi le Lou veut normaux. Ils sont nuls !}
+{1114}{Harry305}{Faibles. Pas savoir pourquoi le Lou veut normaux. Ils sont nuls !}
+{1115}{Harry308}{Bien pour petits gars. Harry blessé une fois et ils réparent. Rendent parfait encore !}
+{1116}{Harry308}{Bien pour petits gars. Harry blessé une fois et ils réparent. Rendent parfait encore !}
+{1117}{Harry306}{Ici, idiot. *soupir* Toi stupide ?}
+{1118}{Harry301}{Lui Lou Tenant. Lui mon chef. Le dis pas lui, mais Harry pourrait le battre un bon jour.}
+{1119}{Harry301}{Lui Lou Tenant. Lui mon chef. Le dis pas lui, mais Harry pourrait le battre un bon jour.}
+{1120}{Harry301}{Lui Lou Tenant. Lui mon chef. Le dis pas lui, mais Harry pourrait le battre un bon jour.}
+{1121}{Harry301}{Lui Lou Tenant. Lui mon chef. Le dis pas lui, mais Harry pourrait le battre un bon jour.}
+{1122}{Harry200}{Pas besoin de te dire quoi que ce soit !}
+{1123}{Harry200}{Pas besoin de te dire quoi que ce soit !}
+{1124}{Harry200}{Pas besoin de te dire quoi que ce soit !}
+{1125}{Harry200}{Pas besoin de te dire quoi que ce soit !}
+{1126}{Harry200}{Pas besoin de te dire quoi que ce soit !}
+{1127}{Harry306}{Ici, idiot. *soupir* Toi stupide ?}

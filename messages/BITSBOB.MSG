@@ -1,0 +1,166 @@
+{100}{}{Tu vois : Bob, propriétaire du Bob's Iguana Bits.}
+{101}{}{D'accord, d'accord, j'ai ton argent.}
+{102}{}{J'ai plus de dépenses. Faut que j'augmente le paiement.}
+{103}{}{J'en ai marre. Je veux TOUT ton fric, MAINTENANT, ou t'es un Bob mort.}
+{104}{}{Je supporte pas la pression. J'annule les paiements.}
+{105}{}{Je veux des informations sur Decker.}
+{106}{}{Je veux des informations sur Doc Morbid.}
+{107}{}{File-moi un iguane sur un bâton.}
+{108}{}{Je suis désolé, mais je paierai plus. Fais ce que tu veux de moi.}
+{109}{}{Bob, je croyais qu'on était potes ! En fait, je pensais te proposer une promotion dans mon organisation. Au lieu de ça, tu me trahis. C'est très décevant...}
+{110}{}{Bob, pourquoi j'accepterais un non comme réponse ? Surtout venant d'une raclure comme toi ?}
+{111}{}{Content de voir que tu te défends.}
+{112}{}{Ta réputation, c'est de l'histoire ancienne, Bob. De l'his-toire !}
+{113}{}{Bien, je déciderai quoi faire de toi plus tard.}
+{114}{}{Bon, c'était sympa de te connaître, Bob. Dis « salut » à Satan de ma part.}
+{115}{}{Qu'est-ce que tu fais déjà de retour ? C'est pas l'heure du paiement.}
+{116}{}{T'as du culot de montrer ta face par ici. Dégage !}
+{117}{}{Hé, je veux pas d'ennuis !}
+{118}{}{Salut ! Bienvenue au Bob's Iguana Bits, le restaurant familial. Je peux prendre votre commande ?}
+{119}{}{Va te faire foutre.}
+{120}{}{Ah bon ? Ben, d'accord...}
+{121}{}{C'est un méchant fils de pute. Tu veux pas l'embêter. Autre chose ?}
+{122}{}{Bien. Tu veux que je paie combien ?}
+{123}{}{Je veux }
+{124}{}{ capsules tous les cinq jours.}
+{125}{}{Doc Morbid ? Tout ce que je sais, c'est qu'il est vers Junktown et que c'est la source de bouffe la moins chère que j'ai trouvée. C'est tout !}
+{126}{}{Voyons ce que j'ai en stock.}
+{127}{}{J'ai un iguane entier pour vingt capsules.}
+{128}{}{J'ai du morceau de choix pour huit capsules.}
+{129}{}{J'en prendrai un des vrais.}
+{130}{}{Rien pour moi pour l'instant. Je suis au régime.}
+{131}{}{Je prendrai un de tes morceaux de choix.}
+{132}{}{Je prendrais bien un morceau de choix là, tout de suite. Je paierai même.}
+{133}{}{Euh... Moi pas faim maintenant.}
+{134}{}{Bien ! Prends ton fric et dégage !}
+{135}{}{Tu peux te le mettre ! Je te paierai jamais ! Dégage !}
+{136}{}{Ouais, c'est ça. Pourquoi tu vas pas arnaquer quelqu'un d'autre.}
+{137}{}{On peut pas jeter de la merde sans s'en mettre sur les doigts. Dehors !}
+{138}{}{Bien sûr que si. Dégage !}
+{139}{}{Désolé. On n'a plus d'iguane.}
+{140}{}{Bien sûr. J'ai que des iguanes entiers pour l'instant. Trente capsules pièce. Tu trouveras pas de meilleur iguane rôti dans le désert, garanti !}
+{141}{}{On n'a que du morceau de choix. C'est très bon, pourtant. Huit capsules pièce.}
+{142}{}{Bien sûr. On a des iguanes entiers sur bâton pour vingt capsules, et nos morceaux de choix pour huit capsules.}
+{143}{}{Je prendrai un iguane entier.}
+{144}{}{Je prendrai ton morceau de choix.}
+{145}{}{Tu sais, j'ai entendu dire que ton morceau de choix a goût de poulet. T'aimes manger les trouillards ?}
+{146}{}{Pas de portions de mauviette ! Moi vouloir tout iguane ! Ough !}
+{147}{}{Hmm, ça sent bon ! Moi vouloir morceau !}
+{148}{}{J'en ai jamais vu par ici. Les Marchands d'Eau en ont pas besoin.}
+{149}{}{Les Marchands d'Eau ?}
+{150}{}{M. Decker est un homme d'affaires distingué dans un business peu distingué. Autre chose ?}
+{151}{}{Euh... D'accord...}
+{152}{}{Quel genre de business ?}
+{153}{}{De quoi tu parles ?}
+{154}{}{Tes ingrédients secrets. À quel point le cadavre doit être frais avant de développer un arrière-goût amer ? Tu utilises des mutants, des humains, ou un mélange ?}
+{155}{}{J'ai trouvé une facture dans l'antre de Doc Morbid. Une facture pour des cadavres...}
+{156}{}{Si t'as des trous de mémoire, je peux en parler au shérif à la place.}
+{157}{}{Le Morceau de Choix, c'est fait avec des gens !!!! C'est fait avec des gens !!!}
+{158}{}{Rien. Désolé d'en avoir parlé. Maintenant, y a autre chose que je peux faire pour toi ?}
+{159}{}{Bon, il est mort maintenant, et mes rentrées ont augmenté grâce à ça.}
+{160}{}{Quelqu'un a tué Decker. On est en deuil. *ricane*}
+{161}{}{Quelqu'un a tiré sur le shérif Greene. Pour l'adjoint, je sais pas.}
+{162}{}{Daren Hightower a été assassiné. Et tout cet argent a pas pu le sauver. Ironique, non ?}
+{163}{}{Quelqu'un a volé un collier chez les Hightower. Man, ils ont fait une grosse erreur. Ils sont morts, c'est sûr !}
+{164}{}{Quelqu'un a tué Jain à la Cathédrale. J'ai entendu dire que c'était une vraie plaie !}
+{165}{}{Bon, la seule nouveauté, c'est que les Enfants de la Cathédrale ont pris l'hôpital. C'est plutôt calme par ici ces temps-ci.}
+{166}{}{Autre chose ?}
+{167}{}{Man, je vais faire faillite dans une semaine. Autre chose, ô grand et puissant ?}
+{168}{}{J'aime pas ton attitude.}
+{169}{}{Désolé, t'as pas les moyens.}
+{170}{}{Un iguane entier, ça marche ! Autre chose ?}
+{171}{}{Tu sais de quoi c'est fait et t'en veux quand même ? Tu fais passer Decker pour un bienfaiteur ! Autre chose ?}
+{172}{}{J'aime pas ton attitude.}
+{173}{}{Désolé, t'as pas les moyens.}
+{174}{}{Un morceau de choix, ça marche ! Autre chose ?}
+{175}{}{Bonne décision. Tu pourrais perdre quelques kilos.}
+{176}{}{Qu...quoi ?! Oh, je vois, tu plaisantes...}
+{177}{}{Bien sûr que oui...}
+{178}{}{Non, c'est pas le cas. Je vais veiller à ce que tu paies pour ton crime.}
+{179}{}{Non, c'est pas le cas. Et je veux ma part du gâteau.}
+{180}{}{Tu dois être nouveau en ville si tu me demandes au sujet des Marchands d'Eau. L'eau, c'est la vie, et y a pas plus puissant que la vie et la mort.}
+{181}{}{C'est qui le chef des Marchands d'Eau ?}
+{182}{}{S'il y a quoi que ce soit qui implique misère et souffrance au Hub, Decker le contrôle ou veut le contrôler. Autre chose ?}
+{183}{}{Je sais pas de quoi tu parles, et j'apprécie pas ta diffamation ! Je te conseille de plus montrer ta face par ici.}
+{184}{}{Fais pas ça ! Bon, j'ai utilisé des portions douteuses, mais c'est pas comme si je commettais un meurtre. Les trucs de Doc Morbid sont déjà morts, non ?}
+{185}{}{J'en suis sûr, Bob. Bonne journée...}
+{186}{}{Le cannibalisme est un crime contre l'humanité, Bob. Je vais veiller à ce que tu paies.}
+{187}{}{Peut-être que oui. Peut-être que non. Ça m'est égal. Je veux ma part du gâteau.}
+{188}{}{Pas si fort ! J'ai pas besoin que tu racontes ça dans tout le Hub...}
+{189}{}{J'imagine que j'ai été impoli. Bonne journée...}
+{190}{}{Tu sais, le poste de police est juste en face de la rue. Je devrais vraiment aller faire un petit tour.}
+{191}{}{Je peux parler encore plus fort. Mais je peux aussi me taire. Le bruit, c'est pas cher, le silence, c'est cher.}
+{192}{}{Comment je vais te payer si tu manges tout mon stock ? Bien ! Prends un autre iguane ! J'espère que tu t'étoufferas avec !}
+{193}{}{J'aime pas ton attitude.}
+{194}{}{Corvée. Tu veux du fric, je t'en donne. Tu veux de la bouffe, je t'en donne. Tu veux mourir, je m'en occupe. Mais « aimer », ça fait pas partie de l'équation.}
+{195}{}{Rien à quoi je pense. Maintenant si tu veux bien m'excuser, j'ai un commerce à gérer.}
+{196}{}{Désolé, on n'a plus d'iguane.}
+{197}{}{On n'a que des iguanes entiers sur bâton. Vingt capsules.}
+{198}{}{On n'a que du morceau de choix. Huit capsules.}
+{199}{}{Encore ? Man, tu dois avoir faim. On a des iguanes entiers sur bâton pour vingt capsules, et nos morceaux de choix pour huit capsules.}
+{200}{}{Je prendrai un iguane entier.}
+{201}{}{Je prendrai ton morceau de choix.}
+{202}{}{Tu sais, j'ai entendu dire que ton morceau de choix a goût de poulet. T'aimes manger les trouillards ?}
+{203}{}{Pas de portions de mauviette ! Moi vouloir tout iguane ! Ough !}
+{204}{}{Hmm, ça sent bon ! Moi vouloir morceau !}
+{205}{}{Comment je vais te payer si tu manges tout mon stock ? Bien ! Prends un autre iguane ! J'espère que tu t'étoufferas avec !}
+{206}{}{J'aime pas ton attitude.}
+{207}{}{Euh, salut.}
+{208}{}{Attends une minute. Faut qu'on trouve un moyen de s'entendre !}
+{209}{}{Le seul moyen de me faire taire, c'est de me tuer.}
+{210}{}{Désolé, pas de marché.}
+{211}{}{Bien. Qu'est-ce que j'y gagne ?}
+{212}{}{Bien. Tu veux que je paie combien ?}
+{213}{}{Je veux }
+{214}{}{50}
+{215}{}{75}
+{216}{}{100}
+{217}{}{150}
+{218}{}{200}
+{219}{}{ capsules tous les cinq jours.}
+{220}{}{Je crois pas que je vais te faire chanter. Continue.}
+{221}{}{Je changerais d'avis si j'étais toi, mon ami. Des gens sont morts pour moins que ça au Hub.}
+{222}{}{Bien. C'est un marché. }
+# TRANSLATION NOTE: A number of caps is inserted between lines 222 and 223. The space at the end of line 222 is intentional!
+{223}{}{ capsules, dues tous les cinq jours. J'imagine qu'on se voit dans cinq...}
+{224}{}{Pas question que j'accepte ça. Je peux pas me permettre plus que ce que je te paie maintenant.}
+{225}{}{Tant pis, Bob. Ça me ferait de la peine de commencer à chanter.}
+{226}{}{Bien. On garde l'arrangement actuel... pour l'instant.}
+{227}{}{Tu peux te payer un enterrement, Bob ?}
+{228}{}{Bien. Ce serait peut-être mieux si nos chemins se croisaient plus.}
+{229}{}{Tu es peut-être un rossignol, mais moi je suis la poule aux œufs d'or. Tu chanteras pas, pas quand je suis la seule poule que t'as. Maintenant, dehors !}
+{230}{}{Première chose sensée que j'entends dire. Maintenant, dehors !}
+{231}{}{File-moi un iguane sur un bâton.}
+{232}{}{Tu peux me parler d'une Puce d'eau ?}
+{233}{}{Tu peux me parler de Decker ?}
+{234}{}{Je crois qu'on doit parler de Doc Morbid et de certains de tes ingrédients secrets.}
+{235}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{236}{}{Quoi, moi des ennuis ? Qu'est-ce qui te donne cette impression ?}
+{237}{}{Quelque chose d'intéressant qui se passe au Hub ?}
+{238}{}{Moi faim ! Grrrrr !}
+{239}{}{Terrible affaire. Ces pauvres gens. Oh, ces pauvres gens. Perdre leurs vies d'une façon si affreuse ! Y a autre chose que je peux faire pour toi ? Te nourrir, peut-être ?}
+{240}{}{Rien, salut.}
+{241}{}{Moi partir maintenant.}
+{242}{}{J'ai pas ce genre d'argent. Je joins à peine les deux bouts.}
+##
+##Sduibek -- Fallout Fixt
+##
+{243}{}{Trente capsules ?! Tu te fous de moi ?}
+{244}{}{Regarde, connard, c'est toi qui as ruiné mes marges. Alors si t'aimes pas mes prix, va te faire foutre. Y a plein d'autres stands d'iguane par ici. Oh attends, non. Connard.}
+{245}{}{Terrible, grâce à toi. Personne aime les balances. Maintenant, si t'es pas là pour acheter, dégage de ma face.}
+{246}{}{Peu importe. Salut.}
+{247}{}{En fait, à bien y penser, j'ai assez faim.}
+#
+{250}{}{ expérience pour avoir fait chanter Bob pour qu'il paie ton silence.}
+{251}{}{Comment vont les affaires, Bob ? *clin d'œil*}
+#
+# 252 to 260 take place while Bob is in jail
+{252}{}{C'est quoi ton problème d'être ici ? T'as fermé mon commerce et t'as sûrement eu une grosse récompense. Alors tu viens juste pour te vanter ou quoi ?}
+{253}{}{À peu près, ouais. Comment vont les affaires, Bob ? *clin d'œil*}
+{254}{}{Nan, je vérifiais juste comment tu vas.}
+{255}{}{Terrible, grâce à toi. Personne aime les balances. Ils pourraient me laisser crever ici, pour ce que j'en sais.}
+{256}{}{Bien fait pour toi.}
+{257}{}{Je pourrais les faire te tuer tout de suite, si tu préfères ça à attendre.}
+{258}{}{Je vais leur demander si on peut te transformer en Iguana Bits après ton exécution !}
+{259}{}{Peu importe. Va te faire foutre.}
+{260}{}{Va-t'en.}
