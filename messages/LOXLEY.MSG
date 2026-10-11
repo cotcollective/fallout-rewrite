@@ -1,0 +1,262 @@
+{100}{}{Tu vois : Loxley, chef du Cercle des Voleurs.}
+{101}{LOX_0}{C'est un petit cadeau de papa et maman. En fait, de quelques générations avant ça. Ça te plaît ?}
+{102}{}{Ça te va bien.}
+{103}{}{Non, ça me fait mal aux oreilles.}
+{104}{LOX_0A}{Oh, merci bien. Faut bosser un peu pour le garder avec si peu de raffinement autour, tu sais. Mais assez parlé de ça. Loxley, c'est mon nom. Et le tien ?}
+{105}{}{Je suis }
+{106}{}{.}
+{107}{}{Ça te regarde ?}
+{108}{}{C'est quoi, cet endroit ?}
+{110}{LOX_1F}{Vachement impressionnant de passer mes défenses comme ça ! C'est quoi ton nom, ma belle ?}
+{109}{LOX_1M}{Sacrément beau boulot de passer mes défenses comme ça, mon pote ! Je suis plutôt impressionné. Balance-moi ton nom !}
+{111}{}{Je suis }
+{112}{}{.}
+{113}{}{Ça te regarde ?}
+{114}{}{C'est quoi, cet endroit ?}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+# "You got" means "You have"
+{115}{}{T'as un accent vraiment intéressant, mon ami.}
+
+{116}{}{Tu parles comme un idiot.}
+{117}{}{Hein ?}
+{118}{LOX_2F}{Ravi de faire ta connaissance, en fait... pour l'instant. Réglons l'autre bout de politesse, veux-tu ? Mais qu'est-ce que tu fous ici, bon sang de bon sang ?}
+{119}{}{Je veux rejoindre le Cercle.}
+{120}{}{J'ai quelques questions à te poser.}
+{121}{}{Je vous embarque tous en prison.}
+{122}{LOX_3}{Oh, comme c'est gentil. Une recrue. Eh ben, t'as assez bossé pour jeter un œil. Mais si tu veux vraiment rejoindre, va falloir passer le Deuxième Test.}
+{123}{}{C'est quoi ?}
+{124}{}{Ça fait peur... Et si je passais mon tour ?}
+{125}{}{Euh... c'était quoi, le premier test ?}
+{126}{LOX_4}{Tout simple, vraiment. Tu fais tes preuves comme voleur. Réussis, et le monde est à toi ! Sinon, tu nous reverras jamais. Sauf si tu viens nous chercher. Et si tu comprends pas, ce dernier bout est une menace.}
+{127}{}{C'est quoi, le test ?}
+{128}{}{Tu veux dire que vous déménagerez tout l'endroit si j'échoue, ou que vous essaierez de me tuer ?}
+{129}{}{Tu me menaces ?}
+{130}{LOX_5}{C'est si, si simple. Dans les Hauteurs, tu trouveras la maison de Daren Hightower, bien dodue et mûre pour la cueillette. T'es prêt pour la vie ! Tu relèves le défi ?}
+{131}{}{Je suis prêt !}
+{132}{}{Ah, non !}
+{134}{LOX_6F}{C'est l'esprit, ma belle !}
+{133}{LOX_6M}{C'est l'esprit, mon pote !}
+{135}{LOX_6B}{Va juste parler à Jasmine dans la pièce à côté de cette chambre. Elle te donnera les détails, une carte, et quelques petits cadeaux pour t'aider en route. Mais souviens-toi, si jamais l'idée te vient de nous balancer aux flics, on sera un souvenir avant qu'ils arrivent. Mais assez de noirceur. Salut, bonne chance, et à la revoyure !}
+{136}{LOX_7}{Eh ben, pourquoi diable t'es ici, alors ? Pour visiter ? L'ambiance ? Ma belle gueule ?}
+{137}{}{Non, je venais te poser quelques questions.}
+{138}{}{Certainement pas la gueule.}
+{139}{}{T'as raison, j'aimerais rejoindre le Cercle.}
+{140}{LOX_8}{C'est tout ? Quelques questions ! Eh ben, t'es soit incroyablement courageux, soit un parfait crétin. Vas-y, vas-y ! ...et ensuite on te montrera la porte, d'accord ?}
+{141}{LOX_9}{Tu dois plaisanter ! Tu crois que je vais gober un truc pareil ! Dehors, manant !}
+{142}{LOX_10}{Oh, quel petit caractère ! Mais on est tous amis ici, non ?}
+{143}{}{Je vois pas pourquoi.}
+{144}{}{T'as raison. Je suis désolé.}
+{145}{LOX_11}{Ohhh, cœur brisé. Notre chance de camaraderie envolée. [soupir] Jasmine, montre la porte à ce petit morveux.}
+{146}{LOX_12}{Oh, un petit échange. J'aime quelqu'un qui joue avec le danger. Je pense que tu feras un super ajout à notre joyeuse petite bande. T'en dis quoi ?}
+{147}{}{OK !}
+{148}{}{Je dis que t'es un parfait cinglé.}
+{149}{lox_12b}{OK !}
+{150}{LOX_13}{Oh, la barbe. Eh ben, bien désolé de l'apprendre, en fait. T'aurais fait un bon voleur. Mais le Cercle, c'est pas pour les crétins terminaux. Alors, Jasmine, montre la porte à notre invité, s'il te plaît.}
+{151}{LOX_14}{Oh, tu me prends pour qui ? Si tu veux du meurtre de sang-froid, va parler à Decker et sa bande. Si tu échoues, ce qui semble bien plus probable à ce stade, on disparaîtra tout simplement. Alors, tu veux essayer ou pas ?}
+{152}{}{Bien sûr.}
+{153}{}{Non.}
+{154}{LOX_16}{Oh, non. J'ai si peur. La vie est si dure. Loxley, je préfère être un lâche toute ma vie que de connaître un seul moment de triomphe. Ah, juste un branleur de plus, hein. Dehors !}
+{155}{LOX_17}{T'as toujours pas compris, hein ? Le Premier Test, c'était juste d'arriver jusqu'ici ! C'est la seule raison pour laquelle je t'envisage.}
+{156}{}{OK, je ferai tout ce que tu veux !!}
+{157}{}{C'est quoi, le prochain test ?}
+{158}{}{Eh ben, j'ai juste besoin de te poser quelques questions.}
+{159}{LOX_18}{Ha ha ha. Oh, c'est bien amusant. Tu nous emmènes en prison, hein ? Et comment, je peux savoir, tu comptes t'y prendre ?}
+{160}{}{Viens tranquillement et personne sera blessé.}
+{161}{}{Eh ben, peut-être que je vais te laisser une chance cette fois.}
+{162}{LOX_21}{Ça me regarde ? C'est simple, vraiment. Dis-moi ton nom, ou on te montre la porte.}
+{163}{}{OK. Je suis }
+{164}{}{.}
+{165}{}{Et si je te montrais ma botte ?}
+{166}{LOX_22}{C'est le fameux Cercle des Voleurs ! Je pensais que tu le saurais, vu que t'as passé toutes les défenses et tout. Mais peu importe. T'es prometteur, et le Cercle pourrait utiliser quelqu'un comme toi.}
+{167}{}{OK, je dois faire quoi ?}
+{168}{}{Non merci. J'aimerais quand même te poser quelques questions.}
+{169}{}{Aucune chance.}
+{170}{LOX_23}{Eh ben, t'as passé mes défenses alors t'as certainement des talents. C'est quoi ton nom ?}
+{171}{}{Je suis }
+{172}{}{.}
+{173}{}{Ça te regarde ?}
+{174}{}{C'est quoi, cet endroit ?}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+{175}{}{T'as un accent vraiment intéressant, mon ami.}
+
+{176}{}{Tu parles comme un idiot.}
+{177}{LOX_24}{Tu veux quoi, bordel ?}
+{178}{}{J'ai fait quoi ? Pourquoi si hostile ?}
+{179}{}{Être loin de toi.}
+
+# TRANSLATION NOTE: The following line is the player addressing Loxley (who is male).
+{180}{}{Hé, je suis de ton côté. Je viens en ami.}
+
+{181}{LOX_25}{Je t'aime pas. Je sais pas pourquoi, je m'en fous.}
+{182}{}{Donne-moi une chance !}
+{183}{}{Eh ben, t'es juste un idiot alors, non ?}
+{184}{LOX_26}{Merci pour ce charmant moment. Jasmine, raccompagne notre invité.}
+{185}{LOX_27}{Oh, quel plaisir de te revoir. T'as un petit quelque chose pour moi ?}
+{186}{}{Ma démission. J'ai décidé de pas passer ton test stupide.}
+{187}{}{Je l'ai pas encore.}
+{188}{}{Voilà le collier... }
+{189}{LOX_29}{Ha ! Ha ! Bien joué ! Félicitations. T'es maintenant membre du fameux Cercle des Voleurs. Allons chercher Jasmine, et organisons une petite fête, d'accord ?}
+{190}{LOX_30}{Oh, comme c'est drôle. Je dois quand même te dire que j'apprécie pas trop ce genre de blague. Un petit rire. Un petit coup fourré au vieux Loxley, hein ? Tiens, voilà. Une dernière chance. Apporte le collier ici.}
+{191}{LOX_31}{T'es vraiment juste un parfait casse-pieds, non ?}
+{192}{LOX_32}{Stupide ! Oh. Je suis si déçu que tu le prennes comme ça. Ah, eh ben, notre petit Cercle devra continuer sans ta présence étincelante. Si triste. Jasmine, la porte pour notre invité. Et pas de droit de retour, hein ?}
+{193}{LOX_33}{Alors qu'est-ce que tu fous ici, bon sang de bon sang ? Ouste ! Va-t'en. Mais cette fois reviens avec le collier.}
+{194}{}{Quelque chose d'intéressant par ici ?}
+{195}{}{Parle-moi du Hub.}
+{196}{}{Entendu de bonnes rumeurs dernièrement ?}
+{197}{}{Parle-moi plus du Cercle.}
+{198}{}{Je cherche les caravanes disparues. Des suggestions ?}
+{199}{LOX_35}{Eh ben, toute cette foutue ville est sens dessus dessous, avec les caravanes disparues et tout. Un peu pénible. Ça nuit aux affaires du Cercle, tu sais ?}
+{200}{}{Tu sais qui pourrait être responsable ?}
+{201}{}{Merci. Je peux te poser encore des questions ?}
+{202}{LOX_36}{Je sais pas, mais j'espère qu'ils vont vite trouver. Les gens sont nerveux et ça rend notre boulot un peu plus délicat, tu vois ? Sans parler de toutes les foutaises superstitieuses qui circulent.}
+{203}{}{C'est quoi, comme foutaises ?}
+{204}{}{Merci. Je peux te poser encore des questions ?}
+{205}{LOX_37}{Oh, des foutaises comme quoi l'Écorcheur aurait chopé les caravanes pour les emmener dans son repaire prendre le thé de l'après-midi.}
+{206}{}{Ça a l'air bon. Je peux te poser encore quelques questions ?}
+{207}{LOX_38A}{Oh, absolument. On est tous amis ici.}
+{208}{lox_38b}{[Soupir] Pourquoi pas ?}
+{209}{LOX_38C}{Vas-y, vas-y.}
+{210}{LOX_39}{Non, en fait. T'en as eu une. Estime-toi chanceux. Adieu, à la revoyure.}
+{211}{lox_40}{Rien qui t'intéresserait.}
+{212}{}{Essaie-moi.}
+{213}{}{OK, merci. Je peux te poser encore quelques questions ?}
+{214}{LOX_41}{Oh rien. Juste que toute cette foutue ville est sens dessus dessous avec toutes les caravanes disparues. C'est tout.}
+{215}{}{Eh, merci. Je peux te poser encore quelques questions ?}
+{216}{LOX_42}{Oh, rien que du classique. Les caravanes marchandes s'engraissent sur le dos des pauvres, pendant que ce salaud de Decker manipule tout le monde.}
+{217}{LOX_43}{Oh, t'as le nombre habituel de boutiques et de trucs. Ajoute quelques tarés des Enfants de la Cathédrale. Une lichette de Decker et son Souterrain qui nous rendent la vie dure à tous. Saupoudre de marchands cupides et ça couvrira à peu près tout.}
+{218}{}{Les marchands sont à peu près des raclures, hein ?}
+{219}{}{On dirait que t'es un vrai supporter de Decker.}
+{220}{LOX_43A}{Question suivante, s'il te plaît.}
+{221}{LOX_44}{Tout à fait ! C'est pour ça que le Cercle a été formé, tu vois. T'as tous ces salauds de riches, qui se nourrissent des pauvres. Et ces pauvres n'attendent qu'un héros. Grâce à l'aide qu'on leur donne, ils se prosternent pratiquement à nos pieds.}
+{222}{}{Y a quoi de mal à faire de l'argent ?}
+{223}{}{Comme Robin des Bois.}
+{224}{LOX_47}{C'est quoi, le mal ?! Petit... eh ben, je m'étais trompé sur toi, hein ? Jasmine, montre la porte à ce lèche-bottes de marchand !}
+{225}{LOX_48}{Tu connais l'histoire ! Je savais qu'il y avait quelque chose de spécial chez toi. Ah, mon grand-père me la racontait y a longtemps. Ça, c'était un voleur ! Mais assez parlé. Autre chose à demander ?}
+{226}{LOX_51}{À part les caravanes disparues, pas grand-chose. Oh, attends. Un de mes gars est revenu hier tout rayonnant avec une touche d'empoisonnement aux radiations. Sale affaire. Il a probablement marché sur la pointe des pieds un peu trop près du vieux Point Chaud.}
+{227}{LOX_53}{On vole les riches, c'est tout simple. On donne environ, oh, dix à vingt pour cent aux pauvres de la Vieille Ville. Le Cercle en garde vingt, ce qui laisse le reste au voleur. Pas un mauvais deal, tout compte fait.}
+{228}{LOX_54}{On est une bande d'escrocs ! Tu nous prenais pour quoi, une bande de cuistots ?}
+{229}{LOX_55A}{Tu pourrais vérifier chez les marchands, même si ton temps serait mieux employé à les jauger pour un petit boulot de déménagement nocturne. Même si je pense que c'est des foutaises totales, renseigne-toi sur l'Écorcheur. Ou même suis une caravane, si t'as totalement perdu la tête.}
+{230}{LOX_55B}{Eh ben, comment diable je le saurais ? J'ai l'air d'un marchand ?}
+{231}{LOX_56}{Quelques règles de base. Un, ne te fais jamais prendre, et deux, ne vole jamais, jamais le Cercle. C'est noté.}
+{232}{LOX_57}{Tu piges toujours pas le truc, hein ? Jasmine, la porte pour notre ami idiot et que je revoie plus cette tronche.}
+{233}{LOX_58}{Je pense que tu comprends pas tout à fait. Garde ça pour les marchands, d'accord ?}
+{234}{LOX_59}{Mais qu'est-ce que tu fous ici, bordel ? Dehors !}
+{235}{LOX_60}{Tu vois, c'est comme je disais...}
+{236}{LOX_61}{Eh ben, comme je disais...}
+{237}{LOX_62}{T'es juste bouché ? Je t'ai dit...}
+{238}{LOX_63}{T'es sourd ou stupide ? Comme je disais...}
+{239}{LOX_64}{C'est pas drôle de se répéter.}
+{240}{LOX_65}{Beurk ! Ça sert à rien. Évidemment qu'aucune quantité de martelage pourra faire rentrer cette info dans ton crâne épais.}
+{241}{LOX_66}{Non. Decker, c'est un malin. Il a toute la ville dans sa poche, oui. Il donne sa « protection » aux marchands, tout en les montant les uns contre les autres. Pas quelqu'un à qui tu veux te frotter, mais on le trouve d'habitude au Maltese Falcon.}
+{242}{LOX_67}{C'est un marchand d'armes dans le nord de la Vieille Ville. Un gars foutrement dangereux, une partie de son matos est un peu trop mortelle.}
+{243}{LOX_68}{Il nous aime pas trop, en fait.}
+{244}{LOX_69}{Harold ? C'est un bon gars, pour une goule. Il vit du côté sud.}
+{245}{LOX_70}{Le bras droit de Decker, définitivement pas quelqu'un à qui se frotter. On le trouve d'habitude au Maltese Falcon.}
+{246}{LOX_71}{Eux. Trônant bien haut dans leur Château d'Eau au sud du centre-ville, faisant payer à tous les honnêtes gens la moindre goutte d'eau qui sort du sol. Ils devraient tous se faire flinguer, oui.}
+{247}{LOX_72}{Ils ont une petite boutique généraliste au centre-ville. Faut pas leur faire confiance, par contre. Ils se cachent dans leur foutu entrepôt la plupart du temps. Ils vendent quand même de sacrées drogues et des trousses de soins. Bien moins cher que ces idiots des Enfants de la Cathédrale, je peux te le dire.}
+{248}{LOX_73}{Le plus proche d'être honnête des trois caravanes. Raté de quelques kilomètres seulement.}
+{249}{LOX_74}{Des criminels. Des criminels absolus. Ils pressent la vie hors de la ville. Les Far Go Traders, la Caravane Cramoisie, et les pires du lot, les Marchands d'Eau. Tu peux tous les garder.}
+{250}{lox_75}{C'est en plein milieu de la ville.}
+{251}{LOX_76}{Pas grand-chose à dire, vraiment. Des histoires du soir pour faire peur aux enfants, sur une bestiole qui vit au nord et se nourrit de la chair des vilains petits enfants partout.}
+{252}{LOX_77}{On dirait que chaque jour, une autre disparaît. Les gens ont peur de quitter la ville sans protection. Certains accusent même l'Écorcheur.}
+{253}{LOX_78}{Y a environ trois ans, un des marchands est allé loin dans le sud chercher d'autres villes. Il est revenu avec les cheveux et les dents qui tombaient, en marmonnant sur une immense étendue de radiations. Qui sait, peut-être quelque chose de spécial là-bas avant la guerre.}
+{254}{LOX_79}{La plupart des pauvres qui bossent pour les marchands vivent ici, dans des bâtiments si fins qu'ils bloquent même pas le soleil. Pendant ce temps, ces salauds de riches sont confortables dans leurs belles maisons là-haut dans les Hauteurs. Ça me rend malade.}
+{255}{LOX_80}{Des beaux bâtiments. Achetés avec le sang des pauvres.}
+{256}{LOX_81}{Tu trouveras toujours Bob en plein centre du Marché des Marchands. Il vendra probablement ses Iguana Bits jusqu'à ce qu'il claque.}
+{257}{LOX_82}{Alors eux, c'est une bande flippante. Ils se pavanent toute la journée en parlant de leur Dieu de la Nuit, comme si c'était la meilleure chose depuis les poches trouées des marchands. Ils peuvent te soigner pour pas cher. Ça, je leur accorde. Tu les trouveras dans leur hôpital au centre-ville.}
+{258}{LOX_83}{Oh, une autre bande de tarés. Ils sont perchés dans leur grande forteresse noire au nord, à attendre juste une autre guerre.}
+{259}{LOX_84}{Faut faire un peu gaffe là-bas. Les Éventreurs et les Lames aiment te découper juste pour le plaisir. Pendant que la ville là-bas, Adytum, essaie juste de rester en vie. Si tu te retrouves à traîner par là et que tu tombes sur les Lames, pense à saluer Razor pour moi. Penser à elle me rappelle des souvenirs, oui.}
+{260}{LOX_85}{C'est les têtes de ferraille là-bas dans le Cimetière. Ils se battent depuis des années, et ils savent même plus pourquoi. C'est complètement con.}
+{261}{LOX_86}{Oh, quelle femme ! Elle était voleuse ici, jusqu'à ce qu'elle décide de partir dans le sud, au Cimetière. La dernière fois que j'en ai entendu parler, elle avait rejoint les Lames. Ah, eh ben, l'intelligence, c'était pas son fort.}
+{262}{LOX_87}{Hm, j'en ai pas la moindre idée.}
+{263}{LOX_88}{J'en sais vraiment rien.}
+{264}{LOX_89}{Hm. Aucune idée, en fait.}
+{265}{LOX_90}{Eh ben, [bruit de dérision], comment un parfait crétin comme toi a passé mes défenses ? Désolé, pas d'idiots savants ici, on aime la bonne conversation. Jasmine, montre la porte à notre ami baveux, s'il te plaît.}
+{266}{LOX_91}{Parle à Jasmine et elle te mettra au courant des détails.}
+{267}{}{Loxley a l'air trop occupé pour parler.}
+{268}{}{Jasmine te donnera ta récompense.}
+
+
+# Loxley Tell-Me-Abouts generic responses
+{980}{LOX_87}{Hm, j'en ai pas la moindre idée.}
+{981}{LOX_88}{J'en sais vraiment rien.}
+{982}{LOX_89}{Hm. Aucune idée, en fait.}
+{983}{LOX_90}{Eh ben, [bruit de dérision], comment un parfait crétin comme toi a passé mes défenses ? Désolé, pas d'idiots savants ici, on aime la bonne conversation. Jasmine, montre la porte à notre ami baveux, s'il te plaît.}
+
+
+#
+# Loxley Tell-Me-Abouts
+#
+
+{1000}{}{Decker}
+{1001}{}{Jacob}
+{1002}{}{Police}
+{1003}{}{Harold}
+{1004}{}{Kane}
+{1006}{}{Pourpre}
+{1007}{}{Marchands}
+{1008}{}{Caravanes}
+{1009}{}{Marché}
+{1010}{}{Griffe}
+{1011}{}{Disparues}
+{1012}{}{Chaud}
+{1013}{}{Ville}
+{1014}{}{Hauteurs}
+{1015}{}{Bob}
+{1016}{}{Cathédrale}
+{1017}{}{Confrérie}
+{1018}{}{Angel's}
+{1019}{}{Lames}
+{1020}{}{Razor}
+{1021}{}{Marchands}
+{1022}{}{Point}
+{1023}{}{Iguane}
+{1024}{}{Bits}
+{1025}{}{Bobs}
+{1026}{}{Acier}
+{1027}{}{Anges}
+{1028}{}{Cimetière}
+{1029}{}{Caravane}
+{1030}{}{Mort}
+{1031}{}{Écorcheur}
+{1032}{}{Lueur}
+{1033}{}{Vieille Ville}
+{1034}{}{Vieux}
+
+{1100}{LOX_66}{Non. Decker, c'est un malin. Il a toute la ville dans sa poche, oui. Il donne sa « protection » aux marchands, tout en les montant les uns contre les autres. Pas quelqu'un à qui tu veux te frotter, mais on le trouve d'habitude au Maltese Falcon.}
+{1101}{LOX_67}{C'est un marchand d'armes dans le nord de la Vieille Ville. Un gars foutrement dangereux, une partie de son matos est un peu trop mortelle.}
+{1102}{LOX_68}{Il nous aime pas trop, en fait.}
+{1103}{LOX_69}{Harold ? C'est un bon gars, pour une goule. Il vit du côté sud.}
+{1104}{LOX_70}{Le bras droit de Decker, définitivement pas quelqu'un à qui se frotter. On le trouve d'habitude au Maltese Falcon.}
+{1106}{LOX_72}{Ils ont une petite boutique généraliste au centre-ville. Faut pas leur faire confiance, par contre. Ils se cachent dans leur foutu entrepôt la plupart du temps. Ils vendent quand même de sacrées drogues et des trousses de soins. Bien moins cher que ces idiots des Enfants de la Cathédrale, je peux te le dire.}
+{1107}{LOX_73}{Le plus proche d'être honnête des trois caravanes. Raté de quelques kilomètres seulement.}
+{1108}{LOX_74}{Des criminels. Des criminels absolus. Ils pressent la vie hors de la ville. Les Far Go Traders, la Caravane Cramoisie, et les pires du lot, les Marchands d'Eau. Tu peux tous les garder.}
+{1109}{lox_75}{C'est en plein milieu de la ville.}
+{1110}{LOX_76}{Pas grand-chose à dire, vraiment. Des histoires du soir pour faire peur aux enfants, sur une bestiole qui vit au nord et se nourrit de la chair des vilains petits enfants partout.}
+{1111}{LOX_77}{On dirait que chaque jour, une autre disparaît. Les gens ont peur de quitter la ville sans protection. Certains accusent même l'Écorcheur.}
+{1112}{LOX_78}{Y a environ trois ans, un des marchands est allé loin dans le sud chercher d'autres villes. Il est revenu avec les cheveux et les dents qui tombaient, en marmonnant sur une immense étendue de radiations. Qui sait, peut-être quelque chose de spécial là-bas avant la guerre.}
+{1113}{LOX_79}{La plupart des pauvres qui bossent pour les marchands vivent ici, dans des bâtiments si fins qu'ils bloquent même pas le soleil. Pendant ce temps, ces salauds de riches sont confortables dans leurs belles maisons là-haut dans les Hauteurs. Ça me rend malade.}
+{1114}{LOX_80}{Des beaux bâtiments. Achetés avec le sang des pauvres.}
+{1115}{LOX_81}{Tu trouveras toujours Bob en plein centre du Marché des Marchands. Il vendra probablement ses Iguana Bits jusqu'à ce qu'il claque.}
+{1116}{LOX_82}{Alors eux, c'est une bande flippante. Ils se pavanent toute la journée en parlant de leur Dieu de la Nuit, comme si c'était la meilleure chose depuis les poches trouées des marchands. Ils peuvent te soigner pour pas cher. Ça, je leur accorde. Tu les trouveras dans leur hôpital au centre-ville.}
+{1117}{LOX_83}{Oh, une autre bande de tarés. Ils sont perchés dans leur grande forteresse noire au nord, à attendre juste une autre guerre.}
+{1118}{LOX_84}{Faut faire un peu gaffe là-bas. Les Éventreurs et les Lames aiment te découper juste pour le plaisir. Pendant que la ville là-bas, Adytum, essaie juste de rester en vie. Si tu te retrouves à traîner par là et que tu tombes sur les Lames, pense à saluer Razor pour moi. Penser à elle me rappelle des souvenirs, oui.}
+{1119}{LOX_85}{C'est les têtes de ferraille là-bas dans le Cimetière. Ils se battent depuis des années, et ils savent même plus pourquoi. C'est complètement con.}
+{1120}{LOX_86}{Oh, quelle femme ! Elle était voleuse ici, jusqu'à ce qu'elle décide de partir dans le sud, au Cimetière. La dernière fois que j'en ai entendu parler, elle avait rejoint les Lames. Ah, eh ben, l'intelligence, c'était pas son fort.}
+{1121}{LOX_71}{Eux. Trônant bien haut dans leur Château d'Eau au sud du centre-ville, faisant payer à tous les honnêtes gens la moindre goutte d'eau qui sort du sol. Ils devraient tous se faire flinguer, oui.}
+{1122}{LOX_78}{Y a environ trois ans, un des marchands est allé loin dans le sud chercher d'autres villes. Il est revenu avec les cheveux et les dents qui tombaient, en marmonnant sur une immense étendue de radiations. Qui sait, peut-être quelque chose de spécial là-bas avant la guerre.}
+{1123}{LOX_81}{Tu trouveras toujours Bob en plein centre du Marché des Marchands. Il vendra probablement ses Iguana Bits jusqu'à ce qu'il claque.}
+{1124}{LOX_81}{Tu trouveras toujours Bob en plein centre du Marché des Marchands. Il vendra probablement ses Iguana Bits jusqu'à ce qu'il claque.}
+{1125}{LOX_81}{Tu trouveras toujours Bob en plein centre du Marché des Marchands. Il vendra probablement ses Iguana Bits jusqu'à ce qu'il claque.}
+{1126}{LOX_83}{Oh, une autre bande de tarés. Ils sont perchés dans leur grande forteresse noire au nord, à attendre juste une autre guerre.}
+{1127}{LOX_84}{Faut faire un peu gaffe là-bas. Les Éventreurs et les Lames aiment te découper juste pour le plaisir. Pendant que la ville là-bas, Adytum, essaie juste de rester en vie. Si tu te retrouves à traîner par là et que tu tombes sur les Lames, pense à saluer Razor pour moi. Penser à elle me rappelle des souvenirs, oui.}
+{1128}{LOX_84}{Faut faire un peu gaffe là-bas. Les Éventreurs et les Lames aiment te découper juste pour le plaisir. Pendant que la ville là-bas, Adytum, essaie juste de rester en vie. Si tu te retrouves à traîner par là et que tu tombes sur les Lames, pense à saluer Razor pour moi. Penser à elle me rappelle des souvenirs, oui.}
+{1129}{LOX_74}{Des criminels. Des criminels absolus. Ils pressent la vie hors de la ville. Les Far Go Traders, la Caravane Cramoisie, et les pires du lot, les Marchands d'Eau. Tu peux tous les garder.}
+{1130}{LOX_76}{Pas grand-chose à dire, vraiment. Des histoires du soir pour faire peur aux enfants, sur une bestiole qui vit au nord et se nourrit de la chair des vilains petits enfants partout.}
+{1131}{LOX_76}{Pas grand-chose à dire, vraiment. Des histoires du soir pour faire peur aux enfants, sur une bestiole qui vit au nord et se nourrit de la chair des vilains petits enfants partout.}
+{1132}{LOX_78}{Y a environ trois ans, un des marchands est allé loin dans le sud chercher d'autres villes. Il est revenu avec les cheveux et les dents qui tombaient, en marmonnant sur une immense étendue de radiations. Qui sait, peut-être quelque chose de spécial là-bas avant la guerre.}
+{1133}{LOX_79}{La plupart des pauvres qui bossent pour les marchands vivent ici, dans des bâtiments si fins qu'ils bloquent même pas le soleil. Pendant ce temps, ces salauds de riches sont confortables dans leurs belles maisons là-haut dans les Hauteurs. Ça me rend malade.}
+{1134}{LOX_79}{La plupart des pauvres qui bossent pour les marchands vivent ici, dans des bâtiments si fins qu'ils bloquent même pas le soleil. Pendant ce temps, ces salauds de riches sont confortables dans leurs belles maisons là-haut dans les Hauteurs. Ça me rend malade.}
+

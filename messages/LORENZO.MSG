@@ -1,0 +1,162 @@
+{100}{}{Tu vois : Lorenzo.}
+{101}{}{Monsieur, ceci est un établissement respectable. Nous ne faisons pas affaire avec les gens de votre espèce. Allez-vous-en.}
+{102}{}{Madame, ceci est un établissement respectable. Nous ne faisons pas affaire avec les gens de votre espèce. Allez-vous-en.}
+{103}{}{Ton prêt est en retard. Paie-le maintenant, s'il te plaît, ou je vais devenir très contrarié. Je déteste être contrarié.}
+{104}{}{Ne me menace pas, mon pote. T'es pas le seul à avoir des amis.}
+{105}{}{Il me faut plus de temps. S'il te plaît !}
+{106}{}{Je veux rembourser mon prêt de }
+{107}{}{ capsules.}
+{108}{}{Je l'ai pas sur moi.}
+{109}{}{Salut. Alors, tu viens rembourser ton prêt ?}
+{110}{}{En fait j'espérais que tu pourrais partager quelques informations...}
+{111}{}{Je venais pour un autre prêt.}
+{112}{}{Peut-être plus tard.}
+{113}{}{Runk ?}
+{114}{}{Je t'avais prévenu de jamais revenir ici. Bon les gars, vous savez ce que vous avez à faire !}
+{115}{}{Tiens, tiens, si c'est pas un client potentiel ! Je suis Lorenzo le Magnifique, à votre service. Je fais des prêts. Seulement dix pour cent d'intérêts par jour, dix jours maximum pour rembourser. Vous trouverez pas d'institution de crédit plus généreuse dans tout le Hub !}
+{116}{}{Je venais pour un prêt.}
+{117}{}{Pour moi t'es un arnaqueur !}
+{118}{}{Bon, je suppose. Qu'est-ce que tu veux savoir ?}
+{119}{}{Et ces caravanes disparues ?}
+{120}{}{Parle-moi de Decker.}
+{121}{}{Et la police locale ?}
+{122}{}{Et les Enfants de la Cathédrale ?}
+{123}{}{Parle-moi de toi.}
+{124}{}{Où est-ce qu'on trouve du travail par ici ?}
+{125}{}{Désolé. Je fais pas dans la rumeur. Me demande plus jamais.}
+{126}{}{Je t'avais prévenu que je fais pas dans la rumeur. Si tu crois que je bluffais, tu te trompes. Sors d'ici et reviens pas, minable.}
+{127}{}{Désolé mon pote, mais je fais pas plus d'un prêt à la fois. T'en veux plus, faut commencer par payer. C'est un commerce, pas une œuvre de charité.}
+{128}{}{Bien. Un plaisir de faire affaire. Autre chose ?}
+{129}{}{Idiot ! T'as pas assez pour le rembourser ! Tu pensais peut-être à autre chose...}
+{130}{}{En fait j'espérais que tu pourrais partager quelques informations...}
+{131}{}{Je venais pour un autre prêt.}
+{132}{}{Peut-être plus tard.}
+{133}{}{Bien sûr ! N'hésite pas à passer. On est toujours prêts à aider.}
+{134}{}{Pourquoi tu vas pas aller runker ailleurs. Sors d'ici ! Et reviens pas.}
+{135}{}{Hé, pas de menaces ! On est tous civilisés par ici. Guido, Leone, montrez à ce monsieur à quel point on peut être civilisés.}
+{136}{}{Hé, pas de menaces ! On est tous civilisés par ici. Guido, Leone, montrez à cette dame à quel point on peut être civilisés.}
+{137}{}{Ton temps est écoulé, mon pote. Guido, Leone, distrayez-moi un petit moment, les garçons...}
+{138}{}{T'as de la chance, mon ami.}
+{139}{}{En fait j'espérais que tu pourrais partager quelques informations...}
+{140}{}{Je voudrais un autre prêt.}
+{141}{}{Peut-être plus tard.}
+{142}{}{T'as pas assez ! Comment tu oses essayer de m'arnaquer ! Guido, Leone, enterrons ce loser.}
+{143}{}{Bien. Tu n'as aucun prêt en cours chez nous. On prête par tranches de deux cents capsules, avec un maximum de mille capsules. Rappelle-toi, par contre, je te prêterai pas les grosses sommes tant que t'auras pas prouvé que tu peux rembourser les petits prêts.}
+{144}{}{Je voudrais }
+{145}{}{1000}
+{146}{}{800}
+{147}{}{600}
+{148}{}{400}
+{149}{}{200}
+{150}{}{ capsules.}
+{151}{}{Je vais plutôt passer sur le prêt.}
+{152}{}{Guido, Leone, montrez-lui ce que vraiment arnaquer veut dire. Commencez par ses bras.}
+{153}{}{Désolé mon pote, mais les idiots sont un trop gros risque de crédit. Sors d'ici.}
+{154}{}{L'Écorcheur. Ça peut qu'être l'Écorcheur. Personne n'est en sécurité, maintenant !}
+{155}{}{Et l'Écorcheur ?}
+{156}{}{Parle-moi de Decker.}
+{157}{}{Et la police locale ?}
+{158}{}{Et les Enfants de la Cathédrale ?}
+{159}{}{Parle-moi de toi.}
+{160}{}{Où est-ce qu'on trouve du travail par ici ?}
+{161}{}{C'est un super gars. Une bonne source de boulots pour rembourser mes prêts. Dis-lui que c'est moi qui t'envoie, tu auras peut-être un bonus !}
+{162}{}{Et ces caravanes disparues ?}
+{163}{}{Un bonus ? C'est-à-dire ?}
+{164}{}{Et la police locale ?}
+{165}{}{Et les Enfants de la Cathédrale ?}
+{166}{}{Parle-moi de toi.}
+{167}{}{Où est-ce qu'on trouve du travail par ici ?}
+{168}{}{Ce sont des super gars ! C'est vrai qu'on a des malentendus de temps en temps, mais je pense qu'ils font honneur à leur espèce... [à voix basse] ...quelle qu'elle soit...}
+{169}{}{Et ces caravanes disparues ?}
+{170}{}{Parle-moi de Decker.}
+{171}{}{Des malentendus ? Comme quoi ?}
+{172}{}{Et les Enfants de la Cathédrale ?}
+{173}{}{Parle-moi de toi.}
+{174}{}{Où est-ce qu'on trouve du travail par ici ?}
+{175}{}{Je peux pas dire que je sois très impressionné. Je gère une entreprise honnête et respectable, et ils m'accusent d'être un voleur ! Quel culot ! Ils croient qu'un vœu de pauvreté leur donne le droit de me juger !}
+{176}{}{Et ces caravanes disparues ?}
+{177}{}{Parle-moi de Decker.}
+{178}{}{Et la police locale ?}
+{179}{}{Un vœu de pauvreté ?}
+{180}{}{Parle-moi de toi.}
+{181}{}{Où est-ce qu'on trouve du travail par ici ?}
+{182}{}{Je suis juste un homme d'affaires respectable, c'est tout. Nous autres Giovanni, on est des hommes d'affaires respectables depuis l'époque d'avant l'holocauste... ça, c'est la tradition !}
+{183}{}{Et ces caravanes disparues ?}
+{184}{}{Parle-moi de Decker.}
+{185}{}{Et la police locale ?}
+{186}{}{Et les Enfants de la Cathédrale ?}
+{187}{}{C'est quoi ta définition de respectable ?}
+{188}{}{Où est-ce qu'on trouve du travail par ici ?}
+{189}{}{Tu devrais essayer M. Decker. Du travail excitant à prix imbattables ! Le meilleur en ville ! Et il est juste en face ! Tu trouveras pas plus pratique !}
+{190}{}{Et ces caravanes disparues ?}
+{191}{}{Parle-moi de Decker.}
+{192}{}{Et la police locale ?}
+{193}{}{Et les Enfants de la Cathédrale ?}
+{194}{}{Parle-moi de toi.}
+{195}{}{Quel genre d'excitation ?}
+{196}{}{Oublie ça, t'es un trop gros risque de crédit. Sors de ma vue et reviens pas.}
+{197}{}{Bien. Mille capsules. T'as 10 jours pour rembourser.}
+{198}{}{Bien. Huit cents capsules. T'as 10 jours pour rembourser.}
+{199}{}{Bien. Six cents capsules. T'as 10 jours pour rembourser.}
+{200}{}{Bien. Quatre cents capsules. T'as 10 jours pour rembourser.}
+{201}{}{Bien. Deux cents capsules. T'as 10 jours pour rembourser.}
+{202}{}{Dommage. N'hésite pas à faire appel à nos services une autre fois.}
+{203}{}{Mec, certaines histoires qu'on raconte sur cette chose sont juste... bon, elles sont quelque chose !}
+{204}{}{Parle-moi de Decker.}
+{205}{}{Et la police locale ?}
+{206}{}{Et les Enfants de la Cathédrale ?}
+{207}{}{Parle-moi de toi.}
+{208}{}{Où est-ce qu'on trouve du travail par ici ?}
+{209}{}{Bon, salut !}
+{210}{}{Bon, peut-être pas de bonus. Mais c'est un super gars, crois-moi sur parole !}
+{211}{}{Et ces caravanes disparues ?}
+{212}{}{Et la police locale ?}
+{213}{}{Et les Enfants de la Cathédrale ?}
+{214}{}{Parle-moi de toi.}
+{215}{}{Où est-ce qu'on trouve du travail par ici ?}
+{216}{}{Bon, salut !}
+{217}{}{Tu crois que quelqu'un m'a accusé d'extorsion ? Heureusement, mon bon ami Decker les a remis à leur place !}
+{218}{}{Et ces caravanes disparues ?}
+{219}{}{Parle-moi de Decker.}
+{220}{}{Et les Enfants de la Cathédrale ?}
+{221}{}{Parle-moi de toi.}
+{222}{}{Où est-ce qu'on trouve du travail par ici ?}
+{223}{}{Bon, salut !}
+{224}{}{Je parie que leur chef, ce Morpheus, il est pas fauché ! Non monsieur ! Je parie que là-bas à L.A. Boneyard, il mène la grande vie !}
+{225}{}{Et ces caravanes disparues ?}
+{226}{}{Parle-moi de Decker.}
+{227}{}{Et la police locale ?}
+{228}{}{Parle-moi de toi.}
+{229}{}{Où est-ce qu'on trouve du travail par ici ?}
+{230}{}{Bon, salut !}
+{231}{}{Tu nous montres pas de respect, tu te fais mal. Quelle respectabilité de plus un homme peut-il demander ?}
+{232}{}{Et ces caravanes disparues ?}
+{233}{}{Parle-moi de Decker.}
+{234}{}{Et la police locale ?}
+{235}{}{Et les Enfants de la Cathédrale ?}
+{236}{}{Où est-ce qu'on trouve du travail par ici ?}
+{237}{}{Bon, salut !}
+{238}{}{De l'aventure, du danger. Tu peux vraiment te faire un max de fric !}
+{239}{}{Et ces caravanes disparues ?}
+{240}{}{Parle-moi de Decker.}
+{241}{}{Et la police locale ?}
+{242}{}{Et les Enfants de la Cathédrale ?}
+{243}{}{Parle-moi de toi.}
+{244}{}{Bon, salut !}
+{245}{}{À la prochaine, mon pote !}
+{246}{}{Hé, hé, hé... enlève tes mains de cette porte, monstre !}
+{247}{}{C'est ça, monstre ! Tu vas payer pour ça !}
+{248}{}{Je suis désolé, mais j'ai pas le temps pour ça. Si tu peux pas payer la totalité, donne-moi l'argent que tu as et notre relation d'affaires sera terminée définitivement.}
+{249}{}{Bon, d'accord. Tu peux avoir toutes mes capsules.}
+{250}{}{Oh ! Je viens de me souvenir ! J'ai juste assez pour couvrir tout le prêt !}
+{251}{}{[Essayer de rouler Lorenzo en ne lui donnant que }
+{252}{}{ capsules]}
+{253}{}{Oublie ça ! T'auras pas une seule capsule de ma part.}
+{254}{}{[Vous donnez toutes vos capsules à Lorenzo]}
+{255}{}{[Vous donnez à Lorenzo }
+{256}{}{ capsules]}
+{257}{}{T'es plein de merde ! Tu m'en as caché ! Je vais te faire recracher cet argent !}
+{258}{}{Quel dommage. Je suppose qu'on va plutôt devoir te mettre des capsules dans le corps. Guido ! Leone !}
+{259}{}{D'accord. Je suppose que ça devra suffire. Tu te rends bien compte que je peux plus jamais traiter avec toi ? Si je te revois ici, je serai forcé de t'infliger une punition bien plus sévère.}
+{260}{}{Tu me dégoûtes. Donne-moi l'argent et sors ! Que je te revoie plus jamais ici !}
+{261}{}{T'as pas assez !}

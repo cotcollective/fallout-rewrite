@@ -1,0 +1,234 @@
+{100}{}{Tu vois : Laura.}
+{102}{laura0m}{Bonjour, mon frère. Puis-je t'être utile en ce jour glorieux ?}
+{104}{laura0f}{Bonjour, ma sœur. Puis-je t'être utile en ce jour glorieux ?}
+{105}{}{C'est toi, Laura ?}
+{106}{}{Je peux te poser quelques questions sur les Enfants ?}
+{107}{}{C'est quoi, tes « services », au juste ?}
+{108}{}{Maman ?}
+{110}{laura01a}{C'est très gentil, mais non. Je suis sûre que tu la trouveras ailleurs.}
+{112}{laura2}{Absolument. Tu voulais quelque chose ?}
+{113}{}{C'est Nicole qui m'envoie te parler.}
+{114}{}{Euh... non. Laisse tomber.}
+{116}{laura3}{Nicole ? Je suis désolée. Je crois connaître personne de ce nom.}
+{117}{}{Eh ben, elle m'a dit de te dire « Cavalier Rouge ».}
+{118}{}{Bien sûr que si ! C'est elle qui m'envoie !}
+{120}{laura4}{Désolée. Je... je sais pas. Suis-moi jusqu'à un endroit où on pourra parler.}
+{122}{laura9}{Je suis vraiment désolée pour le dérangement. J'espère que ça te fâche pas.}
+{124}{laura10}{Tu es... sûr ? Euh... excuse ma curiosité, mais t'avais l'air de me chercher, moi précisément.}
+{125}{}{Eh ben, c'est Nicole qui m'envoie.}
+{126}{}{J'ai juste entendu parler de toi et je voulais voir à quoi tu ressemblais.}
+{128}{laura11}{Je... je suis désolée, mais ce genre d'attention me rend un peu nerveuse. Je sais pas pourquoi, c'est idiot, je sais. Bon, bonne promenade.}
+{130}{laura14}{Oh, je suis loin d'être une référence. Tu devrais voir Morpheus, le Grand Prêtre. Je suis sûre qu'il pourra t'aider bien plus que moi.}
+{132}{laura15}{Mais je voulais juste... oh... faut que j'y aille, là.}
+{134}{laura16g}{Eh, te revoilà ! Tu te promènes ou je peux t'aider ?}
+{136}{laura16b}{Y a... quelque chose que je peux faire pour toi ?}
+{137}{}{C'est toi, Laura ?}
+{138}{}{Je peux te poser quelques questions sur les Enfants ?}
+{139}{}{Rien, merci.}
+{140}{}{Euh, maman ?}
+{142}{laura16a}{Non. On en a déjà parlé. Va falloir que tu ailles ailleurs, mon ami.}
+{144}{laura21}{Oh... je suis contente que tu m'aies trouvée. Nicole a envoyé une liste avec les infos que je devais trouver.}
+{145}{}{Alors, t'as eu quoi ?}
+{147}{laura22}{Euh. Y en a tellement que je suis juste... je sais pas ce qu'il te faut ni par où commencer. Y a quelque chose en particulier que tu veux savoir ?}
+{148}{}{Y a une entrée secrète vers le Sanctuaire Intérieur de l'Église ?}
+{149}{}{T'as appris quoi sur le Maître ?}
+{150}{}{C'est quoi, les plans des Enfants ?}
+{151}{}{Qu'est-ce qu'une fille sympa comme toi fait dans un endroit pareil ?}
+{152}{}{Rien de plus, merci.}
+{154}{laura24}{C'est pas le Sanctuaire Intérieur que tu veux pénétrer.}
+{155}{}{Alors quoi ?}
+{157}{laura25}{J'ai suivi Morpheus dans un escalier secret à l'arrière. Le gars active une porte secrète en bas.}
+{158}{}{Alors quoi ?}
+{159}{}{Tu peux me montrer cette porte ?}
+{161}{laura26}{Il utilise une clé étrange pour l'ouvrir et il disparaît. J'ai jamais essayé de le suivre.}
+{162}{}{Tu sais où est cette clé ?}
+{163}{}{Pourquoi pas ?}
+{165}{laura27}{Eh ben, je dirais qu'il la garde sur lui.}
+{166}{}{Tu veux bien me montrer la porte, maintenant ?}
+{168}{laura28a}{Eh ben, bien sûr.}
+{169}{}{Super. Allons-y.}
+{170}{}{Je peux te poser encore quelques questions d'abord ?}
+{172}{laura29}{Suis-moi.}
+{174}{laura30a}{OK, mais faut qu'on se dépêche.}
+{176}{laura30b}{Oh, fais vite.}
+{178}{laura31}{Crois-moi, si t'avais vu les Nightkin, tu saurais pourquoi. À moins d'être stupide.}
+{179}{}{Peut-être que si, mais j'ai pas peur.}
+{180}{}{Je comprends ça. On peut revenir aux questions ?}
+{182}{laura32}{Oh, je vois, c'est très drôle. Écoute, je suis là-dedans du matin au soir. T'as un problème avec ma façon de faire, tu le gardes pour toi. Compris ?}
+{183}{}{Tu vas faire quoi, pleurnicher encore ?}
+{184}{}{Si c'est comme ça que tu le veux.}
+{185}{}{T'as raison, je suis désolé. On revient aux affaires ?}
+{187}{laura33}{Euh, pas grand-chose. Les Enfants le vénèrent, et parfois une énorme vision de lui apparaît dans la nef principale de l'église.}
+{188}{}{Alors il est réel ?}
+{189}{}{Ça fait peur.}
+{191}{laura34}{Oui et non. Un jour je me suis faufilée devant et j'ai trouvé un étrange appareil mécanique avec une lentille sous l'autel.}
+{192}{}{Probablement une sorte d'holoprojecteur.}
+{193}{}{Et alors ?}
+{195}{laura35}{Hm... crois-moi, au début oui, mais ensuite je me suis faufilée pour regarder l'autel quand personne ne regardait. Et y a un appareil en dessous avec des fils et une grosse lentille.}
+{196}{}{Probablement une sorte d'holoprojecteur.}
+{197}{}{Et alors ?}
+{199}{laura36}{Alors je suis à peu près sûre que ce Maître n'est pas un dieu. C'est une machine. Et je crois savoir où il est.}
+{200}{}{Où ?}
+{202}{laura37}{De temps en temps, Morpheus passe par un escalier secret qui descend sous l'Église. Et il entre par une porte secrète avec une sorte de clé. Je pense que le Maître est là-bas.}
+{203}{}{Tu peux me montrer cet escalier tout de suite ?}
+{204}{}{Tu sais où est cette clé ?}
+{206}{laura38}{Ça, ça fait peur. Morpheus prêche que la terre devrait être « purgée des infidèles », et d'autres conneries du genre. Je pense qu'ils prévoient de tout prendre !}
+{207}{}{Ils en sont capables ?}
+{208}{}{C'est quoi, leur première cible ?}
+{210}{laura39}{Tu sais, ça se pourrait. Je veux dire, ils ont assez de membres, et les différents hôpitaux des villes sont bourrés d'armes et d'explosifs.}
+{211}{}{Faut prévenir les Disciples.}
+{212}{}{Tu vas faire quoi ?}
+{214}{laura40}{C'était prévu. En fait, quand on aura fini, j'y vais.}
+{215}{}{Encore une petite question ?}
+{216}{}{Je vais te laisser, alors.}
+{218}{laura41}{OK. Bonne chance !}
+{220}{laura42}{Eh ben, je vais aller prévenir Nicole. Et j'espère que les Disciples pourront envoyer de l'aide aux autres villes.}
+{221}{}{J'aimerais te poser encore quelques questions d'abord.}
+{222}{}{OK, je vais te laisser, alors.}
+{224}{laura43}{Adytum, cette ville n'a aucune chance.}
+{225}{}{Et les Disciples ?}
+{226}{}{Je peux aider Adytum ?}
+{228}{laura44}{Les Enfants nous prennent pas pour une menace suffisante. On va leur montrer.}
+{229}{}{Bien. Tu prévois quoi ?}
+{230}{}{Je peux aider Adytum d'une façon ou d'une autre ?}
+{232}{laura45}{Ouais, tu peux les aider en allant jusqu'au Maître. « Coupe la tête du serpent et il ne s'enroulera plus autour de toi », comme disait ma grand-mère. Elle avait du caractère.}
+{233}{}{Comment je l'atteins ?}
+{234}{}{Bien dit. J'ai besoin d'encore des réponses avant que tu partes.}
+{235}{}{J'y vais.}
+{237}{laura46}{Ils prévoient de prendre toutes les villes !}
+{238}{}{Lesquelles ?}
+{240}{laura47}{Adytum est déjà tombée. Le Hub est le prochain.}
+{241}{}{Les Disciples font quoi pendant ce temps ?}
+{242}{}{Merde. Je peux faire quoi ?}
+{244}{laura48}{On a envoyé un groupe aider Adytum, et ils ont tous été rayés de la carte. Nicole en a envoyé un autre au Hub. J'espère juste qu'ils arriveront à temps.}
+{245}{}{Merde. Je peux faire quoi ?}
+{247}{laura49}{Ils ont déjà pris le Hub et Adytum ! Je pense que les Disciples sont les prochains, alors on prépare notre défense.}
+{248}{}{Pourquoi t'es ici, alors ?}
+{249}{}{Je peux faire quoi ?}
+{251}{laura50}{Je suis ici pour garder un œil sur les Enfants.}
+{252}{}{Je peux faire quoi ?}
+{254}{laura51}{Les Enfants montent des hôpitaux un peu partout. Hmpf. Je pense qu'ils essaient de gagner la confiance des gens.}
+{255}{}{Ça marche ?}
+{256}{}{Y a un moyen de les arrêter ?}
+{257}{}{C'est la chose la plus stupide que j'aie jamais entendue !}
+{259}{laura52}{Ah, on dirait bien. Je veux dire, les gens affluent vers leur église. Ils voient pas que c'est du toc ?}
+{260}{}{T'en es sûre ?}
+{261}{}{Comment je peux les arrêter ?}
+{263}{laura53}{Déjà, les gens semblent disparaître souvent par ici, pendant que le nombre de Nightkin augmente doucement.}
+{264}{}{Pourquoi ?}
+{265}{}{Ça sent pas bon. Mais j'ai besoin de plus de réponses avant d'agir.}
+{267}{laura54}{Je sais pas. C'est ce que t'es venu découvrir, non ?}
+{269}{laura55}{Trouve le Maître et arrête-le !}
+{270}{}{T'as découvert quoi sur ce Maître ?}
+{271}{}{Je le ferai.}
+{273}{laura56}{Hm, j'espère bien, bordel. Bon, d'autres questions ? }
+{275}{laura57}{En fait, c'est un bon moyen de manipuler les gens, et ce Maître est foutrement doué pour ça.}
+{276}{}{Non, je voulais dire que c'est la chose la plus stupide que j'aie entendue de ta bouche. T'es parano, non ?}
+{277}{}{Eh ben, je vais l'arrêter.}
+{278}{}{Comment je peux arrêter ça ?}
+{280}{laura58}{Pardon ?}
+{281}{}{T'as bien entendu.}
+{282}{}{Laisse tomber.}
+{284}{laura59}{OK alors. Bonne chance !}
+{286}{laura60}{Euh hé hé... J'attends désespérément que quelqu'un me sorte cette phrase pathétique.}
+{288}{laura61a}{Alors, je peux faire quoi pour toi, maintenant ?}
+{290}{laura61b}{Oh, quoi encore ?}
+{291}{}{J'ai besoin de te poser encore quelques questions.}
+{292}{}{Rien, merci.}
+{294}{laura62}{Tu fais quoi ? Pose ça !}
+{296}{laura63}{Hé ! Sors d'ici !}
+{297}{}{Ou sinon quoi ?}
+{298}{}{Désolé, je m'en vais.}
+{300}{laura64}{Arrête ça !}
+{302}{laura65}{Quoi... qu'est-ce que tu fais ici ? Faut que tu partes !}
+{303}{}{Non, c'est toi qui sors !}
+{304}{}{OK, je m'en vais.}
+{306}{laura67}{Euh... je suis pas sûre. Va parler à Nicole.}
+{308}{laura67a}{Je suis pas sûre. Va parler à un Grand Prêtre.}
+{309}{}{Eh ben, comme je disais... }
+{310}{}{J'ai dit... }
+{311}{}{Eh ben, comme je disais avant... }
+{312}{}{Comme je disais avant... }
+{313}{}{Eh ben, je suis à peu près sûre de te l'avoir déjà dit, mais... }
+{314}{}{OK ! Je te l'ai déjà dit... }
+{315}{}{Ah, encore ? Eh ben, j'ai dit... }
+{316}{}{Encore ? Je l'ai déjà dit... }
+{317}{}{Oh là là, c'est des plus perturbants. Je le redirai tout simplement pas.}
+{318}{}{Tu es... OK ! OK ! T'es sourd ? Lis sur mes lèvres, je vais pas le redire.}
+{319}{}{Je crois que ça suffit. Je le redirai pas.}
+{320}{}{T'écoutes pas, hein ? Tant pis, je vais pas le redire.}
+{321}{}{Oh, ces gens sont affreux. Je vais pas du tout parler d'eux !}
+{322}{}{Nicole t'a probablement parlé de nous. On essaie de faire rentrer un peu de jugeote dans ces crânes épais, armés jusqu'aux dents, fauteurs de violence... Oh, sauf ta compagnie, bien sûr.}
+{323}{}{Eh ben, je sais pas de qui tu parles.}
+{324}{}{Elle dirige les Disciples. Elle a un sacré caractère. Je lui fais confiance.}
+{325}{}{Les autres sont tous si gentils ! C'est merveilleux ici. On a notre place, on fait du bon travail... }
+{326}{}{Oh, ils sont comme un... fléau sur le monde. La plupart sont du gâchis et quelques-uns sont carrément malfaisants.}
+{327}{}{Adytum, c'est pas une ville à l'ouest d'ici ?}
+{328}{}{Adytum est un peu à l'ouest d'ici. Et les gens là-bas... eh ben, ils sont un peu parano, alors t'attends pas à un accueil chaleureux.}
+{329}{}{Oh, il est merveilleux. Il nous dirige. Tu devrais lui parler !}
+{330}{}{Il prêche la paix et l'illumination et toutes ces conneries, mais c'est de la raclure. Y a pas deux façons de le dire.}
+{331}{}{Oh, je peux même pas commencer à le décrire. Morpheus nous dirige. Il saura rendre justice à ta question.}
+{332}{}{Ah oui, le Maître, c'est le dieu que ces tarés vénèrent. Perso, je pense pas que ce soit un dieu, juste quelqu'un qui aime manipuler tout le monde.}
+{333}{}{Nightkin ? Je sais pas de quoi tu parles.}
+{334}{}{C'est les gros et laids exécuteurs du Maître et de Morpheus.}
+{335}{}{Les quoi ?}
+{336}{}{Quoi, t'avais pas compris que c'était le Maître ?}
+{337}{}{C'est le grand endroit au nord de l'église, où Morpheus fait toutes ses cérémonies. J'y suis allée, c'est merveilleux !}
+{338}{}{C'est au nord de l'église. J'ai regardé Morpheus faire son petit numéro de cirque là-bas.}
+{339}{}{Oh, tu peux pas y aller. C'est là que Morpheus médite.}
+{340}{}{C'est là que Morpheus et ses sbires traînent. Personne n'a le droit d'y monter, par contre.}
+{341}{}{Ils ont fait leurs preuves auprès de l'Église. Nous autres, on aspire à ça.}
+{342}{}{Oh ouais, c'est les gars qui ont survécu à la torture et Dieu sait quoi d'autre. Complètement lessivés du cerveau et ils feront tout ce qu'on leur dit.}
+{343}{}{Ce sont les Grands Prêtres.}
+{344}{}{Ah, c'est les Grands Prêtres. Pour l'instant je pense qu'ils sont que 13, mais je suis pas vraiment sûre.}
+{345}{}{C'est pas important.}
+{346}{}{C'est pas important.}
+{347}{}{Je suis désolée. J'ai tout simplement pas le temps pour ça.}
+{348}{}{On n'a pas le temps de parler de ça ! Restons-en aux affaires.}
+{349}{}{Je sais pas pourquoi tu veux parler de ça.}
+{350}{}{Restons-en au sujet, mon ami.}
+
+# added by WG from genchat
+{477}{}{S'il te plaît, faut qu'on se dépêche. On n'a pas le temps de parler.}
+{478}{}{Seul Morpheus a la clé de cette porte. Faut que je parte prévenir Nicole de ce qui se passe ici.}
+{479}{}{S'il te plaît, faut que je m'éloigne d'ici avant qu'ils découvrent qui je suis.}
+# added by WG
+{480}{}{Seul Morpheus a la clé de cette porte. Faut que je parte, là.}
+
+
+
+#
+# Laura Tell-Me-Abouts
+#
+
+
+{1000}{}{Disciples}
+{1001}{}{Nicole}
+{1002}{}{Cathédrale}
+{1003}{}{Morpheus}
+{1004}{}{Maître}
+{1005}{}{Nightkin}
+{1006}{}{Sombre}
+{1007}{}{Auditorium}
+{1008}{}{Sanctuaire}
+{1009}{}{Serviteurs}
+{1010}{}{Ordre}
+{1011}{}{Apocalypse}
+{1012}{}{Dieu}
+{1013}{}{Mutants}
+
+{1100}{laura74}{Oh, ces gens sont affreux. Je vais pas du tout parler d'eux !}
+{1101}{laura75}{Eh ben, je sais pas de qui tu parles.}
+{1102}{laura76a}{Les autres sont tous si gentils ! C'est merveilleux ici. On a notre place, on fait du bon travail... }
+{1103}{laura78}{Oh, il est merveilleux. Il nous dirige. Tu devrais lui parler !}
+{1104}{laura79}{Oh, je peux même pas commencer à le décrire. Morpheus nous dirige. Il saura rendre justice à ta question.}
+{1105}{laura80}{Nightkin ? Je sais pas de quoi tu parles.}
+{1106}{laura81}{Les quoi ?}
+{1107}{laura82}{C'est le grand endroit au nord de l'église, où Morpheus fait toutes ses cérémonies. J'y suis allée, c'est merveilleux !}
+{1108}{laura83}{Oh, tu peux pas y aller. C'est là que Morpheus médite.}
+{1109}{laura84}{Ils ont fait leurs preuves auprès de l'Église. Nous autres, on aspire à ça.}
+{1110}{laura85}{Ce sont les Grands Prêtres.}
+{1111}{laura74}{Oh, ces gens sont affreux. Je vais pas du tout parler d'eux !}
+{1112}{laura81}{Les quoi ?}
+{1113}{laura80}{Nightkin ? Je sais pas de quoi tu parles.}
+

@@ -1,0 +1,210 @@
+{100}{}{Tu vois le Lieutenant de l'armée du Maître.}
+{101}{LIEUT1}{Alors, qu'avons-nous là ? On m'a dit que vous souhaitiez divulguer des informations de la plus haute importance. Je l'espère bien.}
+{102}{}{Euh, ouais.}
+{103}{}{Pas à quelqu'un d'aussi laid que vous.}
+{104}{}{À une condition.}
+{105}{}{Zut !}
+{106}{LIEUT1A}{Une insulte. Comme c'est amusant. Je vous définirais bien ce mot, mais ce serait du gâchis, non ? Venons-en à vos deux choix : vous pouvez me dire ce que je veux savoir. Ou je peux le faire... à ma façon.}
+{107}{}{Je prends 'aucune des deux'.}
+{108}{}{D'accord, mais à une condition.}
+{109}{}{Bon, je vais vous le dire. C'est de l'autre côté des montagnes, loin au nord. Vous le trouverez près d'un étrange rocher en forme de demi-dôme... Alors, qu'est-ce que j'y gagne ?}
+{110}{LIEUT1B}{Je ne crois pas avoir offert quoi que ce soit. Mais je vous remercie de m'avoir dit où se trouve votre Abri. Je suis sûr que le Maître vous en sera... infiniment reconnaissant.}
+{111}{LIEUT2}{Comme c'est agréable pour nous deux. Maintenant, s'il vous plaît, l'emplacement de votre Abri.}
+{112}{}{C'est euh... c'est euh...}
+{113}{}{À une condition, mon pote.}
+{114}{}{Je vous ai eu, hein ? Je ne vous le dirai jamais !}
+{115}{}{D'accord, d'accord ! Ne me tuez pas ! Je vais tout vous dire !}
+{116}{LIEUT3}{Des conditions ? Comme c'est délicieux. Allez-y, amusez-moi avec votre... condition.}
+{117}{}{Je veux être libéré.}
+{118}{}{Mettez un sac sur votre tête pour que je supporte votre présence.}
+{119}{}{Je veux pouvoir vous poser quelques questions d'abord.}
+{120}{LIEUT4}{Quel sens de l'humour splendide. Dommage que je n'en aie pas. Alors... l'emplacement de votre Abri, s'il vous plaît.}
+{121}{}{D'accord, mais je peux vous poser quelques questions d'abord ?}
+{122}{}{Je ne dirai rien et vous ne pouvez pas m'y forcer.}
+{123}{}{C'est euh... c'est euh...}
+{124}{LIEUT5}{Mais certainement, mon cher humain. Je suis curieux de voir ce que vous allez demander.}
+{125}{}{C'est quoi votre travail ici ?}
+{126}{}{Pour qui vous travaillez ?}
+{127}{}{Qu'est-ce que vous me voulez ?}
+{128}{}{Et si je partais, tout simplement.}
+{129}{LIEUT7}{Mon cher humain, voici le grand procréateur ! Ici, nous ferons naître d'autres membres de la race des maîtres et assurerons l'Unité. C'est tout à fait glorieux, je vous l'assure.}
+{130}{}{Parlez-moi de l'Unité.}
+{131}{}{Ça en a l'air. Pourquoi vous faut tout ça pour, euh, procréer ?}
+{132}{}{Alors, qui commande ?}
+{133}{LIEUT8}{Actuellement, il y a un léger... problème dans le processus de reproduction. On s'en occupe. Pour l'instant, nous devons utiliser les Cuves pour transformer les humains en Super-mutants. Vous connaîtrez cette gloire vous-même dans un instant.}
+{134}{}{Oh, chic. Encore quelques questions avant que je... brille ?}
+{135}{lieut8a}{Comment pourrais-je refuser une requête formulée ainsi ?}
+{136}{LIEUT9}{Certainement. Nous avons tout le temps du monde... Croyez-moi.}
+{137}{LIEUT10}{L'Unité est notre but. C'est très simple, en réalité. Même vous avez remarqué le déclin constant de la civilisation, non ?}
+{138}{}{Ouais, mais...}
+{139}{LIEUT11}{Le Super-mutant est la prochaine étape de l'évolution humaine. Pour sauver le monde, nous convertirons tous les individus dignes. Simple, efficace, glorieux.}
+{140}{}{Donc vous transformez tout le monde en gros mutants verts et laids pour sauver le monde ?}
+{141}{}{En quoi vous êtes plus avancés ?}
+{142}{}{Mais on n'a pas le choix.}
+{143}{LIEUT12}{Votre esprit humain est plutôt mal équipé pour comprendre cela, donc un simple oui suffira pour l'instant. Bientôt, tout le monde sera converti, et la paix régnera.}
+{144}{}{Et le libre arbitre ?}
+{145}{}{Vous me dites qu'il n'y aura plus de guerre ?}
+{146}{LIEUT13}{Avez-vous choisi de naître dans ce monde couvert de cendres ? Nous, les Super-mutants, sommes les mieux préparés pour le monde à venir. Que vaut le libre choix face à la vie ?}
+{147}{}{Point discutable. Mais en quoi vous êtes mieux préparés que les humains normaux ?}
+{148}{}{Mais c'est mal de forcer les gens à vivre à votre façon !}
+{149}{LIEUT14}{Intuitivement évident pour l'observateur le plus distrait. Nous sommes hautement intelligents et immunisés contre les maladies. Les forts survivent ! Notre but est d'améliorer la race humaine.}
+{150}{}{Bien noble comme but. Comment on vous fabrique comme ça ?}
+{151}{LIEUT15}{Ahh, les merveilles de la technologie. Avant la guerre, les scientifiques humains ont créé le VEF. Il devait créer l'humain parfait.}
+{152}{}{Donc vous êtes l'humain parfait ?}
+{153}{LIEUT16}{Mieux. Plus qu'humain. Moi aussi, j'ai été humain. Comme vous, je n'étais qu'une limace vautrée dans la boue avant d'être exposé au VEF et de connaître ma glorieuse transformation.}
+{154}{}{Donc vous comptez tremper tout le monde dans ce VEF ?}
+{155}{LIEUT17}{Exactement. Maintenant vous voyez.}
+{156}{}{Euh, bien sûr. Je peux poser encore quelques questions ?}
+{157}{}{Mais c'est mal !}
+{158}{LIEUT18}{Oh, quelle déception. J'espérais tellement que vous verriez la lumière avant... Enfin, quand vous serez l'un des nôtres, je suis sûr que vous comprendrez. Alors vous embrasserez l'Unité.}
+{159}{}{Jamais ! C'est mal. Mal, je vous dis !}
+{160}{}{Peut-être. Je peux poser d'abord encore quelques questions ?}
+{161}{LIEUT19}{Plus de guerre ni de maladie. Tous les Super-mutants sont liés par l'Unité. Nous sommes l'espoir du monde.}
+{162}{}{Ça ressemble à du délire, pour moi.}
+{163}{}{En quoi vous êtes l'espoir du monde ?}
+{164}{LIEUT20}{Nous servons tous le Maître pour défendre la gloire de l'Unité. Il a été le premier intégré, vous voyez.}
+{165}{}{Comment vous êtes retrouvé à travailler pour lui ?}
+{166}{}{C'est quoi, l'Unité ?}
+{167}{LIEUT21}{Le destin. La chance du tirage. J'étais le plus fort de ma fournée à être trempé dans le Vecteur, et j'ai toujours soutenu les idéaux de l'Unité et du Maître, car il a raison. Et pour ma dévotion, j'ai été récompensé.}
+{168}{}{Quel virus ?}
+{169}{}{Alors, il est comment, ce Maître ?}
+{170}{LIEUT22}{Avant la guerre, les humains ont créé le VEF pour façonner l'homme parfait. Ils ont réussi, comme vous pouvez le constater. Le Maître a été le premier à exploiter véritablement le VEF à son plein potentiel.}
+{171}{}{Alors, où est ce Maître ?}
+{172}{}{Comment ça marche ?}
+{173}{LIEUT23}{Il est occupé avec les Enfants de la Cathédrale. Ils nous prennent vraiment pour des dieux. Mais bon, qui les blâmerait.}
+{174}{}{Oh là, on ne manque pas d'air ?}
+{175}{}{Vous vous prenez pour des dieux ?}
+{176}{LIEUT24}{L'honnêteté est-elle de la vanité ? Nous sommes la prochaine étape de l'évolution. Grâce à notre Unité, le monde survivra. Où est la vanité là-dedans ?}
+{177}{}{Et dans votre tête grotesque, ça compte ?}
+{178}{}{Bon, c'est vous qui le dites. Je peux poser encore quelques questions ?}
+{179}{LIEUT25}{Bien sûr que non. Nous sommes simplement l'avenir.}
+{180}{}{Je ne vous crois pas.}
+{181}{}{Avant que l'avenir arrive, il y a deux-trois trucs qui m'intriguent.}
+{182}{LIEUT26}{Oh, je soupçonne que c'est bien au-dessus de votre capacité de compréhension. Mais ne vous inquiétez pas. Bientôt vos yeux s'ouvriront à une toute nouvelle vie.}
+{183}{}{Qu'est-ce que vous voulez dire !?}
+{184}{}{Avant que ça arrive, il y a deux-trois trucs qui m'intriguent.}
+{185}{LIEUT27}{[Le Lieutenant soupire.] Vous n'avez toujours pas compris ? Vous êtes un normal de premier choix. Bientôt vous serez l'un des nôtres.}
+{186}{}{Ça vous dit, 'pas question' ?}
+{187}{}{Avant de devenir un trempé comme vous, il y a deux-trois trucs qui m'intriguent.}
+{188}{}{Pourquoi je suis un normal de premier choix ?}
+{189}{LIEUT28}{Allez-y, posez vos questions. Nous ne sommes pas pressés.}
+{190}{LIEUT29}{Il a été notre guide vers le Vecteur qui donne la vie, et il est le Père de nous tous. Et il veut tellement vous rencontrer. J'espère que vous êtes honoré.}
+{191}{}{Euh... d'accord. Et ce virus ? C'est quoi ?}
+{192}{}{Avant de m'accorder cet honneur, vous pourriez répondre à plus de questions ?}
+{193}{}{Où est-il ?}
+{194}{LIEUT30}{Le VEF a été altéré par les radiations de la guerre. Ceux qui vivent dans ce désert désolé y ont été exposés, ce qui les a essentiellement immunisés contre ses pleins effets.}
+{195}{}{Et alors ?}
+{196}{}{Donc il vous faut des non-contaminés pour faire des Super-mutants ?}
+{197}{LIEUT31}{Donc, vous venez d'un Abri et votre exposition à ce Vecteur altéré est limitée. Le VEF d'origine dans les Cuves devrait très bien fonctionner sur vous.}
+{198}{}{Et comment vous savez ça ?}
+{199}{LIEUT32}{Nous avons mené des expériences approfondies sur des humains pour arriver à cette conclusion. Mon Maître cherche des Abris non ouverts pour prouver ses théories. Et vous voilà. Comme c'est attentionné de votre part.}
+{200}{}{Vous ne le trouverez pas.}
+{201}{}{Bon, avant que ça arrive, il y a deux-trois trucs qui m'intriguent.}
+{202}{LIEUT33}{Oh, vous êtes plus brillant que je pensais. Maintenant vous savez pourquoi votre Abri nous est nécessaire.}
+{203}{}{Dommage, vous ne l'aurez pas.}
+{204}{}{C'est un grand Abri. Et si on commençait par quelques petites réponses ?}
+{205}{LIEUT34}{Partir ? Voyons... laissez-moi vérifier... Mais oui, j'ai failli rire ! Comme c'est merveilleusement drôle. Le seul endroit où vous irez, c'est la Cuve. Mais d'abord, vous me direz où est votre Abri.}
+{206}{}{J'espère que vous savez encaisser un refus.}
+{207}{LIEUT35}{Nous verrons bien, non ?}
+{208}{lieut35a}{Curieusement, je crois que vous n'avez pas l'intention de me le dire. Il va falloir corriger ça !}
+{209}{LIEUT36}{Ça va mieux ? Puisque la torture est une technique si grossière, mais curieusement satisfaisante et efficace, je vais vous demander encore une fois gentiment. Où... est... l'Abri ?}
+{210}{}{Je. Ne. Dirai. Rien.}
+{211}{}{Vous gagnez. C'est à huit ou neuf jours de marche plein est, dans le flanc d'une montagne. Je vais vous dessiner une carte.}
+{212}{LIEUT37}{J'espérais bien que vous diriez ça.}
+{213}{LIEUT37b}{Alors ? D'humeur plus... bavarde ? Où en étions-nous ? Ah oui, bien sûr... l'Abri.}
+{214}{}{C'est... c'est... dans vos rêves.}
+{215}{}{Vous gagnez. C'est à huit ou neuf jours de marche plein est, dans le flanc d'une montagne. Je vais vous dessiner une carte.}
+{216}{LIEUT38}{Ah, je me sens beaucoup mieux. Et vous ? Maintenant, soyez un gentil petit humain et dites-moi où est votre Abri. Cela devient très fastidieux.}
+{217}{}{Allez au diable.}
+{218}{}{Je vais parler ! Ne me faites plus mal !}
+{219}{}{J'admire tellement votre volonté. Gardes, ramenez-le dans sa cellule et préparez-le pour le trempage. Il nous dira où est son Abri quand il sera l'un des nôtres.}
+{220}{}{Si vous êtes si sûr que je parlerai après le trempage, pourquoi tout ça ?}
+{221}{LIEUT39a}{Eh bien, vous voyez, il y a ce petit inconvénient. Parfois, pas toujours, la mémoire d'une personne est, disons... interrompue par le trempage. Il y a donc une petite chance que vous oubliiez l'emplacement.}
+{222}{}{Donc vous ne pouvez pas vous permettre de me tremper.}
+{223}{}{On dirait qu'on est tous les deux dans la merde.}
+{224}{LIEUT39b}{Malheureusement, à ce stade, je dois prendre le risque. J'ai besoin de cette information.}
+{225}{}{Je parlerai.}
+{226}{}{Vous feriez mieux d'espérer que j'oublie. Parce que si je me souviens de quoi que ce soit, votre cul est à moi.}
+{227}{LIEUT40}{Excellent. Je crois que vous comprenez. Vous êtes donc sûr de vouloir dire où est l'Abri ? La torture peut être si agréable.}
+{228}{}{Oui, je suis sûr.}
+{229}{}{Maintenant que vous le dites, non.}
+{230}{}{Je peux poser d'abord quelques questions ?}
+{231}{LIEUT40a}{Je pensais que vous finiriez par voir les choses comme moi. Pas de regrets ?}
+{232}{}{Je vais tout vous dire.}
+{233}{}{Oui, j'ai changé d'avis et je ne dirai jamais rien.}
+{234}{}{Je peux poser quelques questions, d'abord ?}
+{235}{LIEUT41}{Oh, c'est excellent. Vous savez, j'ai douté de mes officiers quand ils ont dit avoir capturé un normal de premier choix. C'est si agréable de vous voir.}
+{236}{}{Allez au diable.}
+{237}{}{Qu'est-ce que vous me voulez ?}
+{238}{}{Ben voyons !}
+{239}{LIEUT42}{Oui, vous avez une façon avec les mots, n'est-ce pas. Et ce sont des mots que nous voulons, avant...}
+{240}{}{Qu'est-ce que vous voulez dire par 'avant' ?}
+{241}{}{Vous n'obtiendrez rien de moi !}
+{242}{LIEUT43}{Quand vous serez l'un des nôtres, bien sûr ! Je ne peux pas avoir un parfait normal de premier choix sans en faire un Élu, non ? Après que vous m'aurez dit où est votre Abri.}
+{243}{}{Vous dire ? Vous êtes presque drôle.}
+{244}{}{À une condition.}
+{245}{LIEUT44}{Oh, comme c'est louable. Assez de sottises. Où est votre Abri ?}
+{246}{}{Je ne dirai rien.}
+{247}{}{Bon... à une condition.}
+{248}{LIEUT45f}{Eh bien, je suis assez impressionné. Mes espions m'ont dit que vous étiez débrouillarde, mais ils semblent avoir sous-estimé vos talents. Gardes, capturez-la !}
+{249}{LIEUT46}{Ahh, vous avez fait une bonne sieste ? Je l'espère. Mais il est temps de passer aux choses sérieuses.}
+{250}{}{Allez au diable.}
+{251}{}{Qu'est-ce que vous me voulez ?}
+{252}{LIEUT48}{L'esprit reste confondu devant votre intellect. Pourquoi les légions ne se sont pas encore prosternées à vos pieds, je ne comprendrai jamais. Gardes, emmenez cet idiot !}
+{253}{LIEUT50}{Comme je disais...}
+{254}{lieut51}{Comme je vous l'ai déjà dit...}
+{255}{LIEUT52}{Écoutez attentivement cette fois. J'ai dit...}
+{256}{lieut53}{Je vous ai dit...}
+{257}{LIEUT54}{Vous savez, vous me rappelez un cafard que je possédais autrefois. Je l'ai écrasé parce que ses petits bruits de course m'agaçaient. Souvenez-vous-en.}
+{258}{LIEUT55}{Vous êtes un petit humain agaçant, n'est-ce pas ? Je ne le répéterai plus.}
+{259}{LIEUT56}{L'Unité est le but de tous les Super-mutants. Grâce au Vecteur d'Émergence Forcée, nous réunirons toute l'humanité dans la paix.}
+{260}{LIEUT57}{Le Vecteur d'Émergence Forcée a été découvert par le Maître il y a bien des années. C'est ce qui fait de nous les Élus. Mais vous l'apprendrez bientôt, je vous l'assure.}
+{261}{LIEUT58}{Le Maître est le père de nous tous.}
+{262}{LIEUT59}{Rien qu'un outil pour servir nos plans. Peu importe, tous les humains seront des Élus... ou morts.}
+{263}{LIEUT60}{Les Cuves, c'est là qu'est stocké le VEF, et où vous autres normaux devenez l'un des nôtres. Bien sûr, certains meurent de morts horribles et atrocement douloureuses, mais bon, c'est le jeu.}
+{264}{LIEUT61}{Ce sont des humains qui n'ont pas été exposés aux radiations. Ils s'en sortent généralement mieux dans les Cuves que les autres. Vous en êtes un parfait exemple.}
+{265}{LIEUT62}{Ils ont été construits avant la guerre. C'est aussi notre principale source de normaux de premier choix.}
+{266}{LIEUT63}{Morpheus. C'est assez amusant. Il se croit bien plus qu'une simple limace que le Maître a recrutée pour diriger son cirque des Enfants de la Cathédrale. Enfin bon. Lui aussi sera trempé dans les Cuves et il mourra probablement d'une mort horrible... je l'espère.}
+{267}{LIEUT64}{Ce n'est pas important pour l'instant.}
+{268}{LIEUT65}{Cette question n'a aucun rapport avec l'Unité.}
+{269}{LIEUT66}{Je ne daignerai même pas y répondre.}
+{270}{LIEUT45m}{Eh bien, je suis assez impressionné. Mes espions m'ont dit que vous étiez débrouillard, mais ils semblent avoir sous-estimé vos talents. Gardes, capturez-le !}
+{271}{LIEUT39f}{Oh, j'admire tellement votre volonté. Gardes, emmenez-la et préparez-la pour le trempage. Elle nous dira où est son Abri quand elle sera l'une des nôtres.}
+{272}{LIEUT39m}{J'admire tellement votre volonté. Gardes, ramenez-le dans sa cellule et préparez-le pour le trempage. Il nous dira où est son Abri quand il sera l'un des nôtres.}
+
+
+# Lieutenant Tell-Me-Abouts generic responses
+{980}{LIEUT64}{Ce n'est pas important pour l'instant.}
+{981}{LIEUT65}{Cette question n'a aucun rapport avec l'Unité.}
+{982}{LIEUT66}{Je ne daignerai même pas y répondre.}
+
+#
+# Lieutenant Tell-Me-Abouts
+#
+
+
+{1000}{}{Unité}
+{1001}{}{VEF}
+{1002}{}{Maître}
+{1003}{}{Cathédrale}
+{1004}{}{Cuves}
+{1005}{}{Normaux}
+{1006}{}{Abris}
+{1007}{}{Morpheus}
+{1008}{}{Vecteur}
+
+{1100}{LIEUT56}{L'Unité est le but de tous les Super-mutants. Grâce au Vecteur d'Émergence Forcée, nous réunirons toute l'humanité dans la paix.}
+{1101}{LIEUT57}{Le Vecteur d'Émergence Forcée a été découvert par le Maître il y a bien des années. C'est ce qui fait de nous les Élus. Mais vous l'apprendrez bientôt, je vous l'assure.}
+{1102}{LIEUT58}{Le Maître est le père de nous tous.}
+{1103}{LIEUT59}{Rien qu'un outil pour servir nos plans. Peu importe, tous les humains seront des Élus... ou morts.}
+{1104}{LIEUT60}{Les Cuves, c'est là qu'est stocké le VEF, et où vous autres normaux devenez l'un des nôtres. Bien sûr, certains meurent de morts horribles et atrocement douloureuses, mais bon, c'est le jeu.}
+{1105}{LIEUT61}{Ce sont des humains qui n'ont pas été exposés aux radiations. Ils s'en sortent généralement mieux dans les Cuves que les autres. Vous en êtes un parfait exemple.}
+{1106}{LIEUT62}{Ils ont été construits avant la guerre. C'est aussi notre principale source de normaux de premier choix.}
+{1107}{LIEUT63}{Morpheus. C'est assez amusant. Il se croit bien plus qu'une simple limace que le Maître a recrutée pour diriger son cirque des Enfants de la Cathédrale. Enfin bon. Lui aussi sera trempé dans les Cuves et il mourra probablement d'une mort horrible... je l'espère.}
+{1108}{LIEUT57}{Le Vecteur d'Émergence Forcée a été découvert par le Maître il y a bien des années. C'est ce qui fait de nous les Élus. Mais vous l'apprendrez bientôt, je vous l'assure.}
+
+{1109}{LIEUT65}{Cette question n'a aucun rapport avec l'Unité.}
+{1110}{LIEUT66}{Je ne daignerai même pas y répondre.}
+{1111}{lieut45m}{Eh bien, je suis assez impressionné. Mes espions m'ont dit que vous étiez débrouillard, mais ils semblent avoir sous-estimé vos talents. Gardes, capturez-le !}
+{1112}{lieut39f}{Oh, j'admire tellement votre volonté. Gardes, emmenez-la et préparez-la pour le trempage. Elle nous dira où est son Abri quand elle sera l'une des nôtres.}
+{1113}{lieut39m}{J'admire tellement votre volonté. Gardes, ramenez-le dans sa cellule et préparez-le pour le trempage. Il nous dira où est son Abri quand il sera l'un des nôtres.}

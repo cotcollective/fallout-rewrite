@@ -1,0 +1,289 @@
+# These are various People combined into one file.
+# They are split into the groups of what they are.
+
+################
+# Flat monotonic people. Nothing interesting. they are apathic.
+{106}{}{Tu vois une femme.}
+{107}{}{Tu vois un homme.}
+
+################
+# The drunk has slurred speech. he's been hitting the booze a bit too hard
+# and is having problems standing and remembering his name
+
+{100}{}{Tu vois un ivrogne.}
+{110}{}{Laisse-moi à mes chagrins.}
+{111}{}{T'es mon meillleur ami.}
+# best friend (slurred)
+
+{112}{}{Pourquoi t'es... *hoquet* je suis où ?}
+{113}{}{T'es qui ?}
+{114}{}{Je te connais ?}
+{115}{}{Je me sens un peu patraque.}
+{116}{}{C'est moi qui paie... je veux dire, toi.}
+{117}{}{Pourquoi y en a deux de toi ?}
+
+#They say 'Stand still' because their vision is blurry and moving from being drunk
+
+# laddy is male. long version of "lad". 
+{118}{}{Bouge pas, mon gars !}
+# lassie is female. long version of "lass"
+{119}{}{Bouge pas, ma belle !}
+
+#################
+# Customer and gamble are both genders. Consider male for translation. They are agitated, yet happy to
+# be spending all their money. Consider the people in Las Vegas gambling away their money.
+
+{101}{}{Tu vois un client.}
+{104}{}{Tu vois un parieur.}
+{120}{}{Dégage, cloporte !}
+# == "Get out of here loser"
+
+{121}{}{Tu fais baisser le niveau de cet établissement.}
+# == "you are dropping the class of this place"
+
+{122}{}{Va-t'en, tu vas me porter malheur !}
+# == "get away. you will bring me bad luck"
+
+{123}{}{Brise pas ma concentration.}
+{124}{}{Je finirai bien par battre ce foutu jeu !}
+{125}{}{T'es bon à ça ?}
+{126}{}{T'as vu ça ? C'était impossible !}
+# referring to dice roll
+
+{127}{}{Je crois qu'ils trichent.}
+# they is referring to the owners of the Maltese Falcon, the drinking/gambling establishment
+# They is Male
+
+{128}{}{Là, c'est des bonnes cotes.}
+{129}{}{C'est du sûr.}
+# TRANSLATION NOTE: line 129 is referring to a bet.
+
+{130}{}{Quoi ? Comment j'ai pu perdre ?}
+{131}{}{Cette table est maudite !}
+# TRANSLATION NOTE: line 131 means "this table is cursed/unlucky"
+
+{132}{}{Je suis occupé.}
+{133}{}{Tu vois pas que je joue, là ?}
+{134}{}{Tu paries ou tu dégages.}
+# TRANSLATION NOTE: line 134 "Make a bet on the game or go away"
+
+
+######################################
+# This is a sleazy prostitute who will have sex with anyone who will give
+# her 20 caps. She will be talking a sexy, but lewd voice.
+
+################################
+# Busy prostitute
+
+{105}{}{Tu vois une très jolie dame. Elle semble occupée.}
+{301}{}{En y regardant de plus près, c'est évident que c'est une prostituée avec un client. Elle te fait signe de partir, immédiatement.}
+
+{102}{}{Tu vois une femme à l'air louche.}
+{302}{}{En y regardant de plus près, c'est évident que c'est une prostituée. Elle te lance un faux sourire.}
+
+# MALE CUSTOMERS
+
+# random 200 to 209 can display when dialog begins
+{200}{}{Hé chéri, tu cherches un bon moment ?}
+{201}{}{Tu cherches quoi, chéri ?}
+{202}{}{Tu cherches de la compagnie ?}
+{203}{}{Hé, mignon.}
+{204}{}{Ça te plaît ce que tu vois ? Moi oui.}
+{205}{}{Montre-moi ce que t'as, mon sucre.}
+
+# random 206 to 209 display as a float message when dialog ends
+{206}{}{J'aime ça brutal, si t'es partant.}
+{207}{}{Pas de maladies ; je suis clean !}
+{208}{}{Je fais les groupes, pour un petit supplément.}
+{209}{}{Je ferai tout pour le bon prix...}
+
+# FEMALE CUSTOMERS
+
+# random 210 to 219 can display when dialog begins
+{210}{}{J'ai jamais été avec une fille avant...}
+{211}{}{Je suis ton rêve devenu réalité, mon sucre.}
+{212}{}{Si t'as les capsules, je suis partante.}
+{213}{}{Ça te plaît ce que tu vois ? Moi oui.}
+# "sweet pea" is slang for another slang word, "sweetie"
+{214}{}{Hé, ma puce.}
+{215}{}{Hé chéri, tu cherches un bon moment ?}
+
+# random 216 to 219 display as a float message when dialog ends
+{216}{}{J'aime ça brutal, si t'es partant.}
+{217}{}{Pas de maladies ; je suis clean !}
+{218}{}{Je fais les groupes, pour un petit supplément.}
+{219}{}{Je ferai tout pour le bon prix...}
+
+# STUPID CUSTOMERS
+
+{232}{}{Jolie dame. Avec moi ?}
+{233}{}{Oh mon dieu... chéri, faut bien que je gagne ma vie mais même moi j'ai des limites.}
+{235}{}{MOI VOULOIR !}
+# "hell of a"
+{405}{}{Bon... je suppose que je peux faire une exception. Mais t'as intérêt à avoir un paquet de capsules.}
+# == "you better have a very large amount of caps for me to agree to this"
+{243}{}{Capsule ?}
+# "Falcon" = Maltese Falcon, the bar
+{244}{}{*soupir* Oui, idiot. Des capsules de bouteille. Paie-moi 150 et je te ferai passer un bon moment. Ça devrait suffire pour noyer ma honte au Falcon et faire du profit.}
+# "that should be enough caps to buy me lots of alcohol and still have caps left over"
+{238}{}{Mpf.}
+{239}{}{Désolée chéri. Si tu te trouves un nouveau cerveau, reviens me voir.}
+{240}{}{Mmf. D'ac, moi partir.}
+{257}{}{Tiens.}
+{258}{}{Moi pas avoir argent...}
+{259}{}{Mpf !}
+{260}{}{J'arrive pas à croire que je fais ça...}
+{261}{}{Sors d'ici. Je vais aller vomir, là.}
+{262}{}{Faut que je trouve un nouveau boulot.}
+{263}{}{Toi encore ? Va te faire foutre, je travaille pas avec des attardés qui peuvent pas payer.}
+{264}{}{Euh...}
+{265}{}{Hein ?}
+
+# Generic hooker msgs
+
+{220}{}{Ça coûte combien, le plaisir ?}
+{221}{}{Vingt capsules.}
+{249}{}{D'accord, ça me va.}
+{222}{}{Allons droit au but...}
+# 227 "what service do you want?"
+{227}{}{D'accord. Tu cherches quoi, chéri ?}
+{223}{}{Non merci, pas intéressée.}
+{225}{}{Combien pour une action de groupe ?}
+{241}{}{Ça dépend de ce que tu cherches, mon miel.}
+{226}{}{Cent capsules.}
+{230}{}{Lapdance.}
+{231}{}{Striptease.}
+{234}{}{Amuse-toi tout seul, je regarderai.}
+{237}{}{Tout et n'importe quoi ! Surprends-moi...}
+{245}{}{Ça m'est égal, finissons-en.}
+{246}{}{Juste du sexe.}
+{236}{}{La même chose que d'habitude.}
+{250}{}{À bien y penser, non.}
+# 251 "if you don't want any, okay. but you'll come back."
+{251}{}{Comme tu veux, mon sucre. Tu reviendras.}
+{228}{}{D'accord, suis-moi...}
+{242}{}{D'accord, tout le monde me suit...}
+{254}{}{[Continuer]}
+{229}{}{Merci, l'étranger. (Elle empoche les capsules et t'envoie un baiser)}
+{256}{}{Merci, mon sucre. Reviens vite !}
+{224}{}{Merci pour ce bon moment. À plus tard.}
+
+# for when she says how many caps it costs to be with her
+# Spaces at the beginnings or ends of these lines is intentional
+#low Charisma
+{247}{}{Pour toi, }
+#high Charisma
+{248}{}{Pour toi, mon sucre ? }
+{300}{}{ capsules.}
+{252}{}{J'ai pas autant de capsules.}
+{253}{}{Alors pourquoi tu me parles, bordel ? Dégage !}
+{255}{}{[Terminé]}
+
+# messages from team members while doing group action
+{400}{}{Bon, c'était intéressant.}
+{401}{}{Ouaf !}
+{402}{}{On devrait se remettre au travail, maintenant.}
+{403}{}{Ugh, je me sens sale.}
+{404}{}{Oh wow...}
+
+
+{135}{}{Laisse-nous tranquilles ou j'appelle les gardes.}
+{136}{}{Attention, je suis un ami proche de l'adjoint Fry.}
+{137}{}{Ça te dérange ?}
+# 137 == "could you please leave us alone? you're being rude"
+{138}{}{Pas de voyeurs !}
+# == "I don't allow people to watch me having sex with someone else."
+
+{139}{}{Je fais pas les groupes.}
+# == "I don't have sex with more than one person."
+
+{140}{}{Je suis trop fatiguée pour une autre fois.}
+# referring to having another round of sex.
+
+{141}{}{Tu rêves, mon pote. Dégage !}
+{142}{}{Dégage d'ici !}
+{143}{}{C'est quoi ton problème ?}
+{144}{}{Tiens-toi bien !}
+{145}{}{J'appelle les flics !}
+{146}{}{N'y pense même pas !}
+{147}{}{Dehors !}
+{148}{}{Dégage !}
+{149}{}{Tu regardes quoi ?}
+
+#####################
+# This is a customer for the Hooker. Gender is male. He is aburpt and is really not
+# interested in the player, only having sex with the prostitute
+
+{109}{}{Tu vois un mercenaire.}
+{150}{}{Tu fais partie du combo ?}
+{151}{}{Sors de notre chambre !}
+{152}{}{Dehors !}
+{153}{}{Tu fais partie du combo ?}
+# == "are you part of the group of three/threesome/orgy"
+
+{154}{}{Dégage, pervers !}
+# == "get out of here, perverse person"
+
+{155}{}{C'est quoi ton problème ?}
+{156}{}{Dégage avant que je m'énerve.}
+# "Beat it" == "get out of here"
+
+{157}{}{Prends-en une à toi.}
+# == "get your own hooker"
+
+{158}{}{Elle est à moi.}
+# "She" is referring to the hooker.
+
+
+
+######################
+# Gambler is Male. The gambler has lost a lot of money and is really upset about
+# having done so.
+
+{108}{}{Tu vois un parieur très énervé.}
+{159}{}{Merde !}
+{160}{}{Tu triches ?}
+# referring to the player
+
+{161}{}{Ça aurait dû être à moi.}
+# someone else won a bet, this person thinks they should have won instead
+
+{162}{}{Presque !}
+# nearly got his number on the roulette wheel
+
+{163}{}{Juste à côté.}
+# pulled up a 19 to the dealers 20 in blackjack
+
+{164}{}{C'est quoi déjà les règles ?}
+# in referrence to a gambling game
+
+{165}{}{J'étais bon à ça, avant.}
+# in referrence to a gambling game
+
+{166}{}{Merci pour rien.}
+{167}{}{J'y crois pas !}
+{168}{}{C'était voulu, promis.}
+# he meant to lose.
+
+######################
+# This is the dealer/roulette shooter for the casino. Monotonic voice and trying to
+# pretend to be happy about being here.
+
+{103}{}{Tu vois un homme à l'air étrange.}
+{169}{}{Faites vos jeux.}
+{170}{}{Pas touche, monsieur.}
+# in referrence to taking money from the table while the bet is going on
+
+{171}{}{Gagnant !}
+{172}{}{Désolé tout le monde, ce sera pour la prochaine fois.}
+# maybe next time someone can win
+
+{173}{}{Encore un gagnant !}
+{174}{}{Pas touche !}
+# don't take the dice off the table while someone is rolling them
+
+{175}{}{À vous, monsieur.}
+# your turn to bet
+{176}{}{Désolé, mise invalide.}
+{177}{}{C'est tout.}
+{178}{}{Quelqu'un d'autre ?}
