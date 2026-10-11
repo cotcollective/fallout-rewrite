@@ -1,0 +1,172 @@
+{100}{}{Tu vois : Michael.}
+{101}{}{Bon, je suppose que c'était ça le problème. Tu devrais voir le Docteur, elle est au niveau deux.}
+{102}{}{Pour autant que je puisse en juger, tu vas bien.}
+{103}{}{La réserve est interdite d'accès, monsieur. Seuls moi et deux autres personnes y avons accès. Si tu as besoin de quelque chose, tu dois m'en parler.}
+{104}{}{La réserve est interdite d'accès, madame. Seuls moi et deux autres personnes y avons accès. Si tu as besoin de quelque chose, tu dois m'en parler.}
+{105}{}{Tu m'as pas entendu ? J'ai dit que ces pièces sont interdites d'accès.}
+{106}{}{Bonjour, Frère. Comment puis-je t'aider ?}
+{107}{}{Pardonne-moi de demander, mais que fais-tu pour notre Confrérie ?}
+{108}{}{Tu fais quoi par ici ?}
+{109}{}{Je suis blessé. Tu peux me soigner ?}
+{110}{}{Urak Chufar !}
+{111}{}{Je suis désolé, mais je comprends pas ce que tu veux. Si tu as besoin de fournitures, il te faut une autorisation.}
+{112}{}{Taga ma.}
+{113}{}{Caroo !}
+{114}{}{Je comprends toujours pas. Tu devrais peut-être voir le Docteur ; elle est au niveau deux.}
+{115}{}{Tu devrais voir le Docteur. Elle est au niveau deux.}
+{116}{}{Oh, rien d'aussi glorieux que nos Paladins. Je m'occupe juste de la réserve, à distribuer l'équipement et les fournitures aux gens.}
+{117}{}{On m'a envoyé ici par... Bob. Il voulait que je lui rapporte... ce nouveau truc d'arme high-tech. Il a dit de l'apporter tout de suite.}
+{118}{}{Je voudrais emprunter quelque chose. Comment je fais ?}
+{119}{}{Oh, c'est gentil. Salut.}
+{120}{}{Bob ? Bob qui ? De quoi tu parles ? C'est quoi ce nouveau truc d'arme high-tech ? Il me faut plus de précisions, et tu devras dire à « Bob » de m'envoyer l'autorisation en bonne et due forme. Je peux rien donner sans autorisation.}
+{121}{}{Oh, tu veux dire le pistolet laser ? D'accord, attends une seconde s'il te plaît. J'ai aucune autorisation d'un « Bob » pour donner un laser à qui que ce soit. Oh, attends. Je comprends. Ces filles en bas se croient vraiment drôles. J'aimerais qu'elles arrêtent de m'embêter.}
+{122}{}{Bon, tu sais. Elles m'ont dit de pas te le dire, mais c'est juste parce qu'elles t'aiment bien. Je crois que l'une d'elles a le béguin pour toi.}
+{123}{}{Désolé, j'avais aucune idée de ce qu'elles manigançaient. Elles m'ont dit de monter ici et de te dire ça, et que ça te ferait bien marrer.}
+{124}{}{Je suis désolé. C'était une mauvaise blague. Je te taquinais, c'est tout.}
+{125}{}{Tu recommences ! Arrête de me tourmenter ! Elles sont si cruelles ! Je peux pas croire que tu t'abaisses à leur niveau. Nous les gars, on est censés se serrer les coudes.}
+{126}{}{Tu mens ! T'es de mèche avec elles. Comment tu peux être si cruel ?}
+{127}{}{Vraiment ? Tu me ferais pas marcher encore une fois, hein ? Non, t'as l'air d'un bon gars. Elles t'ont probablement forcé à faire ça. Tu sais, j'ai surpris Lara en train de me regarder pendant l'entraînement. Je parie que c'était elle, non ?}
+{128}{}{Ouais, c'est ça. C'est elle. Ne lui dis pas que je te l'ai dit. Elle me tuerait.}
+{129}{}{Non, je suis désolé. Je te taquinais, c'est tout. Personne m'a envoyé ici.}
+{130}{}{Tu recommences ! Arrête de me tourmenter ! Vous les femmes, vous êtes si cruelles !}
+{131}{}{Vraiment ? Tu me ferais pas marcher encore une fois, hein ? Non, t'as l'air d'une bonne fille. Elles t'ont probablement forcée à faire ça. Tu sais, j'ai surpris Lara en train de me regarder pendant l'entraînement. Je parie que c'était elle, non ?}
+{132}{}{Ouais, c'est ça. C'est elle. Ne lui dis pas que je te l'ai dit. Elle me tuerait.}
+{133}{}{Non, je suis désolée. Je te taquinais, c'est tout. Personne m'a envoyée ici.}
+{134}{}{Bon, je sais pas quoi dire. J'ai eu le béguin pour elle depuis un moment, mais je voulais pas agir parce que je savais pas si c'était réciproque. La prochaine fois que je la verrai, je crois que je vais l'inviter à sortir. J'essaierai peut-être d'être dans la même patrouille qu'elle et de la surprendre avec un joli dîner romantique. Merci beaucoup, tu m'as vraiment fait plaisir. Tiens, prends ça. Tu devrais pouvoir en trouver l'usage. Ce sont des grenades à impulsion électromagnétique. Très utiles contre les robots. J'espère que t'auras jamais à t'en servir. Salut.}
+{135}{}{C'est pas très gentil de ta part. Pourquoi tu dirais un truc pareil si c'était pas vrai ? Les gens, je te jure !}
+{136}{}{Oh. T'as un drôle de sens de l'humour. Bon, me dérange pas sauf si t'as quelque chose à emprunter.}
+{137}{}{Oh, ces filles me mènent toujours la vie dure. Je sais pas pourquoi elles font ça. Cette Lara est quand même mignonne. Je l'aime bien depuis pas mal de temps. Je la connaissais quand elle était plus jeune ; c'était une vraie perle. Maintenant elle est plus âgée, et elle me traite si mal. J'ai jamais rien fait pour mériter ça.}
+{138}{}{Bon, peut-être qu'elle t'aime bien. T'y as déjà pensé ? Elle sait peut-être juste pas comment t'aborder. Tu devrais lui demander. Si tu l'aimes vraiment, qu'est-ce que tu risques ?}
+{139}{}{Peut-être qu'elle t'aime bien.}
+{140}{}{Euh, ouais. D'accord. Salut.}
+{141}{}{Tu sais, t'as raison. Qu'est-ce que je risque ? La prochaine fois que je la verrai, je crois que je vais l'inviter à sortir. J'essaierai peut-être d'être dans la même patrouille qu'elle et de la surprendre avec un joli dîner romantique. Merci beaucoup, tu m'as vraiment fait plaisir. Tiens, prends ça. Tu devrais pouvoir en trouver l'usage. Ce sont des stimulants de dextérité. Fais attention, ça peut rendre très accro. Salut.}
+{142}{}{Non, c'est peu probable. Les femmes me rendent parfois perplexe. Je peux lire et comprendre n'importe quel schéma qu'on me met sous les yeux, mais quand il s'agit des femmes, je suis complètement perdu. Merci quand même.}
+{143}{}{Non, c'est peu probable. Vous les femmes me rendez parfois perplexe. Je peux lire et comprendre n'importe quel schéma qu'on me met sous les yeux, mais quand il s'agit des femmes, je suis complètement perdu. Merci quand même.}
+{144}{}{Il te faut l'autorisation en bonne et due forme. Seules certaines personnes peuvent autoriser les sorties de matériel de la réserve.}
+{145}{}{Oh. D'accord, merci. À qui je dois parler, alors ?}
+{146}{}{On m'a donné l'autorisation d'emprunter quelque chose. Tu peux vérifier sur le terminal si c'est passé ?}
+{147}{}{Qui peut me donner une autorisation ?}
+{148}{}{Bon, il y a pas mal de monde, en fait ; mais Talus est la personne à qui tu devrais probablement parler. Tu pourrais aussi voir avec Mathia ; elle pourra peut-être t'aider aussi.}
+{149}{}{Où je peux trouver Mathia ?}
+{150}{}{Où est Talus ?}
+{151}{}{D'accord, merci.}
+{152}{}{Mathia est l'assistante de Maxon. Elle est techniquement l'assistante du Grand Aîné, mais elle travaille avec tous les autres Aînés. Elle est normalement dans les appartements des Aînés. C'est au quatrième étage.}
+{153}{}{D'accord. Où est Talus ?}
+{154}{}{D'accord. Merci. Salut.}
+{155}{}{Tiens, il est dans la salle d'entraînement à ma gauche.}
+{156}{}{Super. Tu pourrais aussi me dire où je peux trouver Mathia ?}
+{157}{}{Et Mathia ?}
+{158}{}{Merci. À plus tard.}
+{159}{}{Oui, pendant la journée elle est normalement dans les appartements des Aînés. C'est au quatrième étage.}
+{160}{}{Merci. Tu m'as été très utile.}
+{161}{}{Bon, voilà la drogue pour laquelle tu avais une autorisation. Fais attention avec ça. Ça peut rendre accro si tu en prends trop souvent. La désintox et le manque, c'est pas drôle, mais je suppose que c'est à peu près pareil. À tes risques et périls. Je peux faire autre chose pour toi ?}
+{162}{}{Non, c'est tout. Merci.}
+{163}{}{Oui, j'ai autre chose à récupérer.}
+{164}{}{Bon, voilà la drogue que tu voulais. C'est du bon matos. Je suis sûr que ça te sera utile. T'avais besoin d'autre chose ?}
+{165}{}{Non, c'est tout. Merci.}
+{166}{}{Oui, j'ai autre chose à récupérer.}
+{167}{}{D'accord, j'en ai un peu. On n'a jamais assez de munitions, hein ? Bon, voilà. Autre chose ?}
+{168}{}{Non, c'est tout. Merci.}
+{169}{}{Oui, j'ai autre chose à récupérer.}
+{170}{}{Oh, ça peut vraiment être dangereux. Assure-toi juste d'être assez loin quand ça explose. Voilà. Autre chose ?}
+{171}{}{Non, c'est tout. Merci.}
+{172}{}{Oui, j'ai autre chose à récupérer.}
+{173}{}{Ah, rien de tel qu'une bonne arme à ses côtés. Autre chose ?}
+{174}{}{Non, c'est tout. Merci.}
+{175}{}{Oui, j'ai autre chose à récupérer.}
+{176}{}{Une bonne défense, c'est la meilleure attaque. Ou c'était l'inverse ? Bon, peu importe. Voilà ton armure. Prends-en soin ; je peux pas en distribuer plus d'un jeu. T'avais besoin d'autre chose ?}
+{177}{}{Non, c'est tout. Merci.}
+{178}{}{Oui, j'ai autre chose à récupérer.}
+{179}{}{Bon, ça peut être utile entre de bonnes mains. Tiens. Autre chose ?}
+{180}{}{Non, c'est tout. Merci.}
+{181}{}{Oui, j'ai autre chose à récupérer.}
+{182}{}{Oh, autre chose ? Désolé, j'ai dû rater ça. Voyons voir.}
+{183}{}{Bonjour, encore. Comment ça va aujourd'hui ? Comment puis-je t'aider ?}
+{184}{}{Y a quelque chose que je peux faire pour toi ? T'as l'air rudement occupé.}
+{185}{}{J'ai quelque chose à récupérer.}
+{186}{}{Rien, salut.}
+{187}{}{Tu pourrais jamais m'aider ? J'y crois pas. Pousse-toi de mon chemin.}
+{188}{}{D'accord, voyons voir.}
+{189}{}{Ah, oui. Tu as bien une autorisation pour emprunter quelque chose.}
+{190}{}{Bon en fait, Sophia aurait besoin de grenades IEM mais j'ai pas encore eu le temps de les lui descendre. Tu crois que tu pourrais les lui descendre pour moi ?}
+{191}{}{Bien sûr. Donne-les-moi.}
+{192}{}{Désolé, j'ai pas le temps. J'espère que tu trouveras quelqu'un d'autre.}
+{193}{}{J'ai l'air de quoi, ton larbin ?}
+{194}{}{D'accord, tiens. Sophia est l'une des deux Assistantes Scribes en chef pour Vree. Elle est normalement à la bibliothèque au troisième étage.}
+{195}{}{Pourquoi t'as pas livré les objets que je t'ai donnés ? Sophia les attend.}
+{196}{}{Je suis désolé. Tu peux me redire où elle est ?}
+{197}{}{Je les ai perdus. Je peux en avoir d'autres ?}
+{198}{}{Je suis désolé, j'ai perdu la notion du temps.}
+{199}{}{Ha ! Tu croyais vraiment que j'allais les livrer ? T'es plus bête que t'en as l'air !}
+{200}{}{Elle est normalement à la bibliothèque au troisième étage.}
+{201}{}{Gardes ! On a un voleur ! Montrez-lui ce qu'on fait à ceux qui trahissent la Confrérie.}
+{202}{}{Gardes ! On a une voleuse ! Montrez-lui ce qu'on fait à celles qui trahissent la Confrérie.}
+{203}{}{Désolé, je parle pas aux gens comme toi.}
+{204}{}{Bien sûr. J'aurais dû me douter qu'il fallait pas faire confiance à quelqu'un comme toi.}
+{205}{}{Je peux pas croire que tu oses te montrer par ici. J'espère que les grenades t'ont été utiles ; tu n'auras plus jamais rien de ma part. Peu importe qui est censé t'avoir donné une autorisation.}
+{206}{}{Tiens, tiens. Sophia dit que tu lui as livré les grenades. C'était très gentil de ta part. Elle travaille sur une meilleure version et devait vérifier si les circuits étaient compatibles.}
+{207}{}{Qu'est-ce que tu veux ?}
+{208}{}{Donne-moi juste ce que j'ai à récupérer et je te fiche la paix.}
+{209}{}{Rien.}
+{210}{}{Bon d'accord. Je vais juste vérifier si j'ai une commande.}
+{211}{}{D'accord, il te faut des munitions, c'est ça ? Bon, quel type il te faut ?}
+{212}{}{Je sais pas.}
+{213}{}{10mm Jacketed Hollow Point.}
+{214}{}{10mm Armor Piercing.}
+{215}{}{44 Magnum Jacketed Hollow Point.}
+{216}{}{44 Magnum Full Metal Jacket.}
+{217}{}{14mm Armor Piercing}
+{218}{}{.223 Full Metal Jacket.}
+{219}{}{5mm Jacketed Hollow Point.}
+{220}{}{5mm Armor Piercing.}
+{221}{}{Cartouches de fusil.}
+# 222 "give me a holler" means "shout to get my attention", or simply "let me know"
+{222}{}{Bon, il faut que tu saches quel type de munitions il te faut avant que je puisse t'en donner. Examine juste l'arme pour laquelle tu as demandé des munitions. Quand tu auras trouvé, fais-moi signe.}
+{223}{}{Ah, un lance-roquettes... rien de tel qu'une bonne arme à ses côtés. Alors, ce sera tout ?}
+{224}{}{Non, c'est tout. Merci.}
+{225}{}{Oui, j'ai autre chose à récupérer.}
+{226}{}{Ah oui, voilà le beau pistolet que tu cherches. Alors, ce sera tout ?}
+{227}{}{Non, c'est tout. Merci.}
+{228}{}{Oui, j'ai autre chose à récupérer.}
+{229}{}{Une bonne défense, c'est la meilleure attaque. Ou c'était l'inverse ? Bon, peu importe. Voilà ton armure. Prends-en soin ; je peux pas en distribuer plus d'un jeu. T'avais besoin d'autre chose ?}
+{230}{}{Non, c'est tout. Merci.}
+{231}{}{Oui, j'ai autre chose à récupérer.}
+{232}{}{Hmmm... une Armure Énergétique. Prends-en bien soin ; je peux pas en distribuer plus d'un jeu. T'avais besoin d'autre chose ?}
+{233}{}{Non, c'est tout. Merci.}
+{234}{}{Oui, j'ai autre chose à récupérer.}
+{235}{}{Bon, ça peut être utile entre de bonnes mains. Tiens. Autre chose ?}
+{236}{}{Non, c'est tout. Merci.}
+{237}{}{Oui, j'ai autre chose à récupérer.}
+{240}{}{Je cherche un motivateur systolique.}
+{241}{}{Tu as l'autorisation en bonne et due forme ?}
+{242}{}{Oui. On m'a envoyé ici pour récupérer un motivateur systolique.}
+{243}{}{Non, mais il faut absolument que j'aie cette pièce.}
+{244}{}{Kyle m'a envoyé chercher la pièce.}
+{245}{}{Non. Comment j'obtiens une autorisation ?}
+{246}{}{Voyons voir. (Il consulte son terminal.) Bon, je vois aucune demande pour un motivateur systolique. Il va te falloir l'autorisation en bonne et due forme.}
+{247}{}{Écoute ! Je veux pas d'ennuis. Donne-moi juste cette putain de pièce.}
+{248}{}{Allez, s'il te plaît ? J'ai vraiment besoin de cette pièce.}
+{249}{}{D'accord. Désolé de t'avoir dérangé.}
+{250}{}{T'en as pas ? L'armurerie était censée en envoyer une hier. Écoute, tu peux me dépanner ? Si j'ai pas cette pièce, c'est ma peau qui est en jeu. Je suis sûr que le formulaire arrivera plus tard dans la journée.}
+{251}{}{D'accord. Tiens. Dis à personne que je te l'ai donnée. Rhombus me ferait la peau s'il savait que j'ai distribué des pièces sans autorisation en bonne et due forme.}
+{252}{}{Merci. Salut.}
+{253}{}{Je te la donnerais si je pouvais. Mais je peux pas. Pas sans autorisation en bonne et due forme.}
+{254}{}{Tu sais, Michael, t'es probablement un des gars les plus brillants à qui j'ai parlé ici. Mais je comprends pas pourquoi tu me mènes la vie si dure. J'ai vraiment besoin de cette pièce.}
+{255}{}{Oh... Bon, je suppose que je comprends. Je sais pas ce que je vais faire, par contre.}
+{256}{}{Donne-la-moi, un point c'est tout.}
+{257}{}{Si t'as pas d'autorisation, tu peux pas avoir de pièces de rechange.}
+{258}{}{Allez, s'il te plaît ? J'ai vraiment besoin de cette pièce.}
+{259}{}{D'accord. Désolé de t'avoir dérangé. Salut.}
+{260}{}{Kyle ? C'est à propos de cette vieille Armure Énergétique bonne pour la casse ?}
+{261}{}{Oui.}
+{262}{}{Non.}
+{263}{}{Tu peux lui dire que quand il aura remis cette unité dans son état d'origine, alors et seulement alors il aura l'autorisation qu'il lui faut. Au revoir.}
+{264}{}{Tu l'obtiens pas. D'abord Kyle doit voir l'unité à réparer. S'il juge la réparation justifiée, il fait alors une demande de pièces. Rhombus examine les demandes et décide lesquelles sont viables. Va parler à Kyle. Salut.}
+{265}{}{Au revoir.}
+{266}{}{Oh... ouais, bon, Kyle m'a envoyé. Tu peux vérifier ton terminal encore une fois ?}
+{267}{}{Mais c'est Rhombus qui m'a envoyé.}
+{268}{}{T'auras pas la pièce, un point c'est tout. Je t'ai dit ce que tu dois faire et je me répéterai pas.}
+{300}{}{On dirait que Sophia t'aime bien. Elle m'a demandé de te donner ces batteries presque périmées. On doit libérer de la place dans l'unité de stockage pour ses recherches de toute façon. }
+
+{500}{}{[Suite]}
+{501}{}{[Retour]}

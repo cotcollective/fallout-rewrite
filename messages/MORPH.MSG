@@ -1,0 +1,200 @@
+{100}{}{Tu vois : Morpheus.}
+{101}{MORP02}{Je ne me souviens pas avoir invité qui que ce soit dans mes appartements ? Et pourtant j'ai un visiteur. Pourquoi ?}
+{102}{}{Oh, pardon. Je crois que je me suis perdu.}
+{103}{}{Parce que j'ai une offre en or pour toi...}
+{104}{}{Je m'appelle }
+{105}{}{. Et toi ?}
+{106}{}{Un des Frères m'a envoyé ici.}
+{107}{}{Maman ?}
+{108}{MORP02A}{Non. Je suis le Père Mort...}
+{109}{MORP03}{Eh bien, mon enfant, il est très dangereux d'explorer des lieux où tu n'as pas ta place. Où allais-tu pour atterrir dans mes appartements privés ?}
+{110}{}{Je suis nouveau, et je cherchais les toilettes. Un des autres Grands Prêtres m'a envoyé ici.}
+{111}{}{Je cherchais le confessionnal, et un des Grands Prêtres m'a envoyé ici. Je suis vraiment désolé d'avoir atterri ici !}
+{112}{}{En fait, je ne suis pas vraiment perdu.}
+{113}{}{Je montais pour te tuer.}
+{114}{}{J'ai oublié. Je m'en vais.}
+{115}{MORP04}{Ahh... Hé hé hé. Ce doit être Lasher. Il adore tellement attirer des ennuis aux fidèles. C'est ton jour de chance, mon petit ami ignorant. Tu peux t'en aller sans incident. }
+{116}{MORP04A}{ Tu avais été prévenu. Gardes ! }
+{117}{MORP05A}{ Tu es un piètre menteur. Dis-moi la vraie raison de ta présence ici... avant que je te fasse écorcher vif. }
+{118}{}{Non, sérieux ! Je suis perdu !}
+{119}{}{D'accord, tu m'as eu. Je viens te proposer un marché.}
+{120}{}{Je ne fais que regarder autour de moi.}
+{121}{MORP06}{ Je soupçonne que tu es un espion, envoyé par les Disciples. Je me trompe peut-être, mais je ne prends pas de risques. Tu dois être éliminé. }
+{122}{MORP07}{ Que pourrais-tu bien m'offrir ? }
+{123}{}{Je viens d'un Abri. Tu sais ce que c'est, non ?}
+{124}{}{J'aimerais te donner des informations sur tes ennemis.}
+{125}{}{C'est le Maître qui m'envoie. Il veut que je t'espionne.}
+{126}{morp08}{Continue.}
+{127}{}{J'aimerais donner à ton Maître quelques informations sur mon Abri.}
+{128}{}{J'ai des informations pour le Maître au sujet de mon Abri.}
+{129}{}{Pas si vite. Je veux savoir ce que je peux obtenir pour mes informations.}
+{130}{MORP09}{ Je n'ai pas de maître, imbécile ! }
+{131}{}{Et comment tu appelles le Maître, alors ? Il ne te contrôle pas ?}
+{132}{}{On dirait bien que le Maître te contrôle.}
+{133}{}{Hé. Doucement avec les insultes !!}
+{134}{}{On dirait que j'ai touché un point sensible.}
+{135}{MORP10}{ Personne ne me contrôle. Lui et moi sommes... partenaires. }
+{136}{}{Ouais, c'est ça. T'es un chiot en laisse courte.}
+{137}{}{Peu importe. J'ai des informations sur un Abri qui l'intéresseraient.}
+{138}{}{Il donne des ordres, non ? Et tu les suis, sans poser de questions.}
+{139}{MORP11}{ Je ne tolère pas les insultes. Gardes ! }
+{140}{MORP12}{ Bien. Je vais te conduire au Maître. Mais si tu mens, il le saura. }
+{141}{}{D'accord, très bien.}
+{142}{}{Tu ne m'emmènes nulle part !}
+{143}{MORP13}{ Cela ne te regarde pas. Mais si tu viens vraiment d'un Abri, le Maître le découvrira. Gardes ! En route.}
+{144}{MORP14}{Tu peux garder la vie. Maintenant, dis-moi ce que tu sais. }
+{145}{}{Je viens d'un Abri, et je suis prêt à donner son emplacement au Maître.}
+{146}{}{Ou quoi ?}
+{147}{}{Je ne te dirai rien.}
+{148}{MORP15}{ Non ? Alors je prendrai l'information de force. Gardes ! }
+{149}{MORP16}{ Et qui seraient mes ennemis ? }
+{150}{}{Les Disciples, pour commencer.}
+{151}{}{D'où je suis, on dirait tout le monde.}
+{152}{MORP17}{ Dis-moi ce que tu sais. }
+{153}{}{Je ne crois pas. Conduis-moi au Maître. À lui, je parlerai.}
+{154}{}{Disons que je sais quelque chose qui pourrait t'aider contre eux.}
+{155}{MORP18}{ Donne-moi l'information ou meurs d'une mort lente... douloureuse... }
+{156}{}{Tu crois que le Maître serait content si tu tuais un habitant d'Abri ?}
+{157}{}{Je ne parlerai qu'au Maître.}
+{158}{MORP19}{Ahh... Tu es donc l'Habitant de l'Abri dont j'ai entendu parler. Surpris ? J'ai mes sources. Maintenant, je vais t'offrir en cadeau au Maître. Il sera très content. }
+{159}{}{Et si c'était toi qu'on sortait dans un sac, plutôt ?}
+{160}{}{Moi aussi.}
+{161}{MORP20}{ Un espion ? Bien imprudent de ta part. Ce sera difficile de lui faire ton rapport une fois mort, non ? }
+{162}{MORP21}{ Tu es un mauvais menteur. Maintenant, dis-moi ce que tu veux. }
+{163}{}{Je viens d'un Abri. Tu sais bien ce que c'est, non ?}
+{164}{}{J'aimerais t'offrir des informations sur tes ennemis.}
+{165}{MORP23}{ Comme c'est surprenant. Maintenant dis-moi pourquoi tu es ici. }
+{166}{}{Je viens d'un Abri, et je suis prêt à donner son emplacement au Maître.}
+{167}{}{J'aimerais t'offrir des informations sur tes ennemis.}
+{168}{}{Tu n'es pas très intimidant.}
+{169}{}{Je ne te dirai rien.}
+{170}{MORP24}{ Oh, vraiment ? Et comment tu comptes t'y prendre ? Avec ton esprit étincelant et ta langue acérée ? }
+{171}{}{Non, avec ça...}
+{172}{}{Ce serait trop facile contre toi. Je vais prendre la voie la plus difficile.}
+{173}{}{Je pense qu'une balle dans la tête fera l'affaire.}
+{174}{MORP26}{ Voici mon offre. Dis-moi ce que tu sais, et tu pourras repartir d'ici sur tes deux jambes.}
+{175}{}{Je viens d'un Abri, et je suis prêt à donner son emplacement au Maître.}
+{176}{}{J'aimerais t'offrir des informations sur tes ennemis.}
+{177}{}{Tu n'es pas très intimidant.}
+{178}{}{Je ne te dirai rien.}
+{179}{MORP27}{ C'est moi qui pose les questions, pas toi. Maintenant, dis-moi ce que tu fais ici. }
+{180}{}{Je suis juste perdu.}
+{181}{}{Je viens te proposer un marché.}
+{182}{morp28}{Oui ?}
+{183}{}{Salut. Je suis nouveau chez les Enfants et je me demandais si je pouvais te poser quelques questions.}
+{184}{}{Laisse tomber.}
+{185}{}{Nuhhh ?}
+{186}{morp29}{Bien sûr, mon enfant.}
+{187}{}{Merci...}
+{188}{}{Laisse tomber.}
+{189}{}{Quels sont les plans des Enfants ?}
+{190}{}{J'ai changé d'avis. Plus de questions.}
+{191}{}{Tu dirais quoi si je te disais que je viens d'un Abri ?}
+{192}{MORP31}{ Nos plans ? Nous sommes les messagers de l'Émergence, mon enfant. Nous suivons le Maître dans sa quête sans fin pour guérir la terre et les gens.}
+{193}{}{Vraiment ? Et c'est quoi au juste, cette émergence que vous enseignez ?}
+{194}{}{Quelle guérison ?}
+{195}{MORP32}{ Nous savons qu'il existe un niveau supérieur, un lieu glorieux que l'humanité devrait s'efforcer d'atteindre. Notre but est de trouver une vie meilleure, plus épanouissante, que celle d'aujourd'hui, marquée par les épreuves et les conflits. }
+{196}{}{Tu rigoles, non ?}
+{197}{}{Et vous avez trouvé ce niveau supérieur ?}
+{198}{MORP33}{[En colère]Toi !... [Calmement] Tu es pardonné. Tout le monde n'est pas capable de voir la lumière. Mais, dis-moi mon enfant, pourquoi nous as-tu rejoints ? }
+{199}{}{Je voulais voir si c'était aussi ridicule qu'on le dit. Maintenant je sais.}
+{200}{}{Désolé. J'ai dû dépasser les bornes.}
+{201}{morp34}{Tu ne sais rien.}
+{202}{MORP35}{ Oui, tu l'as été, mais tu es pardonné. Maintenant, s'il n'y a plus de questions, j'ai du travail. }
+{203}{}{En fait, j'en ai encore.}
+{204}{}{Non, merci.}
+{205}{MORP36}{Bien sûr. Je t'en prie. Continue.}
+{206}{MORP37}{ Oui, mais tu es... pardonné. Va en paix, mon enfant. }
+{207}{MORP38}{ Non, mais avec la foi et l'espoir, nous sommes certains de le trouver. Mais tout cela devrait déjà t'être connu, mon enfant.}
+{208}{}{Je sais, mais juste quelques questions encore, s'il te plaît.}
+{209}{}{Je sais. Au revoir.}
+{210}{MORP39}{ Nous guérissons d'abord le corps physique. Tu as certainement vu nos hôpitaux. Ensuite nous offrons espoir et guérison pour l'esprit. }
+{211}{}{Wow. J'y ai presque cru. T'es doué !}
+{212}{}{Où sont ces hôpitaux ?}
+{213}{MORP40}{ Notre glorieux effort vient d'atteindre Adytum et, bien sûr, le Hub brille de nos efforts là-bas. Mais j'ai l'impression que tu veux encore demander quelque chose. }
+{214}{MORP41}{ Ce sont des jours merveilleux. Junktown se joint maintenant à Adytum et au Hub dans notre quête pour sauver le corps et l'âme. Y a-t-il autre chose que tu veux savoir, mon enfant ? }
+{215}{}{En fait... }
+{216}{}{Rien. Je dois y aller.}
+{217}{MORP42}{ La vision des Enfants s'étend maintenant d'Adytum au Hub, à Junktown, et caresse doucement Shady Sands. Pourquoi cette question ? }
+{218}{}{Juste par curiosité. Je peux te poser encore quelques questions ?}
+{219}{}{Rien. Je dois y aller.}
+{220}{MORP42A}{ Tu es quoi ? }
+{221}{}{T'as entendu. Conduis-moi voir le Maître, maintenant !}
+{222}{MORP42B}{ Euh, oui. Bien. Suis-moi, je te prie. }
+{223}{MORP42C}{ Oh, mon enfant, tu ne dis absolument aucun sens. Je t'en prie, trouve un de nos médecins et fais-toi soigner. }
+{224}{MORP45}{ Mon enfant, parle à Lasher. Il t'aidera pour ça. }
+{225}{MORP46}{ J'ai dit... }
+{226}{MORP47}{ Tu es sourd ? J'ai dit...}
+{227}{MORP48}{ Je ne me répéterai plus ! }
+{228}{MORP49}{ Je ne le redirai plus ! }
+{229}{MORP50}{Les Nightkin sont venus à nous il y a un moment. Ce sont peut-être d'affreux mutants, mais ils sont extrêmement loyaux envers les Enfants. Comme nous tous.}
+{230}{MORP51}{C'est lui qui m'a apporté la vision de l'Unité et c'est lui qui apportera la paix à cette terre troublée.}
+{231}{MORP52}{Mon enfant, tu devrais connaître l'Auditorium. J'y donne mes sermons. }
+{232}{MORP53}{Ne t'en préoccupe pas. Seuls les Grands Prêtres peuvent y entrer. }
+{233}{MORP54}{Je ne suis qu'un humble serviteur de l'Unité. }
+{234}{MORP55}{Nous sommes les Grands Prêtres du grand Dieu Sombre. Treize d'entre nous sont assez bénis pour transmettre ses paroles puissantes au reste des Enfants. }
+{235}{MORP56}{Je n'ai aucune idée de quoi tu parles. }
+{236}{MORP57}{Les hôpitaux des Enfants de la Cathédrale offrent les meilleurs soins de toute cette terre ravagée et déchirée. Ces soins sont vitaux pour l'Unité.}
+{237}{MORP58}{L'Unité est notre quête d'un niveau de vie supérieur, et l'union avec nos semblables. }
+{238}{MORP59}{C'est un autre Grand Prêtre. Il passe le plus clair de son temps dans les études. }
+{239}{MORP60}{Mon cœur saigne pour eux. Menés sur un faux chemin. Ils ne savent pas que leurs efforts n'apporteront que douleur et souffrance à leurs semblables.}
+{240}{MORP61}{Nicole est la malheureuse dirigeante égarée des Disciples de l'Apocalypse. }
+{241}{MORP62}{Adytum est la ville au nord-est d'ici. }
+{242}{MORP63}{Ce n'est pas important. }
+{243}{MORP64}{Ce n'est rien. Tu peux demander autre chose. }
+{244}{morp65}{Rien de préoccupant.}
+{245}{}{Maître, je crois que ceci va vous plaire... }
+{500}{}{Tu gagnes 1000 points d'expérience pour avoir détruit le chef des Enfants de la Cathédrale.}
+
+
+# Morpheus Tell-Me-Abouts generic responses
+{980}{MORP63}{Ce n'est pas important. }
+{981}{MORP64}{Ce n'est rien. Tu peux demander autre chose. }
+{982}{morp65}{Rien de préoccupant.}
+
+
+#
+# Morpheus Tell-Me-Abouts
+#
+
+
+{1000}{}{Nightkin}
+{1001}{}{Maître}
+{1002}{}{Auditorium}
+{1003}{}{Sanctuaire}
+{1004}{}{Morpheus}
+{1005}{}{Ordre}
+{1006}{}{Caravanes}
+{1007}{}{Hôpitaux}
+{1008}{}{Unité}
+{1009}{}{Lasher}
+{1010}{}{Disciples}
+{1011}{}{Nicole}
+{1012}{}{Adytum}
+{1013}{}{Apocalypse}
+{1014}{}{Mutants}
+{1015}{}{Sainte Flamme}
+{1016}{}{Enfants}
+{1017}{}{Base}
+{1018}{}{Puce}
+
+
+{1100}{MORP50}{Les Nightkin sont venus à nous il y a un moment. Ce sont peut-être d'affreux mutants, mais ils sont extrêmement loyaux envers les Enfants. Comme nous tous.}
+{1101}{MORP51}{C'est lui qui m'a apporté la vision de l'Unité et c'est lui qui apportera la paix à cette terre troublée.}
+{1102}{MORP52}{Mon enfant, tu devrais connaître l'Auditorium. J'y donne mes sermons. }
+{1103}{MORP53}{Ne t'en préoccupe pas. Seuls les Grands Prêtres peuvent y entrer. }
+{1104}{MORP54}{Je ne suis qu'un humble serviteur de l'Unité. }
+{1105}{MORP55}{Nous sommes les Grands Prêtres du grand Dieu Sombre. Treize d'entre nous sont assez bénis pour transmettre ses paroles puissantes au reste des Enfants. }
+{1106}{MORP56}{Je n'ai aucune idée de quoi tu parles. }
+{1107}{MORP57}{Les hôpitaux des Enfants de la Cathédrale offrent les meilleurs soins de toute cette terre ravagée et déchirée. Ces soins sont vitaux pour l'Unité.}
+{1108}{MORP58}{L'Unité est notre quête d'un niveau de vie supérieur, et l'union avec nos semblables. }
+{1109}{MORP59}{C'est un autre Grand Prêtre. Il passe le plus clair de son temps dans les études. }
+{1110}{MORP60}{Mon cœur saigne pour eux. Menés sur un faux chemin. Ils ne savent pas que leurs efforts n'apporteront que douleur et souffrance à leurs semblables.}
+{1111}{MORP61}{Nicole est la malheureuse dirigeante égarée des Disciples de l'Apocalypse. }
+{1112}{MORP62}{Adytum est la ville au nord-est d'ici. }
+{1113}{MORP60}{Mon cœur saigne pour eux. Menés sur un faux chemin. Ils ne savent pas que leurs efforts n'apporteront que douleur et souffrance à leurs semblables.}
+{1114}{MORP50}{Les Nightkin sont venus à nous il y a un moment. Ce sont peut-être d'affreux mutants, mais ils sont extrêmement loyaux envers les Enfants. Comme nous tous.}
+{1115}{morp65}{Rien de préoccupant.}
+{1116}{morp65}{Rien de préoccupant.}
+{1117}{morp65}{Rien de préoccupant.}
+{1118}{morp65}{Rien de préoccupant.}
