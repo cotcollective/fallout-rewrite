@@ -1,0 +1,276 @@
+{100}{}{Tu vois : Set, le chef autoproclamé de Nécropolis.}
+{101}{Set00}{T'as intérêt à avoir une sacrée bonne raison de te tenir dans mon ombre. « Prochain au menu », ça te dit quelque chose... normie.}
+{102}{}{Oh, elle est mortelle, c'est sûr. J'ai visiblement trouvé la tête, euh, l'homme.}
+{103}{}{Ouah, qu'est-ce qui est arrivé à ta tronche ?}
+{104}{}{Ouah, t'es plutôt futé pour une goule.}
+{105}{}{Hein ?}
+{106}{Set01}{Simple et clair. Je suis Set. C'est moi qui commande. Pigé ?}
+{107}{}{D'après mes infos t'es juste un sous-fifre de seconde zone.}
+{108}{}{Pigé. }
+{109}{}{Autre chose à savoir ?}
+{110}{Set01a}{Bien.}
+{111}{}{Qu'est-ce que je peux faire pour toi ?}
+{112}{Set02}{C'est quoi ça ? De la lèche ? Écoute, marcheur, je fais pas affaire avec les normies, alors me cirer les pompes te donnera pas la place d'honneur à table.}
+{113}{}{La fumée sortira par plein de trous quand j'aurai fini.}
+{114}{}{Mes excuses. Je voulais faire bonne impression.}
+{115}{}{C'était pas méchant.}
+{116}{Set03}{[Grogne] Je vais te bouffer en chantant la chanson du « Petit Ventre Heureux ». J'ai ce petit ventre heureux... }
+{117}{Set04}{L'heure des vérités, salope ? Je vais adorer te presser.}
+{118}{}{Ce que t'as dans ton étui a intérêt à être plus gros que ta gueule... Ce qui est peu probable.}
+{119}{}{Presse ça...}
+{120}{}{Hein ?}
+{121}{Set05}{Eh bien. Je vois du potentiel... héhé... J'ai des camarades de jeu pour toi, mon normie étincelant. Punis les mutants du Watershed pour moi. Ouais, ouais, ça marche... oui ?}
+{122}{}{Euh, d'accord.}
+{123}{}{Nan.}
+{124}{Set06}{Excellent. Apprends à ces mutants leur dernière leçon, puis reviens tranquillement... Hmm. Si je dis à mes goules de te laisser tranquille, les mutants risquent d'entendre et de comprendre. Alors voilà ce qu'on va faire, c'est l'heure des faveurs. Je la ferme. Pigé ?}
+{125}{}{Pigé.}
+{126}{}{Et les goules ?}
+{127}{}{Ouais, pigé !}
+{128}{}{Hein ?}
+{129}{Set07}{Évite mes goules, si tu tiens à ta peau. Si l'une des miennes ne peut pas arrêter un normie, elle mérite le dernier repos. Passe comme tu dois.}
+{130}{Set08}{Tu me bouffes mon temps ! Cesse d'être, d'une façon ou d'une autre !}
+{131}{Set09}{T'as aucune idée de l'ombre sur laquelle tu marches.}
+{132}{}{Un sous-fifre de seconde zone. Je connais ton patron. Pas content.}
+{133}{}{Toi non plus.}
+{134}{}{Désolé, j'ai un sens de l'humour bizarre.}
+{135}{Set10}{Tu bosses pour lui ? T'es son espion, c'est ça ? Venu me dépecer ? Oh, je te jure, tu finiras en pierre tombale aussi.}
+{136}{}{Hé, comprends pas de travers. Je suis pas des siens. Je suis là pour aider.}
+{137}{}{Essaie, tronche de spaghetti.}
+{138}{Set10a}{Ça n'en avait pas l'air.}
+{139}{}{Je comprends. C'est aussi mon problème. Parle-moi.}
+{140}{Set11}{Nécropolis était à moi. Pas un paradis, mais un endroit correct pour les miens. Puis le Maître s'est montré. Il aurait pu me réduire en miettes, mais c'était plus facile pour lui de poster quelques mutants pour garder un œil.}
+{141}{}{Qu'est-ce que je peux faire, et qu'est-ce que tu feras pour moi ?}
+{142}{}{Ça a l'air un peu au-dessus de mes forces. Je me tire.}
+{143}{Set12}{Les mutants du Watershed ont besoin d'une sieste dans la poussière. Ça fait grandir mon ombre. Tu les découpes et les récompenses te reviennent. Des infos aussi.}
+{144}{}{Marché conclu.}
+{145}{}{Trop d'ennuis. On se revoit.}
+{146}{Set13}{Tu veux du boulot, marcheur ? Montre-moi que tu sais te battre. Descends les mutants du Watershed. Fais-leur passer un mauvais moment et t'es des nôtres.}
+{147}{}{Je m'en occupe.}
+{148}{}{Certainement pas, tronche de spaghetti.}
+{149}{Set14}{Non. D'autres questions ? }
+{150}{}{Ahhh, j'imagine que non. Qu'est-ce que je peux faire pour toi ?}
+{151}{}{Ouais. Tu trouves ça dur de passer le fil dentaire ?}
+{152}{Set15}{Tellement drôle que ma tronche me fait mal. Réessaie, et mes Élites vont te presser comme un jus. Pigé ?}
+{153}{}{Pigé.}
+{154}{}{Je suis encore un peu confus... }
+{155}{}{Ta tronche fait mal, c'est sûr.}
+{156}{Set16}{Je m'appelle Set. Toi c'est Monde-de-Douleur. Marché conclu, je change ton surnom. T'écoutes ?}
+{157}{}{Bien sûr. Mieux que de saigner partout sur ton sol.}
+{158}{}{Nan. Envoie tes gorilles.}
+{159}{}{Mhm.}
+{160}{}{Nan !}
+{161}{Set17}{Va au Watershed, mets les mutants à la sieste. Fais-le, et tu restes un marcheur. Fais-le pas, et tu te reposes.}
+{162}{}{T'as l'air un peu effrayé par ces gars, tu veux en parler ?}
+{163}{}{Ça me va. Marché conclu.}
+{164}{}{T'as une drôle de tronche, et tu parles drôle.}
+{165}{Set18}{Bien joué. T'as gagné mon regard, marcheur. Suis Garret pour ta récompense. Maintenant. Je suis occupé.}
+{166}{}{D'accord. Merci.}
+{167}{}{C'est tout ? Merci, maintenant dégage ?}
+{168}{}{Maman ?}
+{169}{Set19}{Regarde avant de piailler. Tu vas aimer. Ce serait dommage de me mettre en colère, maintenant... que je suis content.}
+{170}{}{Je m'excuse pour mon éclat, mais je suis un peu inquiet là.}
+{171}{}{Désolé, pas de problème.}
+{172}{}{Hé, je me contente pas des restes.}
+{173}{Set20}{[Grogne] Ouais, ouais. Suis Garret, et montre tes dents blanches aussi. Et t'inquiète pas, je tiens parole. Le Maître tire les ficelles.}
+{174}{}{Le Maître ?}
+{175}{}{D'accord, merci.}
+{176}{Set21}{Si tu surveilles pas tes arrières, tu porteras son couteau, il portera ta peau. Ses mutants couvrent le désert de leur ombre, surtout au sud d'ici.}
+{177}{}{Si le Maître est si fort, qui peut le défier ?}
+{178}{}{Il me fait pas peur.}
+{179}{Set21a}{Il devrait.}
+{180}{Set22}{Les Enfants de la Cathédrale, les caïds du Hub, même nous les goules. Personne ne peut repousser son ombre maintenant. Mais notre lumière sera plus vive la prochaine fois. Ho-ho, oui.}
+{181}{}{Bonne chance.}
+{182}{Set23}{Suis Garret et sors.}
+{183}{}{Bien.}
+{184}{}{Va te faire foutre.}
+{185}{Set24}{Tu peux être les restes. Pars maintenant, sans ta récompense, ou t'es au menu ce soir.}
+{186}{}{Si c'est comme ça que tu le veux.}
+{187}{}{Va te faire foutre.}
+{188}{Set25}{Aucun mot ne me parvient sur les mutants du Watershed qui auraient cessé de respirer. C'est important pour mes plans. Dis-moi que le problème est enterré.}
+{189}{}{Oh, ouais. Pas de souci, tout a été réglé. Crois-moi.}
+{190}{}{Non, je suis encore dessus.}
+{191}{}{Nan.}
+{192}{Set26}{Ahhh, remplissant. Suis Garret pour ta récompense. }
+{193}{Set27}{Tu voles mon temps avec tes mensonges. Quitte mon ombre avant que... meure. Meurs ! Meurs, c'est tout ! }
+{194}{Set28}{Marche maintenant. Occupe-toi des mutants, puis reviens. Pas avant.}
+{195}{Set29}{Attrapé par les miens, hein ? Je t'avais prévenu à leur sujet. Maintenant tu paies. Pas de crédit.}
+{196}{Set30}{Je suis Set. Pourquoi piétines-tu mon ombre ?}
+{197}{}{Je suis porteur de mort. Mets-toi à genoux et implore ma pitié.}
+{198}{}{Je suis porteur de mort. Mets-toi à genoux et implore ma pitié... Ou donne-moi un sandwich, j'ai assez faim.}
+{199}{}{Je suis là pour voir le patron. C'est toi ?}
+{200}{}{Ouah, sacré cas d'acné !}
+{201}{}{Euh, je sais pas.}
+{202}{Set31}{Les normies. Si tu me faisais trembler, est-ce que mes portes seraient si ouvertes ?}
+{203}{}{J'ai tué des goules. J'ai tué des mutants. J'ai tué des choses que tu peux même pas imaginer. Personne se met en travers de mon chemin.}
+{204}{}{Et un lifting... Ça ferait bien sur mon mur.}
+{205}{Set32}{Tu as descendu ceux du Watershed. Je trouve ça remplissant. Pour ça, je te donne des mots. Puis on marche en sens opposé.}
+{206}{}{Pourquoi on marcherait pas en sens opposé tout de suite ?}
+{207}{}{Ça me va.}
+{208}{Set33}{Un avertissement. Le sud fait pleurnicher les gros durs et rentrer la queue. Si des idées dansent dans ton crâne, je fais faire le mort aux gros durs. De l'autre côté, t'as nettoyé le bassin. Garret te mènera à la gratitude.}
+{209}{Set34}{Le rire vient difficilement ici. T'as nettoyé le bassin ?}
+{210}{}{C'est un fait.}
+{211}{}{Oh, non. C'était pas moi.}
+{212}{Set35}{Mon erreur, ta perte. Le boulot grandit, tu devrais marcher maintenant.}
+{213}{Set36}{Ah, oui. Pas de traces dans le sable. Bien. Remplissant. Marche avec Garret vers la gratitude.}
+{214}{Set38}{Je projette l'ombre. Si c'est tout, retire-toi. }
+{215}{}{Je suis là pour la prime sur des mutants.}
+{216}{}{Merci, je crois que je vais y aller.}
+{217}{}{Ce serait plus vite si je te retirais.}
+{218}{Set39}{Faisable. Suis Garret vers la gratitude, puis marche sur un autre chemin.}
+{219}{Set40}{Des raisons à ces agressions ? Marche et les miens tiendront. Parle et les miens bougeront.}
+{220}{}{Désolé, mauvaise tentative d'humour.}
+{221}{}{Il était temps. Je m'ennuyais à attendre que ta tronche s'éclaircisse.}
+{222}{Set41}{Ahh, le normie penseur. T'as tué ceux du bassin, oui ? Venu pour la récompense ?}
+{223}{}{Mhm}
+{224}{}{Nan, moi v'nir botter ton cul moche.}
+{225}{Set42a}{Maintenant c'est pas le moment. Marche. }
+{226}{}{Je mérite des informations.}
+{227}{}{Et si je marchais sur ta tronche ?}
+{228}{}{Pigé.}
+{229}{}{Hein ?}
+{230}{Set43}{Bien. Vite. Quoi ?}
+{231}{}{Tu ferais pas les mutants toi-même. Je me demande pourquoi ? Réponds, quelqu'un te fait peur. Pourquoi ?}
+{232}{}{Pourquoi t'avais besoin de moi pour tuer les mutants ? Pourquoi pas tes goules ?}
+{233}{}{Comment tu peux appeler toute cette merde une récompense ?}
+{234}{Set44}{Je tremble pas. J'utilise les outils du moment. T'es utilisé, t'es récompensé, tu marches.}
+{235}{}{Tu bluffes.}
+{236}{}{Si tu le dis.}
+{237}{}{Je crois que c'est une menace !}
+{238}{Set45}{Tu lis même pas entre les lignes. À moins que Nécropolis devienne ta maison pour toujours, marche. J'ai pas de temps pour un sac de sang stupide.}
+{239}{}{Et ton propre sac mortuaire ?}
+{240}{}{Pigé.}
+{241}{}{Va te faire voir.}
+{242}{Set45a}{Avec plaisir... }
+{243}{Set46}{Pas de bluff, pas d'entourloupe. Le Maître ne me fait pas trembler. Marche. Ton accueil a expiré.}
+{244}{}{Merci pour ton temps.}
+{245}{}{Tu crois que te griller me rendra mon accueil ? Ça me va.}
+{246}{Set47}{Pourquoi envoyer une goule pour un travail d'enfant ? Laisse-moi.}
+{247}{Set48}{Je suis las. T'es parti.}
+{248}{Set49}{Sème et pleure ! Je veux ta mort ! Mort !}
+{249}{Set50}{Je vois ton entourloupe et ça va faire mal à l'un de nous. Choix court : Retire les mutants ou meurs.}
+{250}{}{Je m'en occupe tout de suite.}
+{251}{}{Elle est plus longue. N°3 : et si je te dévissais la tête à la place ?}
+{252}{Set51}{Toujours dans mon ombre ? Pourquoi les langues des normies remuent et volent le mouvement à leurs os ? L'heure est venue, marche maintenant.}
+{253}{Set52}{Ta présence signifie ?}
+{254}{}{Pas grand-chose, juste la nouvelle que le Maître est mort.}
+{255}{}{Plus de cul à botter, j'ai pensé à ta tronche.}
+{256}{}{Hein. Maître faire boum.}
+{257}{Set52a}{Tu veux dire mort ?}
+{258}{}{Mhm.}
+{259}{Set53}{Chaud. Remplissant. Tes besoins sont mes désirs. Nomme-les.}
+{260}{}{Besoin d'infos sur les Cuves.}
+{261}{}{J'aurais besoin de plus d'armes et d'équipement.}
+{262}{}{Non merci.}
+{263}{}{Besoin de trucs.}
+{264}{}{Nan.}
+{265}{Set54}{Certaines des miennes ont glissé hors des liens. Elles ont bossé sur ce truc de mutants.}
+{266}{}{Qu'est-ce qu'elles ont dit ?}
+{267}{}{Des mutants, hein ? J'aurai probablement besoin de plus de flingues.}
+{268}{Set55}{Grand nord-ouest, loin de la vie. Occupé avec des gardes et une direction délicate. Si c'est ton chemin, marche-le serré avec mes pensées.}
+{269}{Set56}{Garret passera ce qui est dispo.}
+{270}{Set57}{Toi. Tu as fait disparaître notre puce de traitement d'eau. Échangée... contre ta vie !}
+{271}{}{On a tous les deux besoin de puces qui marchent. Apparemment il n'y en a qu'une. Y a-t-il une autre méthode à laquelle on n'a pas pensé ?}
+{272}{}{J'avais besoin de la puce pour sauver mon propre Abri. Désolé.}
+{273}{}{Désolé, ça suffit ?}
+{274}{}{Tu la veux de retour ?}
+{275}{}{Euh ?}
+{276}{Set58}{Un chemin, peut-être. Une pompe alternative existe, mais pas son mode d'emploi. Aucune des miennes ne peut lui insuffler la vie.}
+{277}{}{Je devrais peut-être jeter un œil à la pompe.}
+{278}{}{Dommage. J'imagine que vous allez avoir soif.}
+{279}{Set59}{Garret te mènera. Ranime la pompe, garde la puce.}
+{280}{}{Merci.}
+{281}{Set60}{Je te boirai chaud, puis te prendrai froid.}
+{282}{}{Je l'ai pas sur moi.}
+{283}{}{Et si tu mangeais de la poussière à la place.}
+{284}{Set61}{Alors meurs avant les miens !}
+{285}{Set62}{Les idées ne compteront plus pour toi.}
+{286}{}{Je suppose que c'est un « non » ?}
+{287}{Set63}{Ton prix, c'est d'appartenir à Nécropolis pour toujours.}
+{288}{}{Un peu cher. Et si je te relevais de tes fonctions à la place ?}
+{289}{}{Nan !}
+{290}{Set64}{Pour la puce, tu peux marcher.}
+{291}{}{Compris ! Je l'ai plus !}
+{292}{}{D'accord, la voici.}
+{293}{}{Je préférerais te voir mort.}
+{294}{Set65}{[Set tend la Puce d'eau à une goule, qui s'enfuit avec.] Si ton ombre touche à nouveau Nécropolis, elle fusionnera pour toujours.}
+{295}{Set200}{Comme dit... }
+{296}{Set201}{Déjà dit... }
+{297}{Set202}{Je fais pas affaire avec les normies.}
+{298}{Set203}{Parle à Garret. Mon temps file.}
+{299}{Set204}{Ta tête est vide ?}
+{300}{Set205}{Le tien est le seul bénéfice. Cet échange manque.}
+{301}{Set206}{Des pensées pas en ma possession}
+{302}{Set207}{Le moment est mauvais. Le soir convient à ton ombre.}
+{303}{Set208}{Gardes ! Saisissez le normie !}
+{304}{Set209}{Gardes, mettez fin à cette nuisance !}
+{305}{Set300}{Son sens n'a pas sa place ici. Aucune.}
+{306}{Set301}{L'avenir. La survie partout. Nous surpassons les normies.}
+{307}{Set302}{Une erreur du monde. Une tache sur ma vue. J'en hais chaque facette.}
+{308}{Set303}{Là où repose ton ombre. Mon foyer. Ma loi. Un lieu où la force grandit.}
+{309}{Set304}{Le commencement. Le monde en cendres, les cendres en croissance. Notre vie.}
+{310}{Set305}{Idéaux égarés. Rien pour ma vue, rien du tout.}
+{311}{Set306}{Beaucoup des tiens. Certains utiles, mais trop d'entourloupes.}
+{312}{Set307}{Reliques. Nous surpassons, ils l'ignorent. Leur vue est étroite, seulement ce qu'ils croient.}
+{313}{Set308}{Centre de l'approvisionnement en eau de Nécropolis. Empoisonné par la présence des mutants. Ça me vide d'y penser.}
+{314}{Set309}{Fournit ce qui est nécessaire.}
+{315}{Set310}{Sous mes pensées.}
+{316}{Set311}{Pas dans mes pensées.}
+
+
+
+#
+# Set Tell-Me-Abouts
+#
+{970}{Set01}{Simple et clair. Je suis Set. C'est moi qui commande. Pigé ?}
+
+{980}{Set206}{Des pensées pas en ma possession}
+{981}{Set310}{Sous mes pensées.}
+{982}{Set311}{Pas dans mes pensées.}
+
+{1000}{}{Maître}
+{1001}{}{Goules}
+{1002}{}{Mutants}
+{1003}{}{Nécropolis}
+{1004}{}{Guerre}
+{1005}{}{Unité}
+{1006}{}{Hub}
+{1007}{}{Confrérie}
+{1008}{}{Watershed}
+{1009}{}{Cathédrale}
+{1010}{}{Puce}
+{1011}{}{Hall}
+{1012}{}{Enfants}
+{1013}{}{Garret}
+{1014}{}{Set}
+{1015}{}{Mutants}
+{1016}{}{Confrérie de l'Acier}
+{1017}{}{Watershed}
+{1018}{}{Enfants de la Cathédrale}
+{1019}{}{Enfants}
+{1020}{}{Watershed}
+{1021}{}{Eau}
+
+
+{1100}{Set300}{Son sens n'a pas sa place ici. Aucune.}
+{1101}{Set301}{L'avenir. La survie partout. Nous surpassons les normies.}
+{1102}{Set302}{Une erreur du monde. Une tache sur ma vue. J'en hais chaque facette.}
+{1103}{Set303}{Là où repose ton ombre. Mon foyer. Ma loi. Un lieu où la force grandit.}
+{1104}{Set304}{Le commencement. Le monde en cendres, les cendres en croissance. Notre vie.}
+{1105}{Set305}{Idéaux égarés. Rien pour ma vue, rien du tout.}
+{1106}{Set306}{Beaucoup des tiens. Certains utiles, mais trop d'entourloupes.}
+{1107}{Set307}{Reliques. Nous surpassons, ils l'ignorent. Leur vue est étroite, seulement ce qu'ils croient.}
+{1108}{Set309}{Fournit ce qui est nécessaire.}
+{1109}{Set310}{Sous mes pensées.}
+{1110}{Set311}{Pas dans mes pensées.}
+{1111}{Set204}{Ta tête est vide ?}
+{1112}{Set310}{Sous mes pensées.}
+{1113}{Set204}{Ta tête est vide ?}
+{1114}{Set01}{Simple et clair. Je suis Set. C'est moi qui commande. Pigé ?}
+{1115}{Set302}{Une erreur du monde. Une tache sur ma vue. J'en hais chaque facette.}
+{1116}{Set307}{Reliques. Nous surpassons, ils l'ignorent. Leur vue est étroite, seulement ce qu'ils croient.}
+{1117}{Set309}{Fournit ce qui est nécessaire.}
+{1118}{Set310}{Sous mes pensées.}
+{1119}{Set310}{Sous mes pensées.}
+{1120}{Set309}{Fournit ce qui est nécessaire.}
+{1121}{Set309}{Fournit ce qui est nécessaire.}
+

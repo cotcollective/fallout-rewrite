@@ -1,0 +1,339 @@
+{100}{}{Tu vois : le général Maxson.}
+{101}{}{C'est quoi, au fond, la Confrérie ?}
+{102}{}{Je parie que tu connais bien l'histoire de la Confrérie.}
+{103}{}{T'as entendu des rumeurs intéressantes ?}
+{104}{}{J'ai des informations à rapporter.}
+{105}{}{C'est tout. Merci.}
+{106}{Gen_1}{Salut, jeunot. Cabbot m'a dit que tu voulais me parler. Écoute, je suis euh... je suis pas mal débordé là, alors je vais euh... je vais t'aider tant que tu te mets pas à trop jacasser. Tu sais, les étrangers sont comme ça, toujours à bavasser... Héhéhé. Un peu comme moi, hein ?}
+{107}{}{Étrangers ? Qu'est-ce que tu veux dire ?}
+{108}{}{Et quelques questions, alors ?}
+{109}{Gen_2}{Je peux pas. Je fais que modérer ces foutues réunions interminables. Y a quatre Aînés, et moi, tu vois ? Je sépare les bagarres et je tranche les votes. Maintenant, si les quatre votent pour se curer le nez pendant qu'une armée débarque et nous botte le cul collectif, y a pas grand-chose que je puisse y faire.}
+{110}{}{Oh, bon.}
+{111}{}{C'est nul. Pourquoi tu fais rien ?}
+{112}{Gen_2a}{La tradition. C'est dur de changer nos habitudes. Maintenant, si les Aînés avaient de vraies infos, peut-être qu'ils se bougeraient enfin.}
+{113}{Gen_3}{Un Initié qui n'est pas né ici. Tu es le premier Étranger qu'on a laissé entrer depuis... très, très longtemps. Près de vingt ans, même. }
+{114}{}{Pourquoi moi ?}
+{115}{}{C'est flatteur. Et ces questions, alors ?}
+{116}{Gen_4}{Parce qu'il faut faire quelque chose. Une armée se rassemble, les caravanes du Hub disparaissent, et nos éclaireurs font clairement pas le boulot. Alors les Aînés ont fait quelque chose pour une fois : ils se sont dit que le bon Étranger aurait peut-être quelque chose à offrir. Cet Étranger, c'est toi... On espère.}
+{117}{}{Quelle armée ?}
+{118}{}{Et ces caravanes disparues ?}
+{119}{}{Hmm. J'imagine que j'ai d'autres choses à demander, alors.}
+{120}{}{Quel est le problème avec les éclaireurs ?}
+{121}{}{J'ai des infos qui pourraient t'intéresser.}
+{122}{Gen_5}{Quand on a entendu parler des caravanes disparues, on a envoyé quelques éclaireurs à l'est et au nord. Ceux du nord ne sont jamais revenus. Un seul est revenu de l'est. Il a parlé d'une vingtaine d'êtres étranges, tout en muscles, aux yeux brûlants. Les Aînés branlent rien, mais moi je me prépare quand même.}
+{123}{}{Vingt, c'est pas une armée. Pourquoi tu t'inquiètes ?}
+{124}{}{On dirait que ton gars a trop cuit au soleil.}
+{125}{}{Je ferai ce que je peux.}
+{126}{}{Il a dit où, à l'est ?}
+{127}{}{J'ai des infos qui pourraient t'intéresser.}
+{128}{Gen_6}{Ce sont peut-être de bons éclaireurs, peut-être pas, mais ne remets pas en question l'honnêteté de mes hommes. On peut révoquer ton statut d'Initié à tout moment.}
+{129}{}{On dirait que t'as plus besoin de moi que moi de toi.}
+{130}{}{Pardon.}
+{131}{Gen_7}{Ça suffit. J'avais prévenu les Aînés que faire entrer un Étranger, ça pouvait mal tourner. [criant sur le côté] Gardes ! Y a un Initié ici qui a besoin d'un moment au calme pour découvrir les bonnes manières. }
+{132}{Gen_8}{T'es un Étranger, mais je m'attends à ce que tu apprennes nos coutumes. Je te surveillerai. Maintenant, pose tes questions. }
+{133}{Gen_9}{Bien. Autre chose à demander ? }
+{134}{Gen_10}{Au fond des montagnes. Il ne pouvait pas être plus précis.}
+{135}{}{Dommage. Je peux te poser encore quelques questions ?}
+{136}{}{Et au nord ?}
+{137}{}{Vas-y. }
+{138}{Gen_11a}{Ouais, vas-y.}
+{139}{Gen_11b}{Bien sûr.}
+{140}{Gen_11c}{Balance.}
+{141}{Gen_12}{J'ai l'intuition qu'il y a une petite force à l'est et une bien plus grosse au nord. Les Aînés prennent la poussière parce qu'aucun éclaireur n'est revenu du nord. Je peux rien faire d'autre que regarder.}
+{142}{}{Bon, je ferai ce que je peux.}
+{143}{}{Pourquoi tu fais rien ?}
+{144}{}{Je crois que ça me dépasse un peu. Compte pas sur moi.}
+{145}{}{J'ai des infos là-dessus.}
+{146}{Gen_13}{Les marchands du Hub nous ont dit que plein de caravanes ont disparu en route vers le nord. Je crois qu'il y a une armée dans les montagnes, mais les Aînés, eux, veulent pas agir tant qu'ils sont pas sûrs. }
+{147}{}{Où elles ont disparu ?}
+{148}{}{T'es pas le Grand Aîné ? Pourquoi tu fais rien ?}
+{149}{}{T'as rien fait ?}
+{150}{}{J'ai des infos là-dessus.}
+{151}{Gen_14}{D'après ce qu'on m'a dit, les caravanes ont disparu vers la pointe sud des montagnes à l'est. J'imagine que les marchands du Hub pourront t'en dire plus.}
+{152}{}{Merci. J'ai d'autres questions, si ça te va.}
+{153}{}{Merci. On se reparle plus tard.}
+{154}{}{J'ai des infos là-dessus.}
+{155}{Gen_15g}{À plus, Initié. T'es pas si mal... pour un Étranger.}
+{156}{Gen_15n}{Au revoir, Initié.}
+{157}{Gen_15b}{Au revoir !}
+{158}{Gen_16}{J'ai grandi trop isolé ici. T'imagines passer ta vie entière dans un petit endroit, puis devoir sortir dans le monde ? }
+{159}{}{Eh bien, en fait...}
+{160}{}{J'imagine que c'est moi ton éclaireur, alors.}
+{161}{}{Donc parce qu'ils sortent pas, c'est moi qui fais ton sale boulot. Laisse tomber.}
+{162}{Gen_17}{Alors tu comprends le problème. Pour survivre, il nous faut quelqu'un qui connaît le dehors. Comme toi. }
+{163}{}{D'accord, je le ferai.}
+{164}{}{J'ai mes propres problèmes. Je passe.}
+{165}{Gen_18}{Bon... avec ce qui s'en vient, j'imagine, on n'a pas de temps pour ceux qui vont... pas contribuer. Alors, soit tu travailles avec nous, soit tu dégages.}
+{166}{}{Bon, présenté comme ça, je suis des vôtres.}
+{167}{}{On dirait une belle journée pour une promenade.}
+{168}{Gen_19}{Ton choix. J'espère que tu pourras vivre avec. }
+{169}{Gen_20}{Quoi ? C'est ce que nous sommes et ce pour quoi nous vivons. Des idéaux. En passant plus de temps avec nous, tu comprendras, j'espère.}
+{170}{}{Ouais, mais vous faites quoi, concrètement ?}
+{171}{}{J'ai des doutes.}
+{172}{Gen_21}{Notre but principal, c'est de survivre. Les Scribes recopient les vieux plans d'armes ou en conçoivent de nouvelles, et les Chevaliers fabriquent les armes. La plupart des armes viennent de chez nous.}
+{173}{}{Vous échangez les armes avec le Hub ?}
+{174}{}{C'est tout ce que vous faites ?}
+{175}{}{Logique. J'ai deux ou trois autres choses à demander.}
+{176}{Gen_22}{C'est comme ça qu'on obtient nos provisions.}
+{177}{}{D'accord, je comprends. J'ai deux ou trois autres choses à demander.}
+{178}{}{D'accord. Mais je dois y aller, là.}
+{179}{}{J'ai des doutes, j'imagine.}
+{180}{Gen_23}{Tout ? C'est sacrément important. C'est critique pour notre survie.}
+{181}{}{Peu importe. J'ai quelques questions à poser.}
+{182}{}{Ouais, bon, c'est stupide.}
+{183}{}{D'accord, merci. Mais je devrais vraiment y aller, là.}
+{184}{Gen_26}{Alors il faut te décider. Parce que douter, ça va te tuer à coup sûr.}
+{185}{}{Plus j'en saurai, plus je serai décidé.}
+{186}{Gen_28}{Écoute, j'ai pas le temps pour une histoire aussi longue là. Tiens. On a tous grandi avec ça. }
+{187}{Gen_29n}{Y a des rumeurs sur les caravanes disparues au Hub, et sur l'étrange armée qui se prépare dans les montagnes à l'est. }
+{188}{}{D'accord.}
+{189}{}{Quelle armée ?}
+{190}{}{Et ces caravanes disparues ?}
+{191}{}{J'ai des infos là-dessus.}
+{192}{Gen_29b}{Je ne crois pas aux rumeurs. }
+{193}{Gen_30}{Ahh... Te revoilà, Initié. Ça se passe bien ? }
+{194}{}{Pas mal. Je peux te poser encore quelques questions ?}
+{195}{}{En fait, c'est nul.}
+{196}{}{Oui, merci, mais je dois y aller.}
+{197}{Gen_32}{Désolé qu'on soit pas ce à quoi t'es habitué, mais tu pourrais faire preuve d'un peu de discipline. }
+{198}{}{Pardon. Je peux te poser encore quelques questions ?}
+{199}{}{Pourquoi ? Cet endroit est une blague.}
+{200}{}{Je dois y aller. Salut.}
+{201}{Gen_34}{Qu'est-ce que tu veux, bordel ? }
+{202}{}{Je veux savoir pourquoi c'est un idiot qui commande ici.}
+{203}{}{J'ai besoin de poser encore quelques questions.}
+{204}{}{Laisse tomber, merci.}
+{205}{Gen_35}{T'as quoi ? }
+{206}{}{Pardon, j'ai rien en fait.}
+{207}{}{Ce sont d'énormes mutants verts qui s'en prennent aux caravanes du Hub. Ils rassemblent une armée.}
+{208}{}{Il y a une grande armée au nord, commandée par un certain Maître.}
+{209}{Gen_36}{Tu les as vus ? Ça pourrait enfin pousser les Aînés à agir. Je m'en occupe, merci !}
+{210}{Gen_38}{Euh... Qu'est-ce qu'il compte faire avec cette... armée ? }
+{211}{}{Il compte prendre le contrôle de la Confrérie, du Hub, de Junktown... de tout le monde.}
+{212}{}{Combien tu paies pour ces informations ?}
+{213}{Gen_39}{Enfin ! Ça va sortir les Aînés de leur torpeur. On va fortifier la forteresse et surprendre ces foutus mutants.}
+{214}{}{Non ! Tu ne comprends pas. Ils intègrent les gens de force et les ajoutent à leur armée.}
+{215}{}{D'accord.}
+{216}{Gen_40}{Et alors ?}
+{217}{}{Donc, quand ils arriveront ici, ils seront inarrêtables. Et ils ont des armes avancées, comme les tiennes. Vous n'avez aucune chance.}
+{218}{}{Bon, d'accord. Peut-être que se retrancher, c'est ce qu'il faut.}
+{219}{Gen_41}{Alors, c'est quoi ton alternative ?}
+{220}{}{Aide-moi à attaquer la base du Maître. Je sais où elle est.}
+{221}{Gen_42}{Hmmm. Pas mauvais comme plan. Écoute, je vais essayer de l'enfoncer dans le crâne des Aînés. Sans garantie, mais je vais essayer.}
+{222}{Gen_43}{Alors dégage. J'ai du travail.}
+{223}{Gen_44}{Drôle de priorités et de loyautés, ce que t'as là.}
+{224}{}{Ma loyauté va à moi-même. 500 capsules. À prendre ou à laisser.}
+{225}{}{Oh... ouais. D'accord, je vais te le dire. Il compte tout prendre, tout le monde.}
+{226}{Gen_44a}{Je prends. On a besoin de ces informations pour sauver des vies.}
+{227}{}{C'est simple. Il intègre les humains de force, il a des armes avancées, et il compte tout prendre.}
+{228}{Gen_44b}{Bon, s'il le fait, j'espère que tu trouveras où dépenser tes billets.}
+{229}{Gen_45}{Et bien, que dalle ! Gardes, foutez-moi cet idiot dehors. Nom de Dieu ! On défendra la Confrérie sans ta foutue aide.}
+{230}{Gen_46}{Qu'est-ce que tu fabriques ? Pose ça. Pose-le tout de suite !}
+{231}{Gen_47}{Ça suffit. Gardes ! Emmenez-moi cet idiot !}
+{232}{Gen_48}{Hé, hé, hé, hé ! Doucement. Arrête ça. Arrête tout de suite !}
+{233}{Gen_49}{Comme je disais...}
+{234}{Gen_50}{J'ai dit...}
+{235}{Gen_51}{J'ai pas l'habitude de me répéter. Alors ouvre tes oreilles.}
+{236}{Gen_52}{Écoute, je te l'ai déjà dit. C'est pas ma faute si t'as pas compris.}
+{237}{Gen_52a}{C'est là que t'en es. Tu veux la version longue, va parler à Vree.}
+{238}{Gen_52b}{Mathia est mon assistant.}
+{239}{Gen_53}{Oh, c'est un bon gamin, même s'il veut devenir Scribe.}
+{240}{Gen_54}{Vree est la Scribe en chef. Elle est généralement à la bibliothèque ; elle... aime toujours parler.}
+{241}{Gen_55}{On y garde les plans d'armes et l'histoire.}
+{242}{Gen_56}{Rhombo est ici depuis longtemps. Un peu rigide, mais un sacré soldat.}
+{243}{Gen_58}{Héhéhé. Un bel homme, bien, droit. Le poste de Grand Aîné, c'est de modérer les réunions entre les Aînés. Tu vois, y a deux ans on m'a convaincu. Si j'avais su à l'époque...}
+{244}{Gen_59}{Bon, tu vois, ils sont quatre et c'est à peu près tout ce sur quoi ils s'accordent. Ils arrivent même pas à se mettre d'accord pour pisser, alors choisir un pot...}
+{245}{Gen_60}{Bon, c'est ce que tu es. Les Initiés s'entraînent et apprennent à devenir Chevaliers ou Scribes.}
+{246}{Gen_61}{Bon, les Scribes recopient les plans d'armes. On a des informations qui remontent jusqu'à mon grand-père. Parfois un Scribe a une nouvelle idée d'arme. Héhéhé. Ça arrive pas souvent. Ils répondent tous à Vree.}
+{247}{Gen_62}{Les Chevaliers fabriquent les armes. Et quand il est assez bon, un Chevalier peut devenir Paladin puis Aîné, et ainsi de suite. En ce moment, Rhombus est le chef des Chevaliers.}
+{248}{Gen_63}{Les Paladins s'occupent de toute la sécurité et des activités extérieures. Je me souviens du commerce avec le Hub, des missions d'éclairage pour les Aînés. Ah, c'était le bon temps.}
+{249}{Gen_64}{Le Hub est au sud-est. Ils nous échangent de la nourriture et des trucs contre les armes qu'on fabrique ici. Si jamais tu y vas, tu parles à Butch Harris.}
+{250}{Gen_65}{Butch est le chef des Far Go Traders. Il est un peu visqueux, mais c'est pas une perte totale. Contrairement à ces Marchands d'Eau. Une bande de foutus vautours, tous autant qu'ils sont.}
+{251}{Gen_66}{Ce sont nos principaux partenaires commerciaux. Pas totalement dignes de confiance, mais pas aussi pires que les autres. }
+{252}{Gen_67}{Faut pas leur faire confiance. Y a quelques années, ils nous ont proposé de l'eau contre un énorme stock d'armes. On a dit non, et tu sais ce qu'ils ont fait ? Ils ont envoyé des voleurs pour voler les armes ! On les a attrapés, mais les Aînés ont voté contre l'idée d'aller au Hub donner une leçon aux marchands.}
+{253}{Gen_68}{Des holodisques ? Hmm... J'en ai pas vu depuis un moment.}
+{254}{Gen_69}{Vree l'a quelque part dans la Bibliothèque.}
+{255}{Gen_70}{Roger Maxson, hein ? C'est lui qui a mené notre peuple ici pendant le grand Exode, qui a fondé la Confrérie à partir de rien. Un sacré chef.}
+{256}{Gen_71}{C'était quand mon grand-père, Roger Maxson, a mené ses soldats ici et fondé la Confrérie. Il n'a jamais dit d'où ils venaient. D'un endroit où les machines avaient gagné, peut-être — il n'en parlait jamais, mais... enfin, c'est notre foyer maintenant.}
+{257}{Gen_72}{Je crois qu'il y a une armée qui se rassemble au nord et dans les montagnes à l'est, mais j'ai aucun moyen de le prouver. Les Aînés, ils veulent même pas écouter. }
+{258}{Gen_73}{Une bande de tarés religieux, si tu veux mon avis. Je crois que leur église principale est dans le Boneyard.}
+{259}{Gen_75}{J'en sais pas beaucoup. Y a plein de gangs par là, ainsi qu'Adytum et les Enfants de la Cathédrale. Pas grand-chose d'autre. C'est sacrément désolé.}
+{260}{Gen_76}{Y a pas grand-chose à raconter. J'en ai jamais croisé. J'ai entendu dire qu'ils posent problème aux gens d'Adytum, par contre.}
+{261}{Gen_77}{C'est une colonie dans le Boneyard. J'y suis allé... oh... y a longtemps. J'étais en mission d'éclairage pour les Aînés.}
+{262}{Gen_78}{Oh. Juste une autre rumeur stupide. Certains disent que c'est un énorme monstre à crocs, d'autres un vampire.}
+{263}{Gen_79}{Oh. J'en sais rien.}
+{264}{Gen_80}{C'était quoi ? Non. Je crois en avoir jamais entendu parler.}
+{265}{Gen_81a}{J'en sais foutrement rien.}
+{266}{}{Surpris de me voir ? Et te laisser tout le plaisir ?}
+{267}{}{Comment t'as convaincu les Aînés ?}
+{268}{Gen_82a}{Oh, pas dur du tout. J'ai juste calmement expliqué la situation. Et bingo, nous voilà. Ouvre la marche, mon ami.}
+{269}{Gen_83}{Qu'est-ce que tu fais ici ? C'est réservé aux Aînés.}
+{270}{}{Pardon, je m'en vais.}
+{271}{}{Je m'en fiche, je reste.}
+{272}{Gen_84}{Bien, maintenant ferme la porte en sortant.}
+{273}{Gen_84a}{Je te le dis, ne t'en mêle pas.}
+{274}{Gen_85}{Ha ! T'oublies. J'enseignais ce truc avant.}
+{275}{Gen_86}{Contrairement à ce qu'on croit, on veut pas des soldats sans cervelle.}
+{276}{Gen_87}{Je te suggère d'en parler à mon assistant, Mathia.}
+
+# Alchemist: I'm not sure about exact naming of the Weapon Store. Check this place.
+{278}{}{Excellent ! Grâce à ta mission accomplie, je t'accorde l'accès au stock d'armes du premier niveau. D'autres questions ?}
+
+{300}{}{Tu peux peut-être me dire ? Tout le monde ici semble sur les nerfs. C'est comme si vous vous prépariez à la guerre, mais personne ne sait contre qui.}
+{301}{}{T'as des indices sur les disparitions de caravanes ?}
+{302}{}{Je vais aller reconnaître la zone au nord et te rapporter ce que je trouve.}
+{303}{}{Pour 500 capsules, je vais voir ce qui se passe là-haut.}
+{304}{}{Pour 1000 capsules, je vais voir ce qui se passe au nord.}
+{305}{}{Je sais pas si je veux m'impliquer là-dedans pour l'instant.}
+{306}{}{Ce serait possible d'avoir de meilleures armes ?}
+{307}{}{Juste quelques questions d'abord.}
+{308}{}{Non, on se revoit après que j'aurai vu ce qui se passe là-haut.}
+{309}{}{D'accord, salut.}
+{310}{}{Comment tu sais que tes éclaireurs ont pas déserté ?}
+{311}{}{Je crois avoir déjà croisé les créatures que tu décris. Faut pas les prendre à la légère.}
+{312}{}{Pardonne-moi. À ton avis, c'est quoi la cause des disparitions ?}
+{313}{}{Vas-y. Révoque-le. Tu verras si ça me fait quelque chose.}
+{314}{}{Pardon, mais ce serait trop risqué d'y aller pour l'instant.}
+{315}{}{D'accord, j'y vais, mais je peux avoir de meilleures armes d'abord ?}
+{316}{}{D'accord, je le fais pour 1000 capsules.}
+{317}{}{À prendre ou à laisser.}
+{318}{}{Laisse tomber.}
+{319}{}{D'accord, d'accord, je le fais gratis.}
+{320}{}{Très bien, on se revoit à mon retour.}
+{321}{}{J'ai la preuve que c'est cette armée qui fait disparaître les caravanes. C'est une armée de mutants. T'as de bonnes raisons de t'inquiéter. Ils ont l'air redoutables.}
+{322}{}{Il est évident que quelqu'un doit y aller voir.}
+{323}{}{Il va falloir plus qu'une « intuition » pour que je risque ma vie en y allant.}
+{324}{}{Je considère ma vie comme une priorité assez importante.}
+{325}{}{Je crois juste que c'est pas pour moi, cette tâche.}
+{326}{}{Ma loyauté va à une seule personne.}
+{327}{}{Je peux.}
+{328}{}{Sans blague ?}
+{329}{}{Pourquoi tout le monde ici semble si nerveux ? C'est comme si vous vous prépariez à la guerre, mais personne ne sait qui est l'ennemi.}
+{330}{}{Je dois te parler des disparitions de caravanes. T'as une idée là-dessus ?}
+{331}{}{Laisse tomber.}
+{332}{}{J'ai besoin de te poser des questions.}
+{333}{}{Sans blague ?}
+{334}{}{J'ai des informations sur la zone au nord d'ici.}
+{335}{}{Je peux te poser des questions ?}
+{336}{}{Laisse tomber.}
+{337}{}{Pardon, j'avais rien en fait.}
+{338}{}{J'ai vu leur base. Ça grouille de mutants.}
+{339}{}{J'ai vu la base des mutants au nord. Ils suivent un chef qu'ils appellent le Maître.}
+{340}{}{Tu peux pas jouer la défense sur ce coup-là, Maxson.}
+{341}{}{Bon, il faut faire quelque chose, c'est évident. Le mieux serait d'attaquer les mutants avant qu'ils nous attaquent. Il nous faudra les Aînés avec nous sur ce coup-là.}
+{342}{}{Je sais pas trop ce qu'on devrait faire pour l'instant. Laisse-moi rassembler plus d'informations, et je te recontacte.}
+{343}{}{Il compte prendre toutes les colonies humaines qu'il peut.}
+{344}{}{Qu'est-ce que tu peux me dire sur l'histoire de la Confrérie ?}
+{345}{}{C'est quoi le but principal de la Confrérie ?}
+{346}{}{C'est qui, les Aînés ?}
+{347}{}{Tu sais quelque chose sur l'Écorcheur ?}
+{348}{}{Laisse tomber.}
+{349}{}{Je peux te poser une autre question ?}
+{350}{}{Merci.}
+{351}{}{Tu gagnes }
+{352}{}{ points d'expérience pour avoir exploré le désert au nord.}
+
+#
+# TRANSLATION NOTE: The following groups of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ('my friend' will be masculine); the second line is
+# for the case of the player-character feminine ('my friend' will be feminine).
+#
+{353}{Gen_3}{Tu es le premier Étranger qu'on a laissé entrer depuis... très, très longtemps. Près de vingt ans, même. }
+{354}{Gen_3}{Tu es la première Étrangère qu'on a laissée entrer depuis... très, très longtemps. Près de vingt ans, même. }
+{355}{Gen_6}{Ce sont peut-être de bons éclaireurs, peut-être pas, mais ne remets pas en question l'honnêteté de mes hommes. On peut révoquer ton statut d'Initié à tout moment.}
+{356}{Gen_6}{Ce sont peut-être de bons éclaireurs, peut-être pas, mais ne remets pas en question l'honnêteté de mes hommes. On peut révoquer ton statut d'Initiée à tout moment.}
+{357}{Gen_15n}{Au revoir, Initié.}
+{358}{Gen_15n}{Au revoir, Initiée.}
+{359}{Gen_30}{Ahh... Te revoilà, Initié. Ça se passe bien ? }
+{360}{Gen_30}{Ahh... Te revoilà, Initiée. Ça se passe bien ? }
+
+{400}{}{Je suis allé à la base des mutants au nord. Disons qu'ils ne sont plus une menace.}
+
+# General Maxson Tell-Me-Abouts generic responses
+#
+# General Maxson Tell-Me-Abouts
+#
+{980}{Gen_79}{Oh. J'en sais rien.}
+{981}{Gen_80}{C'était quoi ? Non. Je crois en avoir jamais entendu parler.}
+{982}{Gen_81a}{J'en sais foutrement rien.}
+
+{1000}{}{Brotherhood}
+{1001}{}{Mathia}
+{1002}{}{Cabbot}
+{1003}{}{Vree}
+{1004}{}{Library}
+{1005}{}{Rhombus}
+{1006}{}{Elder}
+{1007}{}{Elders}
+{1008}{}{Initiates}
+{1009}{}{Scribes}
+{1010}{}{Knights}
+{1011}{}{Paladins}
+{1012}{}{Hub}
+{1013}{}{Butch}
+{1014}{}{Traders}
+{1015}{}{Merchants}
+{1016}{}{Disks}
+{1017}{}{Player}
+{1018}{}{Roger}
+{1019}{}{Exodus}
+{1020}{}{Army}
+{1021}{}{Cathedral}
+{1022}{}{Angel's}
+{1023}{}{Gangs}
+{1024}{}{Adytum}
+{1025}{}{Claw}
+{1026}{}{Harris}
+{1027}{}{Maxson}
+{1028}{}{Angels}
+{1029}{}{Boneyard}
+{1030}{}{Master}
+{1031}{}{War}
+{1032}{}{Caravans}
+{1033}{}{Chip}
+{1034}{}{Discs}
+{1035}{}{HoloDisk}
+{1036}{}{HoloDisc}
+{1037}{}{Holo-Disk}
+{1038}{}{Holo-Disc}
+
+{1100}{Gen_52a}{C'est là que t'en es. Tu veux la version longue, va parler à Vree.}
+{1101}{Gen_52b}{Mathia est mon assistant.}
+{1102}{Gen_53}{Oh, c'est un bon gamin, même s'il veut devenir Scribe.}
+{1103}{Gen_54}{Vree est la Scribe en chef. Elle est généralement à la bibliothèque ; elle... aime toujours parler.}
+{1104}{Gen_55}{On y garde les plans d'armes et l'histoire.}
+{1105}{Gen_56}{Rhombo est ici depuis longtemps. Un peu rigide, mais un sacré soldat.}
+{1106}{Gen_58}{Héhéhé. Un bel homme, bien, droit. Le poste de Grand Aîné, c'est de modérer les réunions entre les Aînés. Tu vois, y a deux ans on m'a convaincu. Si j'avais su à l'époque...}
+{1107}{Gen_59}{Bon, tu vois, ils sont quatre et c'est à peu près tout ce sur quoi ils s'accordent. Ils arrivent même pas à se mettre d'accord pour pisser, alors choisir un pot...}
+{1108}{Gen_60}{Bon, c'est ce que tu es. Les Initiés s'entraînent et apprennent à devenir Chevaliers ou Scribes.}
+{1109}{Gen_61}{Bon, les Scribes recopient les plans d'armes. On a des informations qui remontent jusqu'à mon grand-père. Parfois un Scribe a une nouvelle idée d'arme. Héhéhé. Ça arrive pas souvent. Ils répondent tous à Vree.}
+{1110}{Gen_62}{Les Chevaliers fabriquent les armes. Et quand il est assez bon, un Chevalier peut devenir Paladin puis Aîné, et ainsi de suite. En ce moment, Rhombus est le chef des Chevaliers.}
+{1111}{Gen_63}{Les Paladins s'occupent de toute la sécurité et des activités extérieures. Je me souviens du commerce avec le Hub, des missions d'éclairage pour les Aînés. Ah, c'était le bon temps.}
+{1112}{Gen_64}{Le Hub est au sud-est. Ils nous échangent de la nourriture et des trucs contre les armes qu'on fabrique ici. Si jamais tu y vas, tu parles à Butch Harris.}
+{1113}{Gen_65}{Butch est le chef des Far Go Traders. Il est un peu visqueux, mais c'est pas une perte totale. Contrairement à ces Marchands d'Eau. Une bande de foutus vautours, tous autant qu'ils sont.}
+{1114}{Gen_66}{Ce sont nos principaux partenaires commerciaux. Pas totalement dignes de confiance, mais pas aussi pires que les autres. }
+{1115}{Gen_67}{Faut pas leur faire confiance. Y a quelques années, ils nous ont proposé de l'eau contre un énorme stock d'armes. On a dit non, et tu sais ce qu'ils ont fait ? Ils ont envoyé des voleurs pour voler les armes ! On les a attrapés, mais les Aînés ont voté contre l'idée d'aller au Hub donner une leçon aux marchands.}
+{1116}{Gen_68}{Des holodisques ? Hmm... J'en ai pas vu depuis un moment.}
+{1117}{Gen_69}{Vree l'a quelque part dans la Bibliothèque.}
+{1118}{Gen_70}{Roger Maxson, hein ? C'est lui qui a mené notre peuple ici pendant le grand Exode, qui a fondé la Confrérie à partir de rien. Un sacré chef.}
+{1119}{Gen_71}{C'était quand mon grand-père, Roger Maxson, a mené ses soldats ici et fondé la Confrérie. Il n'a jamais dit d'où ils venaient. D'un endroit où les machines avaient gagné, peut-être — il n'en parlait jamais, mais... enfin, c'est notre foyer maintenant.}
+{1120}{Gen_72}{Je crois qu'il y a une armée qui se rassemble au nord et dans les montagnes à l'est, mais j'ai aucun moyen de le prouver. Les Aînés, ils veulent même pas écouter. }
+{1121}{Gen_73}{Une bande de tarés religieux, si tu veux mon avis. Je crois que leur église principale est dans le Boneyard.}
+{1122}{Gen_75}{J'en sais pas beaucoup. Y a plein de gangs par là, ainsi qu'Adytum et les Enfants de la Cathédrale. Pas grand-chose d'autre. C'est sacrément désolé.}
+{1123}{Gen_76}{Y a pas grand-chose à raconter. J'en ai jamais croisé. J'ai entendu dire qu'ils posent problème aux gens d'Adytum, par contre.}
+{1124}{Gen_77}{C'est une colonie dans le Boneyard. J'y suis allé... oh... y a longtemps. J'étais en mission d'éclairage pour les Aînés.}
+{1125}{Gen_78}{Oh. Juste une autre rumeur stupide. Certains disent que c'est un énorme monstre à crocs, d'autres un vampire.}
+{1126}{Gen_65}{Butch est le chef des Far Go Traders. Il est un peu visqueux, mais c'est pas une perte totale. Contrairement à ces Marchands d'Eau. Une bande de foutus vautours, tous autant qu'ils sont.}
+{1127}{Gen_70}{Roger Maxson, hein ? C'est lui qui a mené notre peuple ici pendant le grand Exode, qui a fondé la Confrérie à partir de rien. Un sacré chef.}
+{1128}{Gen_75}{J'en sais pas beaucoup. Y a plein de gangs par là, ainsi qu'Adytum et les Enfants de la Cathédrale. Pas grand-chose d'autre. C'est sacrément désolé.}
+{1129}{Gen_75}{J'en sais pas beaucoup. Y a plein de gangs par là, ainsi qu'Adytum et les Enfants de la Cathédrale. Pas grand-chose d'autre. C'est sacrément désolé.}
+{1130}{Gen_80}{C'était quoi ? Non. Je crois en avoir jamais entendu parler.}
+{1131}{Gen_71}{C'était quand mon grand-père, Roger Maxson, a mené ses soldats ici et fondé la Confrérie. Il n'a jamais dit d'où ils venaient. D'un endroit où les machines avaient gagné, peut-être — il n'en parlait jamais, mais... enfin, c'est notre foyer maintenant.}
+{1132}{Gen_65}{Butch est le chef des Far Go Traders. Il est un peu visqueux, mais c'est pas une perte totale. Contrairement à ces Marchands d'Eau. Une bande de foutus vautours, tous autant qu'ils sont.}
+{1133}{Gen_81a}{J'en sais foutrement rien.}
+{1134}{Gen_68}{Des holodisques ? Hmm... J'en ai pas vu depuis un moment.}
+{1135}{Gen_68}{Des holodisques ? Hmm... J'en ai pas vu depuis un moment.}
+{1136}{Gen_68}{Des holodisques ? Hmm... J'en ai pas vu depuis un moment.}
+{1137}{Gen_68}{Des holodisques ? Hmm... J'en ai pas vu depuis un moment.}
+{1138}{Gen_68}{Des holodisques ? Hmm... J'en ai pas vu depuis un moment.}

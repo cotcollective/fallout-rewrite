@@ -1,0 +1,278 @@
+{100}{}{Tu vois : Nicole.}
+{101}{}{Raconte-moi un peu l'histoire des Disciples.}
+{102}{}{Qu'est-ce que vous vénérez ?}
+{103}{}{Qu'est-ce qu'il y a par ici ?}
+{104}{}{J'ai des informations pour toi.}
+{105}{Nic_1}{Salutations. Hé ! Nous sommes ravis que tu nous aies rejoints. J'espère que notre humble demeure te satisfait.}
+{106}{}{Merci. Tu peux m'en dire plus sur ce que vous vénérez ici ?}
+{107}{}{« Humble » est un bon mot. « Dépotoir » serait mieux.}
+{108}{}{Oui. Je peux te poser quelques questions ?}
+{109}{}{Ça va, je suppose.}
+{110}{}{Nuhh ? Euh, nuh, nuh. Hein ?}
+{111}{Nic_2}{On ne vénère pas vraiment, on suit plutôt un ensemble de principes. On veut ramener la paix dans ce désert. Le monde tend vers la destruction, alors on essaie de faire la différence.}
+{112}{}{Comment ?}
+{113}{Nic_4}{On essaie de rappeler aux gens pourquoi la Grande Guerre a vraiment eu lieu. Pas les bombes — ce qui les a fait tomber. Et on veille à ce que ça n'arrive plus jamais.}
+{114}{}{Vous avez eu du succès ?}
+{115}{}{Ça ressemble à un vœu pieux — pas très réaliste.}
+{116}{Nic_5}{On ne perd jamais espoir. Jamais, même si la plupart vivent par les armes ces temps-ci. Et les Enfants de la Cathédrale nous préoccupent...}
+{117}{}{Qu'est-ce qu'ils ont ?}
+{118}{Nic_6}{Ils prétendent vouloir la paix, comme nous. Mais quiconque n'est pas d'accord avec eux disparaît, tout simplement. Leur Dieu des Ténèbres n'est pas ce qu'il semble être, crois-moi.}
+{119}{}{Comment tu le sais ?}
+{120}{}{Tu ne crois pas que tu es un peu parano ?}
+{121}{}{« Nous » ? C'est ce que pensent tous les Disciples ou juste toi ?}
+{122}{Nic_7}{Appelle ça de l'instinct. On a vu Morpheus et les Nightkin, et ils n'ont pas l'air de pacificateurs. Leurs hôpitaux et leur message de paix les rendent attirants, mais on sait qu'il y a du mal là-dedans.}
+{123}{}{Tu ne crois pas que tu es un peu parano ?}
+{124}{}{Tu as des indices ?}
+{125}{}{Bon, je te raconterai tout ce que je découvrirai.}
+{126}{}{« Nous » par-ci, « nous » par-là. T'essaies de mettre des mots dans la bouche de tout le monde ?}
+{127}{Nic_8}{Peut-être, mais c'est ce qui nous a gardés en vie jusqu'ici.}
+{128}{Nic_8a}{Nous sommes unis. Sinon, nous périrons. Pardonne-moi si ça t'irrite.}
+{129}{Nic_8b}{Y a-t-il autre chose que tu dois savoir ?}
+{130}{}{Ouais.}
+{131}{}{Non, merci. Je vais y aller.}
+{132}{Nic_9}{Demande, et je répondrai si je peux.}
+{133}{Nic_10}{On n'a pas de temps pour les questions de gens comme toi. Mon assistant va te raccompagner.}
+{134}{Nic_11}{Hé ! J'apprécie pas, mais je passerai l'éponge si tu t'excuses.}
+{135}{}{Désolé de t'avoir adressé la parole.}
+{136}{}{D'accord, pardon.}
+{137}{Nic_12}{Bien. On n'a pas le temps de pouponner. Laisse-nous.}
+{138}{Nic_13}{Excuses acceptées. N'oublie pas que tu es notre invité ici. Alors, autre chose ?}
+{139}{}{Je peux poser encore quelques questions ?}
+{140}{}{Non, je vais y aller.}
+{141}{Nic_14}{On te souhaite le meilleur pour la suite de ton voyage. N'hésite pas à utiliser notre base autant que tu veux.}
+{142}{Nic_15}{On sait que ça pourrait être mieux. Mais quand on se prépare à la guerre...}
+{143}{}{La guerre contre qui ?}
+{144}{Nic_16}{Les Enfants de la Cathédrale. On croit qu'il faut apporter la paix à ce pays, mais il y a des choses inévitables.}
+{145}{}{Qu'est-ce que tu veux dire ? Qu'est-ce qu'ils ont fait ?}
+{146}{}{Pourquoi tu crois en la paix ?}
+{147}{Nic_17}{Depuis que les Enfants sont apparus, quiconque ne croit pas en leur vision disparaît. Ils disent qu'ils sont là pour la paix, mais on sait ce qu'il en est.}
+{148}{}{Je comprends. Peux-tu me parler davantage des Enfants de la Cathédrale ?}
+{149}{}{Fascinant. Que peux-tu me dire d'autre ?}
+{150}{}{Je vais y aller maintenant.}
+{151}{Nic_18}{On ne peut que se préparer. Mais le temps viendra où nous devrons combattre ces Enfants et leur Dieu des Ténèbres.}
+{152}{}{Ça a l'air dangereux. Je te dirai tout ce que je découvrirai.}
+{153}{}{Je croyais que tu croyais en la paix ?}
+{154}{Nic_19}{Bien ! Toute information nous serait utile. Alors, autre chose à demander ?}
+{155}{}{Ouais.}
+{156}{}{Non, merci. Je vais y aller.}
+{157}{Nic_20}{On croit en la paix, oui, mais on défendra ce pays s'il le faut. Si ça veut dire que les Disciples partent en guerre, qu'il en soit ainsi.}
+{158}{}{Ça me semble contradictoire.}
+{159}{}{C'est un peu hypocrite, non ?}
+{160}{}{Je peux te poser encore quelques questions ?}
+{161}{Nic_21}{Pas vraiment. On est venus enseigner la paix, mais on se défendra si nécessaire. Ça inclut nos croyances.}
+{162}{Nic_21b}{Tu ne comprendrais pas.}
+{163}{}{Je peux te poser encore quelques questions ?}
+{164}{}{Je vois. À plus tard, alors.}
+{165}{Nic_22}{Ils sont apparus à peu près en même temps que nous, mais personne ne sait comment. D'après les rumeurs, leur chef, Morpheus, faisait partie des Rippers avant d'être « illuminé » par leur Dieu des Ténèbres.}
+{166}{}{Hé, un gars peut changer.}
+{167}{}{On dirait pas un gentil gars.}
+{168}{}{Je crois que je vais aller voir ça.}
+{169}{Nic_23}{C'est une description très charitable. Alors, autre chose ?}
+{170}{}{Ouais.}
+{171}{}{Non, merci. Je vais y aller.}
+{172}{Nic_24}{Sois très prudent. Évidemment, on aimerait beaucoup savoir ce qui se passe là-bas.}
+{173}{}{Je peux te poser encore quelques questions ?}
+{174}{}{Je te dirai ce que je découvrirai. À plus tard.}
+{175}{Nic_25}{On a fondé ce groupe après avoir vu que le sang continuait de régner sur ce pays. Il semblait ne plus rester aucun espoir. L'homme ne peut pas vivre sans espoir.}
+{176}{}{Et vous donnez de l'espoir ?}
+{177}{}{On dirait un des Enfants !}
+{178}{}{Quand avez-vous fondé ce groupe ?}
+{179}{Nic_26}{On essaie. On fait de notre mieux. La plupart ne veulent pas écouter, mais quelques-uns si.}
+{180}{}{Pourquoi le font-ils ?}
+{181}{}{Intéressant. Alors, quand avez-vous fondé ce groupe ?}
+{182}{Nic_27}{Je suis sûre que le récit complet de l'histoire des Disciples t'ennuierait. Il y a pas mal de livres ici avec ces informations.}
+{183}{}{Les livres ? Pouah ! Pourquoi tu ne me racontes pas ?}
+{184}{}{D'accord. Je vais aller voir ces livres.}
+{185}{Nic_28}{Plusieurs de nos espions ont vu des Nightkin entrer et sortir de l'arrière-salle du temple des Enfants. Il y a quelque chose d'important là-bas.}
+{186}{}{Merci pour l'info. Je peux te poser encore quelques questions ?}
+{187}{}{On dirait que je dois vérifier ça. Au revoir.}
+{188}{}{Tu m'en diras tant ! Je peux te poser encore quelques questions ?}
+{189}{Nic_29}{Que veux-tu savoir ?}
+{190}{}{Où les Disciples ont-ils commencé ?}
+{191}{}{Qui les a fondés ?}
+{192}{}{Quels sont vos objectifs ?}
+{193}{Nic_30}{Loin au sud, près de la Grande Lueur. Les temps étaient durs, mais on a réussi à survivre. C'est là qu'on a compris que la Grande Guerre ne devait plus jamais arriver.}
+{194}{}{C'est donc toi qui as fondé les Disciples de l'Apocalypse ?}
+{195}{}{Qu'est-ce qui vous a fait venir au nord ?}
+{196}{Nic_31}{Après que mes parents ont été tués par des maraudeurs, *soupir* il était temps que les tueries cessent. Notre objectif, c'est de rendre à ce pays ce qu'il était avant la guerre.}
+{197}{}{Désolé pour tes parents.}
+{198}{}{Ça pourrait donc arriver à nouveau ? C'est stupide !}
+{199}{}{C'étaient qui, les maraudeurs ?}
+{200}{}{Qu'est-ce qui t'a fait amener les Disciples au nord ?}
+{201}{Nic_32}{On ne l'a jamais découvert, même si on a entendu dire qu'un groupe vit au nord dans une vieille ville en ruines. On a laissé tomber.}
+{202}{}{Pourquoi ? Tu pourrais te venger !}
+{203}{}{Pourquoi as-tu fini par amener les Disciples au nord ?}
+{204}{Nic_33}{On est là pour faire la paix, pas pour tuer par haine.}
+{205}{}{Ça ressemble plutôt à de la peur.}
+{206}{}{Très noble de ta part. À ta place, je les tuerais tous.}
+{207}{}{Pourquoi tu es ici maintenant ?}
+{208}{Nic_34}{Ça ne m'étonne pas. Les Disciples sont là pour ramener à la raison les gens comme toi.}
+{209}{}{Bonne chance, c'est dur à vendre. C'est pour ça que tu es au nord maintenant ?}
+{210}{}{Et tu ne crois jamais que la violence peut être une bonne chose ?}
+{211}{}{Alors répondre à d'autres questions ne peut pas faire de mal, non ?}
+{212}{}{Bon, je dois y aller.}
+{213}{Nic_35}{*soupir* Tu n'es tout simplement pas en mesure de comprendre les différences. Bon. Réfléchis-y, puis reviens en parler.}
+{214}{Nic_36}{Il n'en reste plus beaucoup au sud. La radiation a presque tout pollué. La plupart des survivants nous ont suivis pour fonder l'organisation.}
+{215}{}{Comment ta famille a-t-elle survécu ?}
+{216}{}{C'est encore aussi radioactif ? Après 80 ans ?}
+{217}{Nic_37}{On vivait aux abords de la Grande Lueur. La maladie avait commencé à se répandre, alors on a rassemblé tout le monde et on est partis vers le nord. *soupir* C'est là que mes parents ont été tués.}
+{218}{}{Désolé.}
+{219}{}{Pourquoi la zone là-bas est-elle encore aussi radioactive après tout ce temps ?}
+{220}{Nic_39}{Merci, j'apprécie. Alors, autre chose à me demander ?}
+{221}{}{Ouais.}
+{222}{}{Non, merci. Je vais y aller.}
+{223}{Nic_41}{La rumeur dit qu'il y avait quelque chose de si important là-bas que la zone a été saturée de bombes pour être sûr que tout soit anéanti.}
+{224}{}{Intéressant. Pourquoi tu es ici maintenant ?}
+{225}{}{Au revoir, alors.}
+{226}{Nic_42}{Le Boneyard est plutôt clairsemé, comme tu vois. Adytum est à l'ouest. Les Enfants de la Cathédrale sont au nord. Je te déconseille d'aller trop au sud dans la ville, les Rippers et les Blades en ont fait un champ de bataille.}
+{227}{Nic_43}{À quel sujet ?}
+{228}{}{Je sais ce qui se cache derrière les Enfants de la Cathédrale.}
+{229}{}{Combien tu es prête à me payer ?}
+{230}{}{Rien, laisse tomber.}
+{231}{Nic_44}{Enfin ! Qu'est-ce que tu as découvert ?}
+{232}{}{Je suis maintenant à la tête des Enfants !}
+{233}{}{Morpheus n'est pas le chef des Enfants. C'est le Maître qui tire les ficelles.}
+{234}{}{Tu connais les Nightkin ?}
+{235}{Nic_45}{Attends... le Dieu des Ténèbres ? Tu ne vas pas me dire qu'il existe ?}
+{236}{}{Oh, il existe, oui. Mais ce n'est pas un dieu. C'est le Maître, et il veut intégrer tout le monde, pour leur bien.}
+{237}{}{Si, il existe ! Tu devrais craindre le tout-puissant Dieu des Ténèbres !}
+{238}{Nic_46}{Quel rapport avec les Nightkin ?}
+{239}{}{En fait, ce sont des Super-mutants. Le Maître est leur chef.}
+{240}{Nic_47}{Qu'est-ce qu'ils comptent faire ? }
+{241}{}{Le Maître veut faire de tout le monde des Nightkin. Il les croit supérieurs, et il pense qu'en intégrant tout le monde, il sauvera l'humanité !}
+{242}{}{Je ne sais pas. Je sais juste que le Maître transforme les gens en Nightkin.}
+{243}{Nic_49}{Qu'est-ce qu'on devrait faire ?}
+{244}{}{Je vais parler au Maître.}
+{245}{}{Je vais raser la Cathédrale tout de suite.}
+{246}{}{J'ai détruit l'endroit où ils fabriquent d'autres Super-mutants, mais j'ai besoin d'aide pour prendre la Cathédrale.}
+{247}{Nic_50}{On ne peut pas laisser passer cette occasion. Va reconnaître la Cathédrale. On te rejoindra là-bas pour prendre d'assaut l'endroit.}
+{248}{}{Non, pas ça. Tu sais s'il y a un passage secret ?}
+{249}{}{D'accord. Retrouve-moi là-bas.}
+{250}{}{Non ! Je ne veux pas que d'autres soient blessés.}
+{251}{Nic_52a}{Non, mais je connais quelqu'un qui oui. Va à la Cathédrale et trouve une femme nommée Laura. Dis la phrase « Red Rider ». On créera une diversion si on peut.}
+{252}{}{Merci. J'espère que la chance sera avec nous.}
+{253}{Nic_53}{La chance n'a rien à voir là-dedans. J'ai foi en toi.}
+{254}{Nic_56}{Notre destin est devant nous. Espérons que nous en sommes dignes.}
+{255}{Nic_57}{Quoi ? C'est notre destin. Les Disciples combattront ce mal pour que la guérison du pays puisse enfin commencer.}
+{256}{}{Non. Je l'interdis.}
+{257}{}{D'accord. Retrouve-moi à la Cathédrale.}
+{258}{Nic_58}{*rire* Tu ne nous contrôles pas. On attaquera, avec ou sans ta bénédiction !}
+{259}{Nic_59}{Lui parler ?! T'es fou ?}
+{260}{}{C'est pas toi qui prêches la paix ?}
+{261}{}{Non, et tu ne peux pas m'en empêcher.}
+{262}{Nic_60}{Eh bien, oui, mais...}
+{263}{}{Je crois pouvoir en finir sans effusion de sang. Tiens-toi prête, quand même, au cas où j'échouerais.}
+{264}{Nic_61a}{Visiblement, ta décision est prise. Ça pourrait t'aider. Va à la Cathédrale et trouve une femme nommée Laura. Dis la phrase « Red Rider ». Et s'il te plaît... reviens en un morceau.}
+{265}{Nic_63}{Tu as un drôle de sens de l'humour. Reviens quand tu auras quelque chose de sérieux à dire.}
+{266}{}{Pardon, c'était juste une blague. Ça concerne les Nightkin.}
+{267}{Nic_65a}{Donc on est mercenaire. Bien, je te donnerai 100 capsules.}
+{268}{Nic_66b}{Alors, qu'est-ce que tu as pour moi ?}
+{269}{}{Je sais que quelqu'un prévoit de t'arnaquer. Merci.}
+{270}{}{Morpheus n'est pas le chef des Enfants. C'est le Maître qui tire les ficelles.}
+{271}{}{Tu connais les Nightkin ?}
+{272}{}{Les Enfants sont contrôlés par des extraterrestres.}
+{273}{Nic_67}{Bonne chance. Maintenant, on doit examiner nos options.}
+{274}{Nic_68}{Que c'est noble, que c'est impressionnant. Et on te croyait au-dessus de ça. Maintenant prends ton argent et pars.}
+{275}{Nic_69}{Eh bien, salut. Que puis-je pour toi maintenant ?}
+{276}{}{Je peux te poser quelques questions ?}
+{277}{}{Tu peux me parler des Enfants de la Cathédrale ?}
+{278}{}{Au revoir, alors.}
+{279}{Nic_70}{Qu'est-ce que tu veux maintenant ?}
+{280}{}{Je voulais te dire pardon.}
+{281}{}{Je voulais juste te revoir.}
+{282}{Nic_70a}{Pars, c'est tout.}
+{283}{Nic_71}{Excuses acceptées. Que puis-je pour toi ?}
+{284}{}{Je peux te poser quelques questions ?}
+{285}{}{Je vais y aller.}
+# 286 changed with patch 1.3 from TeamX
+# was "286 Nic_72 Please, we're busy. Don't you have things to do?"
+{286}{}{S'il te plaît, on est occupés. T'as pas des choses à faire ?}
+{287}{Nic_74}{Qu'est-ce que tu fais ? Pose ça !}
+{288}{Nic_75}{Arrête !}
+{289}{Nic_76}{Arrête ça !}
+{290}{Nic_77}{Hé ! Sors d'ici !}
+{291}{Nic_78}{Bon, si tu le dis. Maintenant file, on a du travail.}
+{292}{Nic_79}{Parle à Jake. Il en sait plus que moi là-dessus.}
+{293}{Nic_80}{Comme je disais...}
+{294}{Nic_81}{Comme je le mentionnais...}
+{295}{Nic_82}{J'ai dit...}
+{296}{Nic_83}{Enfin, comme je disais...}
+{297}{Nic_84}{Salut ! T'es idiot ?}
+{298}{Nic_85}{Je te l'ai dit de nombreuses fois. Tu devrais travailler ta mémoire.}
+{299}{Nic_86}{Morpheus est le chef des Enfants de la Cathédrale. Il est mauvais, et ça doit être révélé.}
+{300}{Nic_87}{Il n'y a pas grand-chose à raconter.}
+{301}{Nic_87a}{Laura est une de nos infiltrées dans la Cathédrale. Elle est extrêmement loyale à notre cause.}
+{302}{Nic_87b}{Jake est le second.}
+{303}{Nic_88}{Ici, tu trouveras des textes historiques et philosophiques... presque tout. N'hésite pas à regarder.}
+{304}{Nic_89}{Les Enfants de la Cathédrale l'adorent. Ils disent qu'il veut seulement guérir l'humanité, mais c'est un mensonge.}
+{305}{Nic_90}{J'en ai très peu entendu parler.}
+{306}{Nic_91}{Ce sont les serviteurs personnels de Morpheus. Des créatures énormes et massives. Berk !}
+{307}{Nic_92}{Tu as probablement vu leurs hôpitaux. Ils prêchent la paix, mais quelque chose cloche sérieusement. On doit découvrir quoi.}
+{308}{Nic_93}{C'est une petite colonie. Tu la trouveras à l'ouest, dans le Boneyard.}
+{309}{Nic_94}{Avant la Grande Guerre, c'était une ville immense et florissante. Ma mère racontait des histoires, mais il n'en reste presque rien. Juste des ruines et la mort.}
+{310}{Nic_95}{Ils sont en guerre contre les Blades au sud. Les Rippers sont le gang le plus impitoyable du Boneyard. Quand on a envoyé des gens les convertir, on n'a récupéré que leurs têtes.}
+{311}{Nic_96}{Les Blades combattent les Rippers au sud. C'est le plus accommodant des deux gangs, même si ça ne veut pas dire grand-chose. On en a converti quelques-uns.}
+{312}{Nic_97}{Notre histoire est dans le dernier casier, étagère du haut.}
+{313}{Nic_98}{Tout a été brûlé, tout a été détruit. On essaie d'enseigner la paix aux gens, pour que ça n'arrive plus jamais.}
+{314}{Nic_99}{C'est la ville marchande au nord. On essaie d'y installer un stand.}
+{315}{Nic_100}{On n'est pas sûrs à leur sujet. Ils vendent des armes, nous on vend la paix. Mais leurs motivations...}
+{316}{Nic_101}{On ne sait rien de tout ça.}
+{317}{Nic_102}{On n'en a jamais entendu parler.}
+{318}{Nic_103}{On ne voit pas de quoi tu parles.}
+{319}{}{Que sais-tu d'autre sur les Enfants de la Cathédrale ?}
+{320}{}{Je peux te poser encore quelques questions sur eux ?}
+{321}{}{Je peux te poser des questions sur autre chose ?}
+{322}{}{Tu sais qui est leur chef ?}
+{323}{}{Tu as des soupçons à leur sujet ?}
+{324}{}{Tu peux m'aider à les détruire ?}
+{325}{}{Merci ; toute aide est la bienvenue !}
+{326}{}{Merci pour les informations. Je vais y aller.}
+
+# Nicole Tell-Me-Abouts generic responses
+#
+# Nicole Tell-Me-Abouts
+#
+{980}{Nic_101}{On ne sait rien de tout ça.}
+{981}{Nic_102}{On n'en a jamais entendu parler.}
+{982}{Nic_103}{On ne voit pas de quoi tu parles.}
+
+{1000}{}{Morpheus}
+{1001}{}{Nicole}
+{1002}{}{Laura}
+{1003}{}{Jake}
+{1004}{}{Library}
+{1005}{}{God}
+{1006}{}{Master}
+{1007}{}{Nightkin}
+{1008}{}{Cathedral}
+{1009}{}{Adytum}
+{1010}{}{Angel's}
+{1011}{}{Followers}
+{1012}{}{War}
+{1013}{}{Hub}
+{1014}{}{Brotherhood}
+{1015}{}{Angels}
+{1016}{}{Boneyard}
+{1017}{}{Steel}
+
+{1100}{Nic_86}{Morpheus est le chef des Enfants de la Cathédrale. Il est mauvais, et ça doit être révélé.}
+{1101}{Nic_87}{Il n'y a pas grand-chose à raconter.}
+{1102}{Nic_87a}{Laura est une de nos infiltrées dans la Cathédrale. Elle est extrêmement loyale à notre cause.}
+{1103}{Nic_87b}{Jake est le second.}
+{1104}{Nic_88}{Ici, tu trouveras des textes historiques et philosophiques... presque tout. N'hésite pas à regarder.}
+{1105}{Nic_89}{Les Enfants de la Cathédrale l'adorent. Ils disent qu'il veut seulement guérir l'humanité, mais c'est un mensonge.}
+{1106}{Nic_90}{J'en ai très peu entendu parler.}
+{1107}{Nic_91}{Ce sont les serviteurs personnels de Morpheus. Des créatures énormes et massives. Berk !}
+{1108}{Nic_92}{Tu as probablement vu leurs hôpitaux. Ils prêchent la paix, mais quelque chose cloche sérieusement. On doit découvrir quoi.}
+{1109}{Nic_93}{C'est une petite colonie. Tu la trouveras à l'ouest, dans le Boneyard.}
+{1110}{Nic_94}{Avant la Grande Guerre, c'était une ville immense et florissante. Ma mère racontait des histoires, mais il n'en reste presque rien. Juste des ruines et la mort.}
+{1111}{Nic_97}{Notre histoire est dans le dernier casier, étagère du haut.}
+{1112}{Nic_98}{Tout a été brûlé, tout a été détruit. On essaie d'enseigner la paix aux gens, pour que ça n'arrive plus jamais.}
+{1113}{Nic_99}{C'est la ville marchande au nord. On essaie d'y installer un stand.}
+{1114}{Nic_100}{On n'est pas sûrs à leur sujet. Ils vendent des armes, nous on vend la paix. Mais leurs motivations...}
+{1115}{Nic_94}{Avant la Grande Guerre, c'était une ville immense et florissante. Ma mère racontait des histoires, mais il n'en reste presque rien. Juste des ruines et la mort.}
+{1116}{Nic_94}{Avant la Grande Guerre, c'était une ville immense et florissante. Ma mère racontait des histoires, mais il n'en reste presque rien. Juste des ruines et la mort.}
+{1117}{Nic_100}{On n'est pas sûrs à leur sujet. Ils vendent des armes, nous on vend la paix. Mais leurs motivations...}
+{1118}{Nic_101}{On ne sait rien de tout ça.}
+{1119}{Nic_102}{On n'en a jamais entendu parler.}
+{1120}{Nic_103}{On ne voit pas de quoi tu parles.}

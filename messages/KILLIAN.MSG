@@ -1,0 +1,253 @@
+{100}{}{Tu vois : Killian.}
+{101}{}{Qui es-tu ?}
+{102}{}{Et si tu me parlais un peu de cette ville ?}
+{103}{}{C'est ton magasin ?}
+{104}{}{Je veux acheter quelque chose.}
+{105}{}{Qu'est-ce qu'on peut faire par ici ?}
+{106}{}{Que dois-je faire pour t'aider à te débarrasser de Gizmo ?}
+{107}{}{Je ferais mieux d'y aller.}
+{108}{}{Hein ?}
+{109}{Kill0a}{Tu veux acheter quelque chose, l'ami ?}
+{110}{}{Ouais.}
+{111}{}{Non.}
+{112}{Kill1m}{Bienvenue à Junktown, l'étranger. En quoi puis-je t'aider ?}
+{113}{Kill1f}{Salut, ma belle. Qu'est-ce que je te sers ?}
+{114}{Kill1b}{Qu'est-ce que tu veux ?}
+{115}{Kill1g}{Je peux t'aider ?}
+{116}{}{Et si tu me parlais un peu de cette ville ?}
+{117}{}{C'est ton magasin ?}
+{118}{}{Je veux acheter quelque chose.}
+{119}{}{Qu'est-ce qu'on peut faire par ici ?}
+{120}{}{Que dois-je faire pour t'aider à te débarrasser de Gizmo ?}
+{121}{}{Je ferais mieux d'y aller.}
+{122}{}{Hein ?}
+{123}{Kill02}{Moi c'est Killian. Killian Darkwater. Je suis le maire de cette belle ville. Et toi, qui es-tu ?}
+{124}{}{Je suis }
+{125}{}{.}
+{126}{}{Je m'appelle }
+{127}{}{. Je viens du nord.}
+{128}{}{Ça te regarde ?}
+{129}{Kill03}{Pas grand-chose par là-bas à part le désert et Shady Sands. Tu viens de là ?}
+{130}{}{Non. Je viens d'un Abri, à l'ouest.}
+{131}{}{Non. Mon... euh... village est un peu à l'ouest, dans les montagnes.}
+{132}{}{Pas vraiment. Il y a autre chose par là-bas ?}
+{133}{}{Évidemment que je viens de là, idiot.}
+{134}{Kill03a}{Hé, on dirait que tu espères que je vais combler quelques trous pour toi.}
+{135}{Kill04}{Ouais, si tu le dis. Alors, qu'est-ce qu'il te faut ?}
+{136}{Kill05}{Oh ouais, bien sûr. Et quand t'étais bébé, ton berceau c'était un coffre-fort.}
+{137}{}{Non, non. Ça s'appelle un Abri. Il nous a protégés de la Guerre. Il est plein de monde depuis 80 ans !}
+{138}{}{Hé, t'as pigé ma blague. En fait je viens d'un village pas loin de Shady Sands.}
+{139}{Kill06}{T'en fais pas, c'est pas la pire histoire qu'on m'ait racontée. Alors... qu'est-ce que je peux faire pour toi ?}
+{140}{Kill08}{Eh bien, les voyageurs me disent qu'il y a une bande de cinglés au nord qu'on appelle les Vipers. Un autre groupe de ploucs à l'est, les Khans. Aucun des deux ne risque de t'inviter à souper autrement qu'en plat principal, si tu vois ce que je veux dire.}
+{141}{}{Quoi d'autre hors de Junktown ?}
+{142}{}{Merci.}
+{143}{Kill09}{Eh bien, t'as le Hub au sud-ouest. Mais va pas au sud. C'est Nécropolis ; le, euh... climat y est mauvais, qu'il pleuve ou qu'il vente. Si tu vois ce que je veux dire.}
+{144}{}{Merci pour les infos. Je peux te poser encore quelques questions ?}
+{145}{}{Tu sais vraiment tout, toi, hein ?}
+{146}{}{Je ferais mieux d'y aller maintenant.}
+{147}{Kill10a}{Et pourquoi pas. Vas-y, l'ami.}
+{148}{Kill10b}{Ouais, d'accord. Mais fais vite, j'ai du boulot.}
+{149}{Kill11}{Eh bien, Junktown c'est pas grand-chose, mais c'est chez nous. On commerce surtout avec les gens ou on les aide à oublier leurs soucis un moment. Bien sûr, on a notre lot de problèmes.}
+{150}{}{Des problèmes ?}
+{151}{}{Qu'est-ce qu'on peut faire dans cette ville ?}
+{152}{}{Quelles autres villes y a-t-il par ici ?}
+{153}{}{Merci.}
+{154}{Kill12}{De l'extérieur, on a eu quelques accrochages avec les Khans. Mais ils sont plutôt calmes ces temps-ci. À l'intérieur, les ennuis viennent des Skulz. Et j'entends parler de choses étranges vers le Hub, mais ça nous a pas encore touchés. Je touche la tête de ma belle-mère.}
+{155}{Kill13b}{Oh, on a plein de trucs à faire. Le Skum Pitt est à l'est, près de l'entrée. Un super rade. Le Gizmo's est pas loin. Et si t'es amoché, Doc Morbid est ton homme.}
+{156}{}{Merci.}
+{157}{}{C'est tout ce qu'il y a à faire par ici ?}
+{158}{Kill14}{Eh bien, si on va trop vite pour toi, passe ton chemin, mon pote. C'est bien « mon pote », hein ?}
+{159}{}{Mieux que rien, j'imagine.}
+{160}{}{Alors il n'y aura rien d'excitant en ville.}
+{161}{Kill15}{Et comment.}
+{162}{Kill16}{Oh, tu me confonds visiblement avec quelqu'un qui doit supporter ton insolence. Reviens quand ta maman t'aura appris les bonnes manières.}
+{163}{Kill21}{Eh bien, quelle sacrée coïncidence ! C'est à ça que sert ce magasin ! On a à peu près tout ce qu'il te faut. Laisse-moi te montrer des trucs par ici... }
+{164}{Kill22}{Tu parles. C'est peut-être pas aussi grand que certains au Hub, mais les gens trouvent généralement ce qu'ils cherchent. Jette un œil... }
+{165}{Kill23}{Tu dois porter un enregistreur et faire avouer Gizmo sur bande, ou planter ce micro dans son bureau. Dans les deux cas, on le tient.}
+{166}{Kill24}{Eh bien, salut ! Qu'est-ce que je peux faire pour toi aujourd'hui ?}
+{167}{Kill26}{Encore toi. Qu'est-ce que tu veux maintenant ?}
+{168}{Kill27}{À moins que tu comptes le payer, tu ferais mieux de le reposer.}
+{169}{Kill28}{T'es pas très futé, hein. Les gars... }
+{170}{Kill29}{Ta maman t'a visiblement pas appris les manières. Je vais devoir m'en charger ?}
+{171}{Kill30}{Eh bien, félicitations. Tu viens de gagner une nuit en cellule. Les gars... }
+{172}{Kill31}{Mais qu'est-ce que tu fous ici, nom de Dieu ?}
+{173}{}{Euh... je me suis perdu ?}
+{174}{}{Oh, c'est chez toi ici ?}
+{175}{}{Eh bien... je suis entré par effraction.}
+{176}{Kill32}{Et comment que c'est chez moi ! Maintenant dégage avant que je fasse de ta tête une décoration murale !}
+{177}{}{D'accord, d'accord, je m'en vais.}
+{178}{}{Toi ? Réveille-toi, mon pote, tu rêves encore.}
+{179}{Kill34}{Euh, non. T'es juste stupide. Sors d'ici !}
+{180}{}{D'accord. Désolé pour le dérangement.}
+{181}{}{Qui va m'y obliger ? Toi ? Me fais pas rire... }
+{182}{Kill35}{Un voleur honnête. Hmpf. Je vais quand même devoir t'embarquer. Viens sans faire d'histoires et on te fera pas de mal.}
+{183}{}{D'accord, je viens sans faire d'histoires.}
+{184}{}{Ouais... j'crois pas, non.}
+{185}{Kill36}{Comme je disais... }
+{186}{Kill37}{Je te l'ai déjà dit... }
+{187}{Kill38}{Je te l'ai déjà dit... }
+{188}{Kill39}{T'entends bien ? J'ai dit... }
+{189}{Kill40}{Écoute, si tu t'en souviens pas, c'est ton problème.}
+{190}{Kill41}{Écoute, je te l'ai déjà dit plein de fois.}
+{191}{Kill42}{Tu pars déjà ? Tu ferais mieux de payer d'abord.}
+{192}{Kill43}{C'est pas quelque chose que je prends à la blague. Alors. Paie.}
+{193}{Kill44}{Bon. Très bien. On va voir si une nuit au placard te rafraîchit un peu.}
+{194}{Kill45}{D'autres questions ?}
+{195}{}{Bien sûr.}
+{196}{}{Non. C'est tout, merci.}
+{197}{Kill46}{On se revoit en ville alors. Évite de trop t'attirer des ennuis.}
+{198}{Kill47}{Écoute. Merci de m'avoir sauvé la vie. C'est un acte sacrément courageux. On dirait qu'on a une situation ici. Je sais que Gizmo est derrière tout ça, mais j'ai besoin de preuves. Ça t'intéresse de m'aider ?}
+{199}{}{Moi ? Pourquoi moi ?}
+{200}{}{Tu peux pas trouver quelqu'un d'autre ? Je suis un peu occupé... }
+{201}{}{Je suis des vôtres.}
+{202}{Kill48}{Si j'ai des preuves, les gens de Junktown le chasseront. D'après mes calculs, tu dois soit planter un mouchard chez lui, soit porter un micro et le faire avouer. Tu peux gérer ?}
+{203}{}{Ouh. Ça a l'air dangereux... }
+{204}{}{Qu'est-ce que j'y gagne ?}
+{205}{}{Euh... non. Se mêler des problèmes des autres, ça finit jamais bien.}
+{206}{Kill49}{Je vais pas te mentir, ce sera dangereux. Mais je t'en devrai une, et Killian Darkwater paie toujours ses dettes.}
+{207}{}{T'es sûr que tu peux pas trouver quelqu'un d'autre ?}
+{208}{}{Qu'est-ce que tu veux dire par « paie ses dettes » ?}
+{209}{}{J'crois pas. Ça a l'air trop dangereux pour moi.}
+{210}{Kill50}{Ce sera mieux si c'est toi. Gizmo te connaît pas, alors il pourrait te faire confiance. Ou au moins, il aura du mal à me blâmer. Dans les deux cas, t'es la meilleure personne pour le job.}
+{211}{}{Très bien, je le fais.}
+{212}{}{Non. Me faire tuer, ça me dit pas trop.}
+{213}{}{Qu'est-ce que j'y gagne ?}
+{214}{Kill51}{Je te dis quoi. Tout ce qu'il y a dans le magasin, même le plus cher, c'est à toi. Gratis. Si c'est un flingue, je te donne toutes les munitions que tu peux porter. Ça te semble honnête ?}
+{215}{}{Ouais. Je le fais.}
+{216}{}{Même pas en rêve. Je risque pas ma peau pour ça.}
+{217}{Kill52}{Eh bien, merde. C'est dommage. Mais, tu sais, je vais devoir te boucler jusqu'à ce que ce soit réglé. Je peux pas risquer que Gizmo l'apprenne. Désolé.}
+{218}{Kill53}{Bon, je te dois une. Voici le mouchard et le micro. Tu me préviens quand c'est fait. Et bonne chance.}
+{219}{Kill54}{Alors, t'as eu les preuves ?}
+{220}{}{Pas encore. Mais je les aurai, crois-moi !}
+{221}{}{Et comment que je les ai eues.}
+{222}{Kill55}{Eh bien, il va pas venir ici avouer ! Tu devrais même pas être vu avec moi tant que c'est pas réglé. Maintenant file.}
+{223}{Kill56}{Lequel, le mouchard ou la bande ?}
+{224}{}{Le mouchard.}
+{225}{}{Les aveux.}
+{226}{Kill57}{Super ! Laisse-moi vérifier que ça marche.}
+{227}{Kill57a}{Fort et clair. On va le coincer. En attendant, on a des affaires à régler... }
+{228}{Kill58}{Fais-moi écouter.}
+{229}{Kill58b}{C'est la première fois que je suis content d'entendre sa voix. Merci, l'ami. Maintenant, toi et moi on va régler l'autre affaire.}
+{230}{Kill59}{Eh bien, merci encore. Oh, écoute, je vais prendre les gardes et chasser Gizmo et ses acolytes de la ville. Un flingue de plus serait utile. Tu en es ? Ça pourrait être marrant.}
+{231}{}{Bien sûr. Rien que pour le voir essayer de marcher plus de trois mètres, ça vaudra le coup.}
+{232}{}{Ça dépend de ce que t'es prêt à me donner.}
+{233}{}{Encore ? J'crois pas. J'ai déjà trop de trucs sur le feu.}
+{234}{Kill60}{Va voir Lars au poste de garde. Il te mettra au courant. Et écoute, cette ville te doit... beaucoup.}
+{235}{Kill61b}{Eh bien, je peux te payer le tarif standard pour du travail de mercenaire, 500 capsules.}
+{236}{}{Marché conclu.}
+{237}{}{Désolé, c'est pas assez.}
+{238}{Kill62}{Ça me va. Va voir Lars, il te donnera les détails.}
+{239}{Kill63}{Écoute, c'est tout ce que j'offre. Merci pour les preuves, mais je vais pas te supplier pour tes services.}
+{240}{}{D'accord, je le fais pour ce prix.}
+{241}{}{Oh, eh bien. On se revoit.}
+{242}{Kill64}{Bonne chance pour tes voyages. Maintenant si tu veux bien m'excuser, j'ai un gros cul à bouger.}
+{243}{Kill65}{Gizmo possède le casino. Il l'a nommé d'après lui. Sois très prudent avec lui.}
+{244}{Kill66}{Eh bien, c'est moi. T'étais où ?}
+{245}{Kill67}{Oh, Lars dirige les gardes ici. C'est un bon gars. Plutôt digne de confiance.}
+{246}{Kill68}{Eh bien Vinnie, c'est l'un des enfants à problèmes. Il mène une bande de punks qu'on appelle les Skulz. Mais ils paient leur loyer, et ils ont pas trop embêté les gens.}
+{247}{Kill69}{Eh bien, Doc a une petite boutique au milieu de la ville. Il fait du bon boulot de rafistolage si t'en as besoin. Des prix plutôt raisonnables.}
+{248}{Kill70}{Les Skulz sont une bande de punks qui bossent pour Gizmo. Ils causent pas tant d'ennuis, mais Lars et moi on les garde à l'œil.}
+{249}{Kill71}{Eh bien, les Khans sont une bande de brutes qui vivent à l'est, dehors. Ils essaient de prendre Junktown depuis aussi longtemps que je m'en souvienne, mais ils dépassent jamais les portes.}
+{250}{Kill72}{Les Vipers sont une bande de cinglés venus du nord. Ils vénèrent les serpents, ou un truc comme ça.}
+{251}{Kill73}{C'est mon magasin. T'as besoin de quelque chose, je l'ai.}
+{252}{Kill74}{Super endroit pour une chambre pas chère. Pas trop sale, en plus. Mais cherche pas d'ennuis avec la proprio, Marcelles, elle t'arrachera les bras si tu la provoques.}
+{253}{Kill75}{Ah, le Gizmo's c'est le casino près de l'entrée. Je suis surpris que tu l'aies pas remarqué en entrant. On peut généralement le sentir à des kilomètres. Mais hé, ça attire les touristes.}
+{254}{Kill76}{C'est notre bar du coin. La bouffe est correcte, mais la bière est super. Le proprio, Neil, se laisse pas marcher dessus, même par certains pillards qui passent.}
+{255}{Kill76a}{Pas grand-chose à dire. Doc Morbid est plutôt furieux parce que leurs prix sont plus bas pour le matos médical. Ils sont à l'ouest.}
+{256}{Kill77}{Le Griffe-mort ? Oh, c'est une histoire pour s'endormir. Il boit du sang et hurle à la pleine lune. Ouais, c'est ça.}
+{257}{Kill78}{Eh bien, le Hub c'est le principal endroit pour le commerce. Tout ce que tu trouves pas ici, tu le trouveras probablement au Hub. Je sais pas si c'est bien sûr ces temps-ci, avec toutes ces histoires étranges.}
+{258}{Kill79}{Shady Sands ? C'est un petit bled au nord. J'aimerais commercer plus avec eux.}
+{259}{Kill80}{Cette ville, c'est la mort. J'y ai envoyé deux patrouilles et aucune n'est revenue.}
+{260}{Kill81}{Eh bien, il y en a deux sortes, les Khans et les Vipers. On a généralement pas d'ennuis avec les Vipers, et quelques-uns traversent même la ville. Les Khans, par contre, c'est une bande de méchants. Ils croient pouvoir conquérir le monde, ou des conneries comme ça.}
+{261}{Kill82}{T'étais où ces 100 dernières années ? Dans un placard ? Mon père me racontait des histoires sur la Guerre. Son père était soldat avant de fonder Junktown.}
+{262}{Kill83}{Eh bien, des rumeurs remontent du Hub. Des caravanes qui disparaissent, des gens massacrés, même des histoires de gros monstres verts qui mangent de la chair humaine. Toutes sortes de trucs bizarres.}
+{263}{Kill84}{Non, j'ai jamais entendu parler d'un truc comme ça.}
+{264}{Kill85}{Aucune idée.}
+{265}{Kill86}{Ohhh... je pourrais vraiment pas te dire.}
+{266}{Kill87}{Va parler à Lars. Il t'en dira plus.}
+{267}{}{[Terminé]}
+{268}{}{[Suite]}
+{269}{}{Tu gagnes 600 points d'expérience pour ton rôle dans le meurtre de Killian. Junktown ne sera plus jamais la même.}
+{270}{}{Tu gagnes 500 points d'expérience pour avoir obtenu les aveux de Gizmo.}
+{271}{}{Je suis là pour t'arrêter, Gizmo. Cette fois, j'ai les preuves qu'il me faut.}
+{272}{}{Qu'est-ce que tu sais sur ce Gizmo ?}
+{273}{}{D'accord.}
+{274}{}{Ouais, il est dangereux. Je suis là pour te tuer pour lui.}
+{275}{}{Je dirais... ce gros tas vient d'essayer de m'engager pour te tuer. Pourquoi tu ne fais rien contre lui ?}
+{276}{}{Je prends un fusil à pompe et des cartouches.}
+{277}{}{Je prends une armure de cuir.}
+{278}{}{Je prends une trousse médicale.}
+{279}{}{Je prends tous les stimpaks que tu peux me passer.}
+{280}{}{Non merci. Savoir que Gizmo va payer, c'est déjà une belle récompense.}
+{281}{}{J'aimerais jeter un œil au matos de voyage.}
+{282}{}{Je vais regarder tout seul, merci.}
+{283}{}{Laisse tomber. Merci.}
+{284}{}{Tu t'en es pris à Gizmo sans preuves. Tu sais, il n'était pas réglo, mais toi non plus. Va voir Lars.}
+
+
+# Killian Tell-Me-Abouts generic responses
+{980}{Kill84}{Non, j'ai jamais entendu parler d'un truc comme ça.}
+{981}{Kill85}{Aucune idée.}
+{982}{Kill86}{Ohhh... je pourrais vraiment pas te dire.}
+{983}{Kill87}{Va parler à Lars. Il t'en dira plus.}
+
+#
+# Killian Tell-Me-Abouts
+#
+
+
+{1000}{}{Gizmo}
+{1001}{}{Killian}
+{1002}{}{Lars}
+{1003}{}{Vinnie}
+{1004}{}{Doc}
+{1005}{}{Skulz}
+{1006}{}{Khans}
+{1007}{}{Vipers}
+{1008}{}{chez Darkwater}
+{1009}{}{le Crash}
+{1010}{}{le Gizmo's}
+{1011}{}{Skum}
+{1012}{}{Cathédrale}
+{1013}{}{Griffe}
+{1014}{}{Hub}
+{1015}{}{Shady}
+{1016}{}{Nécropolis}
+{1017}{}{Pillards}
+{1018}{}{Guerre}
+{1019}{}{Étrange}
+{1020}{}{Darkwater}
+{1021}{}{Morbid}
+{1022}{}{Darkwater}
+{1023}{}{Gizmo's}
+{1024}{}{Pitt}
+{1025}{}{Sands}
+{1026}{}{Pitt}
+
+{1100}{Kill65}{Gizmo possède le casino à l'est. Il l'a nommé d'après lui. Sois très prudent avec lui.}
+{1101}{Kill66}{Eh bien, c'est moi. T'étais où ?}
+{1102}{Kill67}{Oh, Lars dirige les gardes ici. C'est un bon gars. Plutôt digne de confiance.}
+{1103}{Kill68}{Eh bien Vinnie, c'est l'un des enfants à problèmes. Il mène une bande de punks qu'on appelle les Skulz. Mais ils paient leur loyer, et ils ont pas trop embêté les gens.}
+{1104}{Kill69}{Eh bien, Doc a une petite boutique au milieu de la ville. Il fait du bon boulot de rafistolage si t'en as besoin. Des prix plutôt raisonnables.}
+{1105}{Kill70}{Les Skulz sont une bande de punks qui bossent pour Gizmo. Ils causent pas tant d'ennuis, mais Lars et moi on les garde à l'œil.}
+{1106}{Kill71}{Eh bien, les Khans sont une bande de brutes qui vivent à l'est, dehors. Ils essaient de prendre Junktown depuis aussi longtemps que je m'en souvienne, mais ils dépassent jamais les portes.}
+{1107}{Kill72}{Les Vipers sont une bande de cinglés venus du nord. Ils vénèrent les serpents, ou un truc comme ça.}
+{1108}{Kill73}{C'est mon magasin. T'as besoin de quelque chose, je l'ai.}
+{1109}{Kill74}{Super endroit pour une chambre pas chère. Pas trop sale, en plus. Mais cherche pas d'ennuis avec la proprio, Marcelles, elle t'arrachera les bras si tu la provoques.}
+{1110}{Kill75}{Ah, le Gizmo's c'est le casino près de l'entrée. Je suis surpris que tu l'aies pas remarqué en entrant. On peut généralement le sentir à des kilomètres. Mais hé, ça attire les touristes.}
+{1111}{Kill76}{C'est notre bar du coin. La bouffe est correcte, mais la bière est super. Le proprio, Neal, se laisse pas marcher dessus, même par certains pillards qui passent.}
+{1112}{Kill76a}{Pas grand-chose à dire. Doc Morbid est plutôt furieux parce que leurs prix sont plus bas pour le matos médical. Ils sont à l'ouest.}
+{1113}{Kill77}{Le Griffe-mort ? Oh, c'est une histoire pour s'endormir. Il boit du sang et hurle à la pleine lune. Ouais, c'est ça.}
+{1114}{Kill78}{Eh bien, le Hub c'est le principal endroit pour le commerce. Tout ce que tu trouves pas ici, tu le trouveras probablement au Hub. Je sais pas si c'est bien sûr ces temps-ci, avec toutes ces histoires étranges.}
+{1115}{Kill79}{Shady Sands ? C'est un petit bled au nord. J'aimerais commercer plus avec eux.}
+{1116}{Kill80}{Cette ville, c'est la mort. J'y ai envoyé deux patrouilles et aucune n'est revenue.}
+{1117}{Kill81}{Eh bien, il y en a deux sortes, les Khans et les Vipers. On a généralement pas d'ennuis avec les Vipers, et quelques-uns traversent même la ville. Les Khans, par contre, c'est une bande de méchants. Ils croient pouvoir conquérir le monde, ou des conneries comme ça.}
+{1118}{Kill82}{T'étais où ces 100 dernières années ? Dans un placard ? Mon père me racontait des histoires sur la Guerre. Son père était soldat avant de fonder Junktown.}
+{1119}{Kill83}{Eh bien, des rumeurs remontent du Hub. Des caravanes qui disparaissent, des gens massacrés, même des histoires de gros monstres verts qui mangent de la chair humaine. Toutes sortes de trucs bizarres.}
+{1120}{Kill66}{Eh bien, c'est moi. T'étais où ?}
+{1121}{Kill69}{Eh bien, Doc a une petite boutique au milieu de la ville. Il fait du bon boulot de rafistolage si t'en as besoin. Des prix plutôt raisonnables.}
+{1122}{Kill73}{C'est mon magasin. T'as besoin de quelque chose, je l'ai.}
+{1123}{Kill75}{Ah, le Gizmo's c'est le casino près de l'entrée. Je suis surpris que tu l'aies pas remarqué en entrant. On peut généralement le sentir à des kilomètres. Mais hé, ça attire les touristes.}
+{1124}{Kill76}{C'est notre bar du coin. La bouffe est correcte, mais la bière est super. Le proprio, Neal, se laisse pas marcher dessus, même par certains pillards qui passent.}
+{1125}{Kill79}{Shady Sands ? C'est un petit bled au nord. J'aimerais commercer plus avec eux.}
+{1126}{Kill76}{C'est notre bar du coin. La bouffe est correcte, mais la bière est super. Le proprio, Neal, se laisse pas marcher dessus, même par certains pillards qui passent.}
