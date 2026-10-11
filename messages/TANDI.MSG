@@ -1,0 +1,180 @@
+{100}{}{Tu vois : Tandi.}
+{101}{}{Y a quoi d'autre dans le coin ?}
+{102}{}{Qu'est-ce qui se passe par ici ?}
+{103}{}{T'as entendu des histoires qui viennent du sud ?}
+{104}{}{Ça te plaît, ici ?}
+{105}{}{Bon, c'est à peu près tout. Merci pour ton temps.}
+{106}{TAND_1}{Salut ! J'ai entendu dire qu'il y avait un voyageur en ville, mais j'étais sceptique jusqu'à ce que je te voie. Je m'appelle Tandi, et toi ?}
+{107}{}{Je m'appelle }
+{108}{}{.}
+{109}{}{C'est }
+{110}{}{. Retiens bien.}
+{111}{}{Hein ?}
+{112}{tand_2}{Bon... elle te plaît, notre petite ville ? Tu t'ennuies déjà ?}
+{113}{}{Ça va. Je peux te poser quelques questions, quand même ?}
+{114}{}{Et comment ! Y a rien à faire ici à part regarder les brahmanes s'accoupler.}
+{115}{}{J'imagine que ça va.}
+{116}{}{Ben oui. C'est un peu ennuyeux.}
+{117}{TAND_3}{J'imagine, ouais. Je suis jamais sortie d'ici, alors je sais pas trop comment je peux aider. Alors, tu veux quoi ?}
+{118}{TAND_4}{Ouais. Ben toi t'habites pas ici. Y a rien d'intéressant à faire, et crois-moi, faire tomber les brahmanes, ça lasse vite.}
+{119}{}{Si tu t'ennuies tant, pourquoi tu pars pas ?}
+{120}{}{Bon, j'suis sûre que t'exagères.}
+{121}{}{Ça a l'air sympa et sûr, ici.}
+ {122}{TAND_5}{Moi, partir ? J'aimerais bien. J'en sais pas assez pour partir seule et personne d'autre veut y aller. Et le pire, c'est que mon père dit qu'il ferait une crise cardiaque s'il m'arrivait quelque chose !}
+{123}{}{Situation difficile. Je peux te poser quelques questions, quand même ?}
+{124}{}{Mince, faut que j'y aille. Bonne chance.}
+{125}{TAND_6}{Euh... je dois me mettre par là, maintenant.}
+{126}{TAND_12}{Vis ici toute ta vie et tu verras si ça te plaît ! Autre chose que tu veux savoir ?}
+{127}{TAND_13}{Ouais, super sûr... et tellement ennuyeux que j'ai l'impression que mon cerveau va couler par mon oreille d'un moment à l'autre.}
+{128}{}{Pourquoi tu pars pas ?}
+{129}{}{Désolé d'entendre ça, mais j'ai pas beaucoup de temps. Je peux te poser quelques questions ?}
+{130}{TAND_14}{Enfin ! Quelqu'un d'autre qui voit ! Bien sûr, t'as probablement été partout, alors ça doit être l'enfer pour toi.}
+{131}{}{Si tu t'ennuies tant, pourquoi tu pars pas ?}
+{132}{}{Bon, j'suis sûre que t'exagères.}
+{133}{}{Ça a l'air sympa et sûr, ici.}
+{134}{TAND_15}{Junktown est au sud-ouest, mais je sais pas à quelle distance. Ensuite y a un endroit bizarre en dessous qu'on appelle la Ville des Morts. Oh, oh ouais, y a cet autre endroit... Oh, mince, c'était quoi ? Ah oui, le Hub.}
+{135}{tand_15a}{Y a plein de villes au sud. Mais comme t'es un si grand voyageur, j'suis sûre que tu sais déjà.}
+{136}{}{Merci.}
+{137}{TAND_16}{Pas de problème. Autre chose ?}
+{138}{TAND_20}{On a des radscorpions ! Je veux dire, je sais que c'est pas une bonne chose, mais personne est mort de leurs piqûres. Et c'est ce qu'on a de plus excitant par ici !}
+{139}{TAND_21}{Pas grand-chose, depuis que t'as rossé ces radscorpions. Mince, j'aurais aimé voir ça.}
+{140}{TAND_22}{Comme toujours. En-nuyeux.}
+{142}{tand_23b}{Juste des trucs.}
+{141}{tand_23g}{L'histoire la plus bizarre que j'ai entendue, c'est celle de l'Écorcheur.}
+{143}{}{Merci.}
+{144}{}{L'Écorcheur ?}
+{145}{TAND_24}{Ça va, j'imagine. Je veux dire, c'est chez moi et tout, mais c'est tellement ennuyeux ! Tu sais, je veux voir le monde.}
+{146}{}{Si tu t'ennuies tant, pourquoi tu pars pas ?}
+{147}{}{Bon, j'suis sûre que c'est pas si terrible.}
+{148}{}{Ça a l'air sympa et sûr, ici.}
+{150}{tand_27f}{Écoute... euh... mais je... euh... j-j'aime les gars, d'accord ? Ouf ! Euh, excuse-moi, j'ai des trucs à faire.}
+{149}{tand_27m}{Je suis pas ce genre de fille, monsieur. Va trouver un brahmane ou un truc comme ça.}
+{151}{TAND_28}{Bon, merci d'avoir parlé. On voit pas beaucoup d'étrangers ici, alors c'est toujours bien de parler à des nouvelles personnes. Bon, à plus !}
+{152}{}{Salut.}
+{153}{TAND_29}{Euh, écoute. Faut que j'aille m'occuper des brahmanes. C'était, euh, sympa de te parler.}
+{154}{tand_30a}{Salut encore ! Je peux t'aider pour quoi, maintenant ?}
+{155}{}{Je peux te poser encore quelques questions ?}
+{156}{}{Rien. Au revoir.}
+{157}{TAND_35}{Euh... hé, merci. À plus.}
+{158}{TAND_36}{Salut ! J'avais peur que tu sois parti et que j'aurais pas l'occasion de te remercier de m'avoir sauvée. Ah, c'était génial ! De l'action, de l'aventure... Bref, s'il y a quoi que ce soit que je peux faire pour toi, tu demandes.}
+{159}{}{Et quelques questions de plus ?}
+{160}{}{Et toi et moi... ben, tu sais... on se retrouverait.}
+{161}{}{Non, c'est tout, merci.}
+{162}{}{Merde !!}
+{163}{TAND_37}{T'es qui ? Tu veux quoi ?}
+{164}{}{Je m'appelle }
+{165}{}{, et ton père m'a envoyé.}
+{166}{}{Je suis ta marraine la bonne fée. Ça ressemble à quoi ?}
+{167}{}{Ben.}
+{168}{TAND_38}{Papa t'a envoyé !? Tu viens me sortir d'ici ?}
+{169}{}{Oui, alors tiens bon. Je vais te sortir d'ici.}
+{170}{}{Non, il m'a juste envoyé te regarder.}
+{171}{TAND_39}{Bon, c'est quoi ton plan ?}
+{172}{}{Attends juste que les portes s'ouvrent. Ensuite, cours !}
+{173}{}{Je vais affronter le chef des Khans en échange de ta liberté.}
+{174}{TAND_40}{C'est ça ? C'est ton plan. Pfff ! D'accord, mais dépêche-toi. Je les ai entendus parler et j'ai pas aimé leurs plans.}
+{175}{TAND_41}{Toi ? Le combattre ? Tu dois plaisanter ! *soupir* Écoute, si tu trouves un autre plan, fais-moi signe, d'accord ?}
+{176}{TAND_42}{Oh, on fait la sarcastique ? Tu vas me sortir d'ici, ou quoi !?}
+{177}{}{Ouais. Tiens bon, et quand tu verras la porte s'ouvrir, cours.}
+{178}{}{Je vais affronter le chef des Khans en échange de ta liberté.}
+{179}{TAND_43}{Oh, c'est encore toi ! Tu vas me sortir d'ici ?}
+{180}{}{Oui, alors tiens bon. Je vais te sortir d'ici.}
+{181}{}{Non, je passais juste dire salut.}
+{182}{}{Ben.}
+{183}{tand_43a}{Allô, y a quelqu'un ? Tu peux me sortir d'ici ? Tu peux ME SORTIR D'ICI ?!}
+{184}{tand_43b}{C'est pas le moment de parler, faut sortir d'ici.}
+{185}{TAND_44}{Aradesh, c'est mon père. Il est correct, pour un père.}
+{186}{TAND_45}{C'est moi. Tu pensais que c'était qui d'autre ?}
+{187}{TAND_46}{Razlo, c'est le vieux à l'est de la ville. C'est un assez bon docteur, même si c'est un fossile.}
+{188}{TAND_47}{Seth, c'est le capitaine des gardes. Mon père a essayé de nous caser ensemble une fois, mais c'est pas mon genre.}
+{189}{TAND_48}{Agatha, c'est la plus vieille d'ici. On l'aime tous, surtout ses histoires. Va la voir si tu veux une bonne histoire.}
+{190}{TAND_49}{Assez mauvaise bande, d'après ce que j'ai entendu. Mon père en sait plus. Il me raconte jamais grand-chose sur le monde extérieur.}
+{191}{TAND_50}{C'est de là qu'on tire toute notre eau. C'est là depuis avant ma naissance.}
+{192}{TAND_51}{J'en ai déjà vu un, même si c'était de loin. Ce sont des créatures dégueulasses, avec des griffes et un gros dard. Et leur poison peut être mortel s'il est pas soigné. Tu devrais parler à mon père, Aradesh, il en sait plus.}
+{193}{TAND_52}{J'ai entendu un récit d'un voyageur venu du sud. Il a dit que l'Écorcheur était une créature qui tuait les gens la nuit. Il a dit que personne peut l'attraper, parce qu'il peut disparaître comme de la fumée. Pas que j'y croie, bien sûr.}
+{194}{TAND_53}{Junktown, c'est une petite ville au sud-ouest. C'est censé avoir du bon commerce, mais mon père veut même pas y jeter un œil. Il dit qu'on doit rester « protégés ». Ouais, c'est ça. Enfermés, plutôt.}
+{195}{TAND_54}{Le Hub, c'est censé être une grande ville au sud. J'ai toujours voulu la voir, mais j'en ai jamais eu l'occasion.}
+{196}{TAND_55}{Je sais pas, mais le gars qui m'en a parlé avait vraiment peur. Il a dit que les morts-vivants marchaient dans les rues !}
+{197}{TAND_62}{Je sais pas. Tu devrais demander à Seth ou à mon père, quand même.}
+{198}{TAND_63}{Hmm... Ça me dit rien.}
+{199}{TAND_64}{Hmm... Non. J'en ai jamais entendu parler.}
+{200}{TAND_65}{Hé ! Tu fais quoi ? Remets ça !}
+{201}{TAND_66}{C'est ça ! Je vais le dire à mon père !}
+{202}{TAND_67}{C'est quoi ton problème ? Arrête ça !}
+{203}{TAND_68}{Tu fais quoi ici ? Tu ferais mieux de partir avant que mon père se réveille.}
+{204}{TAND_69}{Comme je disais...}
+{205}{TAND_70}{Écoute, je te l'ai déjà dit...}
+{206}{TAND_71}{Encore ? Allô ? Combien de fois faut que je te le dise ? T'as trop de cire dans les oreilles ou quoi ?}
+{207}{TAND_72}{Oh ouais, j'en ai entendu parler, mais tu devrais aller parler à Agatha. Elle en saurait plus que moi.}
+
+{208}{}{Sortons d'ici.}
+{300}{}{Wow ! Ça ressemble en rien à Shady Sands.}
+{301}{}{Hé, c'est quoi ça là-bas ?}
+{302}{}{J'ai hâte de raconter aux gens de Shady Sands le monde extérieur.}
+{303}{}{T'as vu d'autres radscorpions ?}
+{304}{}{On va où, maintenant ?}
+{305}{}{Quand est-ce qu'on arrive ?}
+
+
+#
+# Sex msgs, by Sduibek for Fallout Fixt:
+#
+{350}{TAND_16a}{Ouais, peu importe.}
+
+{399}{}{(Suis-la.)}
+{407}{}{[Continuer]}
+{412}{}{(Elle sourit et te conduit à sa chambre.)}
+
+{400}{TAND_3}{J'imagine, ouais. Je suis jamais sortie d'ici, alors je sais pas trop comment je peux aider. Alors, tu veux quoi ?}
+# 401 is not currently used.
+{401}{TAND_29}{(Tandi parle par-dessus son épaule, pour qu'Aradesh entende.) Euh, écoute. Faut que j'aille m'occuper des brahmanes. C'était, euh, sympa de te parler. (Elle se retourne vers toi et te fait signe de la suivre...)}
+
+{402}{TAND_28}{Bon, merci d'avoir... « parlé ». (Elle te fait un clin d'œil et sourit.) On voit pas beaucoup d'étrangers ici, alors c'est toujours bien de « parler » à des nouvelles personnes. Bon, à plus !}
+# 402 is not currently used.
+# probably not {403}{TAND_35}{Uh... hey, thanks. Later! (She looks exhausted.)}
+
+{404}{}{Quelque chose que je voudrais pas annoncer aux autres. Allons quelque part en privé et je te dirai...}
+{405}{}{T'as l'air plutôt... inexpérimenté. Je veux t'apprendre tout ce que je peux. On devrait commencer, y a beaucoup à voir. *clin d'œil*}
+{406}{}{*soupir* Plus que tu peux fournir, mais je ferai avec.}
+
+{410}{TAND_14}{Enfin ! Quelqu'un d'autre qui voit ! Bien sûr, t'as probablement été partout, alors ça doit être l'enfer pour toi. (Elle hausse les épaules et te conduit à sa chambre.)}
+
+{415}{}{J'aimerais m'amuser encore un peu, si t'as le temps.}
+
+##############
+
+
+{980}{TAND_62}{Je sais pas. Tu devrais demander à Seth ou à mon père, quand même.}
+{981}{TAND_63}{Hmm... Ça me dit rien.}
+{982}{TAND_64}{Hmm... Non. J'en ai jamais entendu parler.}
+
+{1000}{}{Aradesh}
+{1001}{}{Tandi}
+{1002}{}{Seth}
+{1003}{}{Pillards}
+{1004}{}{Puits}
+{1005}{}{Scorpions}
+{1006}{}{Griffe}
+{1007}{}{Junktown}
+{1008}{}{Hub}
+{1009}{}{Ville}
+{1010}{}{Scorpion}
+{1011}{}{Khans}
+{1012}{}{Razlo}
+
+{1100}{TAND_44}{Aradesh, c'est mon père. Il est correct, pour un père.}
+{1101}{TAND_45}{C'est moi. Tu pensais que c'était qui d'autre ?}
+# "1102 TAND_46 Razlo's the old guy on the east side of town. He's a pretty
+# good doctor, though, even if he is a fossil." Wrong number! Removed with patch 1.3 from TeamX.
+{1102}{TAND_47}{Seth, c'est le capitaine des gardes. Mon père a essayé de nous caser ensemble une fois, mais c'est pas mon genre.}
+{1103}{TAND_49}{Assez mauvaise bande, d'après ce que j'ai entendu. Mon père en sait plus. Il me raconte jamais grand-chose sur le monde extérieur.}
+{1104}{TAND_50}{C'est de là qu'on tire toute notre eau. C'est là depuis avant ma naissance.}
+{1105}{TAND_51}{J'en ai déjà vu un, même si c'était de loin. Ce sont des créatures dégueulasses, avec des griffes et un gros dard. Et leur poison peut être mortel s'il est pas soigné. Tu devrais parler à mon père, Aradesh, il en sait plus.}
+{1106}{TAND_52}{J'ai entendu un récit d'un voyageur venu du sud. Il a dit que l'Écorcheur était une créature qui tuait les gens la nuit. Il a dit que personne peut l'attraper, parce qu'il peut disparaître comme de la fumée. Pas que j'y croie, bien sûr.}
+{1107}{TAND_53}{Junktown, c'est une petite ville au sud-ouest. C'est censé avoir du bon commerce, mais mon père veut même pas y jeter un œil. Il dit qu'on doit rester « protégés ». Ouais, c'est ça. Enfermés, plutôt.}
+{1108}{TAND_54}{Le Hub, c'est censé être une grande ville au sud. J'ai toujours voulu la voir, mais j'en ai jamais eu l'occasion.}
+{1109}{TAND_55}{Je sais pas, mais le gars qui m'en a parlé avait vraiment peur. Il a dit que les morts-vivants marchaient dans les rues !}
+{1110}{TAND_51}{J'en ai déjà vu un, même si c'était de loin. Ce sont des créatures dégueulasses, avec des griffes et un gros dard. Et leur poison peut être mortel s'il est pas soigné. Tu devrais parler à mon père, Aradesh, il en sait plus.}
+{1111}{TAND_49}{Assez mauvaise bande, d'après ce que j'ai entendu. Mon père en sait plus. Il me raconte jamais grand-chose sur le monde extérieur.}
+# 1112 added with patch 1.3 from TeamX.
+{1112}{TAND_46}{Razlo, c'est le vieux à l'est de la ville. C'est un assez bon docteur, même si c'est un fossile.}

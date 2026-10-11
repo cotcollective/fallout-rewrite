@@ -1,0 +1,160 @@
+{100}{}{Tu vois : Rhombus.}
+{101}{}{Parle-moi de toi.}
+{102}{}{Tu peux me raconter l'histoire de la Confrérie ?}
+{103}{}{Entendu de bonnes rumeurs ?}
+{104}{}{Tu peux me parler des environs ?}
+{105}{Rhom1}{Puis-je t'aider ?}
+{106}{}{Je peux te poser quelques questions ?}
+{107}{}{T'as pas l'air d'un grand combattant.}
+{108}{}{Hein ?}
+{109}{Rhom2}{Oui.}
+{110}{Rhom3}{Petit insolent. Excuse-toi maintenant et tu ne seras pas blessé.}
+{111}{}{J'essayais de faire une blague. Je suis vraiment désolé.}
+{112}{}{Quoi, par toi ?}
+{113}{Rhom4}{Que veux-tu ?}
+{114}{}{Je peux poser quelques questions ?}
+{115}{}{Tu es lâche à quel point, au juste ?}
+{116}{Rhom5}{Tu es une honte pour la Confrérie. Je vais t'apprendre les bonnes manières.}
+{117}{Rhom6}{Je ne perdrai pas plus de temps avec toi.}
+{118}{Rhom7}{Je suis Rhombus, chef des Paladins. Je forme ceux qui veulent apprendre.}
+{119}{}{D'accord, tu peux m'apprendre des trucs ?}
+{120}{}{C'est tout ? C'est ça ta vie ?}
+{121}{}{Les Paladins font quoi ?}
+{122}{Rhom8}{Des trucs ? Je pourrais t'apprendre à te battre... si tu en étais capable. Mais le Haut Aîné a décrété qu'on ne formerait pas de nouvelles recrues tant que la menace d'invasion ne serait pas écartée.}
+{123}{}{Quelle menace ?}
+{124}{}{Pourquoi il a arrêté la formation ?}
+{125}{}{Je pourrais facilement te vaincre au combat.}
+{126}{Rhom9}{C'est pas à moi de répondre. Vois le Haut Aîné si tu veux.}
+{127}{}{Oh allez, s'il te plaît ?}
+{128}{}{D'accord, bon. Je peux te poser encore quelques questions ?}
+{129}{Rhom10}{Des rumeurs parlent d'une étrange armée qui se rassemble. Je n'en dirai pas plus.}
+{130}{}{Oh, allez, s'il te plaît ?}
+{131}{}{Je peux quand même te poser encore quelques questions ?}
+{132}{Rhom11}{ Non.}
+{133}{}{Oh allez, s'il te plaît ?}
+{134}{}{D'accord. Je peux quand même te poser encore quelques questions ?}
+{135}{Rhom12}{Oui. C'est tout ce qu'il faut.}
+{136}{}{Ta vie a l'air vraiment vide.}
+{137}{}{Vraiment ?}
+{138}{Rhom13}{Tu comprends pas ce que c'est d'être un Paladin. Dommage.}
+{139}{}{Tu crois que je pourrais devenir Paladin ?}
+{140}{}{Être Chevalier, ça a l'air stupide.}
+{141}{}{Non, j'imagine que non. Tu peux répondre à d'autres questions ?}
+{142}{Rhom14}{Peut-être. Quand l'armée d'invasion sera vaincue, reviens te faire former.}
+{143}{}{Je crois que je vais faire ça, merci.}
+{144}{}{Par toi ? Je pourrais te mettre une raclée !}
+{145}{Rhom15}{Y avait autre chose ?}
+{146}{}{Oui. Je peux te poser encore quelques questions ?}
+{147}{}{Non, merci.}
+{148}{Rhom16}{Adieu, alors.}
+{149}{Rhom17}{Ça prend trop longtemps. Je passe mon temps à perfectionner ceux qui sont déjà formés.}
+{150}{}{Ça a l'air très ennuyeux.}
+{151}{}{C'est tout ? C'est ça ta vie ?}
+{152}{}{Mince. Je peux te poser encore quelques questions ?}
+{153}{Rhom18}{Ha ha ha ! Voyons voir.}
+{154}{Rhom19}{Les Scribes recopient les plans des armes, et les Chevaliers les fabriquent. Les Paladins protègent la Confrérie du danger.}
+{155}{}{Quel danger peut-il y avoir ?}
+{156}{}{Mon dieu, ça a l'air ennuyeux.}
+{157}{Rhom20}{Beaucoup convoitent notre technologie. On subit au moins quatre attaques par semaine, des pillards à de simples gens qui veulent voler ce qu'on a.}
+{158}{}{Oh. Je peux te poser encore quelques questions ?}
+{159}{Rhom21}{Parle à Vree à la bibliothèque principale.}
+{160}{Rhom22}{Je n'accorde aucun crédit aux rumeurs.}
+{161}{}{Oh allez, juste une ? S'il te plaît ?}
+{162}{}{Bien.}
+{163}{Rhom23}{Le Hub et le Boneyard sont au sud, les montagnes à l'est, et le désert désolé au nord. Qui s'y aventure ne revient jamais.}
+{164}{Rhom24}{Remets ça tout de suite !}
+{165}{Rhom25}{Voilà ce qu'on fait aux criminels...}
+{166}{Rhom26}{Arrête ça !}
+{167}{Rhom27}{Alors tu es un voleur ? Je vais te montrer ce qu'on fait aux voleurs...}
+{168}{}{Non, attends ! Je peux expliquer !}
+{169}{}{Vas-y. Fais de ton mieux.}
+{170}{Rhom28}{D'accord, explique-toi, Initié.}
+{171}{}{Je regardais juste autour !}
+{172}{}{Je suis désolé. Je savais pas que c'était ta chambre.}
+{173}{Rhom29}{Alors pars, et j'oublierai ce petit incident.}
+{174}{}{D'accord, merci.}
+{175}{}{Tu as bien raison.}
+{176}{Rhom30}{Tu mens, Initié ! Voilà comment on traite les voleurs...}
+{177}{Rhom32}{Tu es soit stupide, soit tu te moques de moi. Dans les deux cas, je ne perdrai pas mon temps.}
+{178}{Rhom33}{Parle à Talus, mon second. Il pourra t'en dire plus.}
+{179}{Rhom34}{J'ai dit...}
+{180}{Rhom35}{Comme je viens de te le dire...}
+{181}{Rhom36}{Je ne me répéterai plus.}
+{182}{Rhom37}{Tu n'entends pas ? Je le redirai pas !}
+{183}{Rhom38}{C'est la Scribe en chef. Tu la trouveras à la bibliothèque.}
+{184}{Rhom39b}{C'est moi.}
+{185}{}{Talus est mon second.}
+{186}{Rhom40}{Ah, le général Maxson était le meilleur Paladin en chef de tous les temps. Quand il est devenu Haut Aîné, je suis devenu Paladin en chef.}
+{187}{Rhom41}{Ils recopient les documents d'armes et trouvent de nouvelles idées. Ce qu'ils étudient, les Chevaliers le fabriquent.}
+{188}{Rhom42}{Ce sont les fabricants des armes.}
+{189}{Rhom43}{Le Hub est au sud. On commerce avec eux.}
+{190}{Rhom44}{Demande à Vree. Elle saura.}
+{191}{Rhom45}{Je ne suis pas autorisé à en discuter. Parle au Haut Aîné.}
+{192}{Rhom46}{Le Boneyard est loin au sud. Tu n'y trouveras que de la violence.}
+{193}{Rhom47}{Je ne connais pas ça.}
+{194}{Rhom48}{J'en ai jamais entendu parler.}
+{195}{Rhom49}{Je n'ai aucune connaissance d'une telle chose.}
+{200}{}{Je suis nouveau ici et je connais pas les environs.}
+{201}{}{J'ai pas à m'expliquer devant toi, monstre.}
+{202}{}{Merci. Salut.}
+{203}{}{Va en enfer.}
+{204}{}{La porte grince quand tu essaies de l'ouvrir.}
+{205}{}{Ton habileté te permet de voler en silence. Tu ne fais aucun bruit en ouvrant le casier.}
+{206}{}{Qui est là ?}
+{207}{}{Surpris, tu as lâché ton butin.}
+{208}{}{Ce casier n'est pas verrouillé.}
+{209}{}{Reste loin de mes quartiers !}
+{210}{}{Je suis innocent !}
+
+
+
+{980}{Rhom47}{Je ne connais pas ça.}
+{981}{Rhom48}{J'en ai jamais entendu parler.}
+{982}{Rhom49}{Je n'ai aucune connaissance d'une telle chose.}
+
+#
+# Rhombus Tell-Me-Abouts
+#
+
+
+{1000}{}{Vree}
+{1001}{}{Rhombus}
+{1002}{}{Talus}
+{1003}{}{Aîné}
+{1004}{}{Scribes}
+{1005}{}{Chevaliers}
+{1006}{}{Hub}
+{1007}{}{Disques}
+{1008}{}{Armée}
+{1009}{}{Boneyard}
+{1010}{}{Paladins}
+{1011}{}{Maître}
+{1012}{}{Guerre}
+{1013}{}{Exode}
+{1014}{}{Armée}
+{1015}{}{Marchands}
+{1016}{}{Caravanes}
+{1017}{}{Enfants de la Cathédrale}
+{1018}{}{Initiés}
+{1019}{}{Puce}
+
+{1100}{Rhom38}{C'est la Scribe en chef. Tu la trouveras à la bibliothèque.}
+{1101}{Rhom39b}{C'est moi.}
+{1102}{Rhom39a}{Talus est mon second.}
+{1103}{Rhom40}{Ah, le général Maxson était le meilleur Paladin en chef de tous les temps. Quand il est devenu Haut Aîné, je suis devenu Paladin en chef.}
+{1104}{Rhom41}{Ils recopient les documents d'armes et trouvent de nouvelles idées. Ce qu'ils étudient, les Chevaliers le fabriquent.}
+{1105}{Rhom42}{Ce sont les fabricants des armes.}
+{1106}{Rhom23}{Le Hub et le Boneyard sont au sud, les montagnes à l'est, et le désert désolé au nord. Qui s'y aventure ne revient jamais.}
+{1107}{Rhom44}{Demande à Vree. Elle saura.}
+{1108}{Rhom45}{Je ne suis pas autorisé à en discuter. Parle au Haut Aîné.}
+{1109}{Rhom46}{Le Boneyard est loin au sud. Tu n'y trouveras que de la violence.}
+{1110}{Rhom13}{Tu comprends pas ce que c'est d'être un Paladin. Dommage.}
+{1111}{Rhom44}{Demande à Vree. Elle saura.}
+{1112}{Rhom21}{Parle à Vree à la bibliothèque principale.}
+{1113}{Rhom21}{Parle à Vree à la bibliothèque principale.}
+{1114}{Rhom10}{Des rumeurs parlent d'une étrange armée qui se rassemble. Je n'en dirai pas plus.}
+{1115}{Rhom21}{Parle à Vree à la bibliothèque principale.}
+{1116}{Rhom47}{Je ne connais pas ça.}
+{1117}{Rhom49}{Je n'ai aucune connaissance d'une telle chose.}
+{1118}{Rhom21}{Parle à Vree à la bibliothèque principale.}
+{1119}{Rhom49}{Je n'ai aucune connaissance d'une telle chose.}

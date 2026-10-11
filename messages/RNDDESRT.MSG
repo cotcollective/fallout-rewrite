@@ -1,0 +1,373 @@
+# For lines 177 and 180 and 181, spaces are intentional.
+# Line 177 is prepended to encounter type. (they begin at 183 below)
+{177}{}{Tu rencontres }
+{178}{}{Oui.}
+{179}{}{Non.}
+{180}{}{Tu gagnes }
+{181}{}{ points d'expérience pour ton usage réussi de la compétence Survie.}
+# Line 182 is appended after 177 and the encounter type. Period and space is intentional.
+{182}{}{. Veux-tu engager le combat ?}
+# These are apended to line 177.
+{183}{}{Flotteurs}
+{184}{}{Mantes}
+{185}{}{Rats}
+{186}{}{Paysans attaqués par des Pillards}
+#
+#
+# TRANSLATORS: Ignore these blank entries, but do not delete them.
+#             They are placeholders and are intentional.
+#
+{187}{}{}
+{188}{}{}
+{189}{}{}
+{190}{}{}
+{191}{}{}
+{192}{}{}
+{193}{}{}
+{194}{}{}
+{195}{}{}
+#
+{201}{}{}
+{202}{}{}
+{203}{}{}
+{204}{}{}
+{205}{}{}
+{206}{}{}
+{207}{}{}
+{208}{}{}
+{209}{}{}
+{210}{}{}
+{211}{}{}
+{212}{}{}
+{213}{}{}
+{214}{}{}
+{215}{}{}
+{216}{}{}
+{217}{}{}
+{218}{}{}
+{219}{}{}
+{220}{}{}
+{221}{}{}
+{222}{}{}
+#
+{228}{}{}
+{229}{}{}
+{230}{}{}
+{231}{}{}
+{232}{}{}
+{233}{}{}
+{234}{}{}
+{235}{}{}
+{236}{}{}
+{237}{}{}
+{238}{}{}
+{239}{}{}
+{240}{}{}
+{241}{}{}
+{242}{}{}
+{243}{}{}
+{244}{}{}
+{245}{}{}
+{246}{}{}
+{247}{}{}
+{248}{}{}
+{249}{}{}
+#
+{258}{}{}
+{259}{}{}
+{260}{}{}
+{261}{}{}
+{262}{}{}
+{263}{}{}
+{264}{}{}
+{265}{}{}
+{266}{}{}
+{267}{}{}
+{268}{}{}
+{269}{}{}
+{270}{}{}
+{271}{}{}
+{272}{}{}
+{273}{}{}
+{274}{}{}
+{275}{}{}
+{276}{}{}
+{277}{}{}
+{278}{}{}
+#
+{289}{}{}
+{290}{}{}
+{291}{}{}
+{292}{}{}
+{293}{}{}
+{294}{}{}
+{295}{}{}
+{296}{}{}
+{297}{}{}
+{298}{}{}
+#
+{304}{}{}
+#
+#
+# 100 to 103 are NOT USED, looks like it was old code for finding the Radscorpion Cave from the worldmap.
+#
+{100}{}{À en juger par les traces, ils ont pas pu aller bien loin. Ils doivent avoir un repaire tout près.}
+{101}{}{Ils ont l'air d'être venus d'un endroit tout proche.}
+{102}{}{On dirait qu'ils ont voyagé depuis loin au nord d'ici.}
+{103}{}{Apparemment, ils erraient juste dans le désert.}
+#
+#
+# DEHYDRATION ENCOUNTERS
+#
+#
+{125}{}{Tu évites la déshydratation grâce à ta réserve d'eau, en vidant }
+{119}{}{ gourde.}
+{124}{}{ gourdes.}
+{112}{}{Tu évites la déshydratation grâce à ta réserve de liquides, en vidant }
+# TRANSLATION NOTE: a period is inserted by the script at the end of the list of drinks consumed, and a comma between each if multiple types are consumed.
+{116}{}{ gourde d'eau}
+{117}{}{ gourdes d'eau}
+{141}{}{ Nuka-Cola}
+{140}{}{ Nuka-Colas}
+{142}{}{ bière}
+{149}{}{ bières}
+{150}{}{ bouteille d'alcool}
+{151}{}{ bouteilles d'alcool}
+{152}{}{Recourir à l'alcool réduit ta }
+{153}{}{Force}
+{154}{}{Endurance}
+{156}{}{ de 1 point.}
+{157}{}{ de 2 points.}
+{155}{}{Force et Endurance}
+{158}{}{ de 1 point chacune.}
+#
+# DRANK BUT STILL THIRSTY
+#
+{114}{}{Ta réserve d'eau s'épuise, }
+{161}{}{Ta réserve de liquides s'épuise, }
+{162}{}{et ta recherche de }
+{115}{}{ heures ne permet pas de trouver d'eau. La déshydratation s'installe, te causant }
+{148}{}{ point de dégâts de santé.}
+{113}{}{ points de dégâts de santé.}
+{163}{}{mais tu parviens à éviter la déshydratation en cherchant de l'eau. La recherche prend }
+{164}{}{1 heure.}
+{111}{}{ heures.}
+#
+# CRITICAL SUCCESS ON OUTDOORSMAN CHECK
+#
+{147}{}{Tu parviens à éviter la déshydratation en cherchant de l'eau. La recherche prend 1 heure.}
+{138}{}{ Tu remplis ta }
+{118}{}{gourde}
+{159}{}{gourdes}
+{160}{}{ avec l'eau potable.}
+{165}{}{Tu gagnes }
+{166}{}{ points d'expérience pour ton usage réussi de la compétence Survie.}
+#
+#
+{109}{}{Tu évites de justesse un grave cas de déshydratation en cherchant de l'eau. La recherche prend une heure de plus.}
+{110}{}{Tu évites de justesse un grave cas de déshydratation en cherchant de l'eau. La recherche prend }
+{120}{}{Tu cherches de l'eau dans le haut désert pendant }
+{121}{}{ heures, mais tu ne trouves pas assez pour étancher ta soif. Tu as subi 1 point de dégâts de santé.}
+{122}{}{Tu cherches de l'eau dans le haut désert pendant }
+{123}{}{ heures, mais tu ne trouves pas assez pour étancher ta soif. Tu as subi }
+{167}{}{}
+{168}{}{}
+#
+#
+# NORTH_TABLE ENCOUNTERS
+#
+#
+# North1
+#
+# if pass Perception check or have Awareness:
+#   197 Uh-oh... a raiding party!
+# else is:
+{105}{}{EMBUSCADE !!!}
+#
+# North2
+#
+{104}{}{Tu es tombé sur une bataille acharnée entre des radscorpions et des rats-taupes.}
+#
+# North3
+#
+{106}{}{Tu es tombé sur une grosse meute de radscorpions !}
+#
+# North4
+#
+{107}{}{Tu es tombé sur une meute de radscorpions.}
+#
+# North5
+#
+{108}{}{Tu es tombé sur une famille de rats-taupes.}
+#
+# North6
+#
+# -Dehydration-
+#
+# SOUTH_TABLE ENCOUNTERS
+#
+# South1 -- change this encounter to something else??
+#
+{131}{}{CHARGE !!!}
+#
+# South2
+#
+{132}{}{Tu tombes sur une très grosse meute de radscorpions !}
+#
+# South3
+#
+# -Dehydration-
+#
+# South4 -- change this encounter to something else
+#
+# 143 "Raiders!!!"
+#
+# South5
+#
+{144}{}{Tu es tombé sur un grand rassemblement de rats-taupes.}
+#
+# South6
+#
+{145}{}{Tu rencontres une bande de radscorpions sauvages.}
+#
+#
+# SHADY ENCOUNTERS
+#
+#
+# Shady1
+#
+{146}{}{Tu rencontres des paysans attaqués.}
+#
+# Shady2
+#
+# -Dehydration-
+#
+# Shady3
+#
+{169}{}{Tu tombes sur une famille de radscorpions.}
+#
+# Shady4
+#
+{170}{}{Tu croises un marchand voyageur et ses gardes.}
+#
+# unless he's dead, then you get
+#
+{305}{}{Tu croises ce qui reste des gardes hostiles du marchand Duc.}
+#
+# once that has been seen, call Shady3
+#
+# Shady5
+#
+{175}{}{Tu rencontres un voyageur.}
+# or if killed,
+{171}{}{Tu rencontres un voyageur mort.}
+#
+# else call Shady2
+#
+# Shady
+#
+{126}{}{Tu es tombé sur des radscorpions qui chassent des rats-taupes.}
+{127}{}{Des humanoïdes hostiles et maigres à la peau verdâtre approchent.}
+{128}{}{Des bricoles et des rochers sont éparpillés. Tu te demandes s'il pourrait rester quelque chose de valeur...}
+#
+# UNUSED ENTRY:
+{129}{}{Un radscorpion solitaire te tend une embuscade !}
+#
+{130}{}{Tu remarques un cadavre à moitié dévoré ici.}
+{134}{}{Une meute de vilains radscorpions surgit du désert !}
+{135}{}{Tu rencontres un groupe de gardes en patrouille.}
+{136}{}{Tu croises un marchand avec plusieurs gardes.}
+{174}{}{Tu croises les restes d'un marchand et de ses gardes.}
+{137}{}{Tu vois un paysan qui mène plusieurs brahmines.}
+{139}{}{Des radscorpions chassent des rats-taupes parmi les murs en ruine de la ville.}//Sduibek, Fallout Fixt
+{172}{}{Tu es tombé sur des objets qui traînent par terre.}
+{176}{}{Tu es tombé sur un petit bout de bâtiments en ruine et déserts.}
+#
+#
+# RAIDER_TABLE ENCOUNTERS
+#
+#
+# Raider1
+#
+{133}{}{Des pillards te tendent une embuscade !}
+#
+# Raider2 - half chance of either msg displayed, but encounter the same
+#
+{143}{}{Des pillards !!!}
+{197}{}{Oh-oh... une bande de pillards !}
+#
+# Raider3
+#
+{173}{}{Tu repères les restes d'une caravane, pillée par des pillards.}
+#
+# Raider4
+#
+{310}{}{Un petit groupe de pillards attaque !}
+#
+# Raider5 - 198 always, plus 196 half the time
+#
+{198}{}{Tu vois un pillard solitaire au loin.}
+{196}{}{Radscorpions en approche !}
+#
+# Raider6 - displays and runs both (because bodies are empty)
+#
+{199}{}{Tu tombes sur les restes d'un champ de bataille, avec des corps éparpillés.}
+#plus 196
+#
+#
+{223}{}{Tu repères une meute errante de coyotes sauvages.}
+{200}{}{Radscorpions en approche !}
+{224}{}{Tu remarques plusieurs individus qui rôdent.}
+{225}{}{Tu croises un petit groupe de marchands et de gardes.}
+{226}{}{Tu vois une petite guerre en cours — des hommes contre des mutants !}
+{227}{}{Une énorme horde de radscorpions arrive par ici !}
+#
+{250}{}{Plusieurs hommes en Armure Assistée approchent.}
+{251}{}{Tu vois un groupe de marchands et de gardes.}
+{252}{}{Tu vois une bataille acharnée en cours entre plusieurs pillards du désert et un groupe d'hommes en Armure Assistée.}
+{253}{}{Tu vois plusieurs mutants qui explorent un bout de terrain hostile.}
+{254}{}{Tu vois d'étranges créatures devant...}
+{256}{}{Une patrouille de Super-mutants passe tout près !}
+
+{257}{}{Tu repères les ruines d'un minuscule village.}
+
+# UNUSED ENTRY:
+{255}{}{Tu trouves des objets.}
+
+{279}{}{Devant, tu vois des bricoles éparpillées sur le sable.}
+{280}{}{Tu tombes sur un détachement de guerre Super-mutant.}
+{281}{}{Tu tombes sur une meute de créatures bizarres.}
+{282}{}{Tu tombes sur une meute de radscorpions affamés.}
+{283}{}{Tu te sens nauséeux, et l'air semble onduler de chaleur. Une créature mutante approche soudain !}
+{284}{}{Tu es tombé sur quelques créatures mutantes bizarres.}
+{285}{}{Tu rencontres un truc sorti d'un vieux film de science-fiction.}
+{286}{}{L'Écorcheur !!}
+{287}{}{Tu tombes sur une meute migratrice de radscorpions. Ils ont l'air de fuir...}
+{288}{}{Tu rencontres une créature mutante du désert.}
+#
+{299}{}{Tu vois plusieurs radscorpions au loin.}
+{300}{}{Tu croises un paysan en haillons.}
+{301}{}{Tu rencontres un rat-taupe.}
+
+# was: "The Deathclaw!!"
+{302}{}{Un jeune Écorcheur semble te prendre pour son déjeuner.}
+
+{303}{}{Tu tombes sur une meute migratrice de radscorpions.}
+#
+{306}{}{Une patrouille de mutants passe tout près. Avec eux, d'étranges créatures !}
+{307}{}{Tu es pris en embuscade par un petit détachement de guerre Super-mutant.}
+{308}{}{On dirait que t'es tombé sur une sale guerre de gangs !}
+{309}{}{Un groupe de gangsters hostiles surgit !}
+{311}{}{Un petit groupe de gangsters attaque !}
+{313}{}{Tu es soudain attaqué par un essaim de mantes mutantes !}
+
+# UNUSED ENTRY:
+{312}{}{Tu es soudain attaqué par des rats !}
+
+# SPECIAL ENCOUNTERS TEXT:
+{314}{}{Hé ! Ils sont vraiment là-bas.}
+{315}{}{Tu vois un camion renversé au loin.}
+{316}{}{Tu tombes sur des voitures accidentées au milieu du désert.}
+{317}{}{Au nord-est, tu repères une cabine de police.}
+{318}{}{Tu croises un troupeau de brahmines sauvages. Tu sens que quelque chose cloche...}
+#
