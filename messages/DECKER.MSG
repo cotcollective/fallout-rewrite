@@ -18,7 +18,7 @@
 {117}{}{Euh, bien sûr - pourquoi pas ?}
 {118}{}{Non ! Ce serait mal !}
 {119}{}{Combien ?}
-{120}{DECK_6}{Oh, excellent. Le tarif standard est de 500 capsules pour commencer, et 2500 autres... pour finir.}
+{120}{DECK_6}{Oh, excellent. Le tarif standard est de 500 billets pour commencer, et 2500 autres... pour finir.}
 {121}{}{Où puis-je trouver ce marchand ?}
 {122}{DECK_7}{Ils vivent dans les Hauteurs, à l'angle de la rue du Troc et de l'avenue du Tonnerre. Fais le travail et reviens.}
 {123}{}{D'accord, je le ferai.}
@@ -112,7 +112,7 @@
 {209}{DECK_55}{Ils contrôlent l'eau. Va à l'extrémité sud du Marché des Marchands, tu les trouveras là-bas.}
 {210}{DECK_56}{C'est le chef des Marchands d'Eau.}
 {211}{DECK_57}{Ils contrôlaient l'hôpital jusqu'à ce que les Enfants prennent le relais. Maintenant ils ruminent dans leur entrepôt - très étrange. Tu les trouveras à l'extrémité nord-ouest du Marché des Marchands.}
-{212}{DECK_58}{C'est le chef de la Crimson Caravan.}
+{212}{DECK_58}{C'est le chef de la Caravane Cramoisie.}
 {213}{DECK_59}{Ce sont les derniers des marchands, et je le dis au sens littéral. Des petits joueurs, surtout. Regarde au nord-est du Marché des Marchands.}
 {214}{DECK_60}{Amusant. Il se considère comme le chef des Far Go Traders. Plutôt une figure de proue, en fait. Il sait qu'il vaut mieux ne pas se mêler de mes affaires.}
 {215}{DECK_61}{Elle est responsable du Magasin d'Armes.}
@@ -122,7 +122,7 @@
 {219}{DECK_65}{La Vieille Ville occupe tout l'est. Les skags y vivent.}
 {220}{DECK_66}{La plupart des marchands vivent là-bas. Va simplement à l'ouest d'ici.}
 {221}{DECK_67}{Une organisation agaçante. Ils auront bientôt besoin d'une démonstration de gestion du pouvoir.}
-{222}{DECK_68}{Morpheus est le chef des Enfants de la Cathédrale. Il réside dans Boneyard.}
+{222}{DECK_68}{Morpheus est le chef des Enfants de la Cathédrale. Il réside dans le Cimetière.}
 {223}{DECK_69}{Elle est actuellement à la tête des Enfants de la Cathédrale dans le Hub. J'ai des raisons de croire que ça pourrait changer bientôt.}
 {224}{DECK_70}{Une des inventions des Enfants. Un genre de divinité mineure, paraît-il.}
 {225}{DECK_71}{C'est un petit endroit qui vend... des armes correctes. Vers les Far Go Traders.}
@@ -203,7 +203,7 @@
 {1106}{DECK_55}{Ils contrôlent l'eau. Va à l'extrémité sud du Marché des Marchands, tu les trouveras là-bas.}
 {1107}{DECK_56}{C'est le chef des Marchands d'Eau.}
 {1108}{DECK_57}{Ils contrôlaient l'hôpital jusqu'à ce que les Enfants prennent le relais. Maintenant ils ruminent dans leur entrepôt - très étrange. Tu les trouveras à l'extrémité nord-ouest du Marché des Marchands.}
-{1109}{DECK_58}{C'est le chef de la Crimson Caravan.}
+{1109}{DECK_58}{C'est le chef de la Caravane Cramoisie.}
 {1110}{DECK_59}{Ce sont les derniers des marchands, et je le dis au sens littéral. Des petits joueurs, surtout. Regarde au nord-est du Marché des Marchands.}
 {1111}{DECK_60}{Amusant. Il se considère comme le chef des Far Go Traders. Plutôt une figure de proue, en fait. Il sait qu'il vaut mieux ne pas se mêler de mes affaires.}
 {1112}{DECK_61}{Elle est responsable du Magasin d'Armes.}
@@ -213,7 +213,7 @@
 {1116}{DECK_65}{La Vieille Ville occupe tout l'est. Les skags y vivent.}
 {1117}{DECK_66}{La plupart des marchands vivent là-bas. Va simplement à l'ouest d'ici.}
 {1118}{DECK_67}{Une organisation agaçante. Ils auront bientôt besoin d'une démonstration de gestion du pouvoir.}
-{1119}{DECK_68}{Morpheus est le chef des Enfants de la Cathédrale. Il réside dans Boneyard.}
+{1119}{DECK_68}{Morpheus est le chef des Enfants de la Cathédrale. Il réside dans le Cimetière.}
 {1120}{DECK_69}{Elle est actuellement à la tête des Enfants de la Cathédrale dans le Hub. J'ai des raisons de croire que ça pourrait changer bientôt.}
 {1121}{DECK_70}{Une des inventions des Enfants. Un genre de divinité mineure, paraît-il.}
 {1122}{DECK_71}{C'est un petit endroit qui vend... des armes correctes. Vers les Far Go Traders.}
@@ -223,7 +223,7 @@
 {1126}{DECK_53}{C'est le chef de la police. Un chic type, si tu aimes le genre droit et honnête. Pas comme son père ; lui, c'était un homme loyal.}
 {1127}{DECK_56}{C'est le chef des Marchands d'Eau.}
 {1128}{DECK_62}{Quelque chose fait disparaître les caravanes des Far Go Traders. J'aimerais en connaître la cause, puisque ça perturbe une partie de mes affaires.}
-{1129}{DECK_58}{C'est le chef de la Crimson Caravan.}
+{1129}{DECK_58}{C'est le chef de la Caravane Cramoisie.}
 {1130}{DECK_59}{Ce sont les derniers des marchands, et je le dis au sens littéral. Des petits joueurs, surtout. Regarde au nord-est du Marché des Marchands.}
 {1131}{DECK_59}{Ce sont les derniers des marchands, et je le dis au sens littéral. Des petits joueurs, surtout. Regarde au nord-est du Marché des Marchands.}
 {1132}{DECK_60}{Amusant. Il se considère comme le chef des Far Go Traders. Plutôt une figure de proue, en fait. Il sait qu'il vaut mieux ne pas se mêler de mes affaires.}
