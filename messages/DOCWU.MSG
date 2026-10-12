@@ -51,16 +51,16 @@
 {151}{}{Ça va faire très mal !}
 {152}{}{Aaaaagh !}
 {153}{}{T'as crié comme un cochon castré ! Ha ha ha !}
-{154}{}{T'es un idiot ! La qualité, pas la quantité ! Tu crois que les Nocturnes s'en foutent quand ils sont en sous-nombre ? Va pleurer chez ta mère, petit bébé ! Bon, tu veux guérir ou pas ?}
+{154}{}{T'es un idiot ! La qualité, pas la quantité ! Tu crois que les Nightkin s'en foutent quand ils sont en sous-nombre ? Va pleurer chez ta mère, petit bébé ! Bon, tu veux guérir ou pas ?}
 {155}{}{Tais-toi ou je t'arrache les cordes vocales ! Je te désaboie comme un chien ! Ha ha ha ! Bon tu veux guérir ou pas ?}
 {156}{}{Je suis docteur, pas pom-pom girl ! T'as besoin de soins ou pas ?}
 {157}{}{Je tremble, connard ! Bon, tu veux guérir ou pas ?}
 {158}{}{Fais-le. Mais me fais pas de coups foireux !}
 {159}{}{Bien sûr que si. Y doit bien y avoir un vrai docteur dans le coin.}
 {160}{}{Jette juste un œil et vois ce qui est cassé d'abord.}
-{161}{}{Les Nocturnes préfèrent faire ça. Je leur donne des drogues parfois. Personne fait attention au Docteur Wu. C'est tous des connards ! Bon, tu veux te faire réparer ?}
+{161}{}{Les Nightkin préfèrent faire ça. Je leur donne des drogues parfois. Personne fait attention au Docteur Wu. C'est tous des connards ! Bon, tu veux te faire réparer ?}
 {162}{}{Rapièce, doc !}
-{163}{}{Si les Nocturnes te font pas confiance, moi non plus. Je me casse.}
+{163}{}{Si les Nightkin te font pas confiance, moi non plus. Je me casse.}
 {164}{}{Idiot ! Cathédrale très occupée ! L'Unité garde Docteur Wu très occupé ! Bon, tu veux te faire réparer ?}
 {165}{}{Maintenant vient la partie amusante !}
 {166}{}{Ça devrait le faire...}

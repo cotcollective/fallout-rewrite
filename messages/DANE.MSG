@@ -12,7 +12,7 @@
 {111}{}{J'aime M. Handy ! Je veux faire l'amour avec ses petites mains mignonnes...}
 {112}{}{Je suis fou. Je suis devenu fou. Oh mon dieu, je suis devenu complètement dingue ! Pense à la paix ! Pense à l'Unité !}
 {113}{}{Je veux un cheval ! Il me faut un cheval ! Amenez-moi un cheval, bon sang ! Un cheval !}
-{114}{}{Ils nous observent en ce moment même ! M. Nocturne ! Félix et Timothy ! Les chats ! Les chiens ! Les Nocturnes !}
+{114}{}{Ils nous observent en ce moment même ! M. Nocturne ! Félix et Timothy ! Les chats ! Les chiens ! Les Nightkin !}
 {115}{}{Tais-toi ! Ils vont croire que t'es un connard de fou ! Faut que tu te ressaisisses !}
 {116}{}{Lasher ! Faut tuer Lasher ! Sauve le gosse ! Pauvre petit Enfant-Fleur. Pauvre moi.}
 {117}{}{Tais-toi, fils de pute ! Ressaisis-toi !}
@@ -23,7 +23,7 @@
 {122}{}{Bien sûr qu'ils savent, idiot ! C'est ta tête qu'ils peuvent pas réparer, fils de pute !}
 {123}{}{C'est les flingues, connard ! La poudre est intelligente et maléfique et contrôle ton cerveau ! Plus y a de poudre près de toi, plus tu deviens fou ! BOUM ! BOUM ! BOUM !}
 {124}{}{...je veux juste mettre le feu au mooooonde !!!}
-{125}{}{Tu veux lutter ? J'étais très bon avant... jusqu'à ce que les Nocturnes me battent. Ils étaient deux, ceci dit. Les Nocturnes sont vraiment forts !}
+{125}{}{Tu veux lutter ? J'étais très bon avant... jusqu'à ce que les Nightkin me battent. Ils étaient deux, ceci dit. Les Nightkin sont vraiment forts !}
 {126}{}{Ce sont des mutants, imbécile ! Évidemment qu'ils sont forts !}
 {127}{}{Les pingouins aussi. Et les buffles gyros. On les tire avec de grands canons à bisons. Faut se méfier des femmes-buffles. Elles te larguent un bison dessus si vite que tu sauras pas ce qui t'a frappé ! Ha !}
 {128}{}{Je te connais pas de quelque part ? Ton cerveau te fait mal, aussi ?}
@@ -49,13 +49,13 @@
 {147}{}{La vie craint, mais la mort craint pire, et on peut pas remonter le temps pour empêcher notre naissance, alors à quoi bon ?}
 {148}{}{Je crois qu'ils ont compris, connard ! Ils savent que le processus Serviteur te bousille ! Ils savent que cette 'machine à baptême' détraque juste...}
 {149}{}{Je m'appelle Dane. Je suis un Viking. J'aime les canards. Je viole et je pille ! Tu veux violer et piller avec moi ?}
-{150}{}{Oh mon Dieu ! Maître, pas Dieu ! Au moins je me souviens de mon nom. Au moins j'ai encore ça. La plupart des autres ratés s'en souvenaient pas. Ils les fusillaient. Pas de beaux cadavres non plus. Entraînement au tir pour Nocturnes !}
+{150}{}{Oh mon Dieu ! Maître, pas Dieu ! Au moins je me souviens de mon nom. Au moins j'ai encore ça. La plupart des autres ratés s'en souvenaient pas. Ils les fusillaient. Pas de beaux cadavres non plus. Entraînement au tir pour Nightkin !}
 {151}{}{Et puis y avait ceux qui perdaient complètement la tête. J'aimerais qu'ils soient morts.}
 {152}{}{Je crois que j'appellerai mon premier enfant Fallout. J'ai eu un fils une fois, mais les radiations l'ont bouffé dans le ventre de sa mère.}
 {153}{}{Connard ! T'as ri ! Tu t'en foutais de lui ou de sa mère avant !}
 {154}{}{Les mutants peuvent pas se reproduire. Et on va tous devenir des mutants ! Tu sais ce que ça veut dire ? Le monde va se dégrader ! Dégradé ! Dégradé ! On se reproduira plus ! On va tous crever !}
 {155}{}{Arrêtez-le ! Arrêtez-le ! Arrêtez-le ! Quelqu'un le fait taire !}
-{156}{}{Maître ! J'aurais pas dû parler. J'ai entendu les Nocturnes pleurer et j'ai eu pitié de lui.}
+{156}{}{Maître ! J'aurais pas dû parler. J'ai entendu les Nightkin pleurer et j'ai eu pitié de lui.}
 {157}{}{C'est quoi le mal ? Le mal c'est quand le bien est complètement bousillé ! Le mal c'est quand les braves peuvent plus être braves ! Le mal c'est l'anagramme de... euh... Y doit bien y avoir une norme morale quelque part !}
 {158}{}{Tais-toi, connard ! Les normes morales ! C'est sûr que c'est pas ici !}
 {159}{}{Tu sais, je pensais que la religion était une noble vocation, et peut-être que c'est le cas ; mais tu peux pas y entrer à l'aveugle, sinon ils prennent le contrôle de ton cerveau.}
@@ -63,7 +63,7 @@
 {161}{}{Mais pourquoi Dieu fait des gens qui cassent si facilement ?}
 {162}{}{Je crois que je peux enfin répondre à des questions maintenant. Désolé d'avoir pris si longtemps.}
 {163}{}{Cet endroit servait à quoi ?}
-{164}{}{Parle-moi des Nocturnes.}
+{164}{}{Parle-moi des Nightkin.}
 {165}{}{Qu'est-ce qui se passe par ici ?}
 {166}{}{Qu'est-ce qu'ils t'ont fait ?}
 {167}{}{C'est qui le Maître ?}
@@ -73,7 +73,7 @@
 {171}{}{La plupart perdent la tête, mais ils restent utiles. On les jette en bas, ils délirent sur le Maître et marchent comme des zombies. T'as vu les zombies. Super main-d'œuvre esclave - et des soldats...}
 {172}{}{Le corps de John Brown pourrit dans sa tombe. Le corps de John Brown pourrit dans sa tombe, le corps de John Brown pour-rit dans sa tombe, et le Maître nous bai-se bien pro-fond...}
 {173}{}{Arrête ça. Ça devient vraiment difficile de me tenir en un seul morceau.}
-{174}{}{Parle-moi des Nocturnes.}
+{174}{}{Parle-moi des Nightkin.}
 {175}{}{Qu'est-ce qui se passe par ici ?}
 {176}{}{Qu'est-ce qu'ils t'ont fait ?}
 {177}{}{C'est qui le Maître ?}
@@ -81,17 +81,17 @@
 {179}{}{Oups ! J'arrive plus à me tenir en un seul morceau ! Youhou ! Youhou ! Youhou !}
 {180}{}{Ce sont des mutants. Je les ai entendus parler. Je suis très discret. Je connais tous leurs secrets. Ils me détestent. Ils me détestent très fort.}
 {181}{}{Je suis foutu, mais c'est que la Phase 1 du Plan d'Entubage de la Cathédrale. Quand les Serviteurs sont complètement lavés du cerveau, ils passent à la Phase 2. C'est là que le Maître les baptise dans le VEF-2 !}
-{182}{}{La plupart meurent sur place. Mais ceux qui survivent deviennent des mutants. De GROS mutants. Des Nocturnes ! Le Maître pense que seuls les Nocturnes peuvent survivre. Il veut faire de tout le monde des Nocturnes parce qu'ils sont coriaces !}
+{182}{}{La plupart meurent sur place. Mais ceux qui survivent deviennent des mutants. De GROS mutants. Des Nightkin ! Le Maître pense que seuls les Nightkin peuvent survivre. Il veut faire de tout le monde des Nightkin parce qu'ils sont coriaces !}
 {183}{}{Tu connais toutes ces conneries de paix et d'unité ? C'est vraiment pas des conneries pour le Maître. Il croit vraiment qu'il sauve le monde !}
 {184}{}{Dégradé ! On va tous devenir d'horribles monstres dégradés ! Dégradé ! Dégradé ! Dégradé ! Je m'appelle pas Errol ! Dégradé !}
-{185}{}{Parle-moi des Nocturnes.}
+{185}{}{Parle-moi des Nightkin.}
 {186}{}{Qu'est-ce qui se passe par ici ?}
 {187}{}{Qu'est-ce qu'ils t'ont fait ?}
 {188}{}{C'est qui le Maître ?}
 {189}{}{Tu veux mourir ? Je peux abréger tes souffrances.}
-{190}{}{MEUH ! MEUH ! MEUH ! Nocturnes-brahmines, dégagez ! Voilà du lait dégradé !}
+{190}{}{MEUH ! MEUH ! MEUH ! Nightkin-brahmines, dégagez ! Voilà du lait dégradé !}
 {191}{}{La fin du monde tel qu'on le connaît. Des armées de mutants dans l'Abri. Me blâme pas, c'est la faute du Maître. Quand on aura l'Unité, c'est là que le fun du Maître va VRAIMENT commencer.}
-{192}{}{Parle-moi des Nocturnes.}
+{192}{}{Parle-moi des Nightkin.}
 {193}{}{Quel genre de fun ?}
 {194}{}{Qu'est-ce qu'ils t'ont fait ?}
 {195}{}{C'est qui le Maître ?}
@@ -100,16 +100,16 @@
 {198}{}{Ils m'ont trempé dans des produits chimiques, troué de partout, passé des bruits assourdissants. Ce genre de trucs. Ils ont essayé de faire de moi quelque chose que je suis pas. Les parents font ça tout le temps.}
 {199}{}{J'ai vraiment mal.}
 {200}{}{Cet endroit servait à quoi ?}
-{201}{}{Parle-moi des Nocturnes.}
+{201}{}{Parle-moi des Nightkin.}
 {202}{}{Qu'est-ce qui se passe par ici ?}
 {203}{}{C'est qui le Maître ?}
 {204}{}{Tu veux mourir ? Je peux abréger tes souffrances.}
 {205}{}{T'as l'air bête !}
 {206}{}{Je faisais mal aux gens aussi, avant. J'étais un étalon ! Bon sang, j'étais un dieu ! Un dur à cuire ! Mais c'était pas assez ! J'étais une machine de guerre au pas de l'oie ! Mais maintenant je suis... je suis... aide-moi...}
-{207}{}{Tu sais, les Nocturnes disent qu'il est plus laid qu'eux. Ça veut dire que ça doit être un sacré fils de pute hideux.}
+{207}{}{Tu sais, les Nightkin disent qu'il est plus laid qu'eux. Ça veut dire que ça doit être un sacré fils de pute hideux.}
 {208}{}{C'est l'Homme ! L'Homme avec un Plan ! Il planifie parce qu'il nous aime ! Et si le monde se met en travers, qu'il aille se faire voir ! Parce que c'est ça l'amour !}
 {209}{}{Cet endroit servait à quoi ?}
-{210}{}{Parle-moi des Nocturnes.}
+{210}{}{Parle-moi des Nightkin.}
 {211}{}{Qu'est-ce qui se passe par ici ?}
 {212}{}{Qu'est-ce qu'ils t'ont fait ?}
 {213}{}{Tu veux mourir ? Je peux abréger tes souffrances.}
