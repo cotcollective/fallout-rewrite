@@ -1,0 +1,60 @@
+{100}{}{Ce robot est hors service. La couche de poussière dessus suggère qu'il n'a pas été actif depuis un moment.}
+{101}{}{Le robot est maintenant sous tension, mais toujours pas fonctionnel.}
+{102}{}{Le matériel ne semble pas être le problème ; ça doit être un problème logiciel.}
+{103}{}{Tu ne peux pas accéder aux fonctions du robot, car il est désactivé.}
+{104}{}{Tu bricoles les composants défectueux, mais il te faut plus de temps pour réparer.}
+{105}{}{Tu redémarres l'ordinateur de bord, et tu réussis à relancer le robot. Tu remarques que la radio du robot est cassée.}
+{106}{}{Tu passes un moment à travailler sur l'ordinateur du robot, mais tu n'arrives pas à le redémarrer.}
+{107}{}{Unité n°462 en ligne. Auto-test. Ajustement des données de localisation. Corrigé. Reconstruction du fichier mémoire. Corrigé. Erreur - tâche incomplète.}
+{108}{}{Rogga.}
+{109}{}{C'est quoi, ta tâche incomplète ?}
+{110}{}{Bon, fais-le et ôte-toi de mon chemin !}
+{111}{}{[Clic] Bien reçu ! Redémarrage de la tâche.}
+{112}{}{L'Unité n°462 est un modèle de nettoyage. Elle doit finir le nettoyage et la maintenance de ce niveau.}
+{113}{}{Au boulot !}
+{114}{}{Il te reste quoi à nettoyer ?}
+{115}{}{Salle de contrôle des Cuves. [Clic] Fin de la liste.}
+{116}{}{Héhé, OK. Finis ta tâche.}
+{117}{}{Tu gagnes 1000 points d'expérience pour un petit travail de nettoyage.}
+#
+# Fallout Fixt
+#
+{118}{}{Ça ne fait rien d'intéressant.}
+{119}{}{Ce robot Mr. Handy est en état moyen, mais semble pleinement fonctionnel.}
+#
+#  120 TRANSLATION NOTE: "Jury-rig" is a nautical term that's come into common use to mean "fix acceptably with the tools at hand" or "a temporary but functional workaround fix"
+#
+{120}{}{Tu bricoles le système radio du robot ; il devrait être utilisable maintenant.}
+{121}{}{Tu remplaces avec succès la radio du robot.}
+{122}{}{Les systèmes d'interface ne répondent pas à tes entrées.}
+{123}{}{La radio du robot est cassée.}
+#
+{124}{}{Attends un moment. Quelles fonctions tu peux remplir ?}
+{125}{}{L'Unité n°462 assiste dans les tâches spécifiées par les fichiers mémoire et la programmation.}
+{126}{}{Ouais, ouais, passe aux parties intéressantes.}
+{127}{}{Tu peux être plus précis ?}
+{128}{}{[Clic] L'Unité n°462 peut effectuer des remplacements de cœurs de combustible de réacteur nucléaire, du nettoyage de matières dangereuses, de la décontamination radioactive, et des procédures de réparation mécanique de base.}
+{129}{}{Autre chose ?}
+{130}{}{[Bip !] L'Unité n°462 est aussi équipée de routines d'auto-maintenance, de mécanismes d'auto-défense, et d'un système d'exploitation entièrement personnalisable.}
+{131}{}{Des mécanismes d'auto-défense ?}
+{132}{}{OK, merci.}
+{133}{}{[Clic] L'Unité n°462 est autorisée à commettre une force létale pour sa propre préservation, comme le permet la programmation antérieure.}
+{134}{}{Force létale ?}
+{135}{}{(Un haut-parleur grésille, et un message enregistré d'une voix masculine commence à jouer. Ça ressemble à une publicité.) « RobCo s'engage pour ta sécurité et ton bien-être. Toutes les unités RobCo Mister Handy sont équipées de sécurités de pointe, pour prévenir tout incident fâcheux. Sois assuré, Mr. Handy est le meilleur investissement sécurité que ta famille fera jamais. » (Le haut-parleur s'éteint.)}
+{136}{}{[Continuer]}
+{137}{}{[Clic] Traitement... [Clic] Les données du fichier mémoire indiquent qu'à la date de fabrication de l'Unité n°462, sur 4 628 événements d'auto-défense enregistrés initiés par des Unités similaires, seuls 930 ont entraîné la mort de civils non armés.}
+{138}{}{Euh... Ça a pas l'air très bon.}
+{139}{}{Hmm. J'aurais besoin d'aide pour nettoyer cet endroit, si tu vois ce que je veux dire. Tu pourrais m'aider ?}
+{140}{}{Le système d'auto-défense peut être reprogrammé en système de combat ?}
+{141}{}{Je crois que les Habitants de l'Abri seraient considérés comme des civils, alors je ferai de mon mieux pour pas t'énerver.}
+{142}{}{[Clic] Vérification... [Clic] La programmation de l'Unité n°462 n'est pas configurée pour permettre une telle assistance. Transferts de propriété et réaffectations de systèmes d'armes non permis sous les protocoles actuels.}
+{143}{}{[Essaie de hacker l'unité et de contourner les protocoles de programmation]}
+{144}{}{(Ça te prend un moment, mais tu finis par craquer les codes et obtenir l'accès root au système.)}
+{145}{}{[Bip !] Unité n°462 en ligne. Auto-test... OK. Ajustement des données de localisation. Corrigé. Reconstruction du fichier mémoire. Corrigé. Effacement de la liste des tâches... Fait. [Clic] Commande ?}
+{146}{}{Suis-moi et garde les mécanismes d'auto-défense actifs en tout temps. Oh, et ne me tire pas dessus, je suis pas une menace. Alors tu devrais probablement ajouter ça aux protocoles d'auto-défense aussi.}
+{147}{}{[Clic] Bien reçu ! Tâche récursive créée. Fin de l'entrée.}
+{148}{}{(Tu essaies d'obtenir l'accès root au système mais tu échoues. Des lumières commencent à clignoter sur l'unité. Oh oh...}
+{149}{}{Alerte ! Alerte ! Menace détectée ! [Clic] Lancement des protocoles d'auto-défense.}
+{150}{}{Le robot t'ignore et continue sa tâche.}
+{151}{}{Unité n°462, à ton service.}
+

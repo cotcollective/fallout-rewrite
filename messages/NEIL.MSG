@@ -1,0 +1,102 @@
+{100}{}{Tu vois : Neil, le chef de la garde des Disciples.}
+{101}{}{Tu vois : Neil, le chef de la garde des Disciples.}
+{102}{}{Si tu cherches quelqu'un à qui parler, parle à Peter. J'essaie de dormir.}
+{103}{}{Pourquoi tu es ici ?}
+{104}{}{Hrr. Arrooo ?}
+{105}{}{Nan nan.}
+{106}{}{TUER !!}
+{107}{}{Je suis }
+{108}{}{. On m'a envoyé te chercher.}
+{109}{}{Je suis }
+{110}{}{. Et tu es mort.}
+{111}{}{Qu'est-ce que tu peux me dire sur les Disciples ?}
+{112}{}{Je suis venu offrir mon aide.}
+{113}{}{Je cherche des moyens d'instaurer la paix sur ce désert désolé.}
+{114}{}{Désolé, mais je te comprends pas. Maintenant, tu fais quoi ici ?}
+{115}{}{Nan nan.}
+{116}{}{Moi tuer !!}
+{117}{}{Ouaip. Moi aider.}
+{118}{}{Si tu fais rien, alors je te suggère de partir. Maintenant !}
+{119}{}{Tu veux aider ? Je peux peut-être t'utiliser.}
+{120}{}{Oui. Moi aider ! Moi aider !}
+{121}{}{Non. Pas aider !}
+{122}{}{Tu es assez simple pour trouver cette personne que les autres sont trop malins pour trouver. Il y a un espion par ici qui donne nos secrets aux Enfants. Trouve l'espion. Tue l'espion. Va.}
+{123}{}{Je m'en doutais. File.}
+{124}{}{Normal que Jake pense pas que je peux faire le boulot correctement. C'est le seul qui a pu t'envoyer. Alors tu sais pour l'espion.}
+{125}{}{Jake m'a pas envoyé. Un de tes gardes l'a fait.}
+{126}{}{J'en sais un peu. Jake était très avare de mots.}
+{127}{}{C'est quoi cette histoire d'espion ? Je peux peut-être aider.}
+{128}{}{Mes gardes sont pas des idiots. Ils t'ont envoyé à la bonne personne. Il y a une fuite ici, et on doit trouver où elle est et la colmater.}
+{129}{}{Des pistes ?}
+{130}{}{Je suis un combattant, pas un plombier. Si t'as des fuites, parle à quelqu'un d'autre.}
+{131}{}{Je crois que c'est toi la fuite. Meurs !!}
+{132}{}{Oublie ça. Je suis le larbin de personne.}
+{133}{}{La seule chose qu'on sait pour l'instant c'est que la personne doit avoir accès à la Cathédrale des Enfants. Je crois que ça peut être un de nos éclaireurs.}
+{134}{}{OK. Je vais vérifier ça tout de suite.}
+{135}{}{T'es sûr que c'est pas un garde ?}
+{136}{}{Pas de chance alors. Tu attraperas jamais la personne maintenant.}
+{137}{}{J'en suis assez certain. Ils ont accès qu'aux salles des Disciples. Ils ont pas le droit de sortir.}
+{138}{}{Alors je sais pas qui ça pourrait être.}
+{139}{}{Je vais enquêter sur les éclaireurs alors.}
+{140}{}{Je crois qu'il y a une dissimulation ici. Tu meurs !}
+{141}{}{C'est pour ça que je te demande de regarder autour et de voir si tu trouves quelqu'un. Tu veux aider ?}
+{142}{}{Oui.}
+{143}{}{Non.}
+{144}{}{Merci. Ça compte beaucoup pour nous.}
+{145}{}{Alors je dois te retenir pour t'empêcher de prévenir qui que ce soit.}
+{146}{}{Comment il est devenu second aux commandes, ça me dépasse. Comme il était si avare de mots, je vais te mettre au courant. On a une fuite qui donne aux Enfants certains de nos schémas de déplacement.}
+{147}{}{Des pistes ?}
+{148}{}{Je suis un combattant, pas un plombier. Si t'as des fuites, parle à quelqu'un d'autre.}
+{149}{}{Je crois que c'est toi la fuite. Meurs !!}
+{150}{}{Oublie ça. Je suis le larbin de personne.}
+{151}{}{Tu sais même pas ? J'imagine que non ; la plupart des gens ici savent pas. Quelqu'un fait fuiter des infos sur nos mouvements vers les Enfants. Il faut que cette personne disparaisse.}
+{152}{}{Des pistes ?}
+{153}{}{Je crois que c'est toi la fuite. Meurs !!}
+{154}{}{Oublie ça. Je suis le larbin de personne.}
+{155}{}{Combien t'es prêt à offrir ?}
+{156}{}{J'ai pas beaucoup d'argent. Que dirais-tu de 200 capsules ?}
+{157}{}{Désolé, je suis fauché.}
+{158}{}{Ta vie.}
+{159}{}{Ça me semble juste.}
+{160}{}{Maintenant je vais mettre fin à cette fuite chez les Disciples !}
+{161}{}{Pas de chance alors.}
+{162}{}{Qu'est-ce que tu veux savoir ?}
+{163}{}{Qui est le chef ?}
+{164}{}{Pourquoi vous attaquez les Enfants ?}
+{165}{}{Où je peux avoir des premiers soins ?}
+{166}{}{Rien. Je vérifie juste.}
+{167}{}{Rien. Merci.}
+{168}{}{Notre chef c'est Nicole. Vraiment sympa, mais un peu tête en l'air. Autre chose que tu veux savoir ?}
+{169}{}{Pourquoi vous attaquez les Enfants ?}
+{170}{}{Où je peux me faire soigner ?}
+{171}{}{Rien. Je vérifie juste. [tu le gifles]}
+{172}{}{Rien. Merci.}
+{173}{}{Les Enfants sont pas ce qu'ils paraissent. Ils cachent quelque chose. Quelque chose lié à ces Nightkin. Autre chose ?}
+{174}{}{Qui est le chef ?}
+{175}{}{Où je peux me faire soigner ?}
+{176}{}{Rien. Je vérifie juste. [tu le gifles]}
+{177}{}{Rien. Merci.}
+{178}{}{Il y a la guérisseuse des Enfants, mais je lui fais pas confiance. On a aussi un docteur ou une infirmière de garde ici en tout temps. Autre chose ?}
+{179}{}{Qui est le chef ?}
+{180}{}{Pourquoi vous attaquez les Enfants ?}
+{181}{}{Rien. Je vérifie juste. [tu le gifles]}
+{182}{}{Rien. Merci.}
+{183}{}{Je suis vraiment désolé d'apprendre ça. Que les morceaux soient avec toi !}
+{184}{}{Qui t'a envoyé ?}
+{185}{}{Ton garde m'a envoyé.}
+{186}{}{Jake m'a envoyé.}
+{187}{}{Je me suis envoyé moi-même.}
+{188}{}{Laisse tomber. Au revoir.}
+{189}{}{Un peu sûr de toi. J'ai pas besoin de toi. Parle à Nicole si tu veux offrir tes services. Bonne nuit.}
+{190}{}{Alors tu voudras chercher Nicole. Elle pourra mieux t'aider que moi. Bonsoir.}
+{191}{}{Va trouver cet espion. On doit garder nos plans secrets encore un moment.}
+{192}{}{Bon boulot pour avoir trouvé et éliminé Heather. Son ingérence a failli tous nous tuer. J'aurais aimé qu'on puisse faire plus.}
+{193}{}{Je peux peut-être aider encore une fois.}
+{194}{}{Bonne chance à toi.}
+{195}{}{Comment ça ?}
+{196}{}{Je peux entraîner les Disciples à des techniques de guerre. Peut-être que vos chances s'amélioreront.}
+{197}{}{Je peux partir. Au revoir.}
+{198}{}{Ce serait merveilleux. Merci.}
+{199}{}{Maintenant tu es un peu mieux préparé. Bonsoir.}
+{200}{}{Merci pour tes enseignements. Maintenant on a une chance de repousser ces Enfants.}
+

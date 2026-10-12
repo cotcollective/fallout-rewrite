@@ -1,0 +1,68 @@
+{100}{}{Tu vois un savant fou. Il travaille avec acharnement sur quelque chose.}
+{101}{}{Bonsoir, mon Frère. Qu'est-ce qui t'amène dans notre petit coin de paradis ?}
+{102}{}{Bonsoir, ma Sœur. Qu'est-ce qui t'amène dans notre petit coin de paradis ?}
+{103}{}{Je viens vérifier l'avancement de tes travaux.}
+{104}{}{Et toi, qu'est-ce que tu fais ici ?}
+{105}{}{Quoi ?! Tu oses me questionner ? Et si j'expérimentais sur ton cerveau, espèce de skag tordu ?!}
+{106}{}{Gack.}
+{107}{}{Toi, encore ? Et pourquoi déranges-tu le glorieux avenir du Maître, cette fois ?}
+{108}{}{Le Maître s'impatiente de tes échecs, et moi de ton insolence !}
+{109}{}{Je veux savoir où en sont tes expériences.}
+{110}{}{Ça suffit, je mets fin à TON avenir ici et maintenant, minable !}
+{111}{}{Ouf !}
+{112}{}{Ça ne marche pas bien. J'injecte le VEF directement dans la glande pinéale, mais je n'obtiens pas les résultats escomptés.}
+{113}{}{Pourquoi tu n'essaierais pas de l'injecter directement dans l'amygdale ?}
+{114}{}{Pourquoi tu n'essaierais pas de l'injecter dans la moelle ?}
+{115}{}{Quels résultats tu obtiens ?}
+{116}{}{Hmmm. Et ?}
+{117}{}{Je vous demande pardon, monsieur. Comment puis-je vous servir ?}
+{118}{}{Je vous demande pardon, madame. Comment puis-je vous servir ?}
+{119}{}{La prochaine fois tu me parleras avec respect, ou tu ne parleras plus jamais à personne !}
+{120}{}{La vérité du Maître se révèle, et leurs capacités psychiques s'accroissent. [il secoue la tête] Mais les pauvres âmes deviennent irrémédiablement folles et doivent être séquestrées et neutralisées pour les empêcher de se blesser ou de blesser les autres.}
+{121}{}{Oh, comme c'est attentionné de ta part...}
+{122}{}{Où sont-ils gardés ?}
+{123}{}{Espèce de boucher sans cœur ! Je crois que je vais neutraliser ton cerveau et le séquestrer loin du reste de ton corps ! Meurs, salaud !}
+{124}{}{Dans une pièce au nord-ouest d'ici. Je peux t'aider pour autre chose ?}
+{125}{}{Merci pour ton aide. Salut.}
+{126}{}{Ouais, euh... C'est quoi, le VEF ?}
+{127}{}{Tu peux crever !}
+{128}{}{Je n'ai pas de temps pour tes pitreries !}
+{129}{}{Quelle idée fascinante ! Je dois l'essayer tout de suite !}
+{130}{}{Euh, où tu gardes les expériences ratées ?}
+{131}{}{De rien.}
+{132}{}{Ouais ! Essayons sur toi !}
+{133}{}{Vincent ! Prépare notre nouveau volontaire !}
+{134}{}{Quoi ? C'est la chose la plus ridicule que j'aie jamais entendue ! [il te regarde avec méfiance] Qui es-tu, vraiment ?}
+{135}{}{Oh, désolé. Je dois y aller, là.}
+{136}{}{Je suis le nouveau... euh... gars... On m'a envoyé voir comment tu t'en sors.}
+{137}{}{Je te l'ai déjà dit, le Maître m'a envoyé te surveiller.}
+{138}{}{Je suis venu te retirer la rate... sans anesthésie !}
+{139}{}{Bon, alors. Ça avance comment ?}
+{140}{}{Ton attitude m'a tout appris. Adieu.}
+{141}{}{Ah ah ! Un intrus ! Je m'en doutais. Vincent !}
+{142}{}{Qui es-tu ? Et pourquoi tu portes cette combinaison ? [pour lui-même] Ça fait longtemps que je n'en avais pas vu une.}
+{143}{}{Je suis déguisé. Des intrus ont infiltré le sanctuaire du Maître, et je suis habillé comme l'un d'eux pour gagner leur confiance.}
+{144}{}{Comment oses-tu questionner un des agents spéciaux du Maître !}
+{145}{}{Quand as-tu vu une combinaison comme ça ?}
+{146}{}{C'est du caoutchouc extrudé, alors c'est très facile d'essuyer ton sang après que je t'aurai tué !}
+{147}{}{Oh, tu sais, quand on a reçu le dernier lot d'humains de souche pure... Je crois qu'il en reste un dans les enclos. Pourquoi tu demandes ?}
+{148}{}{Pour rien. Les expériences avancent comment ?}
+{149}{}{Je dois faire mon rapport au Maître. Je n'ai pas le temps pour ça.}
+{150}{}{[Il secoue la tête] Hélas, les pauvres âmes deviennent irrémédiablement folles et doivent être séquestrées et neutralisées pour les empêcher de se blesser ou de blesser les autres.}
+{151}{}{Oh, comme c'est attentionné de ta part...}
+{152}{}{Espèce de salaud sans cœur ! Je crois que je vais neutraliser ton cerveau et le séquestrer loin du reste de ton corps ! Meurs, salaud !}
+{200}{}{Tu vois : Vincent, un garde Super-mutant. Il a l'air de s'ennuyer.}
+{201}{}{Tu vois un Super-mutant, qui garde visiblement les scientifiques. Il a l'air de s'ennuyer.}
+{202}{}{Des intrus !}
+{203}{}{Je surveille juste les fous. Me parle pas.}
+{204}{}{Laisse-moi tranquille.}
+{300}{}{Tu vois un savant fou endormi.}
+{301}{}{Zzzzzzz}
+{302}{}{Hein ! Quoi ? [il se frotte les yeux] Vincent, débarrasse nos chambres de ce païen !}
+{303}{}{Hein ? [reniflement] ...zzzzzzzzzz}
+{400}{}{Tu vois : Vincent. Il garde les fous endormis.}
+{401}{}{Tu vois un garde Super-mutant. Il se tient presque au-dessus des corps allongés.}
+{402}{}{Laisse-les tranquilles, et sors. Personne n'est autorisé ici pendant qu'ils dorment.}
+{403}{}{Toi encore ! Je t'ai dit de laisser les scientifiques tranquilles !}
+{404}{}{Tu as abusé de notre hospitalité.}
+

@@ -1,0 +1,54 @@
+{100}{}{Tu vois : Michelle.}
+{101}{}{}
+{102}{}{}
+{103}{}{Tu vois un membre des Lames.}
+{104}{}{Tu vois un membre des Lames.}
+{105}{}{Tu penses que ça pourrait être Books.}
+{106}{}{Tu penses que ça pourrait être Scars.}
+{107}{}{Tu penses que ça pourrait être Gunner.}
+{108}{}{Tu penses que ça pourrait être Twitch.}
+{109}{}{Tu penses que ça pourrait être Hammer.}
+{110}{}{Tu penses que ça pourrait être Razor.}
+{111}{}{Tu fais quoi ici ?}
+{112}{}{Hhrrrnnn.}
+{113}{}{Rien. Promis.}
+{114}{}{Je regarde juste autour.}
+{115}{}{Ça ! [tu la gifles]}
+{116}{}{Un crétin. Je crois que tu ferais mieux de sortir d'ici. Sinon, tu pourrais servir de cible d'entraînement.}
+{117}{}{Arroo !}
+{118}{}{Arook.}
+{119}{}{Rien, hein ? Je crois que tu caches quelque chose. Crache le morceau avant de voir tes tripes.}
+{120}{}{Je suis vraiment un Martien.}
+{121}{}{Je suis ici pour arrêter les guerres de gangs.}
+{122}{}{Je ne manigance rien.}
+{123}{}{Je manigance ÇA ! [tu la gifles]}
+{124}{}{Tout le monde sait que les Martiens n'existent pas. Les vrais extraterrestres viennent de Vénus. Maintenant, tu meurs !}
+{125}{}{Bien sûr, et moi je suis la Reine du Mexique.}
+{126}{}{Promis. Je veux arrêter les guerres pour pouvoir aider Adytum.}
+{127}{}{Votre Majesté, je cherche vraiment à mettre fin aux guerres.}
+{128}{}{Si tu étais plus intelligent, j'essaierais de t'expliquer les bienfaits de la paix.}
+{129}{}{Si tu es ici pour ça, alors tu devras essayer de trouver Razor. Elle te dira ce qu'on en pense.}
+{130}{}{Euh, merci. Je crois.}
+{131}{}{OK. Au revoir.}
+{132}{}{Tu te moques de moi ? Je devrais m'y attendre de la part d'un gamin. Oh, au fait. Tiens !}
+{133}{}{Les beaux discours te mèneront pas loin. Ici, ça te mènera à environ six pieds sous terre.}
+{134}{}{Si tu manigances rien, alors on va te trouver quelque chose à manigancer. Je crois que « cible » c'est pas mal.}
+{135}{}{Tu as regardé. Maintenant, tu veux quoi ? Réfléchis vite. Ça peut faire la différence entre sortir d'ici à pied et devenir résident permanent.}
+{136}{}{J'aimerais vivre ici.}
+{137}{}{Je suis vraiment un Éventreur déguisé.}
+{138}{}{Je veux apporter la paix aux gangs.}
+{139}{}{Je m'en vais.}
+{140}{}{Rien de spécial. Je regarde juste les ordures à recycler.}
+{141}{}{On n'a jamais parlé de vivre. Tu résiderais juste ici. Indéfiniment. Bon séjour.}
+{142}{}{Je suis content que tu dises ça. Ça fait un moment que je voulais l'aiguiser. }
+{143}{}{Bientôt j'aurai une peau à aiguiser dessus.}
+{144}{}{Pas si vite. La seule façon de partir d'ici c'est d'être une Lame, ou dans un sac.}
+{145}{}{Alors je veux être une Lame.}
+{146}{}{Il est gros comment, ce sac ?}
+{147}{}{Tu oublies la troisième option. Moi !}
+{148}{}{Aucune chance. Mais c'est un test. Si tu peux trouver Razor, alors tu pourras lui en parler.}
+{149}{}{Assez gros pour fourrer tes morceaux de corps dedans quand on aura fini.}
+{150}{}{Je ne suis pas la Belle au bois dormant. J'ai pas besoin qu'on me réveille. Sors ou meurs.}
+{151}{}{J'ai entendu dire que tu en veux à la tête du salaud. Donne-lui un coup de couteau supplémentaire pour moi.}
+{152}{}{Bon retour. Le Trou est ouvert et prêt à t'accueillir de nouveau.}
+

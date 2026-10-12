@@ -1,0 +1,85 @@
+{100}{}{Tu vois une jeune femme aux cheveux sombres.}
+{101}{}{Tu vois Lorraine, une récup d'Adytum.}
+{102}{}{Salut. T'es nouveau ici ?}
+{103}{}{Ouais. Tu peux me mettre au courant un peu ?}
+{104}{}{Oui, je le suis. Je m'appelle }
+{105}{}{. }
+{106}{}{Whuuu ?}
+{107}{}{J'imagine. Qu'est-ce que tu dois savoir ?}
+{108}{}{T'es qui ?}
+{109}{}{Tu peux me donner des infos sur le Cimetière de L.A. ?}
+{110}{}{Parle-moi un peu des autres résidents d'Adytum.}
+{111}{}{Tu fais quoi dans la vie ?}
+{112}{}{Laisse tomber, merci.}
+{113}{}{Je suis Lorraine.}
+{114}{}{Je peux te poser quelques questions ?}
+{115}{}{Je suis une récup. Je bosse avec Sammael pour ramasser des trucs dans les ruines, pour qu'on puisse les utiliser pour construire ou échanger.}
+{116}{}{Pourquoi tout le monde fait pas ça ici ?}
+{117}{}{Combien y a de récups ?}
+{118}{}{Je peux te poser des questions sur autre chose ?}
+{119}{}{Sympa de parler avec toi.}
+{120}{}{Eh bien t'as les Écorcheurs là-dehors, plus les Régulateurs qui prennent un pourcentage au sommet, plus un peu pour la protection ici à Adytum. J'imagine que les gens ont pas le fric d'avance, ou le cran de regarder un Écorcheur dans les yeux.}
+{121}{}{C'est quoi l'histoire avec les Régulateurs ?}
+{122}{}{Comment vous évitez les Écorcheurs ?}
+{123}{}{Je peux te poser des questions sur d'autres trucs ?}
+{124}{}{Merci. Salut.}
+{125}{}{Oh, on est une demi-douzaine. Sammael était le premier, et c'est toujours le meilleur.}
+{126}{}{Je peux te poser des questions sur d'autres trucs ?}
+{127}{}{Intéressant. Merci.}
+{128}{}{Ils maintiennent la paix par ici, et contrôlent tout l'argent qui entre et qui sort. Le reste des gens ici bossent à peu près pour les Régulateurs, et c'est pas le boulot le plus indulgent. Beaucoup d'entre eux voient jamais au-delà de la clôture qui entoure cet endroit.}
+{129}{}{Tout ça te fait te demander ce que Julianna pensait.}
+{130}{}{Qu'est-ce que tu veux dire au sujet de Julianna ?}
+{131}{}{Très méchant. Je peux poser d'autres questions ?}
+{132}{}{Merci pour l'avertissement.}
+{133}{}{Oh, elle a fini par tomber amoureuse d'une Lame il y a un moment. La pauvre chérie peut pas quitter la ville, bien sûr, et Caleb tuerait le jeune gars à vue. Très tragique.}
+{134}{}{Euh... si tu le dis.}
+{135}{}{Je peux poser d'autres questions ?}
+{136}{}{Hmm. Merci de m'avoir mis au courant. Salut.}
+{137}{}{On récupère qu'après la tombée de la nuit. Et on est très bons dans ce qu'on fait. Sammael a un petit test qu'il aime lancer aux gens, avant de les laisser devenir récups.}
+{138}{}{C'est quoi, le test ?}
+{139}{}{Ça a toujours l'air dangereux.}
+{140}{}{Je vois. Ça te dérange si on revient un peu en arrière ?}
+{141}{}{Intéressant. Salut.}
+{142}{}{Sammael fait cacher la personne quelque part dans Adytum pendant la journée. S'il peut pas trouver l'élève en une heure, alors il laisse la personne rejoindre la prochaine équipe de récup.}
+{143}{}{Quel système stupide !}
+{144}{}{Ça a l'air de marcher. T'es toujours en vie.}
+{145}{}{Huh. Je peux te poser des questions sur d'autres trucs ?}
+{146}{}{Intéressant. Salut.}
+{147}{}{Allons, y a pas la moindre trace de romantique en toi ? Vraiment, c'est trop dommage. Un amour non partagé et tout ça. Tragique.}
+{148}{}{Hmpf. Ça montre ce que tu connais. Dis ça à Sammael. Si tu peux le trouver.}
+{149}{}{Oui, même si ça peut être rude. C'est très dangereux, surtout si tu te fais prendre.}
+{150}{}{Sans doute. Je peux poser des questions sur autre chose ?}
+{151}{}{Merci pour l'info.}
+{152}{}{Wow, je crois que t'es un peu au-delà de mon aide.}
+{153}{}{Ça a été une grande ville, appelée Los Angeles. Mais les bombes ont frappé vraiment fort. Maintenant, y a juste le Cimetière de l'Ange. Nous, les Adytowniens, on essaie juste de survivre dans les décombres.}
+{154}{}{Tu peux m'en dire plus sur Los Angeles ?}
+{155}{}{Je vois. Merci.}
+{156}{}{Beaucoup de gens vivaient ici. D'après ce que j'entends, les survivants se sont cachés dans un grand endroit appelé un Abri, et sont sortis des années plus tard. Certains d'entre eux ont créé les Régulateurs puis fondé Adytum, tandis que les }
+{157}{}{autres ont formé les Lames. Les Gun Runners viennent pas d'ici à l'origine.}
+{158}{}{Où est cet Abri ?}
+{159}{}{C'est quoi l'histoire avec les Régulateurs ?}
+{160}{}{D'où viennent les Gun Runners ?}
+{161}{}{}
+{162}{}{Merci pour ton aide.}
+{163}{}{Eh bien, soi-disant c'était quelque part au sud d'ici, mais je sais pas vraiment. Je crois que tout le monde est parti parce que c'était cassé.}
+{164}{}{Je peux te poser encore plus de questions ?}
+{165}{}{Hmm. Merci.}
+{166}{}{Je suis pas vraiment sûre. Je crois qu'ils venaient de quelque part au nord d'ici.}
+{167}{}{Qu'est-ce que tu sais sur les Régulateurs ?}
+{168}{}{Je peux poser des questions sur d'autres trucs ?}
+{169}{}{Merci pour l'info.}
+{170}{}{De qui tu veux savoir ?}
+{171}{}{Jon Zimmerman.}
+{172}{}{Caleb.}
+{173}{}{Miles.}
+{174}{}{Tine.}
+{175}{}{Smitty.}
+{176}{}{Personne.}
+{177}{}{Zimmerman surveille notre ville. Il s'assure que tout le monde est nourri, et que tout le monde a un boulot à faire.}
+{178}{}{Caleb est le chef des Régulateurs. C'est son boulot de protéger Adytum. Il a l'air d'aimer ça un peu plus qu'il devrait.}
+{179}{}{Ah, notre chimiste résident. Miles fabrique des balles, et il a aussi construit le distillateur d'eau qui nous assure de l'eau propre du puits. Il travaille sur une ferme souterraine en ce moment, mais il lui manque des pièces.}
+{180}{}{Tine tient la boutique. C'est dans le bunker près de la porte. Il échange avec les marchands du Hub pour nous.}
+{181}{}{Hmm. Smitty est une sorte de bricoleur. Il est bon en réparation. Il coule des balles et répare les trucs cassés en ville.}
+{182}{}{Je peux poser des questions sur quelqu'un d'autre ?}
+{183}{}{On peut parler d'un autre sujet ?}
+{184}{}{}

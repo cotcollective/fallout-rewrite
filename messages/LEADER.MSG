@@ -1,0 +1,128 @@
+{100}{}{Tu vois une goule nerveuse avec un air d'autorité.}
+{101}{}{Merci de ne pas avoir tiré en premier. Je peux t'aider en quelque chose ?}
+{102}{}{Oui, je cherche de l'eau.}
+{103}{}{Bien sûr, t'es qui ?}
+{104}{}{Nan.}
+{105}{}{Ahh, si tu veux tu peux te reposer ici, on te fera pas de mal.}
+{106}{}{Ahh.}
+{107}{}{Je suis le chef d'un peuple simple qui a quitté la surface à cause des autres.}
+{108}{}{Qui vous a forcés à descendre ici ?}
+{109}{}{Purée, c'est vraiment stupide.}
+{110}{}{Hmm. D'accord. Salut.}
+{111}{}{La surface de Nécropolis et l'eau sont contrôlées par Set et ses goules. Nous sommes un groupe bien plus pacifique — ce qui dégoûte Set.}
+{112}{}{C'est qui, ce Set ?}
+{113}{}{Eh bien, je me suis occupé de Set. Il vous embêtera plus.}
+{114}{}{Comment vous survivez ici sans eau, alors ?}
+{115}{}{Eh bien j'aimerais pas non plus une bande de mauviettes, Set a l'air d'un type correct.}
+{116}{}{Set est une goule comme nous, mais il s'est arrogé un certain pouvoir dans le monde d'en haut. C'est un rustre.}
+{117}{}{Il a l'air bien plus intéressant que vous, les monstres.}
+{118}{}{Pourquoi il vous laisse survivre ici ?}
+{119}{}{Il en parle pas, mais Set a peur de pas avoir assez de monde pour défendre Nécropolis si jamais c'était nécessaire. Alors, il nous donne l'eau dont on a besoin.}
+{120}{}{D'où vient toute cette eau ?}
+{121}{}{J'ai besoin d'eau pour mon peuple ! Si tu sais d'où il l'a, dis-le-moi maintenant !}
+{122}{}{Je cherche une Puce d'eau, pour donner à mon peuple l'eau dont il a besoin. Tu saurais où je pourrais en trouver une ?}
+{123}{}{Je vous garderais pas pour défendre un sac en papier. Alors c'est quoi, cette histoire d'eau ?}
+{124}{}{Jusqu'à récemment on pompait notre eau du sol, avec une pompe dans le Bassin versant.}
+{125}{}{Jusqu'à récemment ? Qu'est-ce qui a changé ?}
+{126}{}{Comment je vais au Bassin versant ?}
+{127}{}{C'est quoi, le Bassin versant ?}
+{128}{}{Depuis que notre pompe est tombée en panne, on a notre eau d'un endroit sous le sol. J'ai entendu dire qu'un ordinateur d'eau est utilisé pour purifier l'eau.}
+{129}{}{Merci.}
+{130}{}{C'est où, ça ?}
+{131}{}{Le Bassin versant est au nord. Tu devras prendre les égouts pour y aller.}
+{132}{}{Tu penses pas nous prendre la Puce d'eau, hein ?}
+{133}{}{Euh... Moi, non, je ferais jamais une chose pareille. Je vais juste voir comment tout ça marche.}
+{134}{}{Bien sûr. Mon peuple a besoin de la Puce d'eau pour survivre.}
+{135}{}{Pourquoi ?}
+{136}{}{Si tu nous prends la Puce d'eau, alors on va tous mourir. Avec notre pompe à eau cassée, on en a besoin pour survivre.}
+{137}{}{Eh bien je me fiche vraiment de toi et de ton peuple. On a besoin de la Puce d'eau pour notre propre survie. Au revoir.}
+{138}{}{C'est possible que votre pompe soit réparée ?}
+{139}{}{Si c'est le cas, alors je peux pas te laisser quitter ma présence en vie.}
+{140}{}{Je crois pas que je te crois.}
+{141}{}{Je suis désolé, je voulais pas te tromper. C'est quoi le problème avec prendre la Puce d'eau ?}
+{142}{}{Eh bien je m'en fiche vraiment. Si tu veux pas te pousser de mon chemin, je vais juste te retirer moi-même.}
+{143}{}{Ça peut être difficile. Les pièces nécessaires pour réparer la pompe ont été perdues dans les égouts sous le Bassin versant.}
+{144}{}{Pourquoi c'est si difficile ?}
+{145}{}{Tu veux dire ces pièces ? [Tu montres les pièces que tu as trouvées au chef des goules]}
+{146}{}{Les égouts là-bas sont remplis de monstres, et aucun des miens que j'ai envoyés les récupérer n'est revenu. Tu veux bien récupérer les pièces, pour que la pompe à eau puisse être réparée ?}
+{147}{}{Ça a l'air de trop d'ennuis ; je crois que je vais juste prendre la Puce d'eau.}
+{148}{}{Oui.}
+{149}{}{Puisque vous êtes trop incompétents pour le faire vous-mêmes, j'imagine que je vais devoir filer un coup de main.}
+{150}{}{Merci. Quand tu auras les pièces, reviens ici. C'est possible que je puisse t'aider davantage.}
+{151}{}{D'accord, je m'en vais alors.}
+{152}{}{T'as trouvé les pièces pour la pompe à eau ?}
+{153}{}{Pas encore.}
+{154}{}{Nan. Et j'ai décidé d'oublier toute l'affaire.}
+{155}{}{C'était où déjà que je devais les trouver ?}
+{156}{}{Eh bien je te souhaite bonne chance alors.}
+{157}{}{Tu es revenu. T'as les pièces nécessaires pour réparer la pompe à eau ?}
+{158}{}{Oui, les voilà.}
+{159}{}{Ouais, mais j'ai décidé d'oublier de réparer la pompe à eau.}
+{160}{}{Eh bien on dirait que t'aurais besoin d'aide avec les pièces. Voilà des livres qu'on a trouvés qui traînaient. Ils peuvent aider. Maintenant s'il te plaît apporte les pièces au Bassin versant et répare la pompe.}
+{161}{}{Malheureusement je pourrai pas t'aider davantage. Bonne chance avec la pompe à eau. S'il te plaît apporte les pièces au Bassin versant et répare la pompe.}
+{162}{}{T'as réparé la pompe à eau ?}
+{163}{}{Non pas encore, mais j'y travaille toujours.}
+{164}{}{Non, et j'ai pas l'intention de le faire maintenant.}
+{165}{}{Oui ce sont les pièces dont je parlais. Merci au flux que tu les aies déjà.}
+{166}{}{Y a autre chose que je devrais savoir ?}
+{167}{}{Eh bien c'est aussi près qu'ils vont aller de la pompe à eau.}
+{168}{}{Comme je te l'ai déjà dit, on peut les trouver dans les égouts sous le Bassin versant. Va à l'est d'ici, puis au nord. Tu trouveras le Bassin versant dans cette direction.}
+{169}{}{Merci pour les directions. Au revoir.}
+{170}{}{Eh bien merci pour ce service. Y avait autre chose que tu voulais savoir ?}
+{171}{}{Comment vous survivez ici sans eau ?}
+{172}{}{C'est là que toute l'eau est stockée et nous est distribuée.}
+{173}{}{C'est situé où ?}
+{174}{}{Dernièrement j'ai entendu des rumeurs comme quoi quelqu'un a pris le contrôle du Bassin versant. Mais nos rations sont toujours livrées pour une raison quelconque.}
+{175}{}{Comment je vais au Bassin versant ?}
+{176}{}{C'est quoi, le Bassin versant ?}
+{177}{}{Merci d'avoir réparé la pompe à eau, et j'espère que tout ira bien avec ton peuple quand tu reviendras avec ce que tu as trouvé.}
+{178}{}{Merci pour ton aide. Au revoir.}
+{179}{}{Tu as réparé la pompe à eau et le flux est revenu des profondeurs. Cependant, je vois que tu n'as pas trouvé ce que tu cherchais.}
+{180}{}{Oui, j'arrive pas à trouver l'emplacement de la Puce d'eau.}
+{181}{}{J'ai entendu dire qu'elle est située profondément sous le Bassin versant. Je te souhaite bonne chance dans tes recherches.}
+{182}{}{Je vois que tu as ce que tu es venu chercher. Tu réalises qu'on va mourir si tu nous prends la Puce d'eau.}
+{183}{}{Oui, mais je travaille toujours à réparer la pompe à eau. C'était où que tu disais que je pouvais trouver les pièces ?}
+{184}{}{J'ai besoin de la Puce d'eau et j'ai pas le temps de m'occuper de tes problèmes.}
+{185}{}{Quelles autres options j'ai ?}
+{186}{}{J'en ai marre de supporter tes remarques narquoises. Je veux plus te parler.}
+{187}{}{On avait autrefois une pompe située dans le Bassin versant qui pompait le flux des profondeurs. Mais elle est tombée en panne et les pièces nécessaires pour la réparer ont été perdues dans les égouts juste sous le Bassin versant.}
+{189}{}{Pourquoi vous avez pas récupéré les pièces vous-mêmes ?}
+{190}{}{T'as rien à craindre de nous !}
+{191}{}{Je te parlerai avant que tu partes.}
+{192}{}{Tu me laisses pas le choix, je dois t'arrêter moi-même.}
+{193}{}{Attends, tire pas !}
+{194}{}{T'as rien à craindre de nous !}
+{195}{}{Je te parlerai avant que tu partes.}
+{196}{}{Tu me laisses pas le choix, je dois t'arrêter moi-même.}
+{200}{}{Pas de chance.}
+{201}{}{La pompe à eau peut pas être réparée ?}
+{202}{}{Désolé mais mon peuple a besoin de la puce pour survivre.}
+{203}{}{S'il te plaît prends pas notre puce. Sans elle on va mourir.}
+{204}{}{Peut-être, mais les pièces sont perdues dans les égouts sous le Bassin versant. Avec tous ces monstres là-bas, on peut pas les récupérer.}
+{205}{}{Désolé, j'aimerais pouvoir aider.}
+{206}{}{Je vais trouver les pièces.}
+#
+#  by Sduibek for Fallout Fixt:
+#
+{300}{}{Tu vois : Chef des Souterrains.}
+
+
+############ Tell Me Abouts
+
+{1000}{}{Set}
+{1001}{}{le Maître}
+{1002}{}{Eau}
+{1003}{}{Bassin versant}
+{1004}{}{Hall}
+{1005}{}{Nécropolis}
+{1006}{}{Puce}
+
+{1100}{}{Il essaie de contrôler Nécropolis, et nous a forcés à aller sous terre.}
+{1101}{}{Il a quelque chose à voir avec les Super-mutants. J'en sais pas beaucoup plus.}
+{1102}{}{On a notre eau de l'endroit sous le Bassin versant. Ça a peut-être quelque chose à voir avec ça.}
+{1103}{}{La pompe à eau cassée est là-bas. Aussi, c'est là que les Super-mutants distribuent l'eau de leur nouvelle source.}
+{1104}{}{Le soi-disant palais de Set.}
+{1105}{}{La Ville des Morts, où on aimerait vivre en paix, si Set ou les Super-mutants nous laissent.}
+{1106}{}{On a notre eau de l'endroit sous le Bassin versant. Ça a peut-être quelque chose à voir avec ça.}
+
+

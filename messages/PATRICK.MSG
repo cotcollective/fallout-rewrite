@@ -1,0 +1,52 @@
+{100}{}{Tu vois un homme en armure de cuir cloutée avec un assortiment bizarre de babioles.}
+{101}{}{Tu vois : Patrick, le Celte.}
+{102}{}{Salutations, voyageur. Qu'est-ce qui t'amène si loin ?}
+{103}{}{Je vadrouille, c'est tout.}
+{104}{}{Euh, pourquoi tu transportes tout ce bric-à-brac ?}
+{105}{}{Je dois trouver une puce de contrôle de purification d'eau.}
+{106}{}{Je tue tous ceux que je peux mettre à portée de tir. Prépare-toi à mourir.}
+{107}{}{Lub !}
+{108}{}{Je vois. Un peu comme moi, alors.}
+{109}{}{Oh ? Tu viens pas d'une des communautés d'ici ?}
+{110}{}{Tu peux m'indiquer une colonie à proximité ?}
+{111}{}{Alors c'est quoi ton histoire ?}
+{112}{}{Bon, à plus.}
+{113}{}{C'est pas du bric-à-brac ! Ce sont des marchandises !}
+{114}{}{Euh, d'accord. Salut.}
+{115}{}{Mhm. Alors c'est quoi ton histoire ?}
+{116}{}{Hmm. J'en ai jamais vu une comme ça. C'est quoi le problème ?}
+{117}{}{Cette puce contrôle la purification de l'eau de mon Abri. Elle a grillé, par contre.}
+{118}{}{Elle est cassée.}
+{119}{}{Je vadrouille de place en place, je vis de la musique et d'un peu de bricolage.}
+{120}{}{Tu fais quoi comme boulot ?}
+{121}{}{Tu chantes quoi comme musique ?}
+{122}{}{Bon, content de t'avoir rencontré. Salut.}
+{123}{}{En prenant la côte comme repère, t'as Shady Sands à environ une semaine vers l'intérieur, et Junktown à quelques jours au sud de là. Le Hub c'est juste encore quelques jours au sud de Junktown. Évite Nécropolis à l'est de tout ça, par contre. Ça vaut pas le coup.}
+{124}{}{Qu'est-ce que tu sais sur Shady Sands ?}
+{125}{}{Qu'est-ce que tu sais sur Junktown ?}
+{126}{}{Qu'est-ce que tu sais sur le Hub ?}
+{127}{}{Qu'est-ce que tu sais sur Nécropolis ?}
+{128}{}{Je crois pas que je pourrais t'aider avec ça. J'ai jamais eu vraiment l'occasion d'étudier la technologie des Abris d'avant-guerre.}
+{129}{}{Surtout un peu de bricolage électrique et mécanique. J'ai aidé Junktown avec leurs lumières et montré aux gens de Shady Sands un meilleur modèle pour leurs fourneaux.}
+{130}{}{Vraiment ? Tu crois que tu pourrais réparer une Puce d'eau ?}
+{131}{}{Oh, surtout de vieilles chansons folk et de la musique celtique. Ça change.}
+{132}{}{Tu connaîtrais pas « Na Gheala Mbeadh », comme ils disent je crois ?}
+{133}{}{Je vois. Tu fais quoi d'autre ?}
+{134}{}{Shady Sands est une petite communauté autosuffisante dirigée par Aradesh, un homme bon et un leader fort. Ils sont paisibles et travailleurs. C'est probablement la meilleure chance pour une nouvelle civilisation ici.}
+{135}{}{Shady Sands est une petite communauté agricole. Elle était dirigée par un homme bon nommé Aradesh, mais j'ai entendu dire qu'il est parti. C'est dommage. Sans lui je sais pas s'ils survivront.}
+{136}{}{Junktown ? Une petite ville de commerce. Bizarre jusqu'à ce qu'on s'y habitue. Elle est dirigée par le maire Killian Darkwater, un homme dur mais juste.}
+{137}{}{Junktown ? Une petite ville de commerce. Bizarre jusqu'à ce qu'on s'y habitue. Elle est dirigée par Gizmo, un magnat du jeu et baron du crime.}
+{138}{}{Junktown ? Une petite ville de commerce. Pas très remarquable.}
+{139}{}{Le Hub est un grand centre de commerce. On dit qu'on peut tout y trouver, et je dirais que c'est pas loin de la vérité.}
+{140}{}{Nécropolis est la ville des morts. Elle est habitée par des goules, les descendants d'humains qui s'étaient réfugiés dans un Abri là-bas. L'histoire dit que l'Abri a foiré d'une façon ou d'une autre, alors maintenant les seuls habitants sont des monstres mangeurs de charognes.}
+{141}{}{Elle a été envahie par une armée de mutants la dernière fois que j'en ai entendu parler. Je resterais loin de là, si j'étais toi.}
+{142}{}{Tu crois que cet Abri pourrait avoir des pièces que je pourrais récupérer ?}
+{143}{}{Possiblement, mais moi je risquerais pas les goules. Dernières nouvelles, ils ont une sorte de nouveau leader puissant.}
+{144}{}{Mais oui, certainement. Tu veux l'entendre ?}
+{145}{}{Bien sûr.}
+{146}{}{Nan.}
+{147}{}{[Patrick chante des chansons et vous vous remémorez le passé pendant plusieurs heures. Tu te sens revigoré.]}
+{148}{}{Salut. Je peux t'aider ?}
+{149}{}{Ouais, tu peux me donner des directions ?}
+{150}{}{Non, laisse tomber, merci.}
+

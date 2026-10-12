@@ -1,0 +1,64 @@
+{100}{}{Toi ! Arrête-toi là et fais face à la loi !}
+{101}{}{Merci d'avoir rapporté la Puce d'eau. Ça va vraiment aider le moral, et empêcher les gens d'enfreindre la loi de l'Abri.}
+{102}{}{Content de te revoir. Y a-t-il quelque chose que je puisse faire pour toi ?}
+{103}{}{Tu fais quoi ?}
+{104}{}{Ouais, j'ai besoin d'armes.}
+{105}{}{Pourquoi il y aurait une porte verrouillée dans l'Abri ?}
+{106}{}{Glop !}
+{107}{}{Hmmm. Je crois que tu devrais être ailleurs qu'ici. Bonne journée.}
+{108}{}{Je suis responsable de la sécurité de l'Abri et de l'application de la loi. Tu le sais peut-être pas, mais l'Abri tournerait pas aussi bien sans moi.}
+{109}{}{Hmm. Chouette. Merci.}
+{110}{}{Ça a l'air important.}
+{111}{}{Ça l'est. Sans un respect adéquat des lois, l'Abri deviendrait vite un endroit sans loi, sans direction. Ça mettrait en danger la sécurité de nous tous.}
+{112}{}{Maintenant que je suis allé dehors, y a-t-il des lois qui s'appliquent spécifiquement à moi ?}
+{113}{}{J'ai vu des endroits dans le monde extérieur qui souffrent parce qu'ils ont pas de lois.}
+{114}{}{Bon, même si les armes sont nécessaires dans le monde extérieur, ne les exhibe pas de manière menaçante ici. À part ça, je vois rien de particulier.}
+{115}{}{Merci.}
+{116}{}{Tu vois, je savais que ça arriverait. Les gens qui obéissent à la loi c'est la seule chose qui a sauvé l'Abri de la misère et de la destruction. Continue comme ça.}
+{117}{}{Le Superviseur ne m'a pas autorisé à ouvrir l'armurerie et à te donner plus d'armes. Je suis désolé, mais je peux pas t'aider. }
+{118}{}{S'il te plaît ! J'en ai vraiment besoin !}
+{119}{}{OK. Merci quand même.}
+{120}{}{Non. Je peux pas le faire.}
+{121}{}{Bonne journée.}
+{122}{}{Pour garder les armes loin de ceux qui n'y ont pas accès.}
+{123}{}{Qui y a accès ?}
+{124}{}{Ça me semble pas très juste.}
+{125}{}{La vie est pas juste, parfois. Mais notre loi l'est. Bonne journée.}
+{126}{}{Le Superviseur, moi-même et mon équipe de sécurité. C'est tout.}
+{127}{}{On dirait que seules les personnes dans le besoin y ont accès.}
+{128}{}{C'est vraiment une petite liste.}
+{129}{}{Oui, ça l'est. Je dois retourner au travail.}
+{130}{}{Oui, seules les personnes dans le besoin peuvent entrer.}
+{131}{}{Bon, j'en ai besoin. Ouvre la porte s'il te plaît.}
+{132}{}{Je suis désolé, c'est un bon argument, mais je peux pas te laisser entrer.}
+{133}{}{Hmm. Maintenant que tu le dis, on dirait bien que oui. Tiens, laisse-moi t'ouvrir la porte.}
+{134}{}{Qu'est-ce que je peux faire pour toi, }
+{135}{}{?}
+{136}{}{J'ai besoin de plus d'armes.}
+{137}{}{Tu te sens bien ?}
+{138}{}{Huh-huh.}
+{139}{}{Super. Ton intelligence me sidère. Je peux plus penser du tout.}
+{140}{}{Désolé, tu as eu tout ce qu'on peut épargner. Bonne journée.}
+{141}{}{J'aime pas ton espèce. Fauteurs de troubles. Tu devrais avoir honte.}
+{142}{}{Ouais, bon, pareil pour toi, tête de mouton.}
+{143}{}{Tu crois pas que tu es un peu dur ?}
+{144}{}{Surveille ton langage, ou je t'embarque pour manque de respect envers un agent de la loi.}
+{145}{}{Ouais, c'est ça. À plus tard.}
+{146}{}{Ça suffit. J'en ai marre que tu me harcèles.}
+{147}{}{Hmm. Possiblement. Ça devrait être mon boulot d'être impartial, mais j'ai peut-être dépassé les bornes cette fois. J'essaierai de faire mieux à l'avenir.}
+{148}{}{Hmm. Non. Probablement pas assez dur.}
+{149}{}{Bonne chance. J'espère que tu peux faire le boulot.}
+{150}{}{Tu ferais mieux de pas me décevoir.}
+{151}{}{Range ton arme, tout de suite.}
+{152}{}{Tu crois faire quoi avec ça ici ?}
+{153}{}{Je m'entraîne juste à viser.}
+{154}{}{Rien, désolé. Je voulais pas la sortir.}
+{155}{}{Pendouille.}
+{156}{}{Fais attention à comment tu m'appelles. Et ne sors pas d'arme à l'intérieur. C'est l'Abri, nom de dieu.}
+{157}{}{Tu ferais mieux de pas t'entraîner ici. Toi et moi on aura un sérieux problème si tu recommences.}
+{158}{}{Je savais que la vie dehors t'attirerait des ennuis.}
+{159}{}{Halte ! T'as pas le droit d'entrer là !}
+
+{1000}{}{Superviseur}
+{1100}{}{C'est l'autorité suprême de l'Abri. L'Abri obéit à ses décisions.}
+

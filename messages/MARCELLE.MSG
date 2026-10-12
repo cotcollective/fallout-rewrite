@@ -1,0 +1,87 @@
+{100}{}{Tu vois : Marcelles.}
+{101}{}{Tu vois une femme à l'air coriace.}
+{102}{}{Dieu merci, tu es là ! Un cinglé retient Sinthia en otage. Il menace de la tuer ! Tu dois l'aider.}
+{103}{}{Nan, me dérange pas.}
+{104}{}{Hmm. Je vais aller voir.}
+{105}{}{Merde !}
+{106}{}{Oh, pitié, j'espère que tu peux le faire. Il est dans sa chambre. Aide-la !}
+{107}{}{Tu es une personne incroyablement froide. Elle pourrait mourir sans ton aide.}
+{108}{}{Tant pis. C'est la vie.}
+{109}{}{Bon, me harcèle pas. Je vais regarder ça.}
+{110}{}{Aide Sinthia. Elle a des ennuis.}
+{111}{}{Merci d'avoir aidé Sinthia. D'habitude elle ne pose pas de problème. Tu mérites une bonne nuit de sommeil. C'est pour moi. Mais ne demande pas un autre cadeau.}
+{112}{}{Hnn. Voyou.}
+{113}{}{Merci.}
+{114}{}{Pas de problème. Chambre n°1. Suis-moi.}
+{115}{}{Bon séjour. Sois pas pénible.}
+{116}{}{Tu aurais dû sauver Sinthia. C'est ta faute si elle est morte. J'espère que tu es content de toi.}
+{117}{}{Ouais, c'est ça.}
+{118}{}{Hnnn.}
+{119}{}{Bienvenue au Crash House. Comment je peux t'aider, étranger ?}
+{120}{}{Je cherche de l'eau.}
+{121}{}{J'ai besoin d'une bonne nuit de sommeil.}
+{122}{}{Je cherche des infos.}
+{123}{}{Hnnn.}
+{124}{}{Ouais, on sert ton espèce aussi. Ça fera 25 capsules pour la nuit. Une semaine te coûtera 150 capsules.}
+{125}{}{Nan.}
+{126}{}{D'ac.}
+{127}{}{D'ac. S'maine.}
+{128}{}{Ouais, toi aussi. Bonne journée.}
+{129}{}{OK, merci. Ta chambre c'est la n°1. Suis-moi. Ne tire pas avec tes flingues ici, d'accord ?}
+{130}{}{Bon séjour.}
+{131}{}{Il me faut de l'argent avant de te louer une chambre.}
+{132}{}{Alors tu devrais essayer le Skum Pitt. J'ai entendu dire qu'on peut avoir pas mal d'eau dans sa gnôle là-bas.}
+{133}{}{J'en sais rien, mais je te loue une chambre. C'est un bon endroit pour se reposer et se soigner. 25 capsules la journée, ou 150 la semaine. La plupart prennent le tarif hebdo. Toi aussi, si tu veux mon avis.}
+{134}{}{OK. Une semaine.}
+{135}{}{Juste une nuit.}
+{136}{}{Non, merci.}
+{137}{}{Je suis juste gérante d'hôtel, mon coco. Ne m'en demande pas trop.}
+{138}{}{Voilà 50 capsules ; dis-moi ce que tu sais.}
+{139}{}{Je sais que tu es 50 capsules plus pauvre. Je fais pas dans les ragots, OK ? Reviens si tu veux une chambre.}
+{140}{}{Tu me prends pour quoi ? Une idiote ? Si tu veux me soudoyer, aie assez d'argent.}
+{141}{}{Bon retour, je peux faire quoi pour toi ?}
+{142}{}{Je veux louer une chambre.}
+{143}{}{Hnnn.}
+{144}{}{Tu loues déjà la chambre n°1 chez moi. Tu veux que je te montre où c'est ?}
+{145}{}{Bien sûr.}
+{146}{}{Nan.}
+{147}{}{Ouais.}
+{148}{}{Nan.}
+{149}{}{Et c'est toujours ta chambre. Bon séjour.}
+{150}{}{Tu connais le tarif. Un jour c'est 25 capsules. Une semaine c'est 150.}
+{151}{}{Nan.}
+{152}{}{Ouais.}
+{153}{}{S'maine.}
+{154}{}{Bien sûr. C'est 25 capsules par jour, ou 150 pour la semaine entière.}
+{155}{}{OK. Une semaine.}
+{156}{}{Juste une nuit.}
+{157}{}{Non, merci.}
+{158}{}{OK. La chambre n°1 est à toi. Bon séjour.}
+{159}{}{Ouais, tu veux quoi ?}
+{160}{}{Je veux louer une chambre.}
+{161}{}{Hnn.}
+{162}{}{Non. Dégage.}
+{163}{}{J'aime pas ta tronche. Je crois pas que je vais te louer une chambre.}
+{164}{}{J'ai vraiment besoin d'un endroit où rester.}
+{165}{}{Non. Bonne nuit.}
+{166}{}{OK. Une nuit. 100 capsules.}
+{167}{}{Quoi ! C'est scandaleux !}
+{168}{}{OK.}
+{169}{}{Fais avec. Oui ou non.}
+{170}{}{Non.}
+{171}{}{OK.}
+{172}{}{Bien. Tiens. Chambre n°1. Bonne nuit, le départ c'est à 11 heures.}
+{173}{}{C'est toi qui as tué Killian, hein ?}
+{174}{}{Ouais, c'est bien moi.}
+{175}{}{Nan, c'était pas moi. Vraiment pas.}
+{176}{}{Hnn.}
+{177}{}{Dehors ! T'es trop con pour réaliser ce que t'as fait, mais ma vie est un enfer maintenant !}
+{178}{}{Espèce de salaud. Je peux pas croire que tu l'as tué. C'était un homme bien, et maintenant j'en bave... dehors, et reviens pas.}
+{179}{}{Ouais, cause toujours, mais c'est pas ce que j'ai entendu. Tiens-toi bien par ici, ou je sors la vieille Betsy et je te fourre du plomb dans le cul.}
+{180}{}{Il est tard. J'espère que tu me fais pas perdre mon temps.}
+{181}{}{Hé ! Ce frigo c'est pour les clients seulement !}
+{182}{}{Non merci.}
+{183}{}{Marcelles se précipite pour affronter le pillard !}
+{184}{}{Euh, rien. Laisse tomber.}
+{185}{}{Euh, rien. Laisse tomber.}
+

@@ -1,0 +1,79 @@
+{100}{}{Tu vois un type à l'air louche.}
+{101}{}{Pssst ! Viens par ici.}
+{102}{}{Alors, qu'est-ce tu fais dans le Hub ?}
+{103}{}{Je vois vraiment pas en quoi ça te regarde.}
+{104}{}{Pourquoi ?}
+{105}{}{Je cherche quelque chose dont j'ai besoin.}
+{106}{}{Où est ma môman ?!?}
+{107}{}{Pas vraiment sûr, mon grand. On se reverra.}
+{108}{}{Ahh.}
+{109}{}{Ça me fait ni chaud ni froid. Je voyais juste si je pouvais être sympa comme tout. [Lemmy se détourne]}
+{110}{}{Eh bien, t'as l'air d'un homme d'affaires. Et je suis un homme d'affaires, et je pensais qu'on pourrait, euh, discuter, euh, affaires.}
+{111}{}{Eh bien, tu fais quoi par ici ?}
+{112}{}{Je crois que je vais juste te donner des affaires !}
+{113}{}{Je crois que je veux rien avoir à faire avec tes « affaires ».}
+{114}{}{Eh bien, on a tous des besoins. Je pourrais peut-être aider avec certains. Alors quels genres de besoins t'as ?}
+{115}{}{Eh bien, je cherche vraiment une Puce d'eau. Faut que j'en ramène une à mon peuple.}
+{116}{}{Des besoins, hein ? Je comprends les besoins, mais qu'est-ce que tu connais de la façon de satisfaire ces besoins ?}
+{117}{}{J'aurais besoin d'infos.}
+{118}{}{J'ai certainement pas besoin de quoi que ce soit dont tu pourrais parler.}
+{119}{}{Je fais un peu de ci, et un peu de ça. J'ai des trucs et des infos pour les gens, quoi qu'ils aient besoin ou cherchent.}
+{120}{}{Eh bien, j'ai bien besoin de trucs.}
+{121}{}{Y a quelque chose de précis que tu peux me dire ?}
+{122}{}{Je cherche une Puce d'eau. T'en aurais pas une, par hasard ?}
+{123}{}{On se verra plus tard.}
+{124}{}{Puce d'eau, hmmmm. Je crois pas avoir entendu parler d'un de ces trucs. À ta place, j'essaierais les Marchands d'Eau. Ils ont la mainmise sur toute l'eau par ici.}
+{125}{}{Alors tu fais quoi par ici ?}
+{126}{}{Alors quoi d'autre tu pourrais savoir ?}
+{127}{}{Merci pour l'info.}
+{128}{}{Pas de problème. Si y a autre chose que tu pourrais vouloir, tu viens parler à Lemmy en premier.}
+{129}{}{Alors, tu cherches des infos, hein ? Étant un homme d'affaires respectable, j'ai des frais, alors va me falloir quelques capsules pour te dire ce que tu dois savoir. Maintenant que c'est réglé, qu'est-ce tu veux savoir ?}
+{130}{}{Alors, tu crois que je pourrais en savoir un peu plus sur ces trucs de Puces d'eau, hein ? Eh bien, t'as peut-être raison. Mais ça va coûter. Je crois que 500 capsules feront l'affaire.}
+{131}{}{D'accord, c'est quoi l'info ?}
+{132}{}{Je te donne 400 à la place.}
+{133}{}{Je crois que tu dois me le dire, tout de suite, et sans les putains de capsules !}
+{134}{}{Trop cher pour moi.}
+{135}{}{Allons, allons. Je serais pas l'homme que je suis si je donnais l'info pour moins que ce qu'elle vaut. Reviens quand t'auras les capsules.}
+{136}{}{Tu essaies d'intimider le pauvre vieux Lemmy, hein ? Eh bien, j'ai pas peur des types comme toi. On se reverra.}
+{137}{}{[Lemmy prend ton argent]}
+{138}{}{Eh bien, c'est assez juste. Je prends ça à la place.}
+{139}{}{D'accord, d'accord, d'accord, vois-tu je blaguais juste au sujet de payer pour l'info. Bonne blague, hein ?}
+{140}{}{Eh bien, voilà ce que je sais sur les Puces d'eau. Ce que j'ai entendu, c'est qu'elles venaient toutes des Abris. Alors si je cherchais, je trouverais où sont le reste de ces Abris. Je sais pas exactement où sont tous les Abris, mais j'ai entendu dire qu'il y en a environ 4 par ici quelque part.}
+{141}{}{Je veux te poser quelques questions de plus.}
+{142}{}{Merci.}
+{143}{}{Bien sûr, quoi d'autre tu veux savoir ?}
+{144}{}{Quelque chose que tu sais sur les Puces d'eau que tu peux me dire ?}
+{145}{}{Qu'est-ce que tu sais sur Decker ?}
+{146}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{147}{}{Eh bien, je cherche une certaine marchandise, si tu vois ce que je veux dire.}
+{148}{}{Rien pour l'instant.}
+{149}{}{Bon, normalement ça me dérange pas de vendre des infos, mais tu tireras rien de Lemmy sur M. Decker.}
+{150}{}{D'accord, mais je peux te poser des questions sur d'autres trucs ?}
+{151}{}{Merci.}
+{152}{}{Caravanes disparues, hein ? Eh bien, je pourrais en savoir un bout. Mais ça va coûter 300 capsules.}
+{153}{}{D'accord, qu'est-ce que tu sais ?}
+{154}{}{Je te donne 240.}
+{155}{}{Je crois que tu dois me le dire, tout de suite, et sans les putains de capsules !}
+{156}{}{Trop cher pour moi.}
+{157}{}{Eh bien, je suis pas vraiment sûr, mais ce que j'ai entendu, c'est que c'est pas ce que tout le monde croit. Un nouveau type se lance dans l'action avec une espèce de mutants ou un truc comme ça. Mais me cite pas là-dessus.}
+{158}{}{Évidemment. Y a quelque chose sur quoi je peux te citer, Lemmy ?}
+{159}{}{Je peux te poser une autre question ?}
+{160}{}{Merci.}
+{161}{}{Bon, tu pourrais insinuer que Lemmy est pas un type réglo. Eh bien, t'as raison. Mais Lemmy est un type VIVANT.}
+{162}{}{D'accord, oublie ça. Je peux te poser une autre question ?}
+{163}{}{Eh bien, je vais faire de toi un type allongé qui respire plus !}
+{164}{}{Oublie ça. Salut.}
+{165}{}{Des trucs pour les besoins, hein ? Eh bien, je connais un type à Old Town qui peut probablement t'arranger avec des trucs comme ça. Mais tu sais quoi ? Faut qu'il sache qui tu es avant que tu te pointes à sa porte.}
+{166}{}{Laisse-moi deviner. Cette « invitation » va me « coûter » ?}
+{167}{}{Je vois où ça va. Je vais le trouver tout seul.}
+{168}{}{Exactement. Alors je pense... juste pour toi bien sûr... 1000 capsules pour que tu puisses parler à ce type sans qu'il te fasse sauter la tête d'abord.}
+{169}{}{D'accord, je paie ton prix.}
+{170}{}{Que dirais-tu de 800 capsules à la place ?}
+{171}{}{Parce que tu m'aimes tellement, Lemmy, pourquoi tu le fais pas gratis ? [Tu flex tes muscles]}
+{172}{}{Je peux pas me le permettre.}
+{173}{}{Eh bien, ce que tu dois faire, c'est trouver ton chemin jusqu'à Old Town. Là-bas y a un type qui s'appelle Vance. Parle-lui juste. Comme je l'ai dit, je lui ferai savoir que tu viens.}
+{174}{}{T'as tout du cœur. Je peux te poser quelques trucs de plus ?}
+{175}{}{Merci.}
+{176}{}{Désolé mec, j'ai des trucs à faire. Sympa de discuter, ceci dit.}
+{177}{}{Eh bien, t'es revenu parler à ton vieil ami Lemmy, hein ? Qu'est-ce que je peux faire pour toi ?}
+{178}{}{Eh bien, t'as l'air d'une femme d'affaires. Et je suis dans les affaires, alors je pensais qu'on pourrait, euh, discuter, euh, affaires.}

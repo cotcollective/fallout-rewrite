@@ -1,0 +1,139 @@
+{100}{}{Tu vois : Doc Morbid.}
+{101}{}{Je suis le Doc Morbid, je peux t'aider ?}
+{102}{}{Ouais, j'ai besoin d'aide.}
+{103}{}{J'ai besoin d'assistance médicale.}
+{104}{}{Non, pas aujourd'hui.}
+{105}{}{Nng.}
+{106}{}{Ouais.}
+{107}{}{Bon, très bien alors. Reviens nous voir.}
+{108}{}{Bon, si c'est pas aujourd'hui, alors peut-être dans un futur proche.}
+{109}{}{J'espère bien que non. Salut.}
+{110}{}{On verra bien, hein. Mais j'en doute.}
+{111}{}{Hmm, voyons voir.}
+{112}{}{Tu sembles en parfaite santé. Ça fera 10 capsules pour l'examen.}
+{113}{}{Dix capsules pour me dire ça ? Tu te fous de moi.}
+{114}{}{Tiens, prends ton argent.}
+{115}{}{Je ne plaisante jamais. Surtout quand il s'agit de traumatisme physique. Tu paieras ou je devrai recourir à d'autres formes de compensation, dont beaucoup sont bien plus douloureuses que de simplement payer mes honoraires.}
+{116}{}{OK, voilà ton argent.}
+{117}{}{Va te faire voir. Je m'en vais.}
+{118}{}{Comme tu veux. Cougar, Flash. Montrez à notre « patient » le labo.}
+{119}{}{Merci pour ta visite. Reviens nous voir.}
+{120}{}{On dirait que tu n'as pas assez d'argent pour payer mes services. J'ai une façon très spéciale de traiter avec les débiteurs et les menteurs — je ne traite pas. Flash et Cougar, emmenez notre nouvelle source de revenus au labo pour « traitement ».}
+{121}{}{OK, voilà tes résultats de test :}
+{122}{}{Tu es }
+{123}{}{Le coût total sera de }
+{124}{}{ capsules. Paiement exigé avant traitement. Pas d'exceptions. Tu paies ?}
+{125}{}{Oui, je paierai.}
+{126}{}{Non, j'ai pas l'argent. Tu me fais crédit ?}
+{127}{}{Non.}
+{128}{}{Ouais.}
+{129}{}{Nan.}
+{130}{}{Non. Je ne prête à personne, et je dis bien personne, aucune somme d'argent. Va-t'en, pouilleux.}
+{131}{}{C'est ta vie. Adieu.}
+{132}{}{Excellent. Commençons. Ça va peut-être faire un peu mal... }
+{133}{}{Et voilà. Reviens nous voir !}
+{134}{}{Oh, déjà de retour. Qu'est-ce que je peux faire pour toi ?}
+{135}{}{J'ai besoin de soins.}
+{136}{}{Rien, juste un peu de causette.}
+{137}{}{Wock !}
+{138}{}{Fais ça ailleurs s'il te plaît, je suis occupé.}
+{139}{}{Hmmm. J'aime pas ta tronche, étranger. Mais qu'est-ce que je peux faire pour toi ? Je ne refuse jamais, jamais un client payant.}
+{140}{}{J'ai besoin d'aide.}
+{141}{}{J'ai besoin d'assistance médicale.}
+{142}{}{Rien aujourd'hui, merci.}
+{143}{}{Ouaip.}
+{144}{}{Oh, c'est encore toi. J'aime ton style, même si je t'aime pas. Qu'est-ce que je peux faire pour toi ?}
+{145}{}{J'ai besoin de soins.}
+{146}{}{Rien, juste un peu de causette.}
+{147}{}{Wock !}
+{148}{}{Oh, c'est un client ! Qu'est-ce que je peux faire pour toi ?}
+{149}{}{J'ai besoin de soins.}
+{150}{}{Rien, juste un peu de causette.}
+{151}{}{Tu sembles content de me voir. Pourquoi ?}
+{152}{}{Wock !}
+{153}{}{Mes affaires ont baissé récemment. Je suis content de voir n'importe quel client, ces temps-ci. Non pas que ta compagnie me déplaise, bien sûr.}
+{154}{}{Excellent, j'ai besoin de soins.}
+{155}{}{Pourquoi tes affaires ont baissé ?}
+{156}{}{Bien sûr, je comprends. Bonne journée.}
+{157}{}{Bon, si tu as besoin de quoi que ce soit, passe nous voir. Personne ne bat mon service !}
+{158}{}{Au cas où tu l'aurais pas remarqué, j'ai de la concurrence.}
+{159}{}{ Se plaindre à Killian servira à rien. Il voit rien de mal chez les nouveaux venus.}
+{160}{}{ Ces satanés Enfants se sont installés à côté, et une bonne partie de mes affaires leur est passée. J'aime pas ça, mais je peux pas baisser mes prix pour égaler les leurs. Je peux seulement offrir un meilleur service.}
+{161}{}{Ahh, j'ai bien besoin de soins.}
+{162}{}{Hmm, de meilleurs prix, intéressant. Merci.}
+{163}{}{Ahh, un client fidèle. Excellent ces temps-ci ! Comment je peux t'aider ?}
+{164}{}{J'ai besoin de soins.}
+{165}{}{Rien, juste un peu de causette.}
+{166}{}{Wock !}
+{167}{}{J'espère que tu as une bonne raison de me déranger. Mon temps est extrêmement précieux.}
+{168}{}{Je suis en train de mourir ! Aide-moi !}
+{169}{}{Désolé de te déranger, mais j'ai besoin d'assistance.}
+{170}{}{Aggh !}
+{171}{}{Ton humour me fait pas rire. Sors s'il te plaît pour que je retourne à mon travail.}
+{172}{}{Hmm. Bon, tu m'as l'air bien. Tu as peut-être besoin de repos. Essaie le Crash House, au coin de la rue. Bonne nuit.}
+{173}{}{Désolé, je ne soigne pas les idiots à cette heure de la nuit. Quelque chose à propos des pleines lunes et de la folie, je suppose. Bonne nuit.}
+{174}{}{Toi encore. J'espère que tu as une autre bonne raison de me déranger... }
+{175}{}{Je suis en train de mourir ! Aide-moi !}
+{176}{}{Désolé de te déranger, mais j'ai besoin d'assistance.}
+{177}{}{Aggh !}
+{178}{}{en parfaite santé,}
+{179}{}{légèrement blessé,}
+{180}{}{modérément blessé,}
+{181}{}{grièvement blessé,}
+{182}{}{à l'article de la mort,}
+{183}{}{ selon mon opinion médicale.}
+{184}{}{ selon mes tests.}
+{185}{}{ sans aucun doute.}
+{186}{}{ selon mon humble opinion.}
+{187}{}{ Tu souffres définitivement d'un empoisonnement.}
+{188}{}{ Tu as été empoisonné.}
+{189}{}{ Tu savais que tu es empoisonné ?}
+{190}{}{ Tu as une toxine mortelle dans le sang.}
+{191}{}{ Tu as un léger empoisonnement aux radiations.}
+{192}{}{ Tu as un grave empoisonnement aux radiations.}
+{193}{}{ Ton corps a absorbé une quantité incroyable de radiations.}
+{194}{}{ J'ai jamais vu de telles lectures sur mon radscanneur. Je crois que tu es sur le point de mourir. Je te donne deux à trois semaines.}
+{195}{}{ Il n'y a pas grand-chose que je puisse faire.}
+{196}{}{J'espère que tu as une bonne raison de me déranger. Mon temps est extrêmement précieux.}
+{197}{}{Je suis en train de mourir ! Aide-moi !}
+{198}{}{Désolé de te déranger, mais j'ai besoin d'assistance.}
+{199}{}{Aggh !}
+{200}{}{Ton humour me fait pas rire. Sors s'il te plaît pour que je retourne à mon travail.}
+{201}{}{Hmm. Bon, tu m'as l'air bien. Tu as peut-être besoin de repos. Essaie le Crash House, au coin de la rue. Bonne nuit.}
+{202}{}{Désolé, je ne soigne pas les idiots la nuit. Quelque chose à propos des pleines lunes et de la folie, je suppose. Bonne nuit.}
+{203}{}{Toi encore. J'espère que tu as une autre bonne raison de me déranger... }
+{204}{}{Intrus ! C'est une pièce privée !}
+{205}{}{lui !}
+{206}{}{elle !}
+{207}{}{En garde, boucher !}
+{208}{}{Attends !}
+{209}{}{Ack !}
+{210}{}{Essaie pas de t'en sortir en parlant !}
+{211}{}{Pourquoi je devrais ?}
+{212}{}{Je suis pas un danger pour toi !}
+{213}{}{Je mets fin à ton opération, ici et maintenant !}
+{214}{}{Non ! Je te laisserai pas fermer mon opération ! Gretch, attrape }
+{215}{}{Pourquoi ?!}
+{216}{}{Je sais ce que tu fais ici, et je t'arrêterai pas.}
+{217}{}{Tu es visiblement bien plus puissant que moi.}
+{218}{}{C'est vrai. Malheureusement, tu en as trop vu. Hmm.}
+{219}{}{ Il faudra s'occuper de toi. Désolé.}
+{220}{}{ Tu dois prouver ta sincérité. Et je pourrais peut-être tirer un petit profit de ce marché.}
+{221}{}{Tu veux dire quoi ?}
+{222}{}{Pas de marché, pas question.}
+{223}{}{Bien. Comme tu veux !}
+{224}{}{Je vais te prendre quelque chose. Et après on sera quittes.}
+{225}{}{OK. }
+{226}{}{Pas question.}
+{227}{}{Excellent !}
+{228}{}{Doc Morbid lève un outil chirurgical, et, avant que tu puisses réagir, t'arrache un œil. C'est extrêmement douloureux.}
+{229}{}{Maintenant, la moitié de ce que tu viens de voir m'appartient de nouveau.}
+{230}{}{TU M'AS ARRACHÉ L'ŒIL ! ESPÈCE DE...}
+{231}{}{Allons, allons. Surveille ton langage.}
+{232}{}{Le docteur est sorti.}
+{233}{}{Je sais tout de toi et d'Iguana Bob, sale boucher.}
+{234}{}{Qu... qu'est-ce que tu veux dire ?}
+{235}{}{J'ai eu une petite conversation avec ton troll... }
+{236}{}{[Il regarde furtivement de droite et de gauche] Ça prouve rien. Gretch est un peu... lent d'esprit. Personne l'écoute par ici. Tu ferais mieux de partir.}
+{237}{}{Attends, on peut pas s'arranger ?}
+

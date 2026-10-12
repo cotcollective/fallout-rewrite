@@ -1,0 +1,58 @@
+{100}{}{Tu vois : le chevalier Paul.}
+{101}{}{Ahhh, tu es le nouvel Initié. Bienvenue à bord. Qu'est-ce que je peux faire pour toi ?}
+{102}{}{Qui es-tu et qu'est-ce que tu fais ici ?}
+{103}{}{Où je peux avoir des armes ?}
+{104}{}{Vree m'a dit que je pourrais voir une nouvelle arme.}
+{105}{}{Vous avez une Puce d'eau ?}
+{106}{}{Vous avez des pièces d'Armure Assistée ?}
+{107}{}{Hein ?}
+{108}{}{Rien, merci.}
+{109}{}{Je suis Paul, chef du Développement des Armes à Énergie.}
+{110}{}{Quel genre d'armes à énergie ?}
+{111}{}{Vous avez le pistolet laser que Vree a conçu ?}
+{112}{}{Laser, plasma... nomme-les, je les ai construites... ou au moins reconstruites.}
+{113}{}{Une chance que j'en aie une ?}
+{114}{}{C'est super. Continue ton bon travail. Salut.}
+{115}{}{Il faudrait que tu voies Michael pour qu'on te délivre une arme. Mais il peut pas t'autoriser pour ça, pour ça il faudrait que tu voies Talus.}
+{116}{}{Très bien, où je peux les trouver ?}
+{117}{}{OK, merci pour les infos. Salut.}
+{118}{}{Ils sont tous les deux au premier étage de la base. Talus est d'habitude dans la salle d'entraînement et Michael fait son devoir juste devant la réserve.}
+{119}{}{Merci. Je peux te poser d'autres questions ?}
+{120}{}{Merci. Je vais y aller.}
+{121}{}{Bien sûr. Qu'est-ce que je peux faire pour toi ?}
+{122}{}{Où je peux avoir de nouvelles armes ?}
+{123}{}{Vous avez une Puce d'eau ?}
+{124}{}{Vous avez des pièces pour Armure Assistée ?}
+{125}{}{Je peux voir le nouveau pistolet laser ?}
+{126}{}{En fait, je dois y aller. Salut.}
+{127}{}{Oui. Le dernier cri en technologie laser portative. [Il prend un petit pistolet sur une table de travail et te le tend]}
+{128}{}{Il est beau, je peux le garder ? }
+{129}{}{Quels dégâts ça fera à une personne ?}
+{130}{}{Celui-là te servira pas à grand-chose. Il manque encore les lentilles et l'amplificateur. [Il reprend le pistolet et le repose sur la table de travail] Si tu en veux vraiment un, va parler à Talus ou Michael.}
+{131}{}{Merci, où je peux les trouver ?}
+{132}{}{Merci, je devrais y aller.}
+{133}{}{Je peux te poser d'autres questions ?}
+{134}{}{Une Puce d'eau ? Celles des vieux abris Vault-Tec ?}
+{135}{}{Oui ! Vous en avez une ?}
+{136}{}{Non. Ces trucs c'étaient de la camelote, ils tombaient en panne tout le temps. On s'occupe pas de purifier notre propre eau ici. On se fait livrer l'eau par des caravanes du Hub.}
+{137}{}{OK. Merci. Bon je dois continuer à en chercher une. Salut.}
+{138}{}{Je pourrais te poser d'autres questions ?}
+{139}{}{Entre les mains d'un guerrier habile, ça pourrait couper une personne en deux. Le faisceau tranche la chair plus vite que tu peux passer ton doigt dans le sable.}
+{140}{}{Je peux garder celui-là ?}
+{141}{}{Non. Je travaille que sur les armes à énergie. Tu devrais aller voir Kyle si tu as des questions sur l'Armure Assistée.}
+{142}{}{En fait Kyle a pas les pièces, c'est pour ça que je les cherche.}
+{143}{}{Merci. Salut.}
+{144}{}{Bon, je peux pas t'aider avec ça. Désolé.}
+{145}{}{Merci. Je dois y aller. Salut.}
+{146}{}{Je peux te poser d'autres questions ?}
+{147}{}{Salut, Initié }
+{148}{}{. Qu'est-ce que je peux faire pour toi ?}
+{149}{}{Qui es-tu et qu'est-ce que tu fais ici ?}
+{150}{}{Où je peux avoir des armes ?}
+{151}{}{Vree m'a dit que je pourrais voir une nouvelle arme.}
+{152}{}{Vous avez une Puce d'eau ?}
+{153}{}{Vous avez des pièces d'Armure Assistée ?}
+{154}{}{Hein ?}
+{155}{}{Rien, merci.}
+{156}{}{Euh... pars s'il te plaît avant de baver sur quelque chose d'important.}
+

@@ -1,0 +1,86 @@
+{100}{}{Je peux pas croire les choses que tu as faites.}
+{101}{}{Je m'en fiche. Je suis blessé. Soigne-moi.}
+{102}{}{Hngh !}
+{103}{}{Non. J'ai fait le vœu de ne pas blesser la vie, mais je ne t'aiderai pas.}
+{104}{}{Le manque d'intelligence n'excuse pas ce que tu as fait. Va-t'en, je ne te parlerai plus.}
+{105}{}{Oh mon dieu, tu es grièvement blessé. Tiens, laisse-moi t'aider.}
+{106}{}{Bon retour, }
+{107}{}{. Comment avance la recherche ?}
+{108}{}{Ça avance pas mal.}
+{109}{}{J'ai besoin d'aide.}
+{110}{}{Hein ?}
+{111}{}{Hmm... Ah. Oui. Tiens, j'ai trouvé ça. Utilise-les quand tu auras besoin d'un coup de pouce.}
+{112}{}{Bien, continue comme ça. Et dis-moi si tu as besoin de quoi que ce soit.}
+{113}{}{Qu'est-ce que je peux faire pour toi ?}
+{114}{}{J'ai besoin de soins.}
+{115}{}{J'ai besoin de drogues.}
+{116}{}{J'ai besoin d'autres stimpaks.}
+{117}{}{Zut !}
+{118}{}{Hein.}
+{119}{}{Je ne suis pas autorisé à t'en donner. Désolé.}
+{120}{}{Quel rabat-joie ! Merci pour rien.}
+{121}{}{J'en ai un besoin urgent. Sans les drogues, la sécurité de l'Abri est en danger !}
+{122}{}{Désolé, je peux pas t'en donner.}
+{123}{}{Bon, puisque tu le mets comme ça. Mais dis à personne que je t'ai laissé les prendre. Ils sont extrêmement addictifs et dangereux à utiliser.}
+{124}{}{Merci !}
+{125}{}{Les stimpaks sont rationnés. Tu peux prendre ce qu'il y a dans le conteneur médical sur le mur à l'extérieur de cette pièce. Prends-en autant qu'il te faut, mais utilise-les avec parcimonie. Ça va prendre un moment avant qu'on puisse t'en procurer d'autres.}
+{126}{}{Hmm. Voyons si tu es blessé.}
+{127}{}{Tu m'as l'air OK. Les blessures légères guérissent avec le temps. Reviens si c'est pire et on te réparera.}
+{128}{}{Tu as l'air blessé. Tiens, laisse-moi t'aider.}
+{129}{}{Si tu as besoin de soins, reviens me voir ou utilise des stimpaks qu'on a. Tu peux prendre d'autres stimpaks dans le casier mural à l'extérieur de cette pièce.}
+{130}{}{Allonge-toi ici, et on va commencer le processus de guérison.}
+{131}{}{Tu es complètement guéri. Fais attention à toi à l'avenir, et reviens si tu as besoin d'autres soins. Bonne journée !}
+{132}{}{Les scanners médicaux ont détecté un empoisonnement mortel aux radiations. Tu veux qu'on tente un soin ? Ça va prendre un moment.}
+{133}{}{Les scanners médicaux ont détecté un grave empoisonnement aux radiations. Tu veux qu'on tente un soin ? Ça va prendre un moment.}
+{134}{}{Les scanners médicaux ont détecté un empoisonnement majeur aux radiations. Tu veux qu'on tente un soin ? Ça va prendre un moment.}
+{135}{}{Les scanners médicaux ont détecté un léger empoisonnement aux radiations. Tu veux qu'on tente un soin ? Ça va prendre un moment.}
+{136}{}{Tu vois le médecin de l'Abri 13.}
+{137}{}{OK, on va regarder ça. Ne bouge pas un instant.}
+{138}{}{Non.}
+{139}{}{OK, fais-le.}
+{140}{}{Combien de temps ?}
+{141}{}{Ça prendra combien de temps, et combien de radiations tu peux enlever ?}
+{142}{}{Nan.}
+{143}{}{Ouais.}
+{144}{}{OK, très bien ; c'est ton corps.}
+{145}{}{Ça prendra environ }
+{146}{}{ heures. Le RadAway irait un peu plus vite, mais on n'en a pas à revendre. On commence ?}
+{147}{}{Non.}
+{148}{}{Oui.}
+{149}{}{Ça prendra environ }
+{150}{}{ heures. Je pourrai enlever environ }
+{151}{}{ rads. Le RadAway irait un peu plus vite, mais on n'en a pas à revendre. On commence ?}
+{152}{}{Non.}
+{153}{}{Oui.}
+{154}{}{Ça va être vraiment, vraiment douloureux.}
+{155}{}{T'inquiète, ça devrait pas faire mal du tout.}
+{156}{}{OK, tu devrais te sentir beaucoup mieux maintenant. Fais attention là-dehors.}
+{157}{}{J'ai entendu ce que tu as fait, tu as sauvé l'Abri. Merci.}
+{158}{}{[Suite]}
+{159}{}{Le médecin refuse de te parler.}
+{160}{}{Fais pas ça, s'il te plaît.}
+#
+# Fallout Fixt:
+#
+{161}{}{J'ai été empoisonné !}
+{162}{}{Je suis gravement irradié, aide-moi ! Ma peau fond !}
+{163}{}{De rien. Salut !}
+{164}{}{[Continuer]}
+{165}{}{Ça prendra moins d'}
+{166}{}{une heure.}
+{167}{}{ Je pourrai te guérir complètement de ton mal des radiations, ce qui fait }
+{168}{}{ heures. Je pourrai te guérir complètement de ton mal des radiations, ce qui fait }
+{169}{}{ et demie}
+{170}{}{ Le RadAway irait un peu plus vite, mais on n'en a pas à revendre. On commence ?}
+{171}{}{Hmph.}
+{172}{}{Tu cherches un truc plus fort ? Dans quel pétrin tu t'es fourré ? Je devrais pas faire ça, mais tiens, prends ça. Plus rien pour toi après, et fais attention.}
+
+# Medic Tell-Me-Abouts
+
+{1000}{}{Médecin}
+{1001}{}{Soins}
+
+{1100}{}{Je suis là en tout temps, pour offrir assistance et soins.}
+{1101}{}{Je peux te soigner si tu es blessé.}
+
+

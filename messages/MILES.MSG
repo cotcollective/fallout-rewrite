@@ -1,0 +1,55 @@
+{100}{}{Tu vois : Miles, le chimiste d'Adytum.}
+{101}{}{Tu vois un homme maigre en blouse blanche.}
+{102}{}{Je crois pas qu'on se soit rencontrés. Je suis Miles. Qu'est-ce que je peux faire pour toi ?}
+{103}{}{Je regarde juste autour, merci.}
+{104}{}{Cette blouse te donne l'air d'un scientifique. Tu étudies quoi ?}
+{105}{}{Hein ?}
+{106}{}{Bon, profite bien de ton séjour dans notre petite ville.}
+{107}{}{Je suis chimiste. Surtout, je fabrique des amorces et de la poudre pour qu'on puisse réutiliser les douilles en laiton des balles. Mais je bricole aussi avec d'autres produits chimiques.}
+{108}{}{Donc tu fabriques des balles pour Adytum.}
+{109}{}{Où tu trouves le soufre, le nitrate de potassium et les autres produits chimiques ?}
+{110}{}{Avec quels autres produits chimiques tu travailles ?}
+{111}{}{Merci pour les infos.}
+{112}{}{Oui, même si c'est Smitty qui coule vraiment les balles. Moi je recharge juste les douilles en laiton.}
+{113}{}{Mais les marchands du Hub se font du profit sur ton dos et celui de la ville.}
+{114}{}{C'est rare de trouver quelqu'un qui apprécie la chimie ! Mais pour répondre à ta question, certains matériaux viennent des marchands du Hub ; d'autres je les fabrique ou je les trouve dans le coin. Par exemple, les tas de fumier des brahmines sont une bonne source, ainsi que certaines souches de champignons que je cultive.}
+{115}{}{Bon, j'ai essayé d'avoir des acides forts pour que Smitty puisse les utiliser pour la gravure. J'ai aussi essayé de fabriquer des teintures et des encres permanentes. Mais sans accès aux encres naturelles, c'est difficile.}
+{116}{}{De rien.}
+{117}{}{Oh là là. J'ai bien peur de pas pouvoir t'aider.}
+{118}{}{Salut. Je peux t'aider ?}
+{119}{}{Oui, bon, il faut bien vivre. Comme les fermes hydroponiques marchent plus, on doit acheter la nourriture aux marchands, et les balles c'est la seule chose qu'on a à vendre.}
+{120}{}{Je pourrais essayer d'avoir les pièces pour réparer les fermes hydroponiques.}
+{121}{}{Oh. Bon, c'est dommage.}
+{122}{}{Vraiment ? Ce serait merveilleux ! Il nous manque juste quelques pièces, mais je suis sûr que si tu pouvais dénicher les bonnes pièces, on pourrait être autosuffisants ! Sammael pourra peut-être t'aider.}
+{123}{}{Tu as trouvé les pièces ?}
+{124}{}{Oui, les voilà.}
+{125}{}{Pas encore, tu m'as dit de demander à qui pour ça ?}
+{126}{}{Il faudra que tu parles à Sammael. Tu le trouveras d'habitude dans une tente près des fermes pendant la journée.}
+{127}{}{[Miles examine les pièces] Ce sont bien elles, mais on dirait que Smitty va devoir bosser un peu dessus. Tu peux les lui apporter ?}
+{128}{}{J'ai d'autres choses à régler. Tu peux pas le faire toi-même ?}
+{129}{}{Bien sûr, je reviendrai après qu'il les aura réparées.}
+{130}{}{Bien sûr, merci de les avoir trouvées pour nous.}
+{131}{}{Et... }
+{132}{}{Pas de problème.}
+{133}{}{Oh. J'ai failli oublier. Voilà de quoi te remercier pour ton dérangement. (Miles te donne des capsules et des stimpaks.)}
+{134}{}{Tu as pu apporter les pièces à Smitty ?}
+{135}{}{[Miles prend les pièces réparées] On dirait que Smitty a fait du bon boulot. Merci pour ton aide, et voilà de quoi te remercier.}
+{136}{}{[Miles te donne des capsules et des stimpaks.]}
+{137}{}{Si jamais tu repasses par ici, tu devrais venir nous voir, Smitty et moi. On pourrait t'aider avec des ajustements sur ton équipement. Smitty fait des merveilles avec certaines armes, et moi je peux aider avec certains types d'armures.}
+{138}{}{On dirait que tu as trouvé une Armure Assistée. J'ai entendu parler d'un procédé chimique que je pourrais utiliser pour durcir la surface de l'armure. Mais il me manque des infos qui pourraient me donner les derniers indices sur la formule et les réactifs nécessaires. J'ai entendu dire que la bibliothécaire du Hub, Mme Stapleton, a des journaux et des livres qui pourraient servir. Si tu pouvais les lui prendre, je pourrais probablement tester le procédé sur ton armure.}
+{139}{}{Ça marche. Je vais aller parler à Mme Stapleton.}
+{140}{}{J'ai mieux à faire que d'aller chercher autre chose pour toi.}
+{141}{}{Bon, si jamais tu changes d'avis, va voir Mme Stapleton et reviens par ici.}
+{142}{}{Tu as eu l'occasion d'aller au Hub voir Mme Stapleton ?}
+{143}{}{Ouais, voilà les livres.}
+{144}{}{Pas encore.}
+{145}{}{[Miles prend les livres et commence à les feuilleter.] Hmmmm. Oui, hmmmm. [Il marmonne pour lui-même encore quelques minutes.] Bon, je crois que je peux comprendre, mais il faudra une journée entière pour que la liaison se fasse. Ça te va ?}
+{146}{}{Pas de problème.}
+{147}{}{Désolé, j'ai pas le temps.}
+{148}{}{Bon, quand tu auras le temps, reviens et je ferai le procédé sur ton armure.}
+{149}{}{[Miles prend ton armure.]}
+{150}{}{[Miles te rend ton armure, elle semble briller un peu plus qu'avant.] Bon, je crois que ça a marché ! J'espère que ça t'aidera.}
+{151}{}{Qu'est-il arrivé à ton Armure Assistée ? Je peux t'aider que si tu as une Armure Assistée.}
+{152}{}{Content de te voir, mais je suis en plein milieu de recherches.}
+{153}{}{Je peux rien faire avec ce type d'armure. Désolé.}
+

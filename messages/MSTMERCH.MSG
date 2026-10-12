@@ -1,0 +1,64 @@
+{100}{}{Tu vois un Marchand Maître}
+{101}{}{Arrêtez ce voleur !}
+{102}{}{...Je me fiche de ce qu'ils disent. Il nous faut de nouvelles pièces... Oh, oui. Désolé. Qu'est-ce que je peux faire pour toi ?}
+{103}{}{Je veux un boulot.}
+{104}{}{Vous avez une Puce d'eau ?}
+{105}{}{Rien, salut.}
+{106}{}{Shek.}
+{107}{}{Bien sûr, super. T'es embauché. Attends. Quel poste ? Oh, garde de caravane, c'est ça ? Ouais, bien sûr. Tu peux bosser pour nous. T'as l'air correct. Autre chose ?}
+{108}{}{Non.}
+{109}{}{Oui, vous avez une Puce d'eau ?}
+{110}{}{Veh ?}
+{111}{}{Désolé, pas le temps pour les bêtises !}
+{112}{}{Puce d'eau... hmm. Oh, ces vieilles puces de contrôle de purificateurs des Abris. Bon, je suis sûr de parler pour toute la ville en disant que tu n'en trouveras pas ici. Sans l'équipement adéquat elles valent rien. Seul un Abri, ou peut-être Nécropolis en aurait l'usage. Pourquoi tu demandes ?}
+{113}{}{Nécropolis ? Pourquoi ils en auraient besoin ?}
+{114}{}{La puce de mon Abri a lâché et je cherche un remplacement.}
+{115}{}{Juste par curiosité.}
+{116}{}{Je peux pas dire.}
+{117}{}{Vraiment ? Bon comme tu as probablement entendu, on fournit pas mal d'eau dans le coin. Je suis sûr qu'on pourrait arranger l'envoi d'une caravane jusqu'à ton Abri contre paiement.}
+{118}{}{On parle de combien ?}
+{119}{}{Je sais pas si je peux te faire confiance.}
+{120}{}{Non merci.}
+{121}{}{Ouais, si tu le dis.}
+{122}{}{Alors je suis désolé, je crois pas que je puisse aider.}
+{123}{}{Tu peux pas me faire confiance ?!? On me confie régulièrement des livraisons d'eau à des gens bien plus parano que toi ! Tu nous prends pour quoi ? Des terroristes ?}
+{124}{}{OK très bien. Combien d'argent tu veux pour lancer les caravanes ?}
+{125}{}{Je suis désolé. Je voulais rien insinuer, mais je peux pas prendre le risque.}
+{126}{}{Bon, si tu changes d'avis, dis-le-moi. Je suis très curieux maintenant.}
+{127}{}{Salut.}
+{128}{}{J'ai besoin d'une Puce d'eau.}
+{129}{}{Je cherche toujours une Puce d'eau.}
+{130}{}{Je veux un boulot.}
+{131}{}{Salut.}
+{132}{}{Bien sûr, super. T'es embauché. Attends. Quel poste ? Oh, garde de caravane, c'est ça ? Ouais, bien sûr. Tu peux bosser pour nous. T'as l'air correct.}
+{133}{}{On a déjà fait ça. T'es prêt à payer le prix pour lancer les caravanes d'eau ?}
+{134}{}{Tout à l'heure tu as dit que Nécropolis pourrait avoir une Puce d'eau. Pourquoi ils en auraient besoin ?}
+{135}{}{On parle de combien ?}
+{136}{}{Non, pas encore.}
+{137}{}{Bon, c'est juste une supposition en fait. On a essayé de lancer une route de caravane vers Nécropolis une fois, mais ils ont refusé de commercer avec nous. Personne de sensé refuse de l'eau ces temps-ci à moins d'avoir un approvisionnement fiable. J'imagine qu'ils doivent avoir leur propre purificateur ou ils seraient morts depuis longtemps. Alors tu veux qu'on aille jusqu'à ton Abri ?}
+{138}{}{Oui, ça va me coûter combien ?}
+{139}{}{Non merci.}
+{140}{}{Bon, c'est assez loin. 2000 capsules devraient couvrir la caravane initiale, et je suis sûr que ton Abri aura des trucs à échanger pour nous faire continuer un moment. Mais avec nos réserves actuelles, j'imagine qu'on pourra faire tenir ton Abri que 100 jours de plus environ.}
+{141}{}{Très bien, voilà l'argent.}
+{142}{}{L'Abri devrait pouvoir couvrir la plupart de ton paiement initial. Pourquoi je te donnerais pas 1000 pour commencer.}
+{143}{}{C'est assez loin, mais l'Abri a plein de marchandises pour te rembourser ton avance. Alors, que dirais-tu de 500 à la place ?}
+{144}{}{J'ai pas les capsules. Je reviendrai quand je les aurai.}
+{145}{}{On dirait que tu n'as pas assez d'argent, reviens quand tu l'auras. Rappelle-toi qu'il te faut }
+{146}{}{ capsules.}
+{147}{}{OK, je peux commencer à envoyer les caravanes jusqu'à ton Abri aujourd'hui. Maintenant tu dois savoir, les caravanes sont assez visibles en traversant le désert. Alors, envoyer les caravanes par là-bas va donner une assez bonne idée à quiconque chercherait ton Abri. T'es toujours sûr de vouloir les envoyer par là ?}
+{148}{}{Je suppose que non.}
+{149}{}{Oui, l'Abri a besoin d'eau.}
+{150}{}{Ça me semble assez juste. La technologie des Abris peut se vendre à très bon prix ici au Hub.}
+{151}{}{Désolé, mais je peux accepter que le paiement complet.}
+{152}{}{Ça me semble assez juste. La technologie des Abris peut se vendre à très bon prix ici au Hub.}
+{153}{}{Désolé, mais je peux accepter que le paiement complet.}
+{154}{}{Tu vas payer le montant que j'ai demandé pour lancer les caravanes d'eau ?}
+{155}{}{OK, elles partiront dans quelques heures.}
+{156}{}{Je suis désolé, mais les Marchands d'Eau ne traiteront plus avec toi.}
+{157}{}{Tu as les }
+{158}{}{ capsules pour qu'on lance la caravane d'eau vers ton Abri ?}
+
+# 200-201 added with patch 1.3 from TeamX
+{200}{}{C'est quoi ce bordel ?! C'est TOI ? Après que tu aies perdu toutes nos satanées caravanes ? Dégage d'ici ! Tu bosses plus pour nous.}
+{201}{}{Toi encore ?! Dis rien ! Merde, tu les as abandonnées. Je sais pas si c'est juste, mais je vais peut-être te donner une dernière chance. Va parler au conducteur.}
+
