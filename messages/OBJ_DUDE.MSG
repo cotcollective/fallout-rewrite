@@ -1794,9 +1794,9 @@
 {17812}{}{le Glow}
 {17813}{}{les Régulateurs}
 {17814}{}{les Fouineurs}
-{17815}{}{le Boneyard}
-{17816}{}{Boneyard}
-{17817}{}{L.A. Boneyard}
+{17815}{}{le Cimetière}
+{17816}{}{le Cimetière}
+{17817}{}{le Cimetière de L.A.}
 {17818}{}{}
 {17819}{}{}
 {17820}{}{}
@@ -1894,9 +1894,9 @@
 {17912}{}{C'est un mythe.}
 {17913}{}{Ils nous protègent.}
 {17914}{}{Ils sortent chercher des trucs.}
-{17915}{}{T'es idiot ou quoi ? L.A. Boneyard, c'est ici ; t'es dedans.}
-{17916}{}{T'es idiot ou quoi ? L.A. Boneyard, c'est ici ; t'es dedans.}
-{17917}{}{T'es idiot ou quoi ? L.A. Boneyard, c'est ici ; t'es dedans.}
+{17915}{}{T'es idiot ou quoi ? le Cimetière de L.A., c'est ici ; t'es dedans.}
+{17916}{}{T'es idiot ou quoi ? le Cimetière de L.A., c'est ici ; t'es dedans.}
+{17917}{}{T'es idiot ou quoi ? le Cimetière de L.A., c'est ici ; t'es dedans.}
 
 #
 # Info level 2 [People who know something]
@@ -1916,9 +1916,9 @@
 {18012}{}{le Glow}
 {18013}{}{les Régulateurs}
 {18014}{}{les Fouineurs}
-{18015}{}{le Boneyard}
-{18016}{}{Boneyard}
-{18017}{}{L.A. Boneyard}
+{18015}{}{le Cimetière}
+{18016}{}{le Cimetière}
+{18017}{}{le Cimetière de L.A.}
 {18018}{}{}
 {18019}{}{}
 {18020}{}{}
@@ -2016,9 +2016,9 @@
 {18112}{}{On dit que c'est loin, loin au sud.}
 {18113}{}{Ils nous protègent des gangs et maintiennent la paix.}
 {18114}{}{Ils sortent chercher des trucs.}
-{18115}{}{T'es idiot ou quoi ? L.A. Boneyard, c'est ici ; t'es dedans.}
-{18116}{}{T'es idiot ou quoi ? L.A. Boneyard, c'est ici ; t'es dedans.}
-{18117}{}{T'es idiot ou quoi ? L.A. Boneyard, c'est ici ; t'es dedans.}
+{18115}{}{T'es idiot ou quoi ? le Cimetière de L.A., c'est ici ; t'es dedans.}
+{18116}{}{T'es idiot ou quoi ? le Cimetière de L.A., c'est ici ; t'es dedans.}
+{18117}{}{T'es idiot ou quoi ? le Cimetière de L.A., c'est ici ; t'es dedans.}
 
 #
 # Info level 3 [People who know more than something but less than everything]
@@ -2038,9 +2038,9 @@
 {18212}{}{le Glow}
 {18213}{}{les Régulateurs}
 {18214}{}{les Fouineurs}
-{18215}{}{le Boneyard}
-{18216}{}{Boneyard}
-{18217}{}{L.A. Boneyard}
+{18215}{}{le Cimetière}
+{18216}{}{le Cimetière}
+{18217}{}{le Cimetière de L.A.}
 {18218}{}{}
 {18219}{}{}
 {18220}{}{}
@@ -2137,10 +2137,10 @@
 {18311}{}{La ville des morts ? Paraît que c'est un endroit habité par d'étranges cannibales, loin à l'est. J'irais pas si j'étais toi.}
 {18312}{}{C'est un endroit bien radioactif, loin, loin au sud, à ce qu'on dit.}
 {18313}{}{C'est la police d'Adytum. Ils nous protègent des gangs. Caleb est le chef.}
-{18314}{}{Les Fouineurs fouillent le Boneyard à la recherche d'équipement de valeur. Sammael les dirige.}
-{18315}{}{Le Boneyard de l'Ange, c'est les restes de l'ancienne ville de Los Angeles. On est en plein dedans.}
-{18316}{}{Le Boneyard de l'Ange, c'est les restes de l'ancienne ville de Los Angeles. On est en plein dedans.}
-{18317}{}{Le Boneyard de l'Ange, c'est les restes de l'ancienne ville de Los Angeles. On est en plein dedans.}
+{18314}{}{Les Fouineurs fouillent le Cimetière à la recherche d'équipement de valeur. Sammael les dirige.}
+{18315}{}{Le le Cimetière de l'Ange, c'est les restes de l'ancienne ville de Los Angeles. On est en plein dedans.}
+{18316}{}{Le le Cimetière de l'Ange, c'est les restes de l'ancienne ville de Los Angeles. On est en plein dedans.}
+{18317}{}{Le le Cimetière de l'Ange, c'est les restes de l'ancienne ville de Los Angeles. On est en plein dedans.}
 
 #
 #    FOLLOWERS OF THE APOCALYPSE
@@ -2156,7 +2156,7 @@
 {18407}{}{Junktown}
 {18408}{}{Puce d'eau}
 {18409}{}{Nicole}
-{18410}{}{le Boneyard}
+{18410}{}{le Cimetière}
 {18411}{}{}
 {18412}{}{}
 {18413}{}{}
@@ -2256,7 +2256,7 @@
 {18507}{}{Une ville moyenne au nord du Hub.}
 {18508}{}{Je peux pas t'aider, désolé.}
 {18509}{}{C'est notre chef.}
-{18510}{}{Ici, c'est le Boneyard.}
+{18510}{}{Ici, c'est le Cimetière.}
 
 #
 # Info level 2 [People who know something]
@@ -2271,7 +2271,7 @@
 {18607}{}{Junktown}
 {18608}{}{Puce d'eau}
 {18609}{}{Nicole}
-{18610}{}{le Boneyard}
+{18610}{}{le Cimetière}
 {18611}{}{}
 {18612}{}{}
 {18613}{}{}
@@ -2363,7 +2363,7 @@
 {18699}{}{}
 {18700}{}{Une petite ville au sud. Certains nous rendent visite de temps en temps.}
 {18701}{}{Nous sommes les Disciples de l'Apocalypse. Nous portons ce nom car nous venons après la tempête de la guerre, pour apporter le baume de la paix.}
-{18702}{}{Une étrange secte au sud d'Adytum et du Boneyard. Nicole dit qu'ils manigancent quelque chose.}
+{18702}{}{Une étrange secte au sud d'Adytum et du Cimetière. Nicole dit qu'ils manigancent quelque chose.}
 {18703}{}{Un gang ultra-violent à l'ouest.}
 {18704}{}{Un gang à l'est. Ils utilisent des couteaux vibrants.}
 {18705}{}{Un gang venu du Hub qui vend des armes. Ils sont au nord.}
@@ -2371,7 +2371,7 @@
 {18707}{}{Junktown est une petite ville juste au nord du Hub.}
 {18708}{}{Je peux pas t'aider pour ça.}
 {18709}{}{C'est notre chef. Elle a la vision de ramener la paix dans un monde divisé.}
-{18710}{}{Ici, c'est le Boneyard de l'Ange, les restes de l'ancienne ville de Los Angeles.}
+{18710}{}{Ici, c'est le Cimetière de l'Ange, les restes de l'ancienne ville de Los Angeles.}
 
 #
 # Info level 3 [People who know more than something but less than everything]
@@ -2386,7 +2386,7 @@
 {18807}{}{Junktown}
 {18808}{}{Puce d'eau}
 {18809}{}{Nicole}
-{18810}{}{le Boneyard}
+{18810}{}{le Cimetière}
 {18811}{}{}
 {18812}{}{}
 {18813}{}{}
@@ -2478,7 +2478,7 @@
 {18899}{}{}
 {18900}{}{Une petite ville au sud. Des gens bien, quoiqu'un peu paranoïaques. Certains travaillent avec nous de temps en temps.}
 {18901}{}{Nous sommes les Disciples de l'Apocalypse. Notre devoir est de ramener la paix et le savoir dans le monde, et de veiller à ce que les armes de guerre ne balafrent plus jamais la terre.}
-{18902}{}{La Cathédrale est un grand bâtiment au sud du Boneyard. Les Enfants sont une secte qui vénère un dieu sombre et maléfique. Il faut les arrêter avant qu'ils répandent leur religion par la violence.}
+{18902}{}{La Cathédrale est un grand bâtiment au sud du Cimetière. Les Enfants sont une secte qui vénère un dieu sombre et maléfique. Il faut les arrêter avant qu'ils répandent leur religion par la violence.}
 {18903}{}{Des consanguins et des chacals. Ils attaquent tout ce qui bouge et qui n'est pas des leurs. Ils vivent à l'ouest dans une forteresse entourée de pièges.}
 {18904}{}{Un groupe singulièrement dangereux à l'est, qui se bat au couteau vibrant. Leur chef, Razor, venue du Hub, en a fait une famille féroce.}
 {18905}{}{C'est un gang qui vit dans un entrepôt au nord, entouré de douves de boue radioactive. Ils vendent des armes aux autres gangs.}
@@ -2486,7 +2486,7 @@
 {18907}{}{C'est une petite ville au nord du Hub. Paraît que c'est une bonne étape pour le voyageur fatigué.}
 {18908}{}{J'ai lu des trucs sur la technologie des Abris, mais ça me dépasse un peu.}
 {18909}{}{Nicole est notre chef. La clairvoyance et la spiritualité la poussent à ramener la paix dans un monde brisé par la guerre.}
-{18910}{}{Ici, c'est le cœur du Boneyard de l'Ange, nommé d'après l'ancienne ville de Los Angeles et les squelettes qui jonchaient l'endroit après la Bombe.}
+{18910}{}{Ici, c'est le cœur du Cimetière de l'Ange, nommé d'après l'ancienne ville de Los Angeles et les squelettes qui jonchaient l'endroit après la Bombe.}
 
 #
 # MBENT.MAP     (19000)
@@ -3066,7 +3066,7 @@
 {22607}{}{Junktown}
 {22608}{}{la Confrérie de l'Acier}
 {22609}{}{Shady Sands}
-{22610}{}{Boneyard}
+{22610}{}{le Cimetière}
 {22611}{}{la Tour d'eau}
 {22612}{}{la Vieille Ville}
 {22613}{}{le Centre-ville}
@@ -3187,7 +3187,7 @@
 {23807}{}{Junktown}
 {23808}{}{la Confrérie de l'Acier}
 {23809}{}{Shady Sands}
-{23810}{}{Boneyard}
+{23810}{}{le Cimetière}
 {23811}{}{la Tour d'eau}
 {23812}{}{la Vieille Ville}
 {23813}{}{le Centre-ville}
@@ -3308,7 +3308,7 @@
 {24407}{}{Junktown}
 {24408}{}{la Confrérie de l'Acier}
 {24409}{}{Shady Sands}
-{24410}{}{Boneyard}
+{24410}{}{le Cimetière}
 {24411}{}{la Tour d'eau}
 {24412}{}{la Vieille Ville}
 {24413}{}{le Centre-ville}
@@ -3429,7 +3429,7 @@
 {25007}{}{Junktown}
 {25008}{}{la Confrérie de l'Acier}
 {25009}{}{Shady Sands}
-{25010}{}{Boneyard}
+{25010}{}{le Cimetière}
 {25011}{}{la Tour d'eau}
 {25012}{}{la Vieille Ville}
 {25013}{}{le Centre-ville}
@@ -3550,7 +3550,7 @@
 {25607}{}{Junktown}
 {25608}{}{la Confrérie de l'Acier}
 {25609}{}{Shady Sands}
-{25610}{}{Boneyard}
+{25610}{}{le Cimetière}
 {25611}{}{la Tour d'eau}
 {25612}{}{la Vieille Ville}
 {25613}{}{le Centre-ville}
@@ -3674,7 +3674,7 @@
 {27409}{}{Razor}
 {27410}{}{Nécropolis}
 {27411}{}{le Glow}
-{27412}{}{le Boneyard}
+{27412}{}{le Cimetière}
 {27413}{}{}
 {27414}{}{}
 {27415}{}{}
@@ -3774,7 +3774,7 @@
 {27509}{}{C'est notre chef, la plus badass de la ville !}
 {27510}{}{Nécro-quoi ? C'est glauque.}
 {27511}{}{Tu déconnes, là ?}
-{27512}{}{Ici, c'est le Boneyard.}
+{27512}{}{Ici, c'est le Cimetière.}
 
 #
 # Info Level 2 [People who know something]
@@ -3791,7 +3791,7 @@
 {27609}{}{Razor}
 {27610}{}{Nécropolis}
 {27611}{}{le Glow}
-{27612}{}{le Boneyard}
+{27612}{}{le Cimetière}
 {27613}{}{}
 {27614}{}{}
 {27615}{}{}
@@ -3891,7 +3891,7 @@
 {27709}{}{Razor est la meilleure combattante d'entre nous. Elle nous mènera à la victoire.}
 {27710}{}{C'est une histoire de ville de cannibales, pour faire peur aux enfants.}
 {27711}{}{Ça doit être là où une bombe est tombée.}
-{27712}{}{Ici, c'est le Boneyard.}
+{27712}{}{Ici, c'est le Cimetière.}
 
 #
 # Info level 3 [People who know more than something but less than everything]
@@ -3908,7 +3908,7 @@
 {27809}{}{Razor}
 {27810}{}{Nécropolis}
 {27811}{}{le Glow}
-{27812}{}{le Boneyard}
+{27812}{}{le Cimetière}
 {27813}{}{}
 {27814}{}{}
 {27815}{}{}
@@ -4008,7 +4008,7 @@
 {27909}{}{Razor est notre chef et notre championne. Son expérience nous donnera enfin la victoire sur ces Éventreurs, j'en ai aucun doute.}
 {27910}{}{Loin à l'est. Paraît que des goules mangeuses de chair humaine y vivent. Je voudrais pas me battre contre des goules.}
 {27911}{}{Paraît que ce sont les ruines d'un endroit frappé de plein fouet par une bombe. Je crois que c'est loin au sud.}
-{27912}{}{Ici, c'est le Boneyard.}
+{27912}{}{Ici, c'est le Cimetière.}
 
 #
 #   GUN RUNNERS
@@ -4023,7 +4023,7 @@
 {28606}{}{le Hub}
 {28607}{}{Junktown}
 {28608}{}{Puce d'eau}
-{28609}{}{le Boneyard}
+{28609}{}{le Cimetière}
 {28610}{}{}
 {28611}{}{}
 {28612}{}{}
@@ -4123,7 +4123,7 @@
 {28706}{}{On leur achète des armes et on te les revend direct !}
 {28707}{}{Ouais, petite ville au nord du Hub.}
 {28708}{}{Hein, quoi ?}
-{28709}{}{Ici, c'est le Boneyard.}
+{28709}{}{Ici, c'est le Cimetière.}
 
 #
 # Info Level 2 [People who know something]
@@ -4137,7 +4137,7 @@
 {28806}{}{le Hub}
 {28807}{}{Junktown}
 {28808}{}{Puce d'eau}
-{28809}{}{le Boneyard}
+{28809}{}{le Cimetière}
 {28810}{}{}
 {28811}{}{}
 {28812}{}{}
@@ -4230,14 +4230,14 @@
 {28899}{}{}
 {28900}{}{C'est un petit village au sud. Ils sont plutôt bien fortifiés.}
 {28901}{}{Un groupe d'amoureux de la paix planqués au sud. On devrait juste s'en débarrasser.}
-{28902}{}{Oh ouais, ces vieux moines cinglés. Ils sont timbrés. Leur grande église est au sud du Boneyard.}
+{28902}{}{Oh ouais, ces vieux moines cinglés. Ils sont timbrés. Leur grande église est au sud du Cimetière.}
 {28903}{}{Ils sont peut-être cons, mais ils achètent un max d'armes !}
 {28904}{}{Ils utilisent toujours ces bizarres couteaux vibrants qu'ils fabriquent. J'aimerais bien en choper un. Mais au moins, ils achètent aussi des armes.}
 {28905}{}{C'est à nous que tu parles.}
 {28906}{}{C'est un grand centre de commerce à l'est. On commerce avec les marchands du Hub pour acheter et vendre armes et armures.}
 {28907}{}{Une petite ville au nord du Hub. Plutôt stricte.}
 {28908}{}{Jamais entendu parler de ça.}
-{28909}{}{On est dans le nord du Boneyard.}
+{28909}{}{On est dans le nord du Cimetière.}
 
 #
 # Info Level 3 [People who know more than something but less than everything]
@@ -4251,7 +4251,7 @@
 {29006}{}{le Hub}
 {29007}{}{Junktown}
 {29008}{}{Puce d'eau}
-{29009}{}{le Boneyard}
+{29009}{}{le Cimetière}
 {29010}{}{}
 {29011}{}{}
 {29012}{}{}
@@ -4344,11 +4344,11 @@
 {29099}{}{}
 {29100}{}{C'est une petite ville au sud. Ils traitent pas avec nous. Je m'en fous complètement.}
 {29101}{}{Ils essaient de convertir tout le monde à leur paix pendant qu'ils se planquent dans leur bibliothèque au sud. Ça aide pas le commerce !}
-{29102}{}{La Cathédrale, c'est cette grande église au sud du Boneyard, où une étrange secte vénère un Dieu des Ténèbres. Je les trouve flippants.}
+{29102}{}{La Cathédrale, c'est cette grande église au sud du Cimetière, où une étrange secte vénère un Dieu des Ténèbres. Je les trouve flippants.}
 {29103}{}{Les Éventreurs sont tous une grande famille, littéralement. Impossible de traiter avec eux s'ils te connaissent pas, alors essaie même pas. Ils sont dans une grande forteresse piégée au sud-ouest. Gare aux mines si t'es assez stupide pour y aller.}
 {29104}{}{Ils ont converti plusieurs petits bâtiments au sud-est en leur foyer. Ils sont plutôt bien organisés et plus malins que les Éventreurs. Ils laissent parfois des étrangers les rejoindre. Leur chef, Razor, est une dure.}
 {29105}{}{C'est nous. Y a du bon fric à se faire en vendant des armes aux Lames et aux Éventreurs, ici.}
 {29106}{}{C'est la ville de commerce à l'est où on achète nos armes. Ils envoient des caravanes partout. Tu pourrais probablement voyager avec une caravane quand il y en a une à Adytum.}
 {29107}{}{C'est une petite ville frontière juste au nord du Hub. Y a un super casino, mais le shérif de la ville est un peu trop autoritaire.}
 {29108}{}{J'ai aucune idée de ce que c'est.}
-{29109}{}{Ici, c'est le nord du Boneyard. C'est drôle, les étrangers s'en servent comme d'une insulte : si un truc craint, ils disent que « ça mord l'os ». Mais on s'y habitue.}
+{29109}{}{Ici, c'est le nord du Cimetière. C'est drôle, les étrangers s'en servent comme d'une insulte : si un truc craint, ils disent que « ça mord l'os ». Mais on s'y habitue.}
