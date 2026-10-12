@@ -1,0 +1,73 @@
+{100}{}{Tu vois : Kyle.}
+{101}{}{Tu vois un Chevalier.}
+{102}{}{Ahh... Alors c'est toi, hein ?}
+{103}{}{Quoi ?}
+{104}{}{Eh bien, t'es qui ?}
+{105}{}{Rien. C'est juste que personne est jamais revenu de l'Ordre Ancien.}
+{106}{}{Tu fais quoi ici ?}
+{107}{}{Quoi ? Alors pourquoi ils m'ont envoyé là-bas ?}
+{108}{}{C'était difficile, mais pas impossible.}
+{109}{}{Hé, hé. J'imagine qu'ils voulaient juste se débarrasser de toi, hein ? Eh bien, la blague est sur eux.}
+{110}{}{Ouais. Dis, tu fais quoi ici ?}
+{111}{}{Eh bien, la seule raison pour laquelle j'ai rejoint, c'était pour avoir une Armure Assistée.}
+{112}{}{Allez vous faire foutre, tous. Je me casse.}
+{113}{}{Je répare des trucs, je fais des vérifications de maintenance, ce genre de merdes.}
+{114}{}{Tu pourrais réparer une Puce d'eau ?}
+{115}{}{Quel genre de « trucs » ?}
+{116}{}{Ça a l'air d'un vrai bon moment. À plus tard.}
+{117}{}{L'Armure Assistée et tout ce qui a besoin d'être réparé.}
+{118}{}{Comment je peux mettre la main sur une Armure Assistée ?}
+{119}{}{Je te donnerais bien cette Armure Assistée là, mais il lui manque son Motivateur Systolique. Elle est inutile sans ça.}
+{120}{}{Où quelqu'un pourrait en trouver un ?}
+{121}{}{Eh bien, merci quand même.}
+{122}{}{Eh bien, ils en ont plus qu'assez en haut dans la salle des provisions, mais Michael et ses putains de formulaires disent que cette armure-là est pas aux normes. Putains de bureaucrates.}
+{123}{}{Qu'est-ce que tu veux dire, pas aux normes ?}
+{124}{}{Alors si je t'apportais un Motivateur Systolique, tu la réparerais pour moi ?}
+{125}{}{Tu vois cet oculaire là ? J'ai dû le ressouder en place, et il est pas aussi joli qu'il faut pour l'inspection, j'imagine.}
+{126}{}{T'as raison. Ça a l'air merdique. On me prendrait pas mort dans cette Armure Assistée.}
+{127}{}{Dégage d'ici, mon pote.}
+{128}{}{Whoa, attends une minute, mon gars, ça prendrait bien quelques heures. Je te prêterais un manuel et mes outils, mais tu devrais la réparer toi-même.}
+{129}{}{Eh bien, à part Michael, où je pourrais en avoir un ?}
+{130}{}{C'est juste. Je reviendrai.}
+{131}{}{Hé, eh bien, Rhombus en a quelques-uns. Je lui en demanderais pas un, ceci dit. Seuls « les Honorés » sont censés porter ces armures assistées ici. En plus, je crois qu'il a un attachement malsain pour elles.}
+{132}{}{Hmm. D'accord, merci beaucoup.}
+{133}{}{Je crois pas. Je sais même pas ce que c'est.}
+{134}{}{Merci quand même.}
+{135}{}{C'est quoi ce mécano de merde ? Tu peux même pas réparer une Puce d'eau ?}
+{136}{}{Comment je peux avoir une Armure Assistée sans étudier pendant cent ans ?}
+{137}{}{Je m'appelle Kyle. J'ai jamais rencontré un mythe avant.}
+{138}{}{C'est censé vouloir dire quoi ?}
+{139}{}{Tu fais quoi ici ?}
+{140}{}{Moi non plus. À plus tard.}
+{141}{}{À entendre les histoires de Maxson, on croirait que c'est le neuvième cercle de l'enfer.}
+{142}{}{Maxson ? Le général Maxson ?}
+{143}{}{Pas le général Maxson, son grand-père, Roger Maxson. J'ai entendu dire que t'as rapporté un disque qui racontait ce qui est arrivé aux types qui se sont rebellés contre lui et qui sont descendus là-bas pour récupérer la technologie perdue.}
+{144}{}{Ouais, j'imagine que oui. Je suis }
+{145}{}{, t'es qui ?}
+{146}{}{Je préfère pas en parler.}
+{147}{}{Ouais, sales bâtards. J'arrive pas à croire qu'ils t'ont envoyé là-bas comme ça.}
+{148}{}{Et tout ce qu'ils m'ont donné pour ma peine, c'est une poignée de munitions !}
+{149}{}{Hé, Initié, t'as quelque chose pour moi ?}
+{150}{}{Non, je leur ai dit que tu m'envoyais et il a pas voulu me donner la pièce.}
+{151}{}{Non ; j'ai même pas encore regardé.}
+{152}{}{Pas de chance pour l'instant.}
+{153}{}{Sans blague. Et moi qui te croyais malin. Je t'avais dit que ce type avait des formulaires officiels à la place du cerveau.}
+{154}{}{Fais attention à qui tu traites d'idiot.}
+{155}{}{J'essayais juste de l'avoir à l'usure avec Michael.}
+{156}{}{Qu'est-ce que je peux faire si Michael veut pas me la donner ?}
+{157}{}{Je m'en vais.}
+{158}{}{Eh bien... je dois te donner crédit pour ça. Mais je crois que t'as grillé tes chances de l'avoir de la salle des provisions. Va juste falloir trouver un autre moyen de l'avoir. Ou te trouver une Armure Assistée ailleurs.}
+{159}{}{D'accord, à plus tard.}
+{160}{}{Où je peux en déterrer une ailleurs ?}
+{161}{}{Bonne chance.}
+{162}{}{Dégage, je suis occupé.}
+{163}{}{Salut, t'as pu avoir cette pièce ?}
+{164}{}{Oui. La voilà.}
+{165}{}{Oui, mais je crois que je vais la garder encore un peu.}
+{166}{}{Super ! Tiens, laisse-moi juste l'installer dans l'unité.}
+{167}{}{D'accord, t'es paré. Tiens, prends ce manuel. Si t'as un peu d'aptitude en réparation, tu devrais pas avoir de problème. Bonne chance !}
+{168}{}{Après tout ça ? D'accord, fais-moi juste savoir quand tu veux que je l'installe. Ensuite tu pourras commencer à la réparer.}
+{169}{}{Eh bien, je sais pas quoi te dire. J'imagine que tu dois polir un peu tes compétences en réparation. Je garderai l'unité ici pour toi.}
+{170}{}{D'accord, merci. Salut.}
+{171}{}{Rebonjour. Je peux t'aider ?}
+{300}{}{[Suite]}

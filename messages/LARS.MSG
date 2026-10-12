@@ -1,0 +1,78 @@
+{100}{}{Tu vois un homme très musclé et balafré avec une moustache.}
+{101}{}{Tu vois : Lars, sergent des gardes de Junktown.}
+{102}{}{Il porte les cicatrices de vieilles blessures, et a l'air d'un vieux de la vieille.}
+{103}{}{Il a des cicatrices de coups de couteau et de balles. Ses muscles noueux montrent un homme endurci par l'adversité.}
+{104}{}{Tu sais, c'est pas malin d'essayer de voler les gardes ici à Junktown, minable !}
+{105}{}{Je peux t'aider, étranger ?}
+{106}{}{Alors, y a quoi à faire par ici ?}
+{107}{}{Tu peux me faire le tableau général sur Junktown ?}
+{108}{}{T'es qui ?}
+{109}{}{Eergh.}
+{110}{}{Si c'est toi qui commandes les gardes ici, je crois que j'ai des infos pour toi.}
+{111}{}{Hé ! Toi ! On sait tout de toi, monstre !}
+{112}{}{Plein, tant que tu restes de notre bon côté. Y a le magasin de Killian Darkwater, où tu peux commercer. Et y a le Casino de Gizmo, si t'es joueur. Ou si tu veux juste boire un coup, tu peux aller au Skum Pitt. Fais juste pas trop le malin.}
+{113}{}{Hé, j'aime bien quand ça chauffe !}
+{114}{}{Eh bien, tu ferais mieux de te contrôler. On est une ville libre mais on tolère pas qu'on marche sur les pieds des autres. Fais pas d'ennuis et tu me donneras pas, à moi et à mes hommes, une raison de te tomber dessus.}
+{115}{}{Quel rabat-joie !}
+{116}{}{Écoute, mon pote, mon boulot ici c'est de maintenir la paix, et si je dois casser quelques têtes pour ça, alors quelques personnes vont avoir mal. Alors fais juste attention.}
+{117}{}{Moi et mes hommes on bosse pour Killian Darkwater. On maintient un peu d'ordre dans cette ville, en gérant tous les meurtriers, voleurs et autres racailles qui viennent du désert. Si tu veux mon avis, reste loin de Gizmo aussi. Ce gros lard tient une affaire véreuse, mais on a juste pas pu prouver quoi que ce soit. Lui et ses laquais, les Skulz, vont tomber un de ces jours, si Killian a son mot à dire.}
+{118}{}{Quel dommage. Aucun fun ici.}
+{119}{}{Bon de savoir que quelqu'un maintient la paix par ici. Merci.}
+{120}{}{Alors, qu'est-ce qui vous empêche, vous les cognes, de juste coffrer Gizmo et les Skulz ?}
+{121}{}{Hé, c'est notre boulot. Mais c'est bon de savoir que quelqu'un apprécie. Merci.}
+{122}{}{Faut faire ça dans les règles. On sait que Gizmo tient une affaire truquée et tout, mais on a besoin de preuves solides pour le faire tomber. Pareil pour les Skulz ; ils tabassent quelqu'un, on en coffre un ou deux, mais rien change. On a juste aucune preuve directe qui les lie aux meurtres ou aux agressions.}
+{123}{}{Je peux peut-être t'aider avec ça.}
+{124}{}{Eh bien, bonne chance.}
+{125}{}{Bon sang, si tu crois pouvoir déterrer des dossiers sur l'un d'eux, on apprécierait l'aide. C'est à Killian qu'il faut parler si tu veux parler de Gizmo. Mais si tu peux avoir des infos sur les Skulz, reviens juste me voir et moi et les gars on s'en occupera.}
+{126}{}{Merci. Surveille tes arrières.}
+{127}{}{Je suis le chef des gardes ici à Junktown. Je m'appelle Lars. D'ailleurs, t'es qui, étranger ?}
+{128}{}{Je suis }
+{129}{}{.}
+{130}{}{Dégage, j'ai rien à te dire.}
+{131}{}{Bienvenue à Junktown, }
+{132}{}{. Qu'est-ce que je peux faire pour toi ?}
+{133}{}{Tu peux me mettre au courant sur Junktown ?}
+{134}{}{Je cherche juste un truc à faire. T'as des suggestions ?}
+{135}{}{Bonjour, voyageur. T'as besoin de quelque chose ?}
+{136}{}{Quoi ?}
+{137}{}{Je cherche un peu de boulot.}
+{138}{}{Je passais juste dire bonjour.}
+{139}{}{J'ai un témoignage sur les activités illégales auxquelles les Skulz se livraient.}
+{140}{}{Oui, je commande les gardes ici. Qu'est-ce que t'as pour moi ?}
+{141}{}{Rien, je vérifie juste.}
+{142}{}{J'ai un témoignage de Sherry comme quoi les Skulz sont impliqués dans des activités illégales.}
+{143}{}{Alors, t'as des infos sur les Skulz, hein ? Qu'est-ce que tu peux me dire ?}
+{144}{}{Ils sont impliqués dans des agressions et des meurtres ici.}
+{145}{}{J'en ai convaincu une, Sherry, de témoigner qu'ils étaient impliqués dans des activités criminelles.}
+{146}{}{C'est super et tout, mais je peux pas juste tous les coffrer sur la parole d'une seule personne. J'ai besoin de preuves solides ou d'un témoignage de l'intérieur.}
+{147}{}{Je vais voir ce que je peux faire.}
+{148}{}{J'ai le témoignage de Sherry, une ancienne membre du gang.}
+{149}{}{Excellent. Je vais la cueillir pour quelques questions, et je suis sûr que j'aurai toutes les infos qu'il me faut pour les coffrer.}
+{150}{}{Écoute, c'est pas un jeu. Des gens se font blesser ici. Si tu trouves de vraies preuves, reviens, mais sinon, fais pas perdre mon temps !}
+{151}{}{Si un peu de magouille te dérange pas, j'ai besoin de quelqu'un pour avoir des preuves solides sur les Skulz, prouvant qu'ils sont impliqués dans des activités illégales ici. Ou tu peux parler à Killian ; il aurait peut-être du boulot pour toi.}
+{152}{}{Merci pour ton aide. Junktown est un peu plus sûr maintenant, grâce à toi.}
+{153}{}{Circule, mon gars.}
+{154}{}{Tu gagnes 300 points d'expérience pour avoir pris un risque contre les Skulz.}
+{155}{}{T'es prêt à aider à faire tomber Gizmo ?}
+{156}{}{Bien sûr. Cloisons ce gros lard.}
+{157}{}{Non, j'ai changé d'avis.}
+{158}{}{D'accord, allons-y.}
+{159}{}{Eh bien, tu ferais mieux d'attendre ici pour pas te faire prendre dans les tirs croisés.}
+{160}{}{Killian m'a envoyé pour aider à chasser Gizmo de la ville.}
+{161}{}{Killian m'a envoyé. On va faire tomber Gizmo.}
+{162}{}{Merci pour toute ton aide. Voilà 500 capsules. T'es toujours le bienvenu à Junktown, mon ami.}
+{163}{}{Quoi ? Hmm. On verra ça. J'enverrai des hommes les prendre en embuscade quand ils essaieront. Tu seras là ?}
+{164}{}{Non merci, j'ai fait ma bonne action du jour.}
+{165}{}{Oui.}
+{166}{}{Les Skulz prévoient de tuer Neal !}
+{167}{}{Les hommes de Lars éliminent rapidement les Skulz.}
+{168}{}{On dirait que Lars est peut-être encore en vie, mais il est définitivement hors combat.}
+{169}{}{Vagabond, tu viens de tout foirer. On avait besoin de preuves pour pouvoir faire tomber Gizmo bien proprement et légalement. Écoute, officieusement, je suis content que ce gros connard soit hors du tableau, mais on peut pas cautionner le meurtre. Tu ferais mieux de quitter Junktown et de jamais revenir.}
+{170}{}{On aime pas les gens comme toi ici. T'as environ quinze secondes avant que je te fasse sauter la tête.}
+{171}{}{Rebonjour ! Qu'est-ce que je peux faire pour toi ?}
+{172}{}{Uh-huh.}
+{173}{}{Nuh-uh.}
+{174}{}{Tu gagnes 500 points d'expérience pour avoir aidé à éliminer le gang des Skulz.}
+
+{1000}{}{Gizmo}
+{1100}{}{Il tient le casino. C'est un escroc.}

@@ -1,0 +1,112 @@
+{100}{}{Tu vois un voyageur épuisé.}
+{101}{}{Tu vois : Lance, un des gardes des patrouilles à long rayon de Shady Sands.}
+{102}{}{Reste juste où tu es. On a entendu parler de toi à Shady Sands et on veut rien avoir à faire avec toi.}
+{103}{}{La seule partie de toi que je veux, c'est ce que tu transportes. Déshabille-toi.}
+{104}{}{Je suis un homme de paix, mon ami.}
+{105}{}{Hé, j'ai pas sauvé Tandi et tué tous vos radscorpions ?}
+{106}{}{J'ai rien contre Shady Sands. J'aime bien l'endroit, en fait.}
+{107}{}{Herung ?}
+{108}{}{J'ai entendu parler de toi, et je te laisserai pas me tuer.}
+{109}{}{J'ai rien à te dire.}
+{110}{}{Ouais ? Qu'est-ce que tu veux cette fois ?}
+{111}{}{Tu saurais où je pourrais trouver une Puce d'eau ?}
+{112}{}{Des nouvelles de Tandi ?}
+{113}{}{Des problèmes avec les pillards dernièrement ?}
+{114}{}{Comment ça va à Shady Sands ?}
+{115}{}{Hnng !}
+{116}{}{Salut, étranger. Qu'est-ce qui t'amène dans le désert ? T'es d'où ?}
+{117}{}{Je pourrais te demander la même chose.}
+{118}{}{Désolé mon ami, mais j'ai l'impression que c'est une question plutôt dangereuse à répondre.}
+{119}{}{Tu connais un bon endroit pour avoir des provisions ?}
+{120}{}{Je viens d'un Abri. L'Abri 13, le chanceux !}
+{121}{}{Waaah ?}
+{122}{}{Salut, étranger. Je te recommande de continuer ton chemin, si tu sais ce qui est bon pour toi.}
+# TRANSLATION NOTE
+# After line 123, the player-character's name is inserted by the code, and
+# then line 124 or line 131 is added.
+{123}{}{Salut, }
+{124}{}{. Je te prenais pour notre ami quand t'as sauvé Tandi, mais maintenant j'entends des rumeurs vraiment méchantes sur toi. C'est vrai ?}
+{125}{}{Les gens disent toutes sortes de choses. Qui s'en soucie ?}
+{126}{}{Je suis pas ton ami. Et si tu fais un mauvais mouvement, je répands tes entrailles. T'as compris ?}
+{127}{}{Quel genre de rumeurs ?}
+{128}{}{Ouais. C'est tout vrai. Maintenant déshabille-toi que je prenne ce que t'as.}
+{129}{}{J'ai peut-être fait des trucs que je regrette, mais tu devrais savoir qu'il faut pas croire ces conneries.}
+{130}{}{. Content que ce soit toi et pas un pillard ! Comment ça va ! Je suis Lance, un des gardes de Shady Sands. Désolé qu'on t'ait mené la vie dure quand t'es arrivé en ville !}
+{131}{}{Salut Lance, quoi de neuf ?}
+{132}{}{Salut Lance. J'étais une bonne personne avant, mais la vie m'a baisé. Maintenant déshabille-toi et donne-moi tes affaires.}
+{133}{}{T'en fais pas, Lance. Qu'est-ce que tu fais ici tout seul ?}
+{134}{}{Bien. Mais je m'en souviendrai.}
+{135}{}{Va te faire foutre.}
+{136}{}{Épargne-moi tes menaces en l'air, gamin. Je tue des gosses comme toi dans mon sommeil. Donne-moi tes affaires, et je te laisserai peut-être vivre.}
+{137}{}{Si tu crois vraiment que je suis une menace, vas-y et tue-moi.}
+{138}{}{Faisons un mauvais mouvement. J'ai toujours voulu voir à quoi ressemblent mes entrailles.}
+{139}{}{C'était avant, c'est maintenant. Qu'est-ce que t'as fait pour nous dernièrement ? Je crois que tu ferais mieux de partir avant que je m'énerve.}
+{140}{}{Nous aussi on l'aime. Surtout quand t'es pas dedans. Maintenant dégage !}
+{141}{}{Mec, t'as dû passer trop de temps dans la Lueur !}
+{142}{}{Je sais pas ce que c'est, une Puce d'eau. Désolé.}
+{143}{}{C'est un appareil électronique utilisé dans les systèmes de purification d'eau.}
+{144}{}{Comment va le problème de radscorpions ?}
+{145}{}{Les pillards l'ont eue. Je fais partie d'une des équipes de recherche. Je crois qu'elle est au camp des pillards au sud de Shady Sands, mais les Khans ont verrouillé l'endroit comme une forteresse.}
+{146}{}{Tu peux m'emmener à Shady Sands ?}
+{147}{}{Tu peux m'emmener chez les Khans ?}
+{148}{}{Va falloir trouver un moyen de la récupérer.}
+{149}{}{Merci pour l'info. Bonne chance avec les recherches.}
+{150}{}{Euh, ouais, mais on gère un peu mieux depuis que les Khans se sont pris une raclée. Je crois qu'on te doit des remerciements pour ça. On est reconnaissants.}
+{151}{}{Ça me dérangerait pas de voir un peu de gratitude.}
+{152}{}{Merci. Autre chose que je peux faire ?}
+{153}{}{Fais-moi savoir s'ils t'embêtent encore.}
+{154}{}{On s'en sort bien.}
+{155}{}{T'es sûr de ça ?}
+{156}{}{C'est super.}
+{157}{}{J'en ai aucune idée. Idiot.}
+{158}{}{D'accord, je te fais confiance. Je viens de Shady Sands. On est une communauté pas loin d'ici.}
+{159}{}{Tu pourrais m'y emmener ?}
+{160}{}{Elle ressemble à quoi, la ville ?}
+{161}{}{Y a des Puces d'eau là-bas ?}
+{162}{}{Ça a l'air d'un endroit sympa.}
+{163}{}{Eh bien, garde tes secrets, je garderai les miens. Au revoir.}
+{164}{}{Peut-être. Dommage, ceci dit.}
+{165}{}{Je suis allé à Junktown. Je crois que c'est au sud-ouest d'ici, mais ça fait tellement de jours que je voyage que c'est dur à dire.}
+{166}{}{Ouais, c'est ça. Tous les Abris ont été détruits, à ce que je sache. Raconte-m'en une autre.}
+{167}{}{C'est pas ce que je demandais... oh, laisse tomber !}
+{168}{}{C'est pas une réponse. On t'appelle assassin, voleur, pilleur de tombes. On dit que tu tueras quiconque se met sur ton chemin. C'est vrai ?}
+{169}{}{Eh bien, je t'ai pas encore tué, alors visiblement quelqu'un ment.}
+{170}{}{À peu près. J'ai eu ma part de bons moments.}
+{171}{}{Je me suis fait ma part d'ennemis. J'en ai laissé assez en vie pour me calomnier.}
+{172}{}{J'ai tué pas mal de gens, ouais. J'avais toujours une raison.}
+{173}{}{On t'appelle assassin, voleur, pilleur de tombes. On dit que tu tueras quiconque se met sur ton chemin. C'est vrai ?}
+{174}{}{D'accord, je le ferai. Mais si tu continues à agir comme un pillard, tu mourras comme un pillard.}
+{175}{}{Je te laisse le bénéfice du doute, pour l'instant. Mais un homme vaut que sa réputation, et la tienne aurait besoin de travail. J'espère que tu feras quelque chose avant qu'on se revoie.}
+{176}{}{Je retourne juste en ville. Tu veux venir ? J'aurais besoin de compagnie.}
+{177}{}{Bien sûr.}
+{178}{}{Pas aujourd'hui.}
+{179}{}{Un peu de pillage. On a trouvé quelques bases de pillards abandonnées qui ont pas été nettoyées ; j'imagine qu'ils s'attaquent entre eux. On peut toujours utiliser plus de munitions et de drogues.}
+{180}{}{Je vais le regretter.}
+{181}{}{Sors de ma vue avant que je reprenne mes esprits.}
+{182}{}{On en voit encore quelques-uns ; ils doivent migrer du haut désert ou de la Lueur. Mais c'est bien mieux maintenant que l'an dernier, grâce à toi.}
+{183}{}{Ça a l'air bien. Salut.}
+{184}{}{Bien sûr. Allons-y.}
+{185}{}{Mec, je dois être fou. Mais je t'emmène. Allons-y.}
+{186}{}{Bon suicide, mon ami. Et pour ce que ça vaut, bonne chance.}
+{187}{}{Je m'en vais. Prends soin de toi.}
+{188}{}{Eh bien, j'ai pas grand-chose, mais ce qui est à moi est à toi.}
+{189}{}{Pas que je sache. Je m'en vais. Prends soin de toi.}
+{190}{}{Oui. Je m'en vais. Prends soin de toi.}
+{191}{}{Eh bien, d'accord. Allons-y.}
+{192}{}{Je guiderai pas un ennemi potentiel chez moi. Si tu te rends à Shady Sands, tiens-toi tranquille.}
+{193}{}{Petite. On vit de l'élevage de brahmines. C'est un pays assez rude par ici, et les pâturages sont plutôt précieux.}
+{194}{}{Dans un trou paumé d'éleveurs de brahmines ? Tu dois être fou ! Y a probablement pas un seul appareil électronique qui marche dans un rayon de trois cents kilomètres.}
+{195}{}{T'as raison. Je crois qu'on devrait jouer la prudence et prendre des chemins séparés. Si j'étais toi, je ferais quelque chose au sujet de ces histoires. À moins que t'aimes que les gens te détestent et se méfient de toi.}
+{196}{}{Je devrais te tuer tout de suite. Tu croises encore mon chemin, et je le ferai. Maintenant dégage.}
+{197}{}{Allons-y.}
+{198}{}{Laisse-moi deviner, quelqu'un t'a parlé de mes ronflements. Bon ben. Prends soin de toi.}
+{199}{}{C'est ça. Eh bien, je m'en vais. Prends soin de toi.}
+{200}{}{Toi reste juste où tu es. Je sais pas si t'es de mèche avec ces mutants, mais si c'est le cas, je te tue.}
+{201}{}{Quels mutants ?}
+{202}{}{T'es qui ?}
+{203}{}{Qu'est-ce qui t'est arrivé ?}
+{204}{}{D'accord, c'est cool.}
+{205}{}{Ru-huh ?}
+{206}{}{Les mutants ont envahi Shady Sands. La plupart d'entre nous sont morts. J'imagine que c'est qu'une question de temps avant qu'ils aient le reste d'entre nous.}
+{207}{}{Je m'en fiche de ce que tu dis, de ce que tu demandes. On est tous morts ! Tous ! Et je croyais que les pillards et les radscorpions c'était terrible... c'était rien ! Ha ! Ha ha ha !}
+{208}{}{Tais-toi ! J'ai pas envie de parler ! Parler sert à rien ! Parler m'emmerde juste profondément... }

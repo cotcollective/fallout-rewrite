@@ -1,0 +1,58 @@
+{100}{}{Tu vois la silhouette épuisée de Bob.}
+{101}{}{S'il te plaît, me tue pas ! Je jure que je vais te rendre ton argent !}
+{102}{}{Heu-huh.}
+{103}{}{Ouais, tu ferais mieux de payer.}
+{104}{}{Je crois que je me suis trompé de chambre.}
+{105}{}{De quoi tu parles ?}
+{106}{}{Ack ! Tu dois être Fred le Benêt, Tueur Sans Pitié de la Poussière. S'il te plaît, me tue pas !}
+{107}{}{Tiens. Tiens. Prends ça. C'est tout ce que j'ai.}
+{108}{}{Tu veux dire que t'es pas là pour me tuer ?}
+{109}{}{Non. C'est ton jour de chance.}
+{110}{}{Non. Qui te menacerait ?}
+{111}{}{Merci. J'étais juste un peu nerveux quand t'es entré ici avec un }
+{112}{}{ dans la main.}
+{113}{}{Merci. J'étais juste un peu nerveux quand t'es entré ici avec un }
+{114}{}{ dans la main.}
+{115}{}{Purée, je te prenais pour un gars du Casino. Sûr comme le sable dans le désert, je leur dois un paquet de fric.}
+{116}{}{Pourquoi tu leur dois autant de fric ?}
+{117}{}{À qui au casino tu dois cet argent ?}
+{118}{}{Combien tu leur dois ?}
+{119}{}{Hmmm. Merci pour l'info.}
+{120}{}{Ils trichent. J'ai joué un peu aux machines à sous et au poker. Mais je suis meilleur joueur que ça. Je jure que ces machines sont truquées. J'ai perdu beaucoup d'argent.}
+{121}{}{À qui au casino tu dois cet argent ?}
+{122}{}{Combien tu leur dois ?}
+{123}{}{Hmmm. Merci pour l'info.}
+{124}{}{Des gros bras. Ils disent qu'ils bossent pour le Patron du Casino, mais je l'ai jamais vu. L'un s'appelait Izo, je crois, et l'autre c'était un gros type qui avait l'air d'un Guido. Sales tricheurs.}
+{125}{}{Pourquoi tu leur dois autant de fric ?}
+{126}{}{Combien tu leur dois ?}
+{127}{}{Hmmm. Merci pour l'info.}
+{128}{}{Oh, pas trop. Quelques milliers. J'ai joué que quatre ou cinq heures. Bon, peut-être un peu plus. Ils m'ont filé des jetons, et j'ai pas assez ici pour couvrir. Faut que je retourne au Hub pour avoir du liquide. J'ai peur qu'ils me tabassent si j'essaie de partir.}
+{129}{}{Pourquoi tu leur dois autant de fric ?}
+{130}{}{À qui au casino tu dois cet argent ?}
+{131}{}{Hmmm. Merci pour l'info.}
+{132}{}{Oh, c'est encore toi. J'espère que t'as eu plus de chance que moi.}
+{133}{}{Hé, qu'est-ce que tu fais dans ma chambre ? T'es du Casino ?}
+{134}{}{Nhhh !}
+{135}{}{Ouais, je suis du Casino.}
+{136}{}{Non, je regarde juste.}
+{137}{}{C'est quoi le problème avec le Casino ?}
+{138}{}{Oh là là. Je te prenais pour un gars du Casino. Tu m'as fait peur.}
+{139}{}{Oh, d'accord. Salut.}
+{140}{}{Pourquoi ?}
+{141}{}{Eh bien, j'ai eu des ennuis là-bas. Je leur dois beaucoup d'argent.}
+{142}{}{Pourquoi tu leur dois autant de fric ?}
+{143}{}{À qui au casino tu dois cet argent ?}
+{144}{}{Combien tu leur dois ?}
+{145}{}{Hmmm. Merci pour l'info.}
+{146}{}{Oh, c'est encore toi. Tu m'as fait peur un moment. T'as pas vu des gars du Casino par ici, hein ?}
+{147}{}{Hnnn !}
+{148}{}{Non.}
+{149}{}{Ouais, bien sûr.}
+{150}{}{Hé, j'ai des questions pour toi.}
+{151}{}{Bien, bien. J'ai juste besoin de quelques jours de plus, et je vais refaire leur argent et bien plus. Je suis meilleur joueur qu'ils le croient.}
+{152}{}{Ack ! Oh mon dieu ! J'ai des ennuis ! Salut.}
+{153}{}{Vas-y, tire. Oh, mauvais choix de mots, Bob. Mauvais choix de mots.}
+{154}{}{Pourquoi tu leur dois autant de fric ?}
+{155}{}{À qui au casino tu dois cet argent ?}
+{156}{}{Combien tu leur dois ?}
+{157}{}{Hmmm. Merci pour l'info.}

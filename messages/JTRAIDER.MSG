@@ -1,0 +1,85 @@
+{100}{}{Tu vois un pillard qui a l'air fou.}
+{101}{}{Ça suffit ! Approche pas. Je la bute. Je te jure.}
+{102}{}{Nung !}
+{103}{}{Fais pas ça !}
+{104}{}{Si tu la lâches pas, je vais te tuer.}
+{105}{}{Pas besoin de violence. Parlons-en.}
+{106}{}{Quoi ? Tu veux juste me tuer, c'est ça ? Souviens-toi, ce sera ta faute.}
+{107}{}{Et pourquoi pas ? C'est juste une pute.}
+{108}{}{Elle a autant le droit de vivre que toi.}
+{109}{}{Non. Pas question. Pas cette salope.}
+{110}{}{Tu vis dans quel monde ? Ici, dans le vrai monde, le sang coule, mec. Le sang coule, et il va gicler partout dans cette pièce si tu dégages pas d'ici.}
+{111}{}{On peut en discuter. Qu'est-ce que je peux faire pour aider ?}
+{112}{}{D'accord, d'accord. Je recule. T'as pas à t'inquiéter pour moi.}
+{113}{}{Haha, c'est drôle. Qui dit que je veux de l'aide ?}
+{114}{}{Toi. En prenant cette femme en otage, tu demandes de l'aide. Je peux aider.}
+{115}{}{Faut que je réfléchisse. Laisse-moi un moment.}
+{116}{}{Ouais. Essaie rien, ou elle y passe.}
+{117}{}{mec}
+{118}{}{nana}
+{119}{}{Oh, le grand mec. Voyons voir. Mais d'abord...}
+{120}{}{Oh, la grande nana. Voyons voir. Mais d'abord...}
+{121}{}{Reste en arrière... Je veux pas lui faire de mal, mais je le ferai.}
+{122}{}{Fais pas ça, ou je devrai te faire mal.}
+{123}{}{Pourquoi tu veux lui faire du mal ?}
+{124}{}{Essaie, et c'est elle qui meurt la première. Alors, tu disais ?}
+{125}{}{Ce sera dur de lui faire mal avec ce trou dans ta tête.}
+{126}{}{D'accord, mais tu dois continuer à me parler.}
+{127}{}{Quel trou ?}
+{128}{}{Celui que je vais te faire là, tout de suite.}
+{129}{}{Je continuerai à parler tant que tu parles, mais essaie un sale coup, et c'est elle qui trinque.}
+{130}{}{J'ai rien à faire. C'est à toi de le faire, et tu t'en sors pas trop bien.}
+{131}{}{Elle s'est moquée de moi. Ils se sont tous moqués de moi. Ils vont payer, je le jure.}
+{132}{}{Je te fais confiance. On va s'en sortir, d'accord ?}
+{133}{}{Peut-être. Je sais pas.}
+{134}{}{gars}
+{135}{}{fille}
+{136}{}{T'as l'air d'être un gars bien. Personne a jamais voulu m'aider avant. Je crois qu'on peut encore parler.}
+{137}{}{T'as l'air d'être une fille bien. Personne a jamais voulu m'aider avant. Je crois qu'on peut encore parler.}
+{138}{}{Laisse-moi tranquille. Je te déteste ! T'es le diable. Je t'écouterai pas.}
+{139}{}{Comme tu veux.}
+{140}{}{Tu dois m'écouter. Ta vie, et la vie de la fille, en dépendent.}
+{141}{}{Détends-toi. Je te ferai pas de mal. Je veux juste écouter ce que t'as à dire.}
+{142}{}{Tu recommences à me menacer. Meurs !!}
+{143}{}{Je t'écouterai pas. Tu vas juste m'embrouiller avec tes mots. Je te crois pas. Dégage.}
+{144}{}{T'as peut-être raison. Prouve-le-moi.}
+{145}{}{On va où, à partir de là ?}
+{146}{}{C'est toi qui me le dis. C'est toi le chef.}
+{147}{}{Je veux de l'argent, et je veux sortir d'ici tranquille. Personne me suit.}
+{148}{}{Désolé, on peut pas faire ça.}
+{149}{}{Bien sûr.}
+{150}{}{Pas d'argent, mais tu peux juste partir. Personne fera rien. Je promets.}
+{151}{}{D'accord, mais tu dois d'abord lâcher la fille. Montre-moi que t'as confiance, et je te ferai confiance.}
+{152}{}{Tu m'as menti !}
+{153}{}{D'accord. Je veux 100 capsules. Ensuite on sort d'ici. Personne me suit, et je la lâcherai quand on sera à la sortie de la ville.}
+{154}{}{Voilà ton argent.}
+{155}{}{J'ai pas ce genre de liquide sur moi.}
+{156}{}{Alors j'imagine qu'elle y passe.}
+{157}{}{C'est bon, j'imagine.}
+{158}{}{J'aime pas ça. Qu'est-ce qui t'empêche de me tirer dans le dos quand je sors d'ici ?}
+{159}{}{Je te tirerai pas dessus. Fais-moi confiance.}
+{160}{}{Rien, tu devras juste croire ce que je dis.}
+{161}{}{Pas question ! Je te fais pas confiance !}
+{162}{}{D'accord. On verra bien ce qui arrive.}
+{163}{}{Voilà 100 capsules. Bonne journée.}
+{164}{}{Tu peux partir tranquille.}
+{165}{}{Je veux mon argent. Je veux 200 capsules.}
+{166}{}{J'ai pas assez d'argent.}
+{167}{}{Tiens.}
+{168}{}{T'as l'air d'un menteur et d'un tricheur, pour moi.}
+{169}{}{Pareil, mon pote. Lâche la fille.}
+{170}{}{mec}
+{171}{}{nana}
+{172}{}{Pourquoi tu t'en prends pas à moi plutôt qu'à elle ? Voyons ce qu'un vrai homme peut faire.}
+{173}{}{Pourquoi tu t'en prends pas à moi plutôt qu'à elle ? Voyons ce qu'une vraie femme peut faire.}
+{174}{}{Non ! Me dis pas quoi faire ! Tu peux pas me dire quoi faire !}
+{175}{}{Ouais, je vais te montrer.}
+{176}{}{Tu viens de coûter la vie à cette pute !}
+{177}{}{Laisse-moi tranquille, merde !}
+{178}{}{Le pillard, concentré sur son affaire, t'ignore.}
+{179}{}{Hmmm...}
+{180}{}{Hé, on s'amuse, bébé. J'ai le fric si t'as le temps.}
+{181}{}{Tu me parles pas comme ça, salope ! Personne me parle comme ça !}
+{182}{}{Ça vient de te coûter la vie !}
+{183}{}{Ton coup bien placé assomme le pillard. Il s'effondre comme une poupée de chiffon.}
+{184}{}{Tu pourrais peut-être surprendre le pillard par derrière si tu fais attention.}

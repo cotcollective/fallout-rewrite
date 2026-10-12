@@ -1,0 +1,125 @@
+{100}{}{Tu vois : Lasher, des Enfants.}
+{101}{}{Je sais qui tu es. Tu es un homme méchant et mauvais, et tu dois être puni.}
+{102}{}{Je sais qui tu es. Tu es le diable sous forme de femme, mais ta forme ne te sauvera pas.}
+{103}{}{Je sais qui tu es. Ta méchanceté te précède. Tu envoies les âmes des enfants à Hadès, avant qu'elles puissent être purifiées de leur perfidie. C'est un mal noir que tu fais, et tu dois être puni pour ça.}
+{104}{}{Je sais qui tu es. Tu es la mort qui marche, une plaie sous forme humaine. Où tu marches, le sang coule comme une rivière. Mais de telles iniquités peuvent être stoppées par une âme juste !}
+{105}{}{Comment oses-tu me déranger ! Tu sais pas à quel point ma position est importante ? Dégage !}
+{106}{}{Tu es imprudent de dégainer ton arme contre moi. Le bouclier du Maître est sur moi, et on ne peut pas me toucher sans représailles !}
+{107}{}{Le bouclier du Maître me plairait bien, à moi.}
+{108}{}{Personne m'a jamais accusé d'être sage !}
+{109}{}{Je veux juste parler à l'homme en charge.}
+{110}{}{Joli bâton que t'as là ! C'est pour ça qu'on t'appelle « Lasher » ?}
+{111}{}{C'est vrai que t'aimes maltraiter les enfants ?}
+{112}{}{Tu veux voir l'imprudence ? C'est imprudent de me manquer de respect, salope !}
+{113}{}{Pourquoi tu parles si bizarrement ?}
+{114}{}{Pourquoi es-tu venu, Initié ? Tu sais que j'aime pas être dérangé.}
+{115}{}{Pardonne-moi, Père, mais je suis troublé.}
+{116}{}{Je cherche la guidance de la Cathédrale.}
+{117}{}{Je suis là pour parler de ton traitement des Enfants.}
+{118}{}{Je voulais juste parler.}
+{119}{}{Joli bâton que t'as là ! C'est pour ça qu'on t'appelle « Lasher » ?}
+{120}{}{Ça te dirait de ne plus jamais être dérangé ? Je peux arranger ça !}
+{121}{}{J'en sais rien. Pourquoi je viens ? Tu sais ?}
+{122}{}{Comment oses-tu entrer dans mon sanctuaire avec une arme à la main ! Rustre ! Dégage !}
+{123}{}{Pour qui tu te prends, à entrer dans mon sanctuaire avec une arme dégainée. Dégage !}
+{124}{}{Pardonne-moi, monsieur. Mais les forces des ténèbres sont partout, et on sait jamais quand on doit se défendre.}
+{125}{}{Je cherche la guidance de la Cathédrale.}
+{126}{}{Je suis là pour parler de ton traitement des Enfants.}
+{127}{}{Je voulais juste parler.}
+{128}{}{Joli bâton que t'as là ! C'est pour ça qu'on t'appelle Lasher ?}
+{129}{}{T'aimes pas les armes dégainées. Tu vas détester ce que je vais en faire ensuite !}
+{130}{}{Dehors ? Par où, dehors ?}
+{131}{}{Mes quartiers sont pas ouverts à ceux qui n'ont pas été consacrés. Je dois te demander de partir tout de suite.}
+{132}{}{Pardonne mon intrusion, mais j'ai des questions importantes.}
+{133}{}{Je suis là pour parler de ton traitement des Enfants.}
+{134}{}{Je voulais te poser des questions sur la consécration.}
+{135}{}{Joli bâton que t'as là ! C'est pour ça qu'on t'appelle Lasher ?}
+{136}{}{Cet endroit a pas l'air consacré. J'ai encore tué personne ici.}
+{137}{}{Stupide ! J'en ai plein de la consé... cra... tion...}
+{138}{}{C'est un privilège réservé aux seuls serviteurs les plus fidèles. Seul le baptême est un honneur plus grand.}
+{139}{}{Et comment on gagne le baptême ?}
+{140}{}{J'imagine que tu enseignes aux enfants et que tu les prépares au baptême.}
+{141}{}{Tu peux m'aider à être baptisé ?}
+{142}{}{Wow ! Tu dois être spécial !}
+{143}{}{Dommage que les privilèges valent pas le cul d'un radscorpion quand t'es mort.}
+{144}{}{Je vois aucune raison de converser avec un idiot. Va-t'en.}
+{145}{}{Tu devrais parler au Père Morpheus. Il est dans la tour, mais il est peu probable que les Nightkin te laissent passer.}
+{146}{}{Tu pourrais persuader les Nightkin de me laisser passer ?}
+{147}{}{Qu'est-ce que tu peux me dire sur Morpheus ?}
+{148}{}{Qu'est-ce que tu peux me dire sur les Nightkin.}
+{149}{}{Merci, monsieur.}
+{150}{}{J'ai des moyens de contourner ce genre de problèmes.}
+{151}{}{Le bâton est un instrument sacré, par lequel j'instruis mes ouailles. La douleur purifie l'esprit des mauvaises pensées et leur permet de mieux comprendre la gloire du Maître.}
+{152}{}{Je vois. Alors le Maître fait mal ?}
+{153}{}{C'est horrible de faire ça à des enfants !}
+{154}{}{Ça a l'air coquin. Ça te dit d'essayer sur moi ?}
+{155}{}{J'instruis les enfants. C'est mon devoir. Tous les enfants sont des bêtes méchantes. C'est mon devoir de les forcer à évoluer en êtres humains. T'as peut-être entendu dire que je tolère pas la frivolité. C'est vrai. Je veux que mes ouailles souffrent autant que possible.}
+{156}{}{Et les mutants sont plus évolués que les êtres humains ?}
+{157}{}{Espèce de salaud sans cœur !}
+{158}{}{T'as jamais baisé, hein ?}
+{159}{}{Dis-m'en plus sur tes méthodes d'enseignement.}
+{160}{}{Mais le plaisir de tuer ? C'est pas permis ?}
+{161}{}{Sale abomination sans cervelle ! Comment oses-tu souiller ma présence ! Dégage ! Dehors ! Maintenant !}
+{162}{}{Tu es une femme, et donc tu es toujours troublée. C'est une condition endémique de ton espèce. Dis-moi ton problème, madame, et je le résoudrai pour toi.}
+{163}{}{Si ton cœur n'était pas si plein de méchanceté, monsieur, tu serais en paix. Un cœur juste ne connaît pas de soucis. Dis-moi ton problème, mais fais vite !}
+{164}{}{Dis-moi comment atteindre la droiture !}
+{165}{}{Je veux en savoir plus sur la Cathédrale.}
+{166}{}{Je veux en savoir plus sur le Maître.}
+{167}{}{T'es vivant. C'est ça mon problème, fils de pute !}
+{168}{}{Apprends à embrasser la douleur comme ta plus proche amie, car la douleur est la force la plus instructive de l'univers. Brise-toi jusqu'à ne plus pouvoir exister comme individu, puis refais-toi en outil du Maître. C'est la solution à tous tes problèmes.}
+{169}{}{Alors où je peux trouver le plus de douleur ?}
+{170}{}{Ouais, je veux avoir assez de dommages au cerveau pour rejoindre un culte de zombies ! Rêve, mon pote !}
+{171}{}{J'y aurais jamais pensé !}
+{172}{}{C'est ça ? Ça craint, mon pote !}
+{173}{}{J'embrasse déjà la douleur. J'aime juste la partager avec mes amis.}
+{174}{}{Les bêtes jacassent sans signification. Les êtres humains pensent d'abord, puis parlent. Tu dois évoluer en être humain avant que je veuille te parler. Va-t'en.}
+{175}{}{Tes paroles sont vraies. Très bien, je vais t'aider. Mais fais vite.}
+{176}{}{Je dois voir le Père Morpheus pour une affaire urgente.}
+{177}{}{Parle-moi de la Cathédrale.}
+{178}{}{Je me demandais où je pourrais trouver le Maître.}
+{179}{}{Je me posais des questions sur les Enfants.}
+{180}{}{La seule chose que je connais qui est rapide, c'est la Mort.}
+{181}{}{Vient un moment où tu dois trouver toi-même les réponses aux questions de la vie, et ce moment c'est maintenant. Va-t'en !}
+{182}{}{C'est pas mon devoir. Maintenant va-t'en.}
+{183}{}{Par l'endurance de la douleur, par l'acquisition de la sagesse, et l'accomplissement du service. La douleur est la connaissance, la sagesse est l'obéissance, et le service est le courage. }
+{184}{}{[Suite]}
+{185}{}{Tu dois rejeter la Lumière qui a failli nous détruire tous, et te vouer aux Ténèbres dans lesquelles tous sont égaux. Maintenant que je t'ai dit cette chose, va la chercher. Cherche le Maître et sa sagesse.}
+{186}{}{Je ne l'ai pas consulté, mais je suis certain qu'il est satisfait des âmes justes que je lui ai apportées. C'est un travail difficile, mais je le fais bien. Malheureusement, ça prend aussi pas mal de temps, c'est pourquoi je dois t'ordonner de partir tout de suite.}
+{187}{}{Une langue de flatteur est dans la bouche d'un diable ! Un diable comme toi ! Dégage de ma vue !}
+{188}{}{Sale bête mal embouchée ! Va-t'en ! Apprends les bonnes manières avant de revenir.}
+{189}{}{Requête raisonnable. Prends ce symbole. Montre-le aux Nightkin quand tu voudras passer.}
+{190}{}{Je peux pas t'aider avec ça. Va-t'en.}
+{191}{}{C'est notre chef. Il est proche des conseils du Maître et connaît beaucoup de ses desseins. C'est tout ?}
+{192}{}{Tu pourrais persuader les Nightkin de me laisser passer ?}
+{193}{}{Dis-m'en plus sur Morpheus ?}
+{194}{}{Qu'est-ce que tu peux me dire sur les Nightkin ?}
+{195}{}{Merci, monsieur.}
+{196}{}{Alors pourquoi tu suis ce clown de Morpheus ?}
+{197}{}{Ils servent le Maître. Ils apportent la douleur guérisseuse au monde. Des anges dans la Nuit, qui rachètent le monde par l'effusion de sang. La curiosité est une émotion téméraire, mais doublement quand il s'agit des Nightkin. C'est ton seul avertissement. J'ai beaucoup à faire maintenant. Va-t'en.}
+{198}{}{Ta courtoisie te fait honneur. Peut-être que tu es digne de parler avec Morpheus. Si les Nightkin t'arrêtent, montre-leur ce symbole. Maintenant, va-t'en !}
+{199}{}{Tu es un idiot si tu crois qu'une petite ruse vaincra les Nightkin. Dégage d'ici !}
+{200}{}{La décadence et la facilité empêchent l'évolution, évolution qui est nécessaire à la survie dans un monde dur. Heureusement, je suis un homme dur qui se soucie peu des plaisirs séducteurs. Je vois que tu n'es pas d'accord avec moi. Je me fiche de ton opinion. Dégage d'ici !}
+{201}{}{La mutation n'a rien d'effrayant. Chaque naissance est une mutation de l'ADN de nos parents. Nous sommes tous des mutants. La seule chose qui compte, c'est que le mutant soit guidé sur un chemin moral et productif. C'est mon travail. Et ça met aussi fin à cette discussion. Laisse-moi maintenant.}
+{202}{}{Je distribue la douleur. Si l'animal est digne et peut en apprendre, il évolue en âme juste. S'il ne le peut pas, il ne mérite pas d'exister. En de rares occasions, l'animal est retiré du pool génétique, bien que pas aussi souvent que je le voudrais. Ça arrive plus souvent avec les animaux adultes ratés.}
+{203}{}{Et le Maître approuve ces méthodes d'enseignement ?}
+{204}{}{T'es un monstre !}
+{205}{}{Je crois que je vais te laisser maintenant.}
+{206}{}{Tu enseignes aux adultes ?}
+{207}{}{Des animaux adultes ?}
+{208}{}{Hé, je peux les retirer pour toi ! Personne d'autre a besoin de savoir !}
+{209}{}{Tu es une vilaine fille. Tu ferais bien de marcher prudemment ici. Les Nightkin n'aiment pas les rivaux. Maintenant va-t'en !}
+{210}{}{Tu es un vilain garçon. Tu ferais bien de marcher prudemment ici. Les Nightkin n'aiment pas les rivaux. Maintenant va-t'en !}
+{211}{}{La droiture s'atteint par la lutte, le traumatisme et la guérison. Nous sommes des animaux qui doivent être continuellement brisés jusqu'à accepter la vérité du Maître sans hésitation. Maintenant que tu as entendu la vérité, cherche-la avec le corps de tes expériences. Dégage d'ici.}
+{212}{}{Ta langue est une chose méchante au-delà de la rédemption. Dégage de ma vue !}
+{213}{}{La Cathédrale enseigne beaucoup de choses qu'un esprit indiscipliné est incapable de comprendre. Maintenant j'ai d'autres devoirs à accomplir. Va-t'en !}
+{214}{}{Moi aussi. On dirait qu'on a beaucoup de choses en commun, mais malheureusement, tu m'irrites au-delà de ma capacité à tolérer. Dégage d'ici. Maintenant.}
+{215}{}{C'est pas à moi de juger. Tu dois persuader les Nightkin. Bonne chance. Tu en auras besoin.}
+{216}{}{La Cathédrale est un sanctuaire pour la race humaine. Quand l'apocalypse est tombée sur cette ville infâme, la Cathédrale a été épargnée, ce qui a permis la naissance du Maître. Ainsi une ténèbre guérisseuse a émergé d'une lumière terrible.}
+{217}{}{ Quand je suis venu, j'ai vu que cet endroit manquait d'un centre moral, et je me suis donc efforcé d'administrer la douleur enseignante à un endroit autrefois consumé par le plaisir oisif. C'est tout ce que tu as besoin de savoir.}
+{218}{}{On dit que le Maître attend en bas, dans les Ténèbres, car la Lumière d'en haut a trahi l'humanité et a failli la détruire. Mais beaucoup bénissent la Lumière, car ils disent qu'elle a enfanté le Maître.}
+{219}{}{ Je ne connais pas ces choses avec certitude, et je n'ai jamais eu le privilège de le voir. Maintenant si tu veux bien m'excuser, j'ai du travail à faire.}
+{220}{}{T'étais pas particulièrement le bienvenu ici au départ. Bon débarras.}
+{221}{}{Autrefois oui, mais beaucoup de mes méthodes ont été abandonnées au profit des bruits forts que tu entends dans l'amphithéâtre de l'Auditorium. C'est une source d'amertume pour moi. Heureusement, je peux encore instruire les enfants. Maintenant si tu veux bien m'excuser, je dois préparer leurs leçons.}
+{222}{}{Euh... c'est bien sûr un événement rare, et l'animal a toutes les chances d'évoluer. Maintenant pars d'ici ! Pars d'ici tout de suite !}
+{223}{}{[Fini]}
+{224}{}{Ça pourrait t'être utile. Prends ce symbole. Montre-le aux Nightkin quand tu voudras passer. Ça te permettra de voir le Père Morpheus.}

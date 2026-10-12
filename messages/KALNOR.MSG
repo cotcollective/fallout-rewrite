@@ -1,0 +1,67 @@
+{100}{}{Tu vois : Kalnor, un garde de Junktown.}
+{101}{}{Tu ferais mieux de faire attention ici.}
+{102}{}{C'est pas une bonne ville pour s'attirer des ennuis.}
+{103}{}{Tiens-toi bien, et on aura pas besoin d'être désagréables.}
+{104}{}{T'es correct.}
+{105}{}{Continue comme ça.}
+{106}{}{Belle journée, hein ?}
+{107}{}{Ici c'est Junktown. Un endroit sympa pour vivre, tant que tu restes de notre bon côté.}
+{108}{}{Méfie-toi de Gizmo et de ses acolytes.}
+{109}{}{J'aime bien mon patron.}
+{110}{}{Tu ferais mieux de ranger ça. Junktown est un endroit amical, mon ami, et on veut que ça reste comme ça.}
+{111}{}{Ranger quoi ?}
+{112}{}{Me dis pas quoi faire, minable.}
+{113}{}{Ça me semble juste. Au fait, c'est quoi la loi locale sur les armes ?}
+{114}{}{Euh, oh.}
+{115}{}{Ton arme, idiot. Killian te confisquera pas tes armes, mais tu ferais sacrément bien de les garder au fourreau.}
+{116}{}{Oh, désolé.}
+{117}{}{Pas question ! Je pose pas mes flingues pour personne !}
+{118}{}{Tu ferais mieux de te tenir bien, puisque c'est la loi, et c'est moi qui l'applique. Range ton arme. La sors pas sauf en légitime défense et t'auras pas de problème avec nous les gardes. Désobéis à la loi et on te renverra dans le désert sans loi — mort ou vif.}
+{119}{}{Bien sûr, dit comme ça.}
+{120}{}{Bouffe tes lois !}
+{121}{}{Eh bien, euh, ça me va. Mais tu ferais mieux de faire attention.}
+{122}{}{Bien que tu demandes. Aucune arme ne peut être sortie sauf en légitime défense. Si tu commences un combat, c'est ta faute. À part ça, t'as le droit de te promener armé. Sors juste pas un couteau ou un flingue sans raison valable. Bonne journée.}
+{123}{}{Hé toi, pas d'armes ! Et je m'en fiche si ta mère t'a laissé tomber sur la tête quand t'étais gosse. Pas d'armes.}
+{124}{}{Hé ! Toi ! Qu'est-ce que tu fais à rôder comme ça ?}
+{125}{}{Rien.}
+{126}{}{Je rôde pas. J'aime juste marcher prudemment.}
+{127}{}{Euhhh.}
+{128}{}{Quoi que tu fasses, fais-le pas dans cette ville.}
+{129}{}{Hé ! Pas de types louches en ville ! Dégage avant qu'on te jette dehors !}
+{130}{}{Eh bien, euh, d'accord. Peu importe. Fais juste rien de travers.}
+{131}{}{Merci, salut.}
+{132}{}{Certainement. Je vais jeter la prudence au vent, monsieur.}
+{133}{}{Certainement. Je vais jeter la prudence au vent, madame.}
+{134}{}{Tu ferais mieux de surveiller tes pas par ici, parce qu'on te surveillera.}
+{135}{}{Bienvenue à Junktown. Qu'est-ce que je peux faire pour toi ?}
+{136}{}{Rien, merci.}
+{137}{}{Tu fais quoi ici ? C'est quoi cet endroit ?}
+{138}{}{Où je peux avoir des provisions ?}
+{139}{}{Wa-wa !}
+{140}{}{J'en sais rien. Tu devrais voir avec Killian. Il est au nord. C'est par là, d'accord ?}
+{141}{}{Ça ressemble à quoi ? Je suis un garde, et je surveille les étrangers comme toi. Et cet endroit s'appelle Junktown. Hé, ris pas. J'aime bien ce nom, moi. On fait surtout du commerce ; parfois on commerce avec ces enfoirés coincés du Hub. Hé, t'es pas du Hub, toi ?}
+{142}{}{Quoi ? Le Hub ? Bien sûr que oui !}
+{143}{}{Moi ? Non, je suis pas du Hub.}
+{144}{}{Alors tu dois connaître la plupart des règles. Bonne journée. Et je suis désolé pour le passage sur les enfoirés, d'accord ?}
+{145}{}{Ouais ! Hé, pas de problème. Salut.}
+{146}{}{Ça va me causer un grave traumatisme mental. À plus.}
+{147}{}{Hmmm. D'accord. C'est pas à nous de poser des questions. Bonne journée et fais pas d'ennuis.}
+{148}{}{Oh, ben. L'endroit pour ça c'est chez Darkwater. C'est Killian qui tient. C'est un peu au nord. Killian a les meilleures provisions en ville.}
+{149}{}{Merci. Salut.}
+{150}{}{Tu veux me montrer où TU gardes TES provisions ?}
+{152}{}{Euh, non. Désolé, madame. J'ai du boulot ici.}
+{153}{}{Bonne journée.}
+{154}{}{Reste loin des ennuis.}
+{155}{}{Purée, j'espère que mon remplaçant va bientôt arriver. J'ai l'impression de monter la garde depuis toujours.}
+{156}{}{Désolé, les portes sont fermées pour la nuit. Reviens demain matin.}
+{157}{}{Hé, faut que j'entre !}
+{158}{}{Pas de problème. À demain matin.}
+{159}{}{Désolé de te déranger, monsieur, mais je voudrais entrer dans ta ville. Tu peux voir que je ferais aucun mal.}
+{160}{}{Hunh-huh !}
+{161}{}{Re... viens... jour...}
+{162}{}{Désolé, les règles sont les règles. Aucun étranger admis pendant la nuit.}
+{163}{}{Eh bien, je devrais pas faire ça, mais t'as l'air d'une personne assez sympa. Entre, mais fais pas d'ennuis.}
+{164}{}{Hé ! C'est toi ! Entre, }
+{165}{}{. Content de te revoir !}
+{166}{}{Hé, tu ferais mieux de faire demi-tour et de ressortir d'ici.}
+{167}{}{Entre.}

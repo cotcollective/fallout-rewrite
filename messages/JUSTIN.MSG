@@ -1,0 +1,95 @@
+{100}{}{Tu vois : le shérif Justin Greene.}
+{101}{}{Oh, le tueur d'innocents. J'ai entendu parler de toi, et t'as de la chance que mon insigne m'empêche de te descendre sur place. Je te suggère de quitter notre ville — tout de suite. Et reste loin de nos enfants.}
+{102}{}{Bonjour monsieur ! Je m'appelle Justin Greene. Je suis le shérif de cette belle ville. Je peux faire quelque chose pour toi en ce beau jour ?}
+{103}{}{Bonjour madame ! Je m'appelle Justin Greene. Je suis le shérif de cette belle ville. Je peux faire quelque chose pour toi en ce beau jour ?}
+{104}{}{Alors, crache le morceau !}
+{105}{}{Decker a essayé de m'engager pour tuer un marchand et sa femme.}
+{106}{}{Decker a essayé de m'engager pour tuer quelqu'un qui s'appelle Jain.}
+{107}{}{Rien, laisse tomber.}
+{108}{}{Désolé, je peux pas te le dire. Je serais mort.}
+{109}{}{Eh bien, merci. On fait de notre mieux. C'est vraiment dur dans une ville de cette taille, mais on fait ce qu'on peut avec ce qu'on a. C'est dur quand les voyous ont de meilleures armes que toi.}
+{110}{}{Merci encore.}
+{111}{}{Il est temps pour toi de partir, tueur d'enfants.}
+{112}{}{On pouvait pas laisser faire ça. Mais si jamais tu changes d'avis, fais-le-moi savoir. C'est dangereux, là-dehors, et quelqu'un doit défendre ce qui est juste.}
+{113}{}{Excellent ! J'avais déjà entendu parler de son plan par d'autres sources. T'es la confirmation finale dont j'avais besoin pour agir contre lui. Ça va être dur, et j'ai besoin de toute l'aide possible. Je peux te payer 1300 capsules. 300 maintenant, et le reste quand on aura fini. Qu'est-ce que t'en dis ?}
+{114}{}{T'es trop tard... Merde ! Je savais qu'il était responsable, j'aurais juste voulu le savoir à temps pour l'arrêter. En tout cas, t'es le dernier témoin dont j'avais besoin pour agir. Va falloir « l'éliminer ». Ça va être dur, et j'ai besoin de toute l'aide possible. Je peux te payer 1300 capsules. 300 maintenant, et le reste quand on aura fini. Qu'est-ce que t'en dis ?}
+{115}{}{T'es trop tard... Comment je sais que t'es pas responsable ? Decker laisserait pas quelqu'un qui connaît ses plans en vie.}
+{116}{}{Je viens d'apprendre qu'elle est déjà morte... attends une minute. Comment je sais que c'est pas toi le responsable ? Decker laisserait pas quelqu'un qui connaît ses plans en vie.}
+{117}{}{Avec plaisir.}
+{118}{}{Désolé, je veux tout d'avance.}
+{119}{}{Pas question ! Débrouille-toi tout seul.}
+{120}{}{Pas question. T'as l'air digne de confiance, mais je peux pas être sûr que tu nous planteras pas quand ça chauffera. Comme ça, l'un de nous doit survivre pour être sûr que tu sois payé. Ça ajoute une « petite » assurance.}
+{121}{}{Allons-y.}
+{122}{}{Débrouille-toi tout seul, shérif.}
+{123}{}{Super ! Voilà la première partie de ton paiement. [Le shérif te tend 300 capsules]}
+{124}{}{Je suis prêt.}
+{125}{}{D'accord, salut.}
+{126}{}{Je suis vraiment désolé de l'entendre. Si tu changes d'avis, fais-le-moi savoir, mais je peux pas attendre très longtemps.}
+{127}{}{D'accord, je le fais. Attends juste que je prenne des provisions.}
+{128}{}{T'es fou.}
+{129}{}{Salut.}
+{130}{}{Super ! Voilà la première partie de ton paiement. [Le shérif te donne 300 capsules]}
+{131}{}{Quoi ? Tu t'attends à ce que je reste là à le regarder tuer des innocents ? J'ai une responsabilité envers cette ville, que je m'attends pas à ce que tu comprennes.}
+{132}{}{T'as raison. Maintenant c'est ton tour.}
+{133}{}{Comment oses-tu m'accuser !}
+{134}{}{Je me fiche de ce que tu penses.}
+{135}{}{Eh bien, il a rien tenté.}
+{136}{}{On était au Maltese Falcon, et y avait beaucoup de monde autour.}
+{137}{}{Je suis désolé. Decker nous monte les uns contre les autres depuis des années. Je sais plus à qui faire confiance. J'aurais vraiment besoin de ton aide, ceci dit. Ça va être dur, mais je te paierai 1300 capsules. 300 maintenant et 1000 quand on aura fini.}
+{138}{}{Je sens un rat quand j'en vois un ! T'as de la chance que j'aie pas de preuves, et je te suggère de quitter la ville avant que j'en trouve.}
+{139}{}{C'est très étrange. J'ai jamais entendu dire que Decker sortait de son bureau. Il doit prendre de l'assurance. Ce putain d'assassin... argh ! Je l'aurai un jour ! Voilà ce que je te propose, aide-nous, et je te paierai 1300 capsules — 300 maintenant et 1000 quand on aura fini. Qu'est-ce que t'en dis ?}
+{140}{}{C'est le plus gros tas de merde de brahmine que j'ai jamais entendu. Decker quitte jamais son bureau. Je savais qu'il y avait quelque chose de louche chez toi. T'as de la chance que j'aie pas de preuves, et je te suggère de quitter la ville avant que j'en trouve !}
+{141}{}{D'accord, allons-y...}
+{142}{}{Alors, tu viens te rendre ? Je suis impressionné.}
+{143}{}{Oui, je suis désolé.}
+{144}{}{Me rendre ? Me fais pas rire.}
+{145}{}{Attrapez-le !}
+{146}{}{Attrapez-la !}
+{147}{}{Bon, dans ta cellule.}
+{148}{}{Tiens-toi tranquille. Tu vas nulle part pour un moment.}
+{149}{}{Fugitif ! Attrapez-le !}
+{150}{}{Fugitif ! Attrapez-la !}
+{151}{}{Prêt à aller éliminer Decker ?}
+{152}{}{Oui.}
+{153}{}{Non.}
+{154}{}{Ug.}
+{155}{}{J'arrive pas à croire que Decker est enfin mort. J'aurais jamais cru voir ce jour.}
+{156}{}{T'as changé d'avis ? On pourrait encore t'utiliser pour se débarrasser de cette maladie dont on parlait.}
+{157}{}{J'y vais.}
+{158}{}{Non, désolé.}
+{159}{}{Fah ?}
+{160}{}{On te surveille.}
+{161}{}{J'ai un crime à signaler !}
+{162}{}{Tu fais du bon boulot.}
+{163}{}{Je passais juste. Salut.}
+{164}{}{Oula.}
+{165}{}{Rebonjour, monsieur. Qu'est-ce que je peux faire pour toi aujourd'hui ?}
+{166}{}{Rebonjour, madame. Qu'est-ce que je peux faire pour toi aujourd'hui ?}
+{167}{}{Bonjour. Comment je peux t'aider ?}
+{168}{}{Oui ?}
+{169}{}{Cuve juste ta cuite, d'accord ?}
+{170}{}{Tu rigoles ! Eh bien... euh... il... il te l'a demandé personnellement ?}
+{171}{}{Oui, lui-même.}
+{172}{}{Mec, c'était une sacrée bataille ! Tu t'en es bien sorti là-dedans. Maintenant que Decker et Kane sont partis, le reste de l'Underground va tomber très vite. Sans chef, des organisations comme ça peuvent pas durer. Personne ici est assez malin pour reprendre les rênes.}
+{173}{}{Bon, voilà le reste de ta récompense. Merci encore pour ton aide. Cette ville te doit une dette de gratitude. [Le shérif te tend 1000 capsules]}
+{174}{}{On peut partir dès que t'es prêt.}
+{175}{}{Fais-moi savoir quand t'es prêt. On t'attendra, mais traîne pas trop.}
+
+##--by Sduibek, for Fallout Fixt:
+
+{180}{}{Bob l'Iguane utilise de la viande de cadavres humains pour ses Morceaux de Choix.}
+{185}{}{Le Morceau de Choix, c'est fait avec des gens !!!! C'est fait avec des gens !!!}
+
+{181}{}{Tu rigoles ! T'es sûr ? Hmmm... Laisse-moi vérifier et je te reviens.}
+{182}{}{D'accord.}
+{183}{}{Eh bien, ton histoire se tient. Merde. Bob a toujours eu l'air un peu « bizarre » mais j'aurais jamais cru qu'il vendait de la chair humaine. J'en mangeais un ou deux à midi tous les jours !}
+{184}{}{Je sais. C'est dommage, vu comme c'est délicieux.}
+
+{186}{}{Bien. D'accord, on va s'en occuper. Merci pour ton rapport.}
+{187}{}{Super, je suis juste content de savoir qu'il aura la justice qu'il mérite. Salut !}
+{188}{}{Quoi, pas de commission ?}
+{189}{}{Bien sûr, n'importe quand.}
+{190}{}{Espèce d'idiot, je savais que t'allais dire ça ! Tiens, prends ta récompense et dégage. [Greene te tend 250 capsules]}
+{191}{}{Peu importe, salut.}
+{192}{}{Merci. Bonne journée !}
+

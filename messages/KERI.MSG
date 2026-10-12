@@ -1,0 +1,137 @@
+{100}{}{Tu vois : Keri.}
+{101}{}{T'es qui, bordel ? Si tu veux un boulot, faudra parler à Demetre.}
+{102}{}{J'ai dit de parler à mon père si tu veux un boulot, pas à moi.}
+{103}{}{Alors, ce vieux bâtard t'a donné le feu vert pour bosser pour nous, hein ? Eh bien tu dois être une vraie dure à cuire. Je suis impressionnée, mais on verra ce que tu vaux. On part que deux fois par mois, le 3 et le 17. Tu peux gérer ça ? On va dans tous les coins qui bougent : la Confrérie de l'Acier, Junktown, Nécropolis, et le Cimetière de L.A.}
+{104}{}{Alors, ce vieux bâtard t'a donné le feu vert pour bosser pour nous, hein ? Eh bien tu dois avoir des couilles en acier. Je suis impressionnée, mais on verra ce que tu vaux. On part que deux fois par mois, le 3 et le 17. Tu peux gérer ça ? On va dans tous les coins qui bougent : la Confrérie de l'Acier, Junktown, Nécropolis, et le Cimetière de L.A.}
+{105}{}{Et la paie ?}
+{106}{}{Euh.}
+{107}{}{Notre paie est la meilleure ; 600 capsules — et oui, c'est pour chaque trajet... mais t'es pas obligé de faire les deux. C'est une sacrée caravane coriace, et t'es presque sûr de tomber sur des pillards... ou pire. Pas de mauviettes dans mes caravanes, et tu ferais mieux d'avoir plein de munitions.}
+{108}{}{ On part aujourd'hui. Ça t'intéresse ?}
+{109}{}{ On part le }
+{110}{}{Empty}
+{111}{}{Empty}
+{112}{}{. Ça t'intéresse ?}
+{113}{}{On part tous aujourd'hui.}
+{114}{}{On part le }
+{115}{}{ }
+{116}{}{ }
+{117}{}{ Ça t'intéresse ?}
+{118}{}{Je te filerai quand même un boulot, pauvre minable, si ça t'intéresse ?}
+{119}{}{Bien sûr.}
+{120}{}{Non.}
+{121}{}{Je crois que c'est toi qui m'intéresses.}
+{122}{}{Peut-être.}
+{123}{}{Ug.}
+{124}{}{Ha, je te prenais pour un lâche ! Eh bien... si tu te ressaisis, passe me voir et je te filerai peut-être encore un boulot. On part le 3 et le 17, tu peux juste te pointer ce jour-là si tu veux. On a toujours besoin de plus de flingues.}
+{125}{}{T'adores me faire perdre mon temps, hein.}
+{126}{}{Peu importe. Si l'envie d'action te prend, reviens et je te brancherai sur la prochaine caravane.}
+{127}{}{Hé ! Je sais qu'on peut avoir de la bonne drogue ici, mais je suis pas censée t'engager sauf si t'es sobre.}
+{128}{}{J'ai dit d'arrêter la drogue, mec !}
+{129}{}{J'ai dit d'arrêter la drogue, salope !}
+{130}{}{Eh bien... ça me fait mal de le dire mais... j'ai entendu parler de toi. T'es aussi coriace en privé qu'en public ? Voyons voir... [Elle t'entraîne au coin]}
+{131}{}{[Au retour, elle te glisse quelques trucs.]}
+{132}{}{Eh bien, tu peux tenir SACRÉMENT longtemps.}
+{133}{}{Eh bien, t'ES intéressant et TRÈS différent de la plupart des gens... montre-moi ce que t'as, mon costaud. [Elle t'entraîne au coin]}
+{134}{}{[Au retour, elle te glisse quelques trucs.]}
+{135}{}{Eh bien, tu peux tenir SACRÉMENT longtemps.}
+{136}{}{Hé Papa, on dirait qu'on a un voleur ici ! Qu'est-ce que t'as à dire pour ta défense, raclure ?}
+{137}{}{Désolé. Je le referai plus jamais.}
+{138}{}{Attrape-moi si tu peux...}
+{139}{}{J'aime pas le silence ! Viens me chercher !}
+{140}{}{[Hoche oui de la tête]}
+{141}{}{OOOGABOUGA !!!}
+{142}{}{Hé Papa, cette merde stupide a pas retenu la leçon la première fois. Elle a essayé de me voler encore. On va la rosser.}
+{143}{}{Hé Papa, cette merde stupide a pas retenu la leçon la première fois. Il a essayé de me voler encore. On va le rosser.}
+{144}{}{Eh bien... je sais comme c'est facile d'être tenté de voler, mais... Bon, je te laisse une chance. Montre plus ta face par ici et j'appellerai pas les flics. Maintenant dégage.}
+{145}{}{Oh on va s'en assurer, hein Papa ?}
+{146}{}{Va en enfer !}
+{147}{}{J'imagine.}
+{148}{}{T'es de la viande morte.}
+{149}{}{J'ai dit de dégager !}
+{150}{}{Police !}
+{151}{}{Désolé, on traitera plus avec toi.}
+{152}{}{Pas de boulot ici, dégage.}
+{153}{}{Me mets pas de mauvaise humeur.}
+{154}{}{Crétin.}
+{155}{}{Intrigant, mais t'es pas mon type.}
+{156}{}{Bien. Comme je l'ai dit, on paie 600 capsules. Quelle route tu voulais prendre ?}
+{157}{}{Cool. La prochaine part le }
+{158}{}{. Reviens à ce moment-là et je te mettrai sur une caravane. Comme toujours, ça paie 600 capsules.}
+{159}{}{D'accord. }
+{160}{}{Désolé, je peux pas attendre aussi longtemps.}
+{161}{}{Je devrais te pendre par les paupières ! À cause de toi on a perdu toute une putain de caravane ! Dégage de ma vue ! Je vais en prendre plein la gueule pour celle-là.}
+{162}{}{Je devrais te pendre par les couilles ! À cause de toi on a perdu toute une putain de caravane ! Dégage de ma vue ! Je vais en prendre plein la gueule pour celle-là.}
+{163}{}{Confrérie de l'Acier}
+{164}{}{Junktown}
+{165}{}{Nécropolis}
+{166}{}{Cimetière}
+{167}{}{Laisse tomber. J'ai un truc à faire. }
+{168}{}{En joue ! On se tire d'ici !}
+{169}{}{Fais-moi savoir si un truc cool arrive, Papa me force à rester près de l'entrepôt.}
+{170}{}{Super ! Les autres psychopathes sont prêts. On part tout de suite.}
+{171}{}{Cool, ça prendra juste quelques minutes pour rassembler les psychos.}
+{172}{}{Confrérie de l'Acier, on arrive ! Eh bien... je viens pas avec toi, mais tu vois ce que je veux dire.}
+{173}{}{D'accord, dégage de ma vue. Ces fanatiques de la Confrérie t'attendent.}
+{174}{}{J'espère que t'aimes les montagnes ! Tu fonces droit dedans. Tu devrais voir pas mal d'action là-bas.}
+{175}{}{Prêt à partir, et tu vas droit à travers les montagnes ! Ça devrait être explosif !}
+{176}{}{Junktown est assez calme. Je préfère les routes plus dangereuses.}
+{177}{}{J'ai entendu dire qu'il y a un docteur cinglé là-bas, tu devrais aller le voir. Il s'appelle Doc Morbid.}
+{178}{}{Junktown c'est un court voyage, tu devrais être de retour vite.}
+{179}{}{Surveille tes fesses, Nécropolis est pas un endroit très amical.}
+{180}{}{Set est le chef de la ville. Du moins c'était le cas la dernière fois que j'y étais.}
+{181}{}{Cette ville est pleine de clodos ! Bon, je ferais mieux de te mettre en route.}
+{182}{}{L.A. est assez cool. Ça va te plaire, mais assure-toi de pas quitter la caravane avant qu'elle arrive. C'est pas très sûr, pour les caravanes je veux dire.}
+{183}{}{J'espère que t'auras l'occasion de voir, y a aussi une église cool à quelques kilomètres au sud. Les gens sont timbrés, ceci dit.}
+{184}{}{On me dit que le Cimetière de L.A. s'appelait L.A. avant. Je sais pas ce que les initiales veulent dire, mais c'est un endroit cool.}
+{185}{}{Qu'est-ce que tu veux, bordel ?}
+{186}{}{Tais-toi et dégage de mon chemin, je suis pas d'humeur !}
+{187}{}{Je veux un autre boulot.}
+{188}{}{Rien.}
+{189}{}{Zug.}
+{190}{}{Ug.}
+{191}{}{Ouais c'est ça ! Pour que tu abandonnes une autre caravane ? T'as de la chance qu'ils soient arrivés en un morceau.}
+{192}{}{J'ai de la chance ? T'as de la chance que je te défonce pas la gueule !}
+{193}{}{Hé ! J'avais des endroits où aller et... des trucs !}
+{194}{}{Hé ! T'as pas dit que je pouvais pas partir ! C'est pas comme s'ils étaient en plein combat.}
+{195}{}{Dégage d'ici ! Tu me rends malade ! C'est pour ça que t'as quitté la caravane ? T'étais drogué, je parie !}
+{196}{}{Ouais ? Eh bien pourquoi tu y vas pas maintenant ! T'es rayé de notre liste pour de bon.}
+{197}{}{Quoi ? T'as jamais bossé sur une caravane avant ? Je crois pas que mon père t'ait engagé ! Dégage ! On engage que du personnel expérimenté ! C'est pour ça qu'on paie le gros prix !}
+{198}{}{T'as bien bossé sur le dernier boulot. T'en cherches un autre ?}
+{199}{}{Bien sûr.}
+{200}{}{Non.}
+{201}{}{Peut-être.}
+{202}{}{Ug.}
+{203}{}{Lug.}
+{204}{}{Prêt à partir ? On part aujourd'hui.}
+{205}{}{Ouaip !}
+{206}{}{Nan.}
+{207}{}{Hrurra ?}
+{208}{}{T'es un jour en avance. Reviens demain si tu veux toujours le boulot. Sinon, pointe pas. Je m'en fiche.}
+{209}{}{Hé, t'es en avance. Je les envoie pas avant le }
+{210}{}{3}
+{211}{}{17}
+{212}{}{. Reviens à ce moment-là si tu veux toujours ce putain de boulot. Je m'en fiche vraiment que tu viennes ou pas. Mais si tu le veux toujours, reviens à ce moment-là.}
+{213}{}{Pas encore.}
+{214}{}{Papa, ferme-la !}
+{215}{}{Hé le vieux, j'ai faim ! Je vais prendre une pause !}
+{216}{}{Je déteste faire la compta.}
+{217}{}{Janvier }
+{218}{}{Février }
+{219}{}{Mars }
+{220}{}{Avril }
+{221}{}{Mai }
+{222}{}{Juin }
+{223}{}{Juillet }
+{224}{}{Août }
+{225}{}{Septembre }
+{226}{}{Octobre }
+{227}{}{Novembre }
+{228}{}{Décembre }
+{229}{}{Tu reçois 3 paquets de drogue.}
+# invasion - WastelandGhost@RestorationMOD
+{300}{}{Alors, ce vieux bâtard t'a donné le feu vert pour bosser pour nous, hein ? Eh bien tu dois être une vraie dure à cuire. Je suis impressionnée, mais on verra ce que tu vaux. On part que deux fois par mois, le 3 et le 17. Tu peux gérer ça ? On va dans tous les coins qui bougent : la Confrérie de l'Acier, et Junktown. Le Cimetière et Nécropolis ont été envahis par des mutants très peu amicaux, alors on y va plus.}
+{301}{}{Alors, ce vieux bâtard t'a donné le feu vert pour bosser pour nous, hein ? Eh bien tu dois avoir des couilles en acier. Je suis impressionnée, mais on verra ce que tu vaux. On part que deux fois par mois, le 3 et le 17. Tu peux gérer ça ? On va dans tous les coins qui bougent : la Confrérie de l'Acier, et Junktown. Le Cimetière et Nécropolis ont été envahis par des mutants très peu amicaux, alors on y va plus.}
+{302}{}{Alors, ce vieux bâtard t'a donné le feu vert pour bosser pour nous, hein ? Eh bien tu dois être une vraie dure à cuire. Je suis impressionnée, mais on verra ce que tu vaux. On part que deux fois par mois, le 3 et le 17. Tu peux gérer ça ? On va dans tous les coins qui bougent : la Confrérie de l'Acier, Junktown et Nécropolis. Le Cimetière de L.A. a été envahi par des mutants très peu amicaux, alors on y va plus.}
+{303}{}{Alors, ce vieux bâtard t'a donné le feu vert pour bosser pour nous, hein ? Eh bien tu dois avoir des couilles en acier. Je suis impressionnée, mais on verra ce que tu vaux. On part que deux fois par mois, le 3 et le 17. Tu peux gérer ça ? On va dans tous les coins qui bougent : la Confrérie de l'Acier, Junktown et Nécropolis. Le Cimetière de L.A. a été envahi par des mutants très peu amicaux, alors on y va plus.}
+{304}{}{Alors, ce vieux bâtard t'a donné le feu vert pour bosser pour nous, hein ? Eh bien tu dois être une vraie dure à cuire. Je suis impressionnée, mais on verra ce que tu vaux. On part que deux fois par mois, le 3 et le 17. Tu peux gérer ça ? On va dans tous les coins qui bougent : la Confrérie de l'Acier, Junktown et le Cimetière de L.A. Nécropolis a été envahie par des mutants très peu amicaux, alors on y va plus.}
+{305}{}{Alors, ce vieux bâtard t'a donné le feu vert pour bosser pour nous, hein ? Eh bien tu dois avoir des couilles en acier. Je suis impressionnée, mais on verra ce que tu vaux. On part que deux fois par mois, le 3 et le 17. Tu peux gérer ça ? On va dans tous les coins qui bougent : la Confrérie de l'Acier, Junktown et le Cimetière de L.A. Nécropolis a été envahie par des mutants très peu amicaux, alors on y va plus.}

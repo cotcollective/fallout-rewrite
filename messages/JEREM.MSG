@@ -1,0 +1,92 @@
+{100}{}{Tu vois : Jeremiah, un messager des Enfants.}
+{101}{}{Tu vois un Enfant. Il a l'air pensif.}
+{102}{}{Pardon, frère. Tu m'as fait sursauter. Comment puis-je servir le Maître ?}
+{103}{}{Pique !}
+{104}{}{Tu fais quoi ?}
+{105}{}{Ah, oui, un Super-mutant en formation. Je retourne à mes tâches.}
+{106}{}{Si tu sais pas, ça te regarde pas. Si tu demandes quelque chose que tu devrais pas savoir, alors je devrai te signaler à nos superviseurs. Tu devrais le savoir.}
+{107}{}{Je suis une personne de haute importance.}
+{108}{}{Pardon de t'avoir dérangé.}
+{109}{}{Je suis nouveau ici.}
+{110}{}{T'es qui, bordel, pour me poser des questions ?! T'as de la chance que je te signale pas à la Sainte Flamme !!}
+{111}{}{Transférer les rapports, bien sûr.}
+{112}{}{Des rapports de quoi ? Si je peux demander.}
+{113}{}{Et tu fais du très bon boulot.}
+{114}{}{C'est tout. Merci.}
+{115}{}{Très bien, alors. Que la paix soit avec toi.}
+{116}{}{Je m'excuse. Comment puis-je t'être utile ?}
+{117}{}{Tu fais quoi ?}
+{118}{}{Tu peux commencer par répondre à ma question.}
+{119}{}{Tu peux mourir !}
+{120}{}{Gardes !!!}
+{121}{}{Manifestement, t'as rien à faire ici. T'es qui ?}
+{122}{}{En fait je suis un habitant d'Abri et je voudrais parler au Maître.}
+{123}{}{Euh... Dorpheus... hmm... C'est Morpheus qui m'envoie.}
+{124}{}{Je suis Loki. Un Initié du sud.}
+{125}{}{Non, j'ai rien à faire ici. Mais je sais où cette balle a sa place... dans ta tête.}
+{126}{}{Je transfère les rapports de pureté humaine pour les zones environnantes. Mais tu devrais savoir ça. [l'air suspicieux] T'es qui ?}
+{127}{}{Morpheus m'a envoyé avec un message pour le Maître.}
+{128}{}{Ça te regarde pas qui je suis... réponds juste à mes questions !}
+{129}{}{Tu dois pas savoir qui je suis, c'est la volonté du Maître.}
+{130}{}{Tu oses me demander qui je suis ? Imbécile, je devrais te frapper là où tu te tiens.}
+{131}{}{C'est plutôt bizarre... J'ai jamais entendu parler de toi.}
+{132}{}{Morpheus m'a envoyé avec un message pour le Maître.}
+{133}{}{Je suis du Haut Ordre. Seuls le Maître et Morpheus me connaissent, pour assurer ma sécurité à l'extérieur. Mais j'ai été rappelé par ordre du Maître.}
+{134}{}{Pardonne-moi, s'il te plaît. Je m'excuse de t'avoir questionné. Continue tes affaires, et si je peux t'être utile, fais-le-moi savoir.}
+{135}{}{Je sais pas qui t'es, et t'as rien à faire ici. Gardes !!!}
+{136}{}{T'es qui et tu fais quoi ici en bas ?}
+{137}{}{Je suis un adorateur et je suis perdu.}
+{138}{}{Morpheus m'a envoyé avec un message pour le Maître.}
+{139}{}{À la recherche d'une âme solitaire à envoyer au paradis.}
+{140}{}{Urk !}
+{141}{}{T'as pas le droit d'être dans cette zone. Seuls les Serviteurs et plus ont le droit ici en bas. Retourne à la Cathédrale proprement dite.}
+{142}{}{Je m'excuse pour les ennuis que j'ai causés.}
+{143}{}{Je peux te poser quelques questions avant de partir ?}
+{144}{}{D'accord, mais pas avant de te fendre le crâne.}
+{145}{}{Morpheus enverrait pas une raclure comme toi pour une telle mission. Gardes !!}
+{146}{}{Idiot ! T'as pas le droit d'être dans cette zone. Retourne à la Cathédrale proprement dite immédiatement !}
+{147}{}{D'accord.}
+{148}{}{Hein.}
+{149}{}{Nan.}
+{150}{}{Je transfère les dossiers pour le Maître. C'est tout ce que t'as besoin de savoir, mon enfant. Maintenant, tu dois partir.}
+{151}{}{Je pars maintenant.}
+{152}{}{Je voudrais juste te poser encore quelques questions.}
+{153}{}{Je pars. Je pars. Mais pas avant de te faire sauter la cervelle.}
+{154}{}{Comment t'es entré ici ?! Tu fais quoi à rôder ?}
+{155}{}{Je voudrais juste te poser quelques questions.}
+{156}{}{Non, tu peux pas me poser de questions. Maintenant pars.}
+{157}{}{Arrête ! T'as rien à faire ici !}
+{158}{}{Hein ?}
+{159}{}{Pardon. Je suis perdu. Je pars maintenant.}
+{160}{}{Mais j'ai des affaires ici. Morpheus m'a envoyé en mission pour le Maître.}
+{161}{}{J'ai suivi un type louche ici en bas. Tu l'as vu ?}
+{162}{}{Non. Tuer, c'est mon affaire et les affaires marchent bien.}
+{163}{}{Non, j'ai vu personne. Il ressemblait à quoi ?}
+{164}{}{Peu importe. Je crois qu'il s'est échappé.}
+{165}{}{C'était un petit homme vert.}
+{166}{}{Il faisait à peu près ta taille mais il portait une veste en cuir... Tu portes quoi sous ces robes ?}
+{167}{}{Il te ressemblait comme deux gouttes d'eau, tête de nœud !}
+{168}{}{Euh... je... je... Tu crois vraiment que c'est m... moi ? Ridicule. Jamais !}
+{169}{}{D'accord. Je vais partir alors, mais fais-moi savoir si tu vois quelque chose...}
+{170}{}{Oui ! Je crois que c'était toi ! À terre et écarte-les !}
+{171}{}{Non, je crois pas que c'était toi mais je peux te poser quelques questions ?}
+{172}{}{Oui, mon frère. Comment puis-je t'être utile ?}
+{173}{}{Oui, ma sœur. Comment puis-je t'être utile ?}
+{174}{}{Tu fais quoi ici, frère ?}
+{175}{}{Juste servir le Maître. C'est tout ce que je demande. Frère.}
+{176}{}{Pardon, mauvaise personne. Vous vous ressemblez tous dans ces robes.}
+{177}{}{Tu peux me servir en mourant, espèce de cinglé !}
+{178}{}{Je transfère les rapports de pureté humaine pour les zones environnantes.}
+{179}{}{C'est tout. Merci.}
+{180}{}{Je voudrais te poser quelques autres questions, frère.}
+{181}{}{Oui, et c'est un travail très important. Et tu comprends l'importance de tes devoirs envers le Maître et nous tous ?}
+{182}{}{Mais oui. C'est moi qui apporte au Maître les nouvelles des nouveaux humains non contaminés, épargnés par les radiations. C'est moi qui ai apporté au Maître la dernière nouvelle d'un possible Abri Perdu. Il s'y trouve peut-être encore des humains de souche pure.}
+{183}{}{Oui, mon frère. Tu comprends. Merci. C'est tout.}
+{184}{}{Je voudrais te poser quelques autres questions.}
+{185}{}{Tu reconnaîtrais pas un humain de souche pure s'il était juste devant toi. Idiot.}
+{186}{}{Tu reconnaîtrais pas une humaine de souche pure si elle était juste devant toi. Idiote.}
+{187}{}{Tu agis très bizarrement. Je crois pas que tu sois qui tu prétends être. Gardes !}
+{188}{}{Tu poses trop de questions. Je crois pas que tu sois qui tu prétends être. Gardes !}
+{189}{}{Hé ! Je t'ai dit que t'as pas le droit ici en bas ! Gardes !}
+{190}{}{Tu poses trop de questions. T'es qui ?}
+{192}{}{Pardon, sœur. Tu m'as fait sursauter. Comment puis-je servir le Maître ?}

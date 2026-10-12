@@ -1,0 +1,88 @@
+{100}{}{Qu'est-ce que tu veux ?}
+{101}{}{Tes gardes ont dit que tu avais un boulot pour moi.}
+{102}{}{J'aime pas ton attitude, le vieux.}
+{103}{}{Rien.}
+{104}{}{Fluup.}
+{105}{}{Peut-être... T'as déjà eu affaire à une bande de voleurs sanguinaires ?}
+{106}{}{Laisse-moi deviner. T'as un problème de gang.}
+{107}{}{C'est quoi, ici ? Y a un endroit dans le désert qui n'a PAS de problème de gang ?}
+{108}{}{J'en ai croisé quelques-uns.}
+{109}{}{Euh... T'as déjà eu affaire à des gangs ?}
+{110}{}{On peut dire ça.}
+{111}{}{C'est quoi ton problème, le vieux ? Je viens de dire que oui, non ?}
+{112}{}{Non, et j'ai pas l'intention de commencer. Bonne journée, monsieur.}
+{113}{}{Bien, alors tu sais à quel point ils peuvent être cruels et sanguinaires. Les Lames sont les pires, j'en ai peur. Nous sommes une humble ville craignant Dieu qui essaie juste de survivre, et ces... ces... monstres... s'en prennent à nous... [Il chuchote] et à nos enfants...}
+{114}{}{Ouais, ouais, super. C'est quoi le boulot, et ça vaut combien ?}
+{115}{}{Qu'est-ce que tu veux dire par « s'en prendre à vous » ?}
+{116}{}{Pourquoi tes gardes s'en occupent pas ?}
+{117}{}{Eh bien, les Régulateurs les empêchent de nous attaquer ouvertement, mais c'est tout ce qu'ils peuvent faire pour protéger notre petite communauté. Ils essaient de se faufiler la nuit pour tuer nos citoyens, ou pour... pour kidnapper nos enfants... et... [Il s'arrête un moment pour se ressaisir] La semaine dernière encore, l'un d'eux a déboulé par la porte nord en pleine nuit avec de la dynamite attachée sur lui pour faire sauter la caserne des Régulateurs... sans doute pour nous affaiblir assez pour lancer une attaque à grande échelle.}
+{118}{}{Qu'est-ce qui lui est arrivé ?}
+{119}{}{Ça a l'air un peu extrême, non ?}
+{120}{}{Heureusement, les Régulateurs l'ont tué avant qu'il puisse mener son plan à bien. J'ai vu son corps moi-même.}
+{121}{}{Je vois. Qu'est-ce que tu voudrais que j'y fasse ?}
+{122}{}{Donc tu n'as pas vraiment vu ce type débouler dans ta ville avec de la dynamite sur lui ?}
+{123}{}{Je te donne 2000 capsules pour tuer leur chef ! Je veux la tête de cette salope !}
+{124}{}{T'as l'air d'avoir quelque chose de personnel contre elle.}
+{125}{}{Pourquoi juste le chef ?}
+{126}{}{Ça me va.}
+{127}{}{Ils s'effondreront sans elle... sans sa... vile influence.}
+{128}{}{Elle a l'air marrante, comme fille.}
+{129}{}{J'en ai assez entendu. Je le fais.}
+{130}{}{Euh, ouais. Je veux rien avoir à faire avec cette maladie.}
+{131}{}{Elle a fait kidnapper, torturer et tuer mon fils. Ils l'ont laissé empalé sur un poteau juste devant les portes.}
+{132}{}{Ces sales bâtards... Je prends le boulot.}
+{133}{}{Je crois que je veux pas du boulot, finalement.}
+{134}{}{Dieu merci. Enfin, mon fils sera vengé. Le camp des Lames est au nord d'ici. Reviens quand le boulot sera fait.}
+{135}{}{C'était le milieu de la nuit, comme je te l'ai dit. Je dormais. Heureusement, les Régulateurs attrapent d'habitude ces barbares avant même qu'ils entrent dans notre ville.}
+{136}{}{Ouais, c'est vraiment de la chance. Bien pratique, aussi.}
+{137}{}{J'aime pas comment tout ça sonne. Compte pas sur moi.}
+{138}{}{Alors dégage ! Si tu veux pas aider Adytum, Adytum n'a pas besoin de toi !}
+{139}{}{J'ai pas de temps pour les idiots. Dégage.}
+{140}{}{Je pourrais bien ignorer cette remarque si t'es venu régler mon problème.}
+{141}{}{C'est quoi, ce problème ?}
+{142}{}{Quoi, que t'es vieux et stupide ?}
+{143}{}{T'as déjà eu affaire à une bande de voleurs sanguinaires ?}
+{144}{}{Laisse-moi deviner. T'as un problème de gang.}
+{145}{}{C'est quoi, ici ? Y a un endroit dans le désert qui n'a PAS de problème de gang ?}
+{146}{}{J'en ai croisé quelques-uns.}
+{147}{}{Pas encore une ville paumée avec un problème de gang ! C'est ridicule !}
+{148}{}{Ce qui serait pratique, ce serait de mettre fin à leur ignominie une bonne fois pour toutes !}
+{149}{}{Laisse-moi deviner — tu les veux morts.}
+{150}{}{Comment je peux aider ?}
+{151}{}{Y a bien plus de choses ici que je veux en savoir. Je m'en vais.}
+{152}{}{Quoi ?! Toi encore ? Qu'est-ce que tu veux, maintenant ?}
+{153}{}{J'ai réfléchi. Je prends le boulot, le vieux.}
+{154}{}{J'aime pas ton attitude, le vieux.}
+{155}{}{Rien.}
+{156}{}{[Il te regarde avec méfiance] Le camp des Lames est au nord d'ici. Reviens quand le boulot sera fait, et je te paierai 2000 capsules.}
+{157}{}{Pourquoi tu t'en es pas encore occupé ?}
+{158}{}{J'ai changé d'avis.}
+{159}{}{J'y travaille.}
+{160}{}{Hé, doucement le vieux.}
+{161}{}{Alors travaille plus vite. Me dérange plus avant d'avoir mis fin à sa misérable vie !}
+{162}{}{Tu l'as fait ?! Elle est morte ? Elle est morte ?}
+{163}{}{T'as besoin d'aide, le vieux. Ouais, elle est morte.}
+{164}{}{Bien sûr. Je l'ai fait souffrir, en faveur personnelle.}
+{165}{}{Oui.}
+{166}{}{Dieu merci !!! Voilà ton argent. Tu seras toujours le bienvenu à Adytum, mon fils.}
+{167}{}{Enfin elle connaît le goût du feu de l'enfer ! Que Dieu te bénisse, mon fils. [Il essuie une larme]. Voilà 500 capsules en plus pour tes efforts. Tu seras toujours le bienvenu ici.}
+{168}{}{Tu l'as fait ?!? Elle est morte ? Elle est morte ?}
+{169}{}{Essuie la bave au coin de ta bouche et assieds-toi, le vieux. Faut qu'on parle.}
+{170}{}{J'ai quelque chose que tu dois entendre.}
+{171}{}{J'en ai assez de ton insolence ! Elle est morte ou pas ?!}
+{172}{}{Tiens, écoute ça.}
+{173}{}{[Pendant qu'il écoute l'holodisque, il se met à trembler et à rougir. Tu crois qu'il va tomber raide mort de haine.] Je vais vous tuer, tous, tas de putains de bâtards !}
+{174}{}{Salaud ! T'as amené les démons chez nous !}
+{175}{}{Tu vois un homme d'âge moyen en vêtements civils.}
+{176}{}{Tu vois : Jon Zimmerman, maire d'Adytum.}
+{177}{}{Ouais, qu'est-ce que tu veux ?}
+{178}{}{J'ai quelque chose que tu devrais écouter au sujet de ton fils.}
+{179}{}{Laisse tomber.}
+{180}{}{Blorb.}
+{181}{}{T'es qui ?}
+{182}{}{Je suis Jon Zimmerman, maire d'Adytum. Ça te fait quoi ?}
+{183}{}{Bonjour.}
+{184}{}{Content de te voir.}
+{185}{}{Merci pour ton aide.}
+{186}{}{Mon fils peut maintenant reposer en paix.}
+{187}{}{Mon fils est vengé.}
