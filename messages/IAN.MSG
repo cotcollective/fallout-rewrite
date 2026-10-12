@@ -91,7 +91,7 @@
 # mutants' military base.
 #
 
-{175}{}{Je croyais que L.A. Boneyard c'était pire.}
+{175}{}{Je croyais que le Cimetière de L.A. c'était pire.}
 
 
 {200}{}{Sors ta meilleure arme la prochaine fois qu'on va au combat.}
@@ -131,7 +131,7 @@
 {1024}{}{Abri 13}
 {1025}{}{Killian}
 {1026}{}{Gizmo}
-{1027}{}{Boneyard}
+{1027}{}{le Cimetière}
 {1028}{}{Casino}
 {1029}{}{Magasin}
 {1030}{}{Écorcheur}
@@ -246,4 +246,3 @@
 {2014}{}{Choisis la distance toi-même.}
 {2015}{}{C'est tout pour l'instant.}
 {2100}{}{Pas de problème, pote.}
-

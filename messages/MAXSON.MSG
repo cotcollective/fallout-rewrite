@@ -156,10 +156,10 @@
 {255}{Gen_70}{Roger Maxson, hein ? C'est lui qui a mené notre peuple ici pendant le grand Exode, qui a fondé la Confrérie à partir de rien. Un sacré chef.}
 {256}{Gen_71}{C'était quand mon grand-père, Roger Maxson, a mené ses soldats ici et fondé la Confrérie. Il n'a jamais dit d'où ils venaient. D'un endroit où les machines avaient gagné, peut-être — il n'en parlait jamais, mais... enfin, c'est notre foyer maintenant.}
 {257}{Gen_72}{Je crois qu'il y a une armée qui se rassemble au nord et dans les montagnes à l'est, mais j'ai aucun moyen de le prouver. Les Aînés, ils veulent même pas écouter. }
-{258}{Gen_73}{Une bande de tarés religieux, si tu veux mon avis. Je crois que leur église principale est dans le Boneyard.}
+{258}{Gen_73}{Une bande de tarés religieux, si tu veux mon avis. Je crois que leur église principale est dans le Cimetière.}
 {259}{Gen_75}{J'en sais pas beaucoup. Y a plein de gangs par là, ainsi qu'Adytum et les Enfants de la Cathédrale. Pas grand-chose d'autre. C'est sacrément désolé.}
 {260}{Gen_76}{Y a pas grand-chose à raconter. J'en ai jamais croisé. J'ai entendu dire qu'ils posent problème aux gens d'Adytum, par contre.}
-{261}{Gen_77}{C'est une colonie dans le Boneyard. J'y suis allé... oh... y a longtemps. J'étais en mission d'éclairage pour les Aînés.}
+{261}{Gen_77}{C'est une colonie dans le Cimetière. J'y suis allé... oh... y a longtemps. J'étais en mission d'éclairage pour les Aînés.}
 {262}{Gen_78}{Oh. Juste une autre rumeur stupide. Certains disent que c'est un énorme monstre à crocs, d'autres un vampire.}
 {263}{Gen_79}{Oh. J'en sais rien.}
 {264}{Gen_80}{C'était quoi ? Non. Je crois en avoir jamais entendu parler.}
@@ -287,7 +287,7 @@
 {1026}{}{Harris}
 {1027}{}{Maxson}
 {1028}{}{Angels}
-{1029}{}{Boneyard}
+{1029}{}{le Cimetière}
 {1030}{}{Master}
 {1031}{}{War}
 {1032}{}{Caravans}
@@ -319,10 +319,10 @@
 {1118}{Gen_70}{Roger Maxson, hein ? C'est lui qui a mené notre peuple ici pendant le grand Exode, qui a fondé la Confrérie à partir de rien. Un sacré chef.}
 {1119}{Gen_71}{C'était quand mon grand-père, Roger Maxson, a mené ses soldats ici et fondé la Confrérie. Il n'a jamais dit d'où ils venaient. D'un endroit où les machines avaient gagné, peut-être — il n'en parlait jamais, mais... enfin, c'est notre foyer maintenant.}
 {1120}{Gen_72}{Je crois qu'il y a une armée qui se rassemble au nord et dans les montagnes à l'est, mais j'ai aucun moyen de le prouver. Les Aînés, ils veulent même pas écouter. }
-{1121}{Gen_73}{Une bande de tarés religieux, si tu veux mon avis. Je crois que leur église principale est dans le Boneyard.}
+{1121}{Gen_73}{Une bande de tarés religieux, si tu veux mon avis. Je crois que leur église principale est dans le Cimetière.}
 {1122}{Gen_75}{J'en sais pas beaucoup. Y a plein de gangs par là, ainsi qu'Adytum et les Enfants de la Cathédrale. Pas grand-chose d'autre. C'est sacrément désolé.}
 {1123}{Gen_76}{Y a pas grand-chose à raconter. J'en ai jamais croisé. J'ai entendu dire qu'ils posent problème aux gens d'Adytum, par contre.}
-{1124}{Gen_77}{C'est une colonie dans le Boneyard. J'y suis allé... oh... y a longtemps. J'étais en mission d'éclairage pour les Aînés.}
+{1124}{Gen_77}{C'est une colonie dans le Cimetière. J'y suis allé... oh... y a longtemps. J'étais en mission d'éclairage pour les Aînés.}
 {1125}{Gen_78}{Oh. Juste une autre rumeur stupide. Certains disent que c'est un énorme monstre à crocs, d'autres un vampire.}
 {1126}{Gen_65}{Butch est le chef des Far Go Traders. Il est un peu visqueux, mais c'est pas une perte totale. Contrairement à ces Marchands d'Eau. Une bande de foutus vautours, tous autant qu'ils sont.}
 {1127}{Gen_70}{Roger Maxson, hein ? C'est lui qui a mené notre peuple ici pendant le grand Exode, qui a fondé la Confrérie à partir de rien. Un sacré chef.}

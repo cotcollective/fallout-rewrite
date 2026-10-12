@@ -9,7 +9,7 @@
 {104}{}{.}
 {105}{}{Je suis de passage.}
 {106}{}{Je pourrais te retourner la question.}
-{107}{}{Et qu'est-ce que tu fais à L.A. Boneyard, si je peux me permettre ?}
+{107}{}{Et qu'est-ce que tu fais à le Cimetière de L.A., si je peux me permettre ?}
 {108}{}{Tu poses beaucoup de questions.}
 {109}{}{D'abord tu me dis qui tu es.}
 {110}{}{Je ne fais qu'explorer.}
@@ -21,17 +21,17 @@
 {116}{}{Je cherche des infos. Tu peux m'aider ?}
 {117}{}{Peut-être, mais t'es sur mon terrain, pas l'inverse. Alors crache le morceau ou la ferme.}
 {118}{}{C'est pas important, je suis juste de passage. J'ai besoin d'infos.}
-{119}{}{Une puce de purification d'eau ? Désolée, j'en sais rien. On voit pas beaucoup de ce genre de technologie ici à L.A. Boneyard, sauf peut-être les trucs sur lesquels Miles travaille.}
+{119}{}{Une puce de purification d'eau ? Désolée, j'en sais rien. On voit pas beaucoup de ce genre de technologie ici à le Cimetière de L.A., sauf peut-être les trucs sur lesquels Miles travaille.}
 {120}{}{Bon, merci quand même.}
 {121}{}{Miles ? Où je peux le trouver, et il pourrait aider ?}
-{122}{}{Tu peux m'en dire plus sur L.A. Boneyard, alors ?}
-{123}{}{Juste de passage. Celle-là on me l'a déjà faite. Personne vient à L.A. Boneyard sauf les marchands du Hub et les gens qui cherchent une mort rapide aux mains des gangs. T'es vraiment là pour quoi ?}
+{122}{}{Tu peux m'en dire plus sur le Cimetière de L.A., alors ?}
+{123}{}{Juste de passage. Celle-là on me l'a déjà faite. Personne vient à le Cimetière de L.A. sauf les marchands du Hub et les gens qui cherchent une mort rapide aux mains des gangs. T'es vraiment là pour quoi ?}
 {124}{}{T'as raison. Je cherche une puce de purification d'eau.}
 {125}{}{J'ai pas besoin de te dire quoi que ce soit.}
 {126}{}{Exactement. Mais c'est donnant-donnant.}
 {127}{}{Peut-être. T'es clairement pas un de ces tueurs des gangs. Tu veux quoi ?}
 {128}{}{Je cherche une puce de purification d'eau.}
-{129}{}{J'ai besoin de plus d'infos sur L.A. Boneyard.}
+{129}{}{J'ai besoin de plus d'infos sur le Cimetière de L.A..}
 {130}{}{J'ai besoin d'en savoir plus sur les environs de cette ville.}
 {131}{}{Qu'est-ce que tu peux me dire sur les Lames ?}
 {132}{}{Qu'est-ce que tu peux me dire sur les Rippers ?}
@@ -41,12 +41,12 @@
 {136}{}{Bon, c'était sympa de discuter. Faut que j'y aille.}
 {137}{}{Miles vit à Adytum. C'est un scientifique, il bosse surtout en chimie. Si quelqu'un pouvait dégoter une Puce d'eau ou en fabriquer une de rechange, ce serait lui.}
 {138}{}{Merci beaucoup.}
-{139}{}{Adytum c'est mon chez-moi d'origine. Un peu trop ennuyeux pour moi, par contre. C'est une ville clôturée et autosuffisante au sud de L.A. Boneyard, mais pas aussi loin que la Cathédrale. On commerce parfois avec le Hub.}
+{139}{}{Adytum c'est mon chez-moi d'origine. Un peu trop ennuyeux pour moi, par contre. C'est une ville clôturée et autosuffisante au sud de le Cimetière de L.A., mais pas aussi loin que la Cathédrale. On commerce parfois avec le Hub.}
 {140}{}{J'ai déjà eu affaire à eux. Ils sont pas trop pires, pour des gangs. Ils ont une planque dans un vieux club, avec quelques avant-postes. Si t'es prudent tu pourrais même en faire parler certains.}
 {141}{}{Les Rippers sont juste carrément féroces. C'est une bande de consanguins qui adorent la torture et le meurtre. Je les évite, et tu devrais aussi. Ils ont carrément foutu des putains de mines autour de leur forteresse.}
 {142}{}{Les Gun Runners étaient un vrai gang avant, mais ils se sont ramollis. Ils ont monté un deal où ils échangent des armes qu'ils prennent à leurs victimes ou achètent au Hub. Vu que personne ici veut faire le voyage jusqu'au Hub, ils font plutôt de bonnes affaires, même si leurs prix sont élevés.}
-{143}{}{Les Disciples de l'Apocalypse sont un groupe de prêcheurs de paix qui vivent dans une grande bibliothèque près du cœur de L.A. Boneyard. Pourquoi ils ont pas encore été exterminés, je saurais pas dire. Ce sont des combattants nuls qui pigent rien au monde réel, mais à part ça, ils sont polis et bien éduqués.}
-{144}{}{L.A. Boneyard est un endroit plutôt hostile. J'ai jamais eu l'occasion de partir, même si je suppose que je la saisirais. Voyons... juste au sud y'a la Cathédrale. Y'a une sorte de culte là-bas, mais je les évite. Il se trame un truc sinistre là-bas. Et j'ai entendu parler du centre de commerce appelé le Hub, des caravanes passent de temps en temps, mais j'y suis jamais allée.}
+{143}{}{Les Disciples de l'Apocalypse sont un groupe de prêcheurs de paix qui vivent dans une grande bibliothèque près du cœur de le Cimetière de L.A.. Pourquoi ils ont pas encore été exterminés, je saurais pas dire. Ce sont des combattants nuls qui pigent rien au monde réel, mais à part ça, ils sont polis et bien éduqués.}
+{144}{}{le Cimetière de L.A. est un endroit plutôt hostile. J'ai jamais eu l'occasion de partir, même si je suppose que je la saisirais. Voyons... juste au sud y'a la Cathédrale. Y'a une sorte de culte là-bas, mais je les évite. Il se trame un truc sinistre là-bas. Et j'ai entendu parler du centre de commerce appelé le Hub, des caravanes passent de temps en temps, mais j'y suis jamais allée.}
 {145}{}{Je compte pas rester ici beaucoup plus longtemps, moi non plus.}
 {146}{}{Merci pour les infos.}
 {147}{}{Tu peux m'en dire plus ?}
@@ -80,9 +80,9 @@
 {175}{}{Je déteste les chiens.}
 {176}{}{Ça sent bon, cette bouffe.}
 {177}{}{T'as quoi comme compétences de combat ?}
-{178}{}{J'ai appris à me battre pendant mon temps à L.A. Boneyard. Je suis douée avec les couteaux et les mitraillettes. Mes préférés c'est les couteaux de lancer, évidemment.}
+{178}{}{J'ai appris à me battre pendant mon temps à le Cimetière de L.A.. Je suis douée avec les couteaux et les mitraillettes. Mes préférés c'est les couteaux de lancer, évidemment.}
 {179}{}{D'accord, même si je me sens pas bien sans un bon couteau.}
-{180}{}{Tu gagnes 200 points d'expérience pour avoir recruté Katja, fouineuse de L.A. Boneyard.}
+{180}{}{Tu gagnes 200 points d'expérience pour avoir recruté Katja, fouineuse de le Cimetière de L.A..}
 {181}{}{Tu veux quoi maintenant ?}
 {182}{}{J'ai changé d'avis. J'aimerais encore ton aide.}
 {183}{}{Rien. Laisse tomber.}
@@ -104,7 +104,7 @@
 {982}{}{Non, j'en ai jamais entendu parler.}
 
 {1000}{}{Eau}
-{1001}{}{Boneyard}
+{1001}{}{le Cimetière}
 {1002}{}{Guerre}
 {1003}{}{Adytum}
 {1004}{}{Disciples}
@@ -169,7 +169,7 @@
 {1065}{}{Marchands}
 
 {1100}{}{Je sais pas où tu pourrais trouver une telle relique de vieille technologie.}
-{1101}{}{L'Angel's Boneyard c'est tout ce qui reste de la vieille ville de Los Angeles. Surtout divisé entre factions en guerre, ces temps-ci.}
+{1101}{}{L'Angel's le Cimetière c'est tout ce qui reste de la vieille ville de Los Angeles. Surtout divisé entre factions en guerre, ces temps-ci.}
 {1102}{}{La Guerre a apporté misère et mort dans le monde entier. J'espère vraiment qu'un truc comme ça arrivera plus jamais. Mais vu ce que j'ai vu, y'a pas beaucoup d'espoir pour l'humanité.}
 {1103}{}{Adytum c'était chez moi avant, mais ces gens sont juste trop paranoïaques et reclus. Ils survivront jamais en se coupant du monde.}
 {1104}{}{Les Disciples de l'Apocalypse prêchent la paix et la tolérance. Dommage que ça suffise juste pas dans ce monde.}
@@ -197,7 +197,7 @@
 {1126}{}{Le Hub c'est un énorme centre de commerce, avec toutes sortes de magasins et de marchands.}
 {1127}{}{J'en sais pas plus que toi là-dessus.}
 {1128}{}{Les Gun Runners vendent des trucs, et y'a un magasin à Adytum.}
-{1129}{}{Beurk ! Les Écorcheurs sont partout à L.A. Boneyard. Je préfère même pas y penser. Énormes et bien nommés.}
+{1129}{}{Beurk ! Les Écorcheurs sont partout à le Cimetière de L.A.. Je préfère même pas y penser. Énormes et bien nommés.}
 {1130}{}{J'en sais pas plus que toi là-dessus.}
 {1131}{}{J'en sais pas plus que toi là-dessus.}
 {1132}{}{J'en sais pas plus que toi là-dessus.}
@@ -224,7 +224,7 @@
 {1155}{}{J'en sais pas plus que toi là-dessus.}
 {1156}{}{C'est le maire d'Adytum. Un homme juste, même si un peu hésitant.}
 {1157}{}{Ils surveillent Adytum et le gardent sous contrôle.}
-{1158}{}{J'étais fouineuse avant. On sortait la nuit pour essayer de trouver des trucs utiles dans les ruines de L.A. Boneyard. Un boulot très dangereux. Mais j'en ai eu marre d'Adytum.}
+{1158}{}{J'étais fouineuse avant. On sortait la nuit pour essayer de trouver des trucs utiles dans les ruines de le Cimetière de L.A.. Un boulot très dangereux. Mais j'en ai eu marre d'Adytum.}
 {1159}{}{C'est un groupe de parias qui vivent en dehors d'Adytum.}
 {1160}{}{C'est la cheffe des Disciples. Une femme intelligente, et au bon cœur aussi.}
 {1161}{}{J'en sais pas plus que toi là-dessus.}
