@@ -1,0 +1,12 @@
+{100}{}{Chevalier}
+{101}{}{Je me demande à quoi ressemblaient vraiment les vieux moteurs à turbine.}
+{102}{}{J'aimerais bien qu'on ait une automobile.}
+{103}{}{Tu savais que l'homme est allé sur la lune ? Ou du moins, je crois que c'est ce qu'ils ont dit.}
+{104}{}{T'imagines ce que serait la vie sans technologie ? Enfin, je suppose que t'as vu des trucs pas loin de ça.}
+{105}{}{Je trouve pas le dossier qu'il me faut.}
+{106}{}{Je serai un Paladin un jour.}
+{107}{}{Talus est un guerrier chevronné. Je voudrais jamais avoir à l'affronter.}
+{108}{}{Thomas est le meilleur combattant de la Confrérie. Je parie qu'il pourrait botter le cul de Rhombus.}
+{109}{}{J'aimerais mettre la main sur ces pillards. Leur montrer ce que méritent les voleurs.}
+{110}{}{C'est ça... quoi ? Oh, pardon. Je peux pas parler en ce moment.}
+{111}{}{Je me demande ce qui arriverait si je... hein ? Oh, tu m'as fait perdre le fil de ma pensée.}

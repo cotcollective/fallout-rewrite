@@ -1,0 +1,11 @@
+{100}{}{Tu vois un générateur électrique. C'est sûrement lui qui alimente les portes, les ascenseurs et les lumières du complexe.}
+{101}{}{Le générateur est en marche.}
+{102}{}{Le générateur semble hors service. Tu te demandes si tu peux le redémarrer.}
+{103}{}{Le générateur est déjà en marche.}
+{104}{}{Tu démarres le générateur, et tous les systèmes semblent se remettre en ligne.}
+{105}{}{Tu n'arrives pas à démarrer le générateur.}
+{106}{}{Tes connaissances sont insuffisantes pour réparer ce système.}
+
+###Reaching LVL5 exp msg, by Sduibek, for Fallout Fixt
+{107}{}{Tu entends un bourdonnement mécanique constant à cet étage, qui te rappelle quelque chose que tu n'arrives pas à situer...}
+

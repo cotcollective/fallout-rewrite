@@ -1,0 +1,5 @@
+{100}{}{La porte est verrouillée.}
+{101}{}{Tu crochètes la serrure.}
+{102}{}{Tu tentes de crocheter la serrure, mais tu échoues.}
+{103}{}{En crochetant la serrure, tu arrives à fausser les goupilles et à la bloquer.}
+{104}{}{La porte n'est pas verrouillée.}

@@ -1,0 +1,8 @@
+{100}{}{Tu vois : Guido.}
+{101}{}{Moi je dis, la force brute. Faut pas grand-chose pour péter un genou.}
+{102}{}{Qui s'en fout de l'effet choc ? On est pas des artistes, on est des pros. Euh, Leone, y a quelqu'un qui essaie de nous parler. On est pas censés les tuer quand ils font ça ?}
+{103}{}{Moi je dis, la force brute. Faut pas grand-chose pour péter un genou.}
+{104}{}{Je suis pas payé pour parler.}
+{105}{}{Qui s'en fout de l'effet choc ? On est pas des artistes, on est des pros. Euh, Leone, y a quelqu'un qui essaie de nous parler. On est pas censés les tuer quand ils font ça ?}
+{106}{}{Moi je dis, la force brute. Faut pas grand-chose pour péter un genou.}
+{107}{}{Qui s'en fout de l'effet choc ? On est pas des artistes, on est des pros. Euh, Leone, y a quelqu'un qui essaie de nous parler. On est pas censés les tuer quand ils font ça ?}

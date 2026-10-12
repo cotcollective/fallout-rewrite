@@ -1,0 +1,16 @@
+{100}{}{Tu vois un membre des Lames.}
+{101}{}{Salut.}
+{102}{}{Bonjour.}
+{103}{}{Bonne journée.}
+{104}{}{Beau temps qu'on a aujourd'hui.}
+{105}{}{Je me demande s'il va pleuvoir.}
+{106}{}{T'as déjà vu la pluie briller ?}
+{107}{}{Faut que je retourne bosser.}
+{108}{}{On voit pas beaucoup d'étrangers ici.}
+{109}{}{Faut que j'y aille.}
+{110}{}{À plus.}
+{111}{}{Bonjour.}
+{112}{}{Merci pour ton aide.}
+{113}{}{On t'oubliera pas.}
+{114}{}{Content de t'avoir de notre côté.}
+{115}{}{Ça va aller mieux maintenant.}

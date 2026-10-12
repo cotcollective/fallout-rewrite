@@ -1,0 +1,24 @@
+{100}{}{Tu vois : Gunther.}
+{101}{}{Tu vois un homme sévère dans la trentaine.}
+{102}{}{Bienvenue dans mon humble demeure. Que puis-je pour toi ?}
+{103}{}{Tu peux me parler un peu du Hub ?}
+{104}{}{Où je peux trouver des munitions et des armes par ici ?}
+{105}{}{Tu fais quoi par ici ?}
+{106}{}{C'est qui la loi par ici ?}
+{107}{}{Bien sûr, tu veux savoir quoi d'autre ?}
+{108}{}{C'est une ville tentaculaire, la plus grande que j'aie vue de ma vie. Le centre-ville est au sud, les autres quartiers partent dans chaque direction depuis là.}
+{109}{}{Où je peux trouver des provisions ?}
+{110}{}{Si je cherchais du boulot, ce serait où le mieux pour commencer ?}
+{111}{}{Je peux te poser une autre question ?}
+{112}{}{Merci pour les infos. Au revoir.}
+{113}{}{Je prends tout ce qu'il me faut chez Mitch près du Maltese Falcon. Va juste au sud d'ici.}
+{114}{}{Je fais parfois un bout de route sur une des caravanes qui partent d'ici. Si tu cherches ce genre de boulot, parle à une des maisons de commerce. J'ai un faible pour les Far Go Traders, mais j'ai bossé avec tous.}
+{115}{}{J'achète la plupart de mes trucs chez Beth au magasin d'armes. Pas mal de choix.}
+{116}{}{Et si je cherchais quelque chose d'un peu plus... exotique ?}
+{117}{}{Mentionner ton nom ça aiderait à faire baisser le prix ?}
+{118}{}{J'ai entendu dire qu'il y a un gars dans la Vieille Ville qui vend des trucs un peu plus costauds.}
+{119}{}{Probablement pas, elle en pince pour son garde du corps Sid. Mais tu pourrais essayer Butch. Il dirige les Far Go Traders, qui possèdent son magasin.}
+{120}{}{Je me débrouille. Je m'engage sur les caravanes quand je suis un peu à sec, et je bosse pour les fermiers au sud.}
+{121}{}{T'as sûrement croisé l'adjoint Fry en venant. Son patron c'est le shérif Greene, tu le trouveras au poste de police la plupart du temps.}
+{122}{}{Coookkiieee !}
+{123}{}{Désolé, mais tu racontes n'importe quoi. Le Dr Thorndyke chez les Enfants pourra peut-être t'aider.}

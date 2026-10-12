@@ -1,0 +1,9 @@
+{100}{}{Pas peur.}
+{101}{}{J'ai peur.}
+{102}{}{Je suis de service. Va-t'en.}
+{103}{}{Tiens-toi bien dans cette ville ou tu auras affaire à moi.}
+{104}{}{T'as des beignets ?}
+{105}{}{T'as jamais l'impression d'être observé ? Comme si un être lointain te contrôlait ? Moi si.}
+{106}{}{T'as entendu ce qu'un radscorpion a fait à Bill ? Ils cherchent encore ses jambes.}
+{107}{}{Alors tu crois pouvoir gérer un radscorpion, hein ?}
+{108}{}{T'as pas l'air bien costaud.}

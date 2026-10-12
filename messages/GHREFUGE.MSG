@@ -1,0 +1,47 @@
+{100}{}{Tu vois une goule réfugiée.}
+{101}{}{S'il te plaît, ne me tue pas.}
+{102}{}{Tais-toi et je te laisserai peut-être vivre.}
+{103}{}{T'inquiète, t'en vaux pas la peine.}
+{104}{}{Qu'est-ce qui s'est passé ici ?}
+{105}{}{Gah.}
+{106}{}{Tu... tu vas juste me tuer de toute façon !}
+{107}{}{Ah, oh. D'accord.}
+{108}{}{Bien, reste comme ça.}
+{109}{}{Maintenant, dis-moi ce qui s'est passé ici.}
+{110}{}{Tu vas me tuer !}
+{111}{}{Ah, tu viens pas de me dire de me taire ?}
+{112}{}{Tu meurs maintenant.}
+{113}{}{Oui, et maintenant je veux savoir ce qui s'est passé ici.}
+{114}{}{Les Super-mutants ont attaqué. On s'est fait massacrer. Ils avaient des flingues et des bombes, même des camions à vapeur. Ils ont tué mes amis. Les mutants nous ont juste charcutés, comme tu vas probablement me le faire.}
+{115}{}{Les Super-mutants ont attaqué. On s'est fait massacrer. Ils avaient des flingues et des bombes, même des camions à vapeur. Ils ont tué mes amis. Les mutants nous ont juste charcutés.}
+{116}{}{C'est quoi un camion à vapeur ?}
+{117}{}{Comment t'as survécu ?}
+{118}{}{Tu sais pourquoi ?}
+{119}{}{Je sais pas.}
+{120}{}{Merci.}
+{121}{}{Tu sers à rien.}
+{122}{}{J'ai entendu dire qu'ils étaient furax parce qu'un humain avait tué leurs hommes ici.}
+{123}{}{Oh, euh, autre chose ?}
+{124}{}{Hmmm. D'accord. Tire-toi d'ici.}
+{125}{}{Non.}
+{126}{}{Merci.}
+{127}{}{Tu sers à rien.}
+{128}{}{J'ai entendu dire que certaines goules des égouts ont peut-être survécu, mais j'aime pas aller là-bas.}
+{129}{}{D'accord, merci.}
+{130}{}{C'est tout ?}
+{131}{}{Ouais, c'est tout.}
+{132}{}{D'accord, merci.}
+{133}{}{Je me suis caché jusqu'à ce que la plupart des mutants partent.}
+{134}{}{Autre chose ?}
+{135}{}{Un gros truc qui bougeait sur des roues, mais sans brahmine.}
+{136}{}{Hmm, d'accord. Autre chose ?}
+{137}{}{C'est débile.}
+{138}{}{Hé, alors pourquoi t'as demandé ?}
+{139}{}{Ça suffit ! Assez d'insolence !}
+{140}{}{Je voulais juste savoir. C'est tout.}
+{141}{}{Toi encore ? Qu'est-ce que tu veux maintenant ?}
+{142}{}{D'autres nouvelles ?}
+{143}{}{Je fais juste la causette.}
+{144}{}{Non. Enfin, j'ai entendu dire que d'autres Super-mutants arrivaient. Je sais pas quand.}
+{145}{}{Hmm. D'accord.}
+{146}{}{Fais-le ailleurs alors. Je dois rester discret.}

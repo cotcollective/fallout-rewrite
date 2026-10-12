@@ -1,0 +1,11 @@
+{100}{}{Tu vois un énorme mutant.}
+{101}{}{Halte ! Tu peux pas t'échapper !}
+{102}{}{Tu devrais pas être ici. Cette zone est interdite aux Enfants.}
+{103}{}{Pourquoi ? C'est quoi cet endroit ?}
+{104}{}{J'ai le laissez-passer ultime. Voici mon flingue !}
+{105}{}{Hng.}
+{106}{}{Toi trop stupide pour être un Enfant. Toi devoir être intrus !}
+{107}{}{Ici bloc de cellules de prisonniers. Ici on garde humains jusqu'à ce que toi les trempes. Bonne chose, hein ?}
+{108}{}{C'est quoi, le trempage ?}
+{109}{}{OK, merci.}
+{110}{}{Toi devoir partir.}

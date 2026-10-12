@@ -1,0 +1,17 @@
+#
+# THIS FILE IS NOT USED!! No need to translate.
+#
+# Use "BULLBORD.MSG" instead.
+#
+#
+{100}{}{Tu vois le panneau d'affichage des emplois.}
+{101}{}{"EMPLOIS ! Besoin de travail ? Besoin d'argent ? REGARDE ICI !"}
+{102}{}{"Merci de ne pas afficher de messages en double. --Shérif Greene"}
+{103}{}{1       Caravane disparue ! Récompense !}
+{104}{}{2       Gardes de caravane recherchés.}
+{105}{}{}
+{106}{}{}
+{107}{}{}
+{108}{}{}
+{109}{}{[Sortie]}
+{110}{}{"RÉCOMPENSE : CARAVANE DISPARUE. Une récompense de 500 capsules va à quiconque attrapera les salauds qui pillent nos caravanes. Pour plus de détails, voir Butch Harris, Far Go Traders, au nord-est du Marché aux Marchands."}

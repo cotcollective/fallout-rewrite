@@ -1,0 +1,7 @@
+{100}{}{Tu vois une porte d'ascenseur avec des marques bleues dessus.}
+{101}{}{Tu te fais choquer par le système de sécurité, mais sans dégât. Tu devrais peut-être essayer d'utiliser quelque chose pour contourner le système de sécurité.}
+{102}{}{Tu te fais choquer par le système de sécurité, et tu prends un point de dégât. Tu devrais peut-être essayer d'utiliser quelque chose pour contourner le système de sécurité.}
+{103}{}{Tu te fais choquer par le système de sécurité, et tu prends }
+{104}{}{ points de dégâts. Tu devrais peut-être essayer d'utiliser quelque chose pour contourner le système de sécurité.}
+{105}{}{Tu désamorces le système de sécurité de la porte.}
+{106}{}{Cet objet n'a aucun effet sur la porte.}

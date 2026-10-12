@@ -1,0 +1,36 @@
+# Guards are all Male. They are akin to mercenaries. brief of words and very aburpt.
+# they have a general attitude of don't bother me.
+
+{100}{}{Tu vois un des gardes d'Hightower.}
+{101}{}{Tu ferais mieux de partir. Daren Hightower ne reçoit pas de visiteurs.}
+{102}{}{Ta compagnie n'est pas désirée.}
+{103}{}{Pars !}
+{104}{}{T'es pas autorisé ici.}
+{105}{}{Va-t'en, ou tu le regretteras.}
+{106}{}{Cette maison est interdite aux gens comme toi.}
+# "You are not permitted to enter the house."
+
+{107}{}{Quoi... Attrapez-le !}
+{108}{}{T'as fait une grosse erreur en venant ici !}
+{109}{}{Tu fais quoi ici ? T'es de la viande froide.}
+# "You're dead meat" == "i'm going to kill you"
+
+{110}{}{Mmmm, ça a l'air bon.}
+# refering to food
+
+{111}{}{C'est de la brahmine que je sens ?}
+
+{112}{}{Injecte-moi ça dans les veines !}
+# referring to getting more alcohol
+
+{113}{}{Y a quoi dans le frigo ?}
+# fridge == refridgerator
+
+{114}{}{Encore combien de temps ?}
+# referring to dinner
+
+{115}{}{J'ai faim.}
+{116}{}{C'est bientôt prêt ?}
+# referring to dinner.
+
+{117}{}{Je vais m'évanouir !}

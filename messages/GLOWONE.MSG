@@ -1,0 +1,6 @@
+{100}{}{Tu vois une créature luminescente.}
+{101}{}{Mmmm...}
+{102}{}{Ahhh...}
+{103}{}{La goule luminescente marmonne quelque chose puis se tait. Elle bave de façon incontrôlable.}
+{104}{}{Aucune réponse.}
+{105}{}{Tu vois : Goule Luminescente.}

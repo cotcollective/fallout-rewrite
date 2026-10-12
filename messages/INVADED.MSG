@@ -1,0 +1,8 @@
+{101}{}{Les rouliers de la caravane avaient aucune chance. Ils sont tous morts.}
+{102}{}{On dirait que les mutants étaient lourdement armés. Les rouliers n'avaient aucune chance contre une telle puissance de feu.}
+{103}{}{Ils sont morts.}
+{104}{}{T'es à peu près sûr que c'est une personne morte.}
+{105}{}{À travers toute cette chair et ces muscles mutés, l'un d'eux te semble familier. C'est un des éclaireurs envoyés par ton Abri. Celui-là n'est jamais revenu...}
+{106}{}{À travers toute cette chair et ces muscles mutés, tu reconnais d'une façon ou d'une autre un des mutants : c'est Sean, un des éclaireurs envoyés par ton Abri quelques mois avant ton départ.}
+{107}{}{Tous les mutants sont morts. L'un d'eux a l'air étrangement familier, mais tu n'arrives pas à situer ce « visage ».}
+{108}{}{Des mutants morts.}

@@ -1,0 +1,2 @@
+{100}{}{Tu vois un garde goule.}
+{101}{}{Je suis de service. Si tu veux voir Set, faut le faire à l'intérieur.}

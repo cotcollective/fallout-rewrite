@@ -1,0 +1,39 @@
+{100}{}{Tu vois un homme maigre à l'air furieux.}
+{101}{}{Tu vois : Ismarc.}
+{102}{}{Quoi ?}
+{103}{}{Ouais, qu'est-ce que tu veux ?}
+{104}{}{Hé, tu chantes bien.}
+{105}{}{Ton chant me fait saigner des oreilles.}
+{106}{}{Laisse tomber.}
+{107}{}{Hou !}
+{108}{}{Oh, génial. Tu sais pas à quel point ça me touche. Casse-toi.}
+{109}{}{Merci. Qu'est-ce que je peux faire pour toi ?}
+{110}{}{Tu te produis ailleurs ?}
+{111}{}{Ça me démangeait de mettre quelques pièces dans le chapeau, si tu vois ce que je veux dire.}
+{112}{}{Où t'as appris à chanter ?}
+{113}{}{Merci pour ton temps.}
+{114}{}{Quoi ?! J'ai pas le temps pour ça.}
+{115}{}{Ouais, je chante au Hub parfois, et j'ai visité la Confrérie de l'Acier et Adytum avec les caravanes. Pourquoi tu demandes ?}
+{116}{}{Tu peux me dire comment aller au Hub ?}
+{117}{}{J'ai besoin de savoir comment aller à la Confrérie.}
+{118}{}{Comment je vais à Adytum ?}
+{119}{}{Euh, laisse tomber, merci.}
+{120}{}{Le Hub ? Oh, c'est juste un peu au sud de Junktown. Quoi d'autre ?}
+{121}{}{La Confrérie est à quelques jours à l'ouest et un peu au nord d'ici. Mais vas-y pas. Ils te laisseront pas entrer sauf si t'es avec une caravane. T'as besoin d'autre chose ?}
+{122}{}{Hmm. Va au sud-ouest du Hub. Adytum fait partie du Cimetière de L.A. C'est une petite ville semi-industrielle. J'ai pas trop aimé là-bas. Tu veux quoi d'autre ?}
+{123}{}{Hé, merci. C'est dur d'être un artiste affamé. Si t'as besoin de savoir un truc, tu demandes.}
+{124}{}{C'est gentil, mais t'es encore plus fauché que moi.}
+{125}{}{Ah, j'ai appris ici et là. Un peu avec un vieux chanteur au Hub, et de la musique des charognards à Adytum, dans le Cimetière de L.A. Faut juste pratiquer, tu sais.}
+{126}{}{Y a un homme qui chante à tue-tête dans le coin.}
+{127}{}{Ta tête est un bol !}
+{128}{}{Elle est ronde comme une taupe !}
+{129}{}{Je préfère frire !}
+{130}{}{Que te payer le péage !}
+{131}{}{Je connais ton esprit}
+{132}{}{C'est une cage d'acier}
+{133}{}{Qui rage à l'intérieur, c'est...}
+{134}{}{L'Écorcheur}
+{135}{}{J'ai besoin de toi}
+{136}{}{Comme une mauvaise dose de poison}
+{137}{}{J'ai besoin de toi}
+{138}{}{Comme une piqûre de radscorpion}

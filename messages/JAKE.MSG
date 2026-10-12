@@ -1,0 +1,45 @@
+{100}{}{Tu vois : Jake, des Disciples.}
+{101}{}{Tu vois un Disciple de l'Apocalypse.}
+{102}{}{Bienvenue, mon ami ! Comment puis-je t'aider aujourd'hui ?}
+{103}{}{Moi aider ! Moi aider !}
+{104}{}{J'ai entendu dire que t'es un combattant correct. Vérifions ça.}
+{105}{}{J'ai entendu dire que t'as besoin d'aide. C'est quoi le problème ?}
+{106}{}{Qu'est-ce que tu peux me dire sur les Disciples ?}
+{107}{}{Tu veux aider ? Je crois pas que tu sois à la hauteur. Va parler à Neil.}
+{108}{}{J'adorerais me battre avec toi, mais je suis bien trop occupé à aider Nicole en ce moment.}
+{109}{}{Normal. T'avais l'air d'une mauviette de toute façon.}
+{110}{}{Comme tu veux. Adieu.}
+{111}{}{Comment une mauviette comme toi est devenue numéro deux ?}
+{112}{}{Hé. C'est pas parce que je veux pas me battre que je suis une mauviette. J'en ai juste pas envie.}
+{113}{}{J'avais raison. Juste une mauviette.}
+{114}{}{Certains d'entre nous utilisent leur cerveau pour avancer dans ce monde. Beaucoup de choses se règlent par la paix et la réflexion.}
+{115}{}{Et tu vas utiliser ton cerveau quand ?}
+{116}{}{T'as raison. Pardon.}
+{117}{}{C'est fini. Je te parle plus.}
+{118}{}{C'est mieux. Bon, j'ai un problème d'espion ici. Tu veux m'aider ?}
+{119}{}{Oui. C'est quoi ?}
+{120}{}{Démerde-toi si t'es si fort.}
+{121}{}{Je viens de dire qu'on a un espion ici. Je pense que c'est peut-être un des gardes... ou un éclaireur. Ce sont les deux seuls groupes qui ont accès aux Enfants.}
+{122}{}{OK. Je vais chercher ton espion et régler le problème.}
+{123}{}{T'as des pistes sur cet espion ?}
+{124}{}{Laisse tomber. Je t'aiderai pas.}
+{125}{}{Merci beaucoup. Maintenant vas-y !}
+{126}{}{Pas grand-chose, en fait. Tout ce que je sais, c'est que pas mal d'infos de bas niveau arrivent aux Enfants. C'est pas bon. Heather pense que c'est soit Neil soit Peter.}
+{127}{}{OK. Je vais vérifier ça.}
+{128}{}{Laisse tomber. Je t'aiderai pas.}
+{129}{}{Je peux pas te laisser partir, alors.}
+{130}{}{Je partirai quand même. Adieu !}
+{131}{}{On a des problèmes avec nos infos qui fuient vers les Enfants. Je crois que c'est un espion.}
+{132}{}{OK. C'est quoi le problème, alors ?}
+{133}{}{OK, je vais m'occuper de cet espion.}
+{134}{}{Déjà des pistes ?}
+{135}{}{Laisse tomber. Je t'aiderai pas.}
+{136}{}{Pour l'instant, je peux rien te dire. Bonne journée.}
+{137}{}{J'essaie de dormir. Dérange-moi pas.}
+{138}{}{Dépêche-toi de trouver cette vermine !}
+{139}{}{Je savais que c'était Heather depuis le début. Elle était fourbe dès le départ. J'aurais dû dire à tout le monde ce que je pensais.}
+{140}{}{J'ai jamais rien appris de toi. Ta formation était inutile.}
+{141}{}{J'ai un paquet pour toi de la part de Gabriel.}
+{142}{}{Hmm. Je vois. Merci.}
+{143}{}{Dégage.}
+{144}{}{C'est la manière forte. C'est toujours la manière forte.}

@@ -1,0 +1,4 @@
+{100}{}{Tu vois un garde du gang des goules.}
+{101}{}{Va-t'en.}
+{102}{}{J'aime pas les tiens.}
+{103}{}{Pars maintenant !}

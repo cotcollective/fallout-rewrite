@@ -1,0 +1,8 @@
+{100}{}{La porte est déjà déverrouillée.}
+{101}{}{Tu réussis à crocheter la serrure.}
+{102}{}{Tu n'arrives pas à crocheter la serrure.}
+{103}{}{Le système de sécurité électronique te choque !}
+{104}{}{Tu as déclenché une alarme sur les portes de ravitaillement.}
+{105}{}{La porte a une serrure physique qu'il faudra crocheter.}
+{106}{}{La sécurité électronique est déjà désamorcée.}
+{107}{}{Tu désamorces la sécurité électronique.}

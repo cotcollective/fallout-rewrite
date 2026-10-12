@@ -1,0 +1,3 @@
+{100}{}{Tu vois une pompe à eau.}
+{101}{}{Cette pompe est d'un modèle très différent de celle de ton Abri.}
+{102}{}{Tu réalises que les pièces de cette pompe seront incompatibles avec celles de ton Abri.}

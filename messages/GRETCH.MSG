@@ -1,0 +1,42 @@
+{100}{}{Tu vois un nabot bedonnant.}
+{101}{}{Tu vois : Gretch, l'assistant du Doc Morbid.}
+{102}{}{Tu viens faire quoi ici ?}
+{103}{}{Urgh ?}
+{104}{}{Ton patron m'a envoyé.}
+{105}{}{Me parle pas comme ça, crétin.}
+{106}{}{Voir comment tu t'en sors.}
+{107}{}{Rien. Au revoir.}
+{108}{}{Je te connais... non ?}
+{109}{}{Non.}
+{110}{}{Oui.}
+{111}{}{Laisse tomber.}
+{112}{}{Euh... d'accord.}
+{113}{}{Tu fais quoi ?}
+{114}{}{D'accord ? Ça veut dire que t'as bientôt fini ?}
+{115}{}{T'es un peu lent, non ?}
+{116}{}{Oui, oui, bientôt fini.}
+{117}{}{Fini quoi ?}
+{118}{}{Il était temps.}
+{119}{}{Super. On se revoit.}
+{120}{}{Morceaux de corps bientôt prêts pour le Hub.}
+{121}{}{Pour quoi ?}
+{122}{}{Bien sûr. C'est pour ça que je suis là.}
+{123}{}{Je crois que je veux pas en entendre parler.}
+{124}{}{Bob l'homme-iguane t'envoie... il content, beaucoup bonne viande...}
+{125}{}{Il vend des morceaux d'humains à manger ?}
+{126}{}{Petit teigneux de malade, je vais te découper et te vendre comme viande !}
+{127}{}{Bien sûr... je reviens dans une minute.}
+{128}{}{Pour Bob vendre... à manger... pourquoi tu demandes à quoi ça sert ?}
+{129}{}{Pour rien. Au revoir.}
+{130}{}{J'étais pas sûr que c'était ici que Bob trouvait sa viande humaine.}
+{131}{}{Des fois j'ai un peu de mal à réfléchir.}
+{132}{}{Moi avoir du mal à réfléchir, aussi... on parlait de quoi ?}
+{133}{}{Je m'en souviens plus. Au revoir.}
+{134}{}{Tu me racontais ce que tu fais.}
+{135}{}{On parlait de à quel point t'es stupide.}
+{136}{}{Sais pas.}
+{137}{}{Je te parle plus.}
+{138}{}{Oui... Doc Morbid a les meilleurs corps humains du coin. Y a pas mieux.}
+{139}{}{Euh... je repasserai prendre les... corps... dans un moment. Au revoir.}
+{140}{}{Moi retourne travailler maintenant.}
+{141}{}{Touche pas aux affaires du Docteur !}

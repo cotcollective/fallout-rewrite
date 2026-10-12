@@ -1,0 +1,7 @@
+{100}{}{Tu vois un coffre-fort.}
+{101}{}{Le coffre-fort n'est pas verrouillé.}
+{103}{}{Ça y est !}
+{104}{}{Zut ! J'y étais presque.}
+{105}{}{Le coffre-fort est verrouillé.}
+{106}{}{Tu gagnes 500 points d'expérience pour avoir crocheté le coffre personnel de Killian, espèce de gros malotru.}
+{107}{}{Tu fausses les goupilles et arrives à bloquer la serrure avec un crochet. Génial.}

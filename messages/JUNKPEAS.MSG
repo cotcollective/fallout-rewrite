@@ -1,0 +1,4 @@
+{101}{}{Je suis occupé. Laisse-moi tranquille.}
+{102}{}{Où j'ai bien pu mettre ce truc...}
+{103}{}{Tu fais quoi ici ?}
+{104}{}{Junktown n'est-elle pas un spectacle pour les yeux fatigués ?}

@@ -1,0 +1,2 @@
+{100}{}{Ces portes ont été soufflées par l'ogive nucléaire.}
+{101}{}{La porte est soudée trop serré pour que tu puisses l'ouvrir.}

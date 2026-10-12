@@ -1,0 +1,5 @@
+{100}{}{Un cadavre congelé.}
+{101}{}{Ce n'est définitivement pas d'origine terrestre.}
+{102}{}{Ce corps est peut-être une expérience génétique.}
+{103}{}{Quoi ? C'est un cadavre.}
+{104}{}{Ce corps congelé a l'air bizarre.}

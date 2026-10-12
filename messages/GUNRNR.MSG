@@ -1,0 +1,17 @@
+{100}{}{Hé ! Tu crois que tu fais quoi ?!}
+{101}{}{Hé, t'aurais pas du Nuka-Cola ?}
+{102}{}{Les affaires marchent bien.}
+{103}{}{Gabriel est un super patron.}
+{104}{}{Belle journée, non ?}
+{105}{}{Parle à Zack si tu cherches du matos.}
+{106}{}{C'est Zack qui vend les armes.}
+{107}{}{Garde tes armes au fourreau.}
+{108}{}{Essaie pas de faire le malin.}
+{109}{}{On pourrait tenir une armée en respect ici.}
+{110}{}{Un gars est tombé dans les douves une fois. Quelle horrible façon de mourir.}
+{111}{}{Fichues douves, les vapeurs me piquent les yeux.}
+{112}{}{Je déteste ce boulot.}
+{113}{}{Dégage de mon chemin !}
+{114}{}{Me dérange pas.}
+{115}{}{Tu vois pas que je suis occupé ?}
+{116}{}{Tu vois un Trafiquant d'armes typique.}

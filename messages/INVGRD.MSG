@@ -1,0 +1,36 @@
+{100}{}{Tu vois un Paladin.}
+{101}{}{Désolé, on est en alerte. Je peux pas parler là.}
+{102}{}{Tu vois quelque chose ?}
+{103}{}{Ces mutants vont payer pour ce qu'ils ont fait.}
+{104}{}{T'inquiète, on contrôle la situation.}
+{105}{}{Je traînerais pas ici si j'étais toi, Initié ; ça va encore saigner.}
+{106}{}{Ouvre l'œil pour nous, Initié.}
+{107}{}{Je traînerais pas ici si j'étais toi, étranger ; ça va encore saigner.}
+{108}{}{Ouvre l'œil, étranger. Ça chauffe.}
+{109}{}{Dégage.}
+{110}{}{Me distrais pas, on est en alerte.}
+{111}{}{Silence.}
+{112}{}{Arrête de me faire perdre mon temps, Initié.}
+{113}{}{Boucle-la, l'étranger.}
+{114}{}{Tire-toi, l'étranger, avant que ça saigne encore.}
+{115}{}{Ce monde devrait être purgé de ces viles abominations.}
+{116}{}{C'était quoi ?}
+{117}{}{J'ai mal aux pieds.}
+{118}{}{Ils vont payer pour ça...}
+{119}{}{Qu'ils essaient encore.}
+{120}{}{Hein... Oh, c'est rien.}
+{121}{}{Restez en alerte !}
+{200}{}{Bob, ton statut ?}
+{201}{}{Rien à signaler.}
+{202}{}{Je crois pas qu'ils reviendront.}
+{203}{}{Compte pas là-dessus.}
+{204}{}{On a des nouvelles des éclaireurs ?}
+{205}{}{Pas encore.}
+{206}{}{Les éclaireurs rapportent que tout est calme.}
+{207}{}{Bien.}
+{208}{}{Alors, tu bossais sur quoi ce matin, Ray ?}
+{209}{}{J'essaie d'augmenter la portée du fusil à plasma.}
+{210}{}{T'as jeté un œil au laser gatling ?}
+{211}{}{Ouais, j'ai aidé sur le premier prototype.}
+{212}{}{Arrêtez le bavardage !}
+{213}{}{Oui, monsieur. Pardon, monsieur.}

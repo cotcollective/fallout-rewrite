@@ -1,0 +1,8 @@
+# this is a door. Neutral/male. no tone of voice.
+
+{100}{}{On dirait qu'il y a une serrure sur cette porte.}
+{101}{}{La porte est déjà déverrouillée.}
+{102}{}{Ceux-là sont inadéquats pour le boulot.}
+{103}{}{Tu contournes la serrure électronique.}
+{104}{}{Tu n'arrives pas à contourner la serrure électronique.}
+{105}{}{La porte est verrouillée.}

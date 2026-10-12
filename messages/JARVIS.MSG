@@ -1,0 +1,22 @@
+{100}{}{L'homme s'agite de façon convulsive.}
+{101}{}{Oohhh...}
+{102}{}{Tu vois un jeune homme pâle et nerveux.}
+{103}{}{Tu vois : Jarvis, le jeune frère de Seth.}
+{104}{}{Bonjour. Pardon, mais je me sens pas très bien en ce moment. S'il te plaît, si tu peux trouver un moyen de combattre les radscorpions, parles-en à mon frère, Seth.}
+{105}{}{Merci infiniment de m'avoir aidé. Je m'appelle Jarvis, et je suis le jeune frère de Seth. S'il y a quoi que ce soit que tu veux savoir, demande.}
+{106}{}{Rebonjour. Je peux t'aider pour quelque chose ?}
+{107}{}{Tu peux m'en dire plus sur ton frère ?}
+{108}{}{Parle-moi un peu de la ville.}
+{109}{}{Juste un brin de causette, merci.}
+{110}{}{Seth est un très bon combattant. Il est très déterminé. Un peu trop, parfois. Mais il se dévoue au bien-être de notre village.}
+{111}{}{Eh bien, Shady Sands a été fondée par un grand ancêtre de notre chef actuel, Aradesh. Il pourrait t'en raconter plus. On a un puits et de l'irrigation, alors on s'en sort bien.}
+{112}{}{Cet homme souffre d'un poison virulent.}
+{113}{}{Tu n'arrives pas à comprendre ce qui affecte cet homme.}
+{114}{}{Cet homme souffre du venin de radscorpion.}
+{115}{}{Tu n'arrives pas à comprendre ce qui affecte cet homme.}
+{116}{}{Cette compétence n'aidera pas ici.}
+{117}{}{Au cours des minutes suivantes, l'homme montre une nette amélioration.}
+{118}{}{Sef est fwewe ?}
+{119}{}{Cet endwoit ?}
+{120}{}{Duh.}
+{200}{}{Tu gagnes 400 points d'expérience pour avoir guéri Jarvis de son empoisonnement.}

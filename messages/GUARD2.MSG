@@ -1,0 +1,4 @@
+{100}{}{Tu vois : Garret. Il te surveille de près.}
+{101}{}{Répare la pompe à eau maintenant ou meurs.}
+{102}{}{Beau travail !}
+{103}{}{Reviens ici et répare cette pompe à eau !}

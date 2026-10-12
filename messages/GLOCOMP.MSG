@@ -1,0 +1,4 @@
+{100}{}{Ce terminal semble avoir été détruit par l'explosion.}
+{101}{}{Cet ordinateur devait contenir des mégaoctets de données.}
+{102}{}{Tu te demandes quelles données il pouvait bien contenir.}
+{103}{}{On dirait que cet ordinateur était relié à un ordinateur central.}

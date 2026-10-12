@@ -1,0 +1,43 @@
+{100}{}{Tu vois : Leon, un garde.}
+{101}{}{C'est pourquoi ?}
+{102}{}{Je dois parler à M. Hightower.}
+{103}{}{Je suis venu tuer M. Hightower.}
+{104}{}{En quoi ça te regarde ?}
+{105}{}{D'accord, mais je te surveille. Il est dans son bureau.}
+{106}{}{Merci.}
+{107}{}{Ouais... je parie que tu me surveilles.}
+{108}{}{J'aime pas ton attitude. Je vais devoir te demander de partir.}
+{109}{}{Je partirai quand je serai prêt, mon pote !}
+{110}{}{D'accord, je pars.}
+{111}{}{De l'attitude ? Je vais t'en montrer, de l'attitude !!!}
+{112}{}{Quoi que ce soit, tu peux me le dire. M. H est occupé là.}
+{113}{}{Pourquoi tu dois être si difficile ?}
+{114}{}{Je préférerais lui dire en personne. C'est une question de vie ou de mort.}
+{115}{}{Decker a mis un contrat sur la vie d'Hightower.}
+{116}{}{Tu me le dis, ou tu pars.}
+{117}{}{Qui est mort pour te faire Dieu ?}
+{118}{}{Decker a mis un contrat sur la vie d'Hightower.}
+{119}{}{Écoute, je te dirai foutrement rien !}
+{120}{}{Je pars.}
+{121}{}{Encore ? Quel idiot ce Decker. Bon... je suppose qu'il est pas aussi idiot que les gars qu'il engage pour ces boulots. Tiens, regarde mon flingue.}
+{122}{}{(Il te montre le côté de son flingue où 5 profondes marques de rayure sont visibles.)}
+{123}{}{Chacune de ces marques, c'est pour une tentative passée sur la vie d'Hightower. Je les ai tous eus. Parle-moi de cet idiot que Decker a engagé... tu sais à quoi il ressemble ?}
+{124}{}{Non.}
+{125}{}{C'est moi, idiot !}
+{126}{}{Hé ! Wow ! T'as des marques de rayure sur ton flingue ! T'es trop cooool !}
+{127}{}{Merci pour l'avertissement, mais M. Hightower aime pas les étrangers qui traînent. Je vais devoir te demander de partir.}
+{128}{}{C'est tout ? Pas de récompense ? C'est quoi votre problème ?}
+{129}{}{De rien. Au revoir.}
+{130}{}{M. Hightower ne reçoit pas de visiteurs. Maintenant pars !}
+{131}{}{Je partirai quand je serai prêt, mon pote !}
+{132}{}{D'accord, je pars.}
+{133}{}{J'ai vraiment besoin de parler à M. Hightower.}
+{134}{}{D'accord, mon pote. On y va. (Il t'attrape par le bras.)}
+{135}{}{Enlève tes sales pattes de moi !}
+{136}{}{D'accord, d'accord ! J'y vais.}
+{137}{}{Attends ! J'ai pas fini !}
+{138}{}{Beurk !}
+{139}{}{Rookl !}
+{140}{}{J'ai des nouvelles urgentes pour M. Hightower.}
+{141}{}{Tu fais quoi ici ? Je suis plus de service. Va embêter quelqu'un d'autre.}
+{142}{}{J'espérais que ta misérable carcasse traînerait par ici un jour ! Gardes !}

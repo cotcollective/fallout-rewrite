@@ -1,0 +1,8 @@
+{100}{}{Ça semble être la porte menant à un casier d'armes.}
+{101}{}{Tu crochètes la serrure de la porte.}
+{102}{}{Tu n'as pas réussi à crocheter la serrure de la porte.}
+{103}{}{Cet objet est inutile sur la porte.}
+{104}{}{La porte est verrouillée.}
+{105}{}{Tu crochètes la serrure de la porte.}
+{106}{}{Tu n'as pas réussi à crocheter la serrure de la porte.}
+{107}{}{Cette compétence est inutile sur la porte.}

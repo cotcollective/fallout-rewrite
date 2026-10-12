@@ -1,0 +1,73 @@
+# Chris Avellone is a male bounty hunter. He has an abrupt attitude and is serious about
+# his money. He does not like child killers (which is the only way the player will meet him).
+
+{100}{}{Tu vois un chasseur de primes baraqué avec un badge qui dit : « Je suis Christopher et t'es de la viande. »}
+# Bounty Hunter is considered Male term
+
+{101}{}{Tu veux quoi ?}
+{102}{}{Un beignet.}
+{103}{}{Tu fais quoi ici ?}
+{104}{}{Je regarde juste.}
+{105}{}{Rien.}
+{106}{}{On apprécie pas les petits malins ici. Dégage.}
+# Alternate for "Buzz off" could be "Get lost" or "Get out of here"
+
+{107}{}{Cette blague était même pas drôle la première fois. Tu vas découvrir pourquoi je suis un des chasseurs de primes les plus redoutés du désert. Et je serai même pas payé pour ça.}
+{108}{}{Ça te regarde pas.}
+{109}{}{Bon, va fouiner ailleurs.}
+# Alternate for "poke around" could be "Look around"
+
+{110}{}{Tu savais qu'il y a une prime de }
+{200}{}{capsules sur ta tête pour avoir tué des enfants ? L'heure de la collecte !}
+# Children is considered male plural
+
+{111}{}{(Il te jauge du regard, soigneusement, comme s'il réfléchissait. On dirait qu'il a déjà pris sa décision.) Dis-moi, tu viens souvent au Hub ou à Junktown ?}
+{112}{}{Assez souvent, pourquoi tu demandes ?}
+{113}{}{Bon, tu vois... le boulot me prend presque tout mon temps et j'ai pas l'occasion d'y aller. Et comme je suis un fumeur incurable, un vieux briquet Zippo me manque beaucoup. On dit qu'on trouve plein de ces objets d'avant-guerre dans les magasins là-bas. Si tu me trouves un Zippo, je partagerai des infos sur les colonies voisines. Je pense que ça pourrait servir !}
+{114}{}{C'est dommage. On dirait que je me suis trompé sur toi. Dégage.}
+{115}{}{Bien sûr, pourquoi pas ? Je vais t'en trouver un.}
+{116}{}{D'accord.}
+{117}{}{Hé, j'en ai un ici. J'en ai pas vraiment besoin et je peux te le donner contre les infos.}
+{118}{}{Merci ! (Il prend le briquet.) Alors, tu veux entendre quoi exactement ?}
+{119}{}{Voici ton briquet. L'heure de me donner des infos.}
+{120}{}{Plus de questions, merci.}
+{121}{}{[Suite]}
+{122}{}{Tu veux savoir quoi d'autre ?}
+{123}{}{J'ai besoin d'infos.}
+{124}{}{Buuhhh.. Hein ?}
+{125}{}{Sérieusement ? Dégage de ma vue.}
+{126}{}{Je vais rendre service au monde en te mettant une balle dans le crâne.}
+#
+# Tell-Me-Abouts
+#
+# These don't seem to work for him, so I've removed them.  -Sduibek
+#
+#  1000    Adytum
+#  1001    Followers
+#  1002    Cathedral
+#  1003    Rippers
+#  1004    Blades
+#  1005    Runners
+#  1006    Hub
+#  1007    Boneyard
+#  1008    The Boneyard
+#  1009    L.A. Boneyard
+#  1010    Junktown
+#  1011    Nicole
+#  1012    Runners
+#  1013    Gun Runners
+#
+#  1110    A small town to the south. Occasionally some of them visit us here.
+#  1111    Those are the peace-loving freaks who live near us.
+#  1112    A strange cult south of Adytum and in the Boneyard. Nicole says that they are up to something.
+#  1113    An ultra-violent gang to our west. It was, at least... I don't really know what happened but their base is swarming with Deathclaws now.
+#  1114    A gang to the east. They use vibro-knives.
+#  1115    A gang that came from the Hub, and sells guns. They are north of here.
+#  1116    The Hub is a large city of traders and businesses to the east.
+#  1117    This place is the Angel's Boneyard, the remnants of the old city of Los Angeles.
+#  1118    This place is the Angel's Boneyard, the remnants of the old city of Los Angeles.
+#  1119    This place is the Angel's Boneyard, the remnants of the old city of Los Angeles.
+#  1120    Junktown is a small city just north of the Hub.
+#  1121    She's the leader of the Followers.
+#  1122    A gang that came from the Hub. They sell guns. They are east of here.
+#  1123    A gang that came from the Hub. They sell guns. They are east of here.

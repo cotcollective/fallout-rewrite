@@ -1,0 +1,45 @@
+{100}{}{Tu crois que ton misérable cuir va te sauver de Baka ?}
+{101}{}{T'es pas de taille contre nous !}
+{102}{}{Si j'étais aussi laid, je me tuerais.}
+{103}{}{Vous les Cryptes, vous avez aucune chance.}
+{104}{}{T'aimes la douleur ?}
+{105}{}{Je vais adorer ça.}
+{106}{}{Tu vas mourir, vermine !}
+{107}{}{C'est l'heure de la revanche.}
+{108}{}{Prêt pour un peu de douleur ?}
+{109}{}{La seule chose plus stupide que toi, c'est Rayze.}
+{110}{}{Je suppose que l'arrière-faix peut vivre un moment.}
+{111}{}{Les Cryptes seront enterrées une fois de plus !}
+{112}{}{Crève, vermine !}
+{113}{}{Qui t'a dit de sortir de vos tombes ? Retournez-y !}
+{114}{}{Vos voies méprisables seront éradiquées de la terre !}
+{115}{}{Seuls les Fous ont la vraie connaissance pour régner sur Scrapheap.}
+{116}{}{Dégage, morve d'un poulet à trois pattes !}
+{117}{}{Qu'est-ce qui t'est arrivé ? Ta mère t'a laissé tomber sur la tête à la naissance ?}
+{118}{}{}
+{119}{}{}
+{120}{}{}
+{200}{}{Courez, les Fous, tant que vous avez encore une chance de vivre.}
+{201}{}{Hé, Rayze, la saison de chasse vient d'ouvrir, et les Fous sont sur la liste des animaux stupides.}
+{202}{}{Hé les gars, laissez-moi un Fou à tuer.}
+{203}{}{Les Cryptes vont vous enterrer !}
+{204}{}{Les Fous ont aucune raison de vivre.}
+{205}{}{Les Fous périront.}
+{206}{}{Regarde qui s'est pris le bâton de la laideur.}
+{207}{}{Tu vas te faire enterrer, Fou !}
+{208}{}{Je vais botter des culs sérieux ! Je suis prêt pour la baaagaaarre !}
+{209}{}{Les Cryptes règnent ! Et les Fous bavent !}
+{210}{}{Nous sommes les porteurs de mort !}
+{211}{}{T'inquiète, ce sera rapide et douloureux !}
+{212}{}{BABOUINS VIOLETS !}
+{213}{}{Les brahmines ont plus de jugeote qu'un Fou.}
+{214}{}{Les Fous sont si faibles que même Lex peut les battre tous.}
+{215}{}{Haha ! Encore des fous à tuer !!}
+{216}{}{La seule chose que vous les Fous régnerez, c'est une pierre tombale.}
+{217}{}{C'était pas trop tôt. J'attendais ça.}
+{218}{}{Même Lenny vise mieux que toi.}
+{219}{}{Bouffe du plomb, les fous.}
+{220}{}{Je vais planter ta tête sur une pique.}
+{300}{}{Hé ! Le générateur est en panne. Quittons ce dépotoir.}
+{400}{}{Avec le générateur en panne, les gangs n'ont plus guère de raison de se battre pour Scrapheap. Ton boulot ici est fini, mais ta mission pour trouver la puce de purification d'eau continue.}
+{402}{}{Avec les gangs vaincus, Scrapheap est de nouveau un havre sûr.}

@@ -1,0 +1,8 @@
+{100}{}{Tu t'es évadé de la prison. T'es maintenant définitivement un fugitif à Junktown !}
+{101}{}{La porte a l'air solide, avec une serrure robuste. Mais les serrures se crochètent, et les portes se détruisent.}
+{102}{}{La porte est verrouillée.}
+{103}{}{Tu déverrouilles la porte.}
+{104}{}{Tu verrouilles la porte.}
+{105}{}{Tu échoues à déverrouiller la porte.}
+{106}{}{Tu échoues à verrouiller la porte.}
+{107}{}{Tu gagnes 250 points d'expérience pour t'être évadé de prison !}

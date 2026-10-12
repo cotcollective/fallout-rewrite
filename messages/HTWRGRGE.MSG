@@ -1,0 +1,22 @@
+{100}{}{Tu vois : George, le garde de la porte.}
+{101}{}{Je peux t'aider ?}
+# 102 "I want to see Mr. Hightower
+{102}{}{Veux voir missieu tour !}
+{103}{}{Oui. Je suis ici pour voir M. Hightower.}
+{104}{}{J'ai rendez-vous avec M. Hightower et je suis très en retard.}
+{105}{}{Laisse-moi entrer.}
+{106}{}{M. Hightower ne reçoit pas n'importe qui.}
+{107}{}{Eh bien, il veut me voir, moi.}
+{108}{}{Comment je prends rendez-vous avec lui ?}
+{109}{}{Je suis pas n'importe qui, idiot !}
+{110}{}{Oh bon. Au revoir.}
+{111}{}{D'accord. Entre.}
+{112}{}{Je connais tous les associés de M. Hightower et je t'ai jamais vu, alors tu ferais mieux de partir. Maintenant.}
+{113}{}{Oh, t'es dans de beaux draps ! M. H déteste quand ses rendez-vous sont en retard. Je vais le laisser t'engueuler lui-même. Entre.}
+{114}{}{Tu entreras pas ici. Dégage, clodo !}
+{115}{}{Je veux pas d'ennuis ici, alors tu ferais mieux de partir.}
+{116}{}{Dégage !}
+{117}{}{Tu passeras pas cette porte.}
+{118}{}{C'est quoi ce manège ?! Gardes !!!}
+{119}{}{Éloigne-toi de cette porte ! Personne entre ici sans passer par moi d'abord !}
+{120}{}{T'as du culot de venir ici ! Gardes !!}

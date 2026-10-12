@@ -1,0 +1,6 @@
+{100}{}{Tu vois un paysan de Junktown.}
+{101}{}{Dégage d'ici !}
+{102}{}{J'ai entendu de mauvaises choses sur toi. C'est vrai ?}
+{103}{}{Salut.}
+{104}{}{Ici c'est chez nous. Ça te dit de traîner un moment ?}
+{105}{}{Hmmm, t'as l'air juteux...}

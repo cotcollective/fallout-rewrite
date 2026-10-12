@@ -1,0 +1,28 @@
+{100}{}{Tu vois : Julianna.}
+{101}{}{Tu vois une simple habitante d'Adytum.}
+{102}{}{Bonjour.}
+{103}{}{Erf.}
+{104}{}{Bonjour.}
+{105}{}{J'ai un message de Romero.}
+{106}{}{Puis-je demander ton nom, mademoiselle ?}
+{107}{}{Je suis Julianna.}
+{108}{}{T'as un boulot ici ?}
+{109}{}{Je peux te poser quelques questions sur ta ville ?}
+{110}{}{Je fais ce que Caleb demande. Mais je sais vraiment faire que un peu d'agriculture. J'ai pas les compétences pour aider Smitty ou Miles.}
+{111}{}{Parle-moi un peu de ces autres que t'as mentionnés.}
+{112}{}{On survit, et les Régulateurs s'assurent que rien ne nous arrive. Surtout en nous empêchant de sortir d'ici.}
+{113}{}{Eh bien, Miles fait de la chimie, il fabrique des balles et des trucs. Smitty est un artisan qui fabrique des trucs comme des pots et des couteaux.}
+{114}{}{T'as un message de Romero ? C'est quoi ?}
+{115}{}{Il dit qu'il en a fini avec toi.}
+{116}{}{Il dit qu'il t'envoie son amour.}
+{117}{}{Il a envoyé ce médaillon en gage.}
+{118}{}{Non... c'est pas possible... Je... }
+{119}{}{Il a rien fait d'autre ?}
+{120}{}{Non, désolé.}
+{121}{}{Oh oui, il a envoyé ce médaillon.}
+{122}{}{Comme c'est romantique ! Oh, faut que je le voie ! Si seulement... peut-être... Lorraine peut peut-être lui porter un message...}
+{123}{}{Oh ! Merci infiniment pour ton aide ! On a décidé de vivre ici maintenant, avec les Disciples, en paix. Merci de soutenir notre amour.}
+{124}{}{Je peux pas vivre sans lui !}
+{125}{}{Julianna sort un couteau et se le plante dans le corps !}
+{126}{}{Tu gagnes 250 points d'expérience pour avoir aidé les amants maudits en livrant le médaillon de Romero à Julianna.}
+

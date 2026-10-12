@@ -1,0 +1,47 @@
+{100}{}{Nous offrons la guérison du corps pour guérir l'esprit. Puis-je t'aider ?}
+{101}{}{Oui. Aide-moi.}
+{102}{}{Vous êtes qui ?}
+{103}{}{Qu'est-il arrivé aux gens qui étaient ici avant vous ?}
+{104}{}{Uhn...}
+{105}{}{C'est bien, mon enfant. Nous allons t'examiner maintenant.}
+{106}{}{Heureux les simples d'esprit. Tu n'as rien, mon enfant. Va jouer.}
+{107}{}{Tu as été guéri. Fais plus attention à l'avenir.}
+{108}{}{Tu es blessé.}
+{109}{}{Je vois que tu es empoisonné.}
+{110}{}{Hmm, un empoisonnement radiatif. Malheureusement, nous ne pouvons pas soigner ça.}
+{111}{}{Nous demandons un don de }
+{112}{}{ capsules avant de pouvoir te soigner. C'est acceptable ?}
+{113}{}{Oui.}
+{114}{}{Non.}
+{115}{}{Mais j'ai pas ce genre d'argent !}
+{116}{}{Vous prendriez }
+{117}{}{ capsules à la place ?}
+{118}{}{Les Enfants ne marchandent pas. Alors, acceptes-tu notre prix ?}
+{119}{}{Oui. Bien sûr que oui.}
+{120}{}{Tu peux te le mettre où je pense !}
+{121}{}{Merci, mon fils. Prions pour ta guérison.}
+{122}{}{Merci, ma fille. Prions pour ta guérison.}
+{123}{}{Voilà. Paix et bénédictions des Enfants avec toi.}
+{124}{}{Tu n'as pas assez d'argent. Si tu donnes tout ce que tu peux, nous te guérirons. C'est acceptable ?}
+{125}{}{Oui.}
+{126}{}{Non.}
+{127}{}{Si tu donnes tout ce que tu peux, nous te guérirons. C'est acceptable ?}
+{128}{}{Oui.}
+{129}{}{Non.}
+{130}{}{Tu as largement de quoi faire le don. T'as besoin de cours de maths, mon enfant.}
+{131}{}{Nous sommes les Enfants de la Cathédrale. Nous vivons et travaillons parmi ces malheureux qui vivent dans le désert. Si jamais tu vas au Cimetière de L.A., passe à la Cathédrale.}
+{132}{}{Merci.}
+{133}{}{Vous faites quoi ?}
+{134}{}{Nous sommes les guérisseurs et les enseignants de la paix. Nous guérissons le corps pour guérir l'esprit. Tout ce qu'on demande c'est un petit don pour payer nos fournitures médicales.}
+{135}{}{Ça me semble une bonne idée.}
+{136}{}{Ça me semble être un tas de conneries.}
+{137}{}{On t'a pas demandé. Je vois que t'es fatigué d'écouter nos croyances. Si t'as besoin d'autre chose, on sera là.}
+{138}{}{C'est la plus sainte des idées. Nous travaillons à la paix ultime dans le désert. Toutes les créatures vivront comme une seule.}
+{139}{}{Merci. Bonne journée.}
+{140}{}{Ils nous ont donné cette maison, pour qu'on répande la parole et accomplisse notre devoir de guérisseurs.}
+{141}{}{Le Doc Morbid est pas contrarié par ça ?}
+{142}{}{C'était bien gentil de leur part. Merci.}
+{143}{}{Ce que ressent cette âme païenne ne concerne pas les Enfants. Nous sommes ici pour faire notre devoir, et il sera fait.}
+{144}{}{Euh, ouais, merci. Salut.}
+{145}{}{Pourquoi vous faites ça ? On vous fera aucun mal !}
+{146}{}{Tu n'as aucune condition qui nécessite de l'aide.}

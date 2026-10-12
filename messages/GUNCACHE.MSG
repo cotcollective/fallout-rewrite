@@ -1,0 +1,6 @@
+{100}{}{Ce casier est verrouillé.}
+{101}{}{Tu déverrouilles le casier.}
+{102}{}{Tu crochètes la serrure du casier.}
+{103}{}{Tu n'arrives pas à crocheter la serrure du casier.}
+{104}{}{Tu casses tes crochets en essayant de déverrouiller la porte.}
+{105}{}{Cette serrure semble trop compliquée pour toi.}

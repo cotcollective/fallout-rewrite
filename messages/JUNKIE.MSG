@@ -1,0 +1,4 @@
+{100}{}{Tu vois un junkie.}
+{101}{}{Regarde les couleurs !}
+{102}{}{Ohhhhh wwwaaaah ! Je suis en train de manger mon propre visage...}
+{103}{}{Maman ?}

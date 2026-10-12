@@ -1,0 +1,5 @@
+{100}{}{Tu vois : Smitty.}
+{101}{}{Tu veux parler après ce que t'as fait ? Va te faire voir !}
+{102}{}{Le patron a dit de dégager, alors dégage !}
+{103}{}{On parle pas aux étrangers !}
+{104}{}{Salut toi-même. Va souffler ta fumée ailleurs.}

@@ -1,0 +1,7 @@
+{100}{}{Tu vois : l'adjoint Kenny.}
+{101}{}{Si t'as affaire à la police du Hub, parle au shérif Greene. Je m'occupe de ses fonctions que quand le shérif est indisponible.}
+{102}{}{J'arrive pas à croire que le shérif est vraiment mort.}
+{103}{}{Te voilà. Je t'attendais. On a appris que le shérif a été tué pendant la bataille. C'est dur à croire qu'il est vraiment parti. Il était comme un père pour moi.}
+{104}{}{Le shérif m'a laissé des instructions à exécuter s'il revenait pas de la mission. Il m'a demandé de te donner le reste de ta récompense. Je crois que c'était 1000 capsules. [L'adjoint te tend 1000 capsules]}
+{105}{}{Cette ville te doit une fière chandelle. J'aurais juste aimé que le shérif soit là pour te remercier lui-même. Adieu.}
+{106}{}{Oh mon Dieu ! Ils ont tué Kenny ! Ces salauds !}

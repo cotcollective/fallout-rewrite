@@ -1,0 +1,10 @@
+{100}{}{Tu vois un habitant du Hub.}
+{101}{}{Wow, j'ai entendu dire que t'as tué l'Écorcheur ! Beau boulot !}
+{102}{}{C'est vrai ? Est-ce que... est-ce que l'Écorcheur existait vraiment ?}
+{103}{}{J'ai entendu dire que t'es le }
+{104}{}{homme}
+{105}{}{femme}
+{106}{}{ qui a tué l'Écorcheur. Beau boulot !}
+{107}{}{Merci d'avoir détruit ce cauchemar, on peut tous dormir un peu plus tranquilles maintenant.}
+{108}{}{Cet Écorcheur a intérêt à être vraiment mort.}
+{109}{}{J'espère que ces mutants qui ont détruit ces caravanes viendront pas nous chercher.}

@@ -1,0 +1,50 @@
+{100}{}{Tu vois un jeune homme aux traits marqués.}
+{101}{}{Tu vois : Jason Zimmerman.}
+{102}{}{Hé, tu viens de vraiment loin ? T'as eu beaucoup d'aventures ?}
+{103}{}{Oui, je viens d'un Abri loin au nord.}
+{104}{}{En fait, je viens de Mars. Tu veux voir ma lance à feu ?}
+{105}{}{J'ai eu quelques aventures.}
+{106}{}{Pas grand-chose, en fait.}
+{107}{}{Euh, loin. Abri.}
+{108}{}{Oh. Je pensais que quelqu'un qui avait traversé le désert dehors serait, eh bien, plus malin. Laisse tomber.}
+{109}{}{Miles dit que maintenant que t'as eu ces pièces, il peut faire marcher les fermes, pour qu'on n'ait plus à vendre des balles au Hub. J'y avais jamais trop pensé jusqu'à ce que Smitty fasse remarquer que les balles qu'il fabriquait étaient }
+{110}{}{vendues au Hub, qui les vendait aux gangs. Je suppose que t'as trouvé une bonne solution.}
+{111}{}{J'aurais jamais cru qu'on pourrait arrêter de se battre contre les gangs. Mon père m'a raconté comment tu les as fait promettre de nous laisser tranquilles. Tu sais, j'ai toujours cru que je voulais partir à l'aventure, mais je crois que j'aime... eh bien, le }
+{112}{}{sentiment de sécurité ici maintenant. Plus besoin de s'inquiéter que les gangs attaquent soudain et de se demander qui va se faire tuer.}
+{113}{}{Lorraine dit qu'il y avait un Abri au sud d'ici, où la plupart de mes grands-parents vivaient. C'est comment de vivre dans un Abri ?}
+{114}{}{C'est plutôt ennuyeux, en fait.}
+{115}{}{C'est très excitant. On a toutes sortes de technologies que tu croirais pas !}
+{116}{}{Oh. Eh bien, t'as dû avoir des aventures après être parti, non ?}
+{117}{}{Pas vraiment.}
+{118}{}{Oui, y a pas mal de danger dehors.}
+{119}{}{Comme quelqu'un l'a écrit un jour : 'L'aventure, c'est quelqu'un d'autre très loin qui passe un très mauvais moment.'}
+{120}{}{Hein. Les marchands du Hub parlent de radscorpions et de trucs comme ça.}
+{121}{}{En fait, c'est surtout du désert.}
+{122}{}{Eh bien, en fait, y a toutes sortes de monstres dehors.}
+{123}{}{Vraiment ? T'as combattu quels genres de monstres ?}
+{124}{}{Pas grand-chose, juste des rats et des trucs.}
+{125}{}{Ouais, les gardes du Hub ont dit qu'il y a plein de trucs mutants radioactifs qui vivent dans le désert. La chasse aux monstres doit être vraiment marrante !}
+{126}{}{Oui, c'est vraiment le pied !}
+{127}{}{Non ; c'est plutôt pénible. Venin, morsures, radiation... c'est mortel.}
+{128}{}{J'aimerais pouvoir partir à l'aventure un jour.}
+{129}{}{J'y avais jamais pensé. J'aime bien avoir de l'eau propre et un endroit où rester.}
+{130}{}{Je pensais que vivre dans le désert ce serait... tu sais... rude, et dangereux, et tout. Mais je suppose qu'on a assez à faire ici, avec les gangs et tout.}
+{131}{}{Quoi, t'es une espèce de taré ou quoi ? Caleb aurait jamais dû te laisser entrer !}
+{132}{}{C'est cool. Tout ce qu'on a ici c'est ce puits stupide et ces fermes souterraines que Miles essaie de faire marcher.}
+{133}{}{Ouais, j'ai remarqué que t'as pas de sac de couchage ni rien. Ça doit être bien sale et inconfortable dehors.}
+{134}{}{Rebonjour. Des histoires intéressantes à raconter ?}
+{135}{}{Tu veux savoir quoi ?}
+{136}{}{Pas vraiment.}
+{137}{}{Eh bien, si tu fais un truc intéressant, raconte-moi tout !}
+{138}{}{Laisse-moi tranquille !}
+{139}{}{Dieu merci t'es là ! Aide-moi à sortir d'ici, s'il te plaît !}
+{140}{}{Ayuh.}
+{141}{}{T'inquiète, on va sortir d'ici.}
+{142}{}{Désolé gamin, tu te débrouilles seul !}
+{143}{}{Tu fais quoi ici ?}
+{144}{}{Merci !}
+{145}{}{Me laisse pas, s'il te plaît !}
+{146}{}{Je pensais que ce serait marrant de quitter Adytum et d'explorer le monde. Mais les Éventreurs m'ont attrapé et me retiennent ici. Aide-moi, s'il te plaît !}
+{147}{}{D'accord, sortons d'ici !}
+{148}{}{Pas question. Tu t'es mis là-dedans tout seul, tu t'en sors.}
+{149}{}{J'espère qu'on va sortir d'ici bientôt !}

@@ -1,0 +1,33 @@
+{100}{}{Tu vois : Jasmine.}
+{101}{}{Pardonnez-moi, monsieur, cette personne est membre d'une des guildes marchandes.}
+{102}{}{Laisse-moi bien comprendre ; tu tires sur mon patron et mes amis, et tu veux parler ? Va te faire voir !}
+{103}{}{La porte est là-bas. Qu'elle te frappe pas en sortant.}
+{104}{}{Salut. Bienvenue au Cercle des Voleurs. Joue bien tes cartes et t'es des nôtres.}
+{105}{}{Bienvenue au Cercle des Voleurs. Je suis Jasmine. Je suis là pour que ton infiltration du domaine de Daren Hightower se passe le moins mal possible. Le domaine d'Hightower est dans les Hauteurs. Il y a au moins deux gardes de service en permanence. Le collier est probablement dans un coffre-fort, qui ont souvent des pièges mineurs, alors fais attention. Voici des crochets et quelques fusées éclairantes pour te faciliter un peu la tâche... et une bouteille de Nuka-Cola. Essaie de pas tuer M. Hightower. C'est un de nos 'préférés'. T'as tout compris ?}
+{106}{}{Qu'est-ce que tu veux dire par 'préféré' ?}
+{107}{}{Des crochets et des fusées ? C'est tout ?}
+{108}{}{Du Nuka-Cola ?}
+{109}{}{Le tuer ? Promis rien, madame.}
+{110}{}{Ce boulot craint. Trouve quelqu'un d'autre.}
+{111}{}{Pas de problème. Je me tire.}
+{112}{}{Runk !}
+{113}{}{Pardonnez-moi, monsieur, mais vous devriez pas travailler sur votre mission ?}
+{114}{}{Pardonnez-moi, mademoiselle, mais vous devriez pas travailler sur votre mission ?}
+{117}{}{Resalut. Si t'as le collier, faudra le donner à M. Loxley avant d'avoir ta récompense.}
+{118}{}{Bien joué, mon gars. Voici ta récompense. [Jasmine te donne 3000 capsules]}
+{119}{}{Bien joué, mademoiselle. Voici ta récompense. [Jasmine te donne 3000 capsules]}
+{121}{}{Au fait, voici un petit extra pour t'aider dans tes futures entreprises crapuleuses.}
+{122}{}{Rebonjour.}
+{123}{}{Eh bien, il a été notre bienfaiteur à plusieurs occasions. Si tu le tues, quelqu'un de plus malin pourrait prendre sa place. Ça nous plairait pas.}
+{124}{}{Pfah ! Un vrai voleur vit de son esprit. On est généreuses avec toi. Maintenant ouste !}
+{125}{}{C'est notre sponsor officiel. Loxley avait soif, et ils nous ont 'donné' plusieurs douzaines de bouteilles. Vraiment sympa de nous aider.}
+{126}{}{Hmm, j'aime pas trop l'attitude. Enfin, personne n'est parfait.}
+{127}{}{Bien. Je crois pouvoir parler pour M. Loxley en disant qu'on espère ne plus jamais se croiser. Dehors.}
+{128}{}{Bonne chance. Les diamants sont ma deuxième chose préférée au monde !}
+{129}{}{Ouais. Runk. Bien sûr.}
+{130}{}{On t'avait prévenu, mais t'as pas écouté. Dommage pour ce problème d'audition.}
+{131}{}{Je crois que tu viens de rater le test ! Reviens pas.}
+{132}{}{Pardonnez-moi, monsieur, cette personne est membre d'une des guildes marchandes.}
+{133}{}{On t'avait prévenu, mais t'as pas écouté. Dommage pour ce problème d'audition.}
+{134}{}{Pfah ! Un vrai voleur vit de son esprit. On est généreuses avec toi, mademoiselle. Maintenant ouste !}
+{135}{}{[Jasmine te tend un jeu de crochets électroniques]}

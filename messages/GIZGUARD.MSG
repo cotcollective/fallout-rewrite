@@ -1,0 +1,34 @@
+{100}{}{Hé !}
+{101}{}{Pas d'armes ici !}
+{102}{}{Attention !}
+{103}{}{Chope-les !}
+{104}{}{Arrête de te faufiler !}
+{105}{}{Pas de faufilage ici !}
+{106}{}{Hé, toi ! Arrête d'essayer de te cacher, ou sors !}
+{107}{}{Quoi ?}
+{108}{}{Hé, je peux te poser quelques questions ?}
+{109}{}{Tu peux me dépanner de quelques capsules ?}
+{110}{}{Laisse tomber, désolé.}
+{111}{}{Uuuh ?}
+{112}{}{Je suis de service. Fais vite.}
+{113}{}{Non. Va-t'en.}
+{114}{}{Tu peux me parler de ton boss ?}
+{115}{}{Qu'est-ce qu'il y a d'autre dans cette ville ?}
+{116}{}{T'es con ou quoi ? Va-t'en.}
+{117}{}{Non. Va mendier ailleurs.}
+{118}{}{Dégage.}
+{119}{}{On n'a pas l'usage des mendiants ici.}
+{120}{}{Gizmo est un homme juste. La paie est bonne, le boulot est facile. Cherche pas d'ennuis et tout le monde sera content.}
+{121}{}{Va prendre quelques verres au Skum Pitt. Bonne gnôle. Ouvre à quatre heures. Maintenant laisse-moi tranquille.}
+{122}{}{Pourquoi tu irais pas faire des courses chez Killian ? Son magasin est au sud-est d'ici. Maintenant dégage.}
+{123}{}{Parle aux croupiers.}
+{124}{}{Hé, si tu veux t'amuser un peu, passe à la Crash House et demande Sinthia. Elle en vaut la peine.}
+{125}{}{Pas de triche.}
+{126}{}{Les débiteurs seront abattus.}
+{127}{}{Purée, mon cou me fait mal.}
+{128}{}{Ce boulot me ronge.}
+{129}{}{J'adore cet endroit.}
+{130}{}{Je crois que je vais rendre visite à Sinthia ce soir.}
+{131}{}{Sors d'ici, espèce d'idiot.}
+{132}{}{Pas d'armes ici !}
+{133}{}{Hé ! Toi ! Range ton flingue !}

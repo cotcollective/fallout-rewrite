@@ -1,0 +1,9 @@
+{100}{}{Chevalier}
+{101}{}{J'adore travailler sur de nouveaux prototypes.}
+{102}{}{Quand nos fournitures sont limitées, c'est un vrai défi de trouver comment utiliser ce qu'on a.}
+{103}{}{Je comprends pas pourquoi mon dernier prototype a pas marché.}
+{104}{}{Désolé, je peux pas parler en ce moment.}
+{105}{}{Vree est là-bas.}
+{106}{}{Bon, où j'ai bien pu mettre ce dossier ?}
+{107}{}{Où est ce schéma ?}
+{108}{}{Eh bien, l'ordinateur dit que ça devrait marcher. Qu'est-ce que j'ai fait de travers ?}

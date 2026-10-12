@@ -1,0 +1,8 @@
+{100}{}{On dirait le coffre de cantonnement de gardes.}
+{101}{}{Tu crochètes la serrure du coffre.}
+{102}{}{Tu n'arrives pas à crocheter la serrure du coffre.}
+{103}{}{Cet objet est inutile sur le coffre.}
+{104}{}{Le coffre est verrouillé.}
+{105}{}{Tu crochètes la serrure du coffre.}
+{106}{}{Tu n'arrives pas à crocheter la serrure du coffre.}
+{107}{}{Cette compétence est inutile sur le coffre.}

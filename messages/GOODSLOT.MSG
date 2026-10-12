@@ -1,0 +1,9 @@
+{100}{}{C'est une machine à sous avec une explosion nucléaire peinte sur le côté. Chouette ! Ça coûte 20 capsules pour jouer.}
+{101}{}{Tu mets 20 capsules dans la machine et tu tires le levier graisseux.}
+{102}{}{DING ! DING ! DING !}
+{103}{}{Tu obtiens trois bombes atomiques. Excellent !}
+{104}{}{ capsules tombent dans le bac et tu les rafles.}
+{105}{}{Ding ! Ding ! Ding !}
+{106}{}{Tu obtiens trois bombes. Gagné ! 30 capsules tombent dans le bac et tu les rafles.}
+{107}{}{Zut alors ! Tu perds.}
+{108}{}{Tu n'as pas assez d'argent pour jouer.}

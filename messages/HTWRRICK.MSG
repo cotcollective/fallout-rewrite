@@ -1,0 +1,34 @@
+{100}{}{Tu vois : Rick, un garde.}
+{101}{}{Tu veux quoi ?}
+{102}{}{Euh... um...}
+{103}{}{Excuse-moi. Je peux te poser quelques questions ?}
+{104}{}{Ta tête sur un piquet !}
+{105}{}{Laisse tomber.}
+{106}{}{Retourne à Eastside, drogué !}
+{107}{}{Hein ?}
+{108}{}{J'y vais.}
+{109}{}{Fais vite ; je suis pas censé parler pendant le service.}
+{110}{}{Je suis où ?}
+{111}{}{C'est quoi ton boulot ?}
+{112}{}{Désolé de te déranger. Au revoir.}
+{113}{}{Tu ferais mieux de surveiller tes pas et ta bouche, punk !}
+{114}{}{NON ! C'est toi qui ferais mieux de faire gaffe ! Je vais te mettre une balle dans la tête !}
+{115}{}{Tu vaux pas mon temps.}
+{116}{}{Si tu sais pas, tu devrais probablement pas être ici. Ici c'est les Hauteurs. M. Hightower vit ici et il ne voit les gens que sur rendez-vous.}
+{117}{}{C'est quoi ton boulot ?}
+{118}{}{Je peux prendre rendez-vous avec M. Hightower ?}
+{119}{}{Merci pour ton temps.}
+{120}{}{Je suis ici pour m'assurer que personne embête M. Hightower.}
+{121}{}{En fait, je suis intéressé à tuer M. Hightower. C'est l'heure de gagner ta paie !}
+{122}{}{Je suis où ?}
+{123}{}{Merci pour ton temps. Au revoir.}
+{124}{}{Non.}
+{125}{}{J'aime pas ton attitude. Tu ferais mieux de partir.}
+{126}{}{D'accord. J'y vais.}
+{127}{}{Force-moi, espèce de freak aux cheveux longs !}
+{128}{}{Après le coucher du soleil, personne n'est autorisé dans ce secteur. Les autres gardes te préviendront même pas. S'ils te chopent, ils attaquent. Tu ferais mieux de retourner au centre-ville tant que ta tête est encore attachée à ton cou.}
+{129}{}{oK. J'y vais.}
+{130}{}{non. Je reste.}
+{131}{}{Je vais nulle part.}
+{132}{}{Désolé, je m'en vais.}
+{133}{}{Mec, t'es vraiment trop con, non ? Dégage !}

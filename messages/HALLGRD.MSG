@@ -1,0 +1,15 @@
+{100}{}{Tu vois un garde de la Confrérie.}
+{101}{}{Reste vigilant, Initié !}
+{102}{}{T'as belle allure. Continue comme ça.}
+{103}{}{Salut Initié ; tout est sécurisé.}
+{104}{}{Désolé, je devrais parler à personne. Tu sais ce que c'est.}
+{105}{}{Tu devrais parler à Talus ou Maxson si t'as des questions.}
+{106}{}{Vree est à la bibliothèque le jour si t'as des questions techniques.}
+{107}{}{Rhombus est mon idole.}
+{108}{}{J'aimerais mieux m'entraîner là ; la garde c'est une perte de temps.}
+{109}{}{Vree est mon idole.}
+{110}{}{Salut Frère }
+{111}{}{.}
+{200}{}{Seuls les Scribes et les Paladins sont autorisés dans cette pièce.}
+{201}{}{T'étais prévenu. Maintenant tu vas être traité.}
+{202}{}{Désolé, seuls les membres de la Confrérie peuvent entrer ici.}

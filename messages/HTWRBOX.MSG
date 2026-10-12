@@ -1,0 +1,18 @@
+{100}{}{Tu vois un coffre-fort verrouillé.}
+{101}{}{Tu vois un coffre-fort déverrouillé.}
+{102}{}{Le coffre-fort est verrouillé.}
+{103}{}{En ouvrant le coffre-fort, tu as détecté et désamorcé un piège.}
+{104}{}{En ouvrant le coffre-fort, tu as détecté un piège, mais tu l'as déclenché par accident.}
+{105}{}{En ouvrant le coffre-fort, tu as détecté un piège, mais tu n'as pas réussi à le désamorcer.}
+{106}{}{Le coffre-fort est déjà déverrouillé.}
+{107}{}{Tu as déverrouillé le coffre-fort avec succès.}
+{108}{}{Tes multiples tentatives pour déverrouiller le coffre-fort ont déclenché un piège.}
+{109}{}{Tu n'as pas réussi à déverrouiller le coffre-fort, et la serrure s'est bloquée.}
+{110}{}{Tu n'as pas réussi à déverrouiller le coffre-fort.}
+{111}{}{Tu trouves un piège sur le coffre-fort et le désamorces avec succès.}
+{112}{}{Tu trouves un piège sur le coffre-fort.}
+{113}{}{En cherchant des pièges sur le coffre-fort, tu en déclenches un par accident.}
+{114}{}{Tu ne trouves rien en cherchant des pièges sur le coffre-fort.}
+{115}{}{Tu as désamorcé le piège avec succès.}
+{116}{}{Tu as déclenché le piège par accident.}
+{117}{}{Tu n'as pas réussi à désamorcer le piège.}

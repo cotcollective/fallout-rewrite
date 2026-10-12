@@ -1,0 +1,27 @@
+{100}{}{Tu vois une bandite du désert. À voir comment les autres la regardent, elle doit avoir une position d'importance ou d'autorité.}
+{101}{}{Je suis Gwen. Je suis une des conseillères de Garl. T'es qui ?}
+{102}{}{Je suis }
+{103}{}{. Qu'est-ce que tu fais par ici ?}
+{104}{}{Je suis personne de spécial. Tu peux me parler de ton camp ?}
+{105}{}{Hroo ?}
+{106}{}{C'est moi qui vais te faire tourner la tête, ma belle.}
+{107}{}{Comme conseillère, je m'assure qu'aucun minable cause d'ennuis à Garl.}
+{108}{}{Et comment tu fais ça ?}
+{109}{}{Toi et quelle armée ?}
+{110}{}{J'ai du mal à croire que tu puisses empêcher quoi que ce soit.}
+{111}{}{On dirait que tous les minables vivent ici.}
+{112}{}{Hmpf. Si t'es personne de spécial, je perdrai pas mon temps avec toi. Va-t'en.}
+{113}{}{J'éloigne les idiots comme toi de Garl. Va-t'en !}
+{114}{}{J'ai mes moyens pour faire en sorte que certains indésirables ne soient plus là.}
+{115}{}{Je vois que je me trompais. Tu dois bien faire ton boulot. Au revoir.}
+{116}{}{Prouve-le !}
+{117}{}{Meurs !}
+{118}{}{Ça fait si longtemps que j'ai pas eu un bon combat. Dommage que tu vas perdre. Voici la preuve de mes talents !}
+{119}{}{Tu vas regretter cette remarque. Ce sera ta dernière !}
+{120}{}{Si c'est tout ce que tu sais faire, je rendrai service au monde en te tuant.}
+{121}{}{Moi et cette armée !}
+{122}{}{Tu m'énerves. Pars avant que je me mette vraiment en colère.}
+#
+# Fallout Fixt:
+#
+{200}{}{Tu vois : Gwen, la commandante en second des Khans et conseillère de Garl.}

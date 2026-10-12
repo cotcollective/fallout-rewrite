@@ -1,0 +1,23 @@
+{100}{}{Tu vois un roulier.}
+{101}{}{Ça va être une longue journée !}
+{102}{}{J'ai vraiment pas envie de bosser aujourd'hui.}
+{103}{}{J'espère qu'on va pas se faire attaquer... ou pire.}
+{104}{}{Désolé, on a plus besoin de gardes... je crois.}
+{105}{}{Désolé, on est complets.}
+{106}{}{Tu devrais voir au Marché des Marchands si tu veux du boulot.}
+{107}{}{J'espère qu'on va tout vendre.}
+{108}{}{J'ai hâte qu'on finisse.}
+{109}{}{Je suis prêt à botter des culs.}
+{110}{}{On se casse d'ici !}
+{111}{}{Il a fait chaud aujourd'hui, c'est sûr.}
+{112}{}{J'ai soif, moi.}
+{113}{}{On est quel jour ?}
+{114}{}{Je file au Falcon dès que j'ai fini !}
+{115}{}{Désolé, on rentre juste d'une route.}
+{116}{}{Tu devrais voir au Marché des Marchands si tu veux du boulot.}
+{117}{}{Aujourd'hui c'est la paie !}
+# 118 Bob's Iguana Bits
+{118}{}{Je vais direct chez Bob !}
+{119}{}{Je dois rembourser le prêt aujourd'hui !}
+{120}{}{Je suis tellement fatigué.}
+{121}{}{Ça a été un long voyage !}

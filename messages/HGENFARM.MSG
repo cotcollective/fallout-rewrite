@@ -1,0 +1,21 @@
+# These are Male farmers who work and toil under the sun. Tone of voice is busy, yet friendly.
+# Accent, if any would be akin to Midwestern United States, a little slow and drawn out, but not
+# a Southern drawl.
+
+{100}{}{Tu vois un fermier.}
+{101}{}{Il me faut une meilleure terre.}
+{102}{}{J'embauche pas.}
+{103}{}{J'ai pas besoin de plus d'eau. Va-t'en.}
+{104}{}{Cette terre est trop dure.}
+{105}{}{Ces stupides plantes vont pas survivre.}
+{106}{}{Pourquoi je suis devenu fermier ?}
+{107}{}{Ces cabots feraient mieux de pas pisser sur mes cultures.}
+# pissing == urinating
+
+{108}{}{Je déteste les chiens !}
+{109}{}{Je déteste les chiens ! Euh, sauf le tien.}
+{110}{}{C'est pas chez toi ici.}
+{111}{}{Quoi ? Tu vas embêter tout le monde comme ça ?}
+{112}{}{Quelle journée. Je suis épuisé.}
+{113}{}{J'appelle la police.}
+{114}{}{Je suis fatigué. Va-t'en.}

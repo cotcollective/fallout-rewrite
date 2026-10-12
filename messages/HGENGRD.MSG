@@ -1,0 +1,18 @@
+{100}{}{Tu vois un garde.}
+{101}{}{Hé ! Tu bosses pas ici.}
+{102}{}{Tu vois pas que j'essaie de me reposer ?}
+{103}{}{L'heure du repos et de la détente.}
+{104}{}{On embauche pas. Va parler aux marchands.}
+{105}{}{La garde a été plutôt calme ces temps-ci.}
+{106}{}{C'est les quartiers des gardes ! Pas de clodos.}
+{107}{}{T'es nouveau ?}
+{108}{}{Laisse-moi tranquille. Je suis fatigué.}
+{109}{}{Quelqu'un pour une partie de cartes ?}
+{110}{}{Qui veut mon service de nuit ?}
+{111}{}{On va au Falcon demain.}
+{112}{}{Bien sûr.}
+{113}{}{Qui veut aller chasser le scorpion cette semaine ?}
+{114}{}{J'ai mal aux pieds.}
+{115}{}{Je devrais probablement dormir un peu.}
+{116}{}{C'est déjà la paie ?}
+{117}{}{La garde des caravanes me manque.}

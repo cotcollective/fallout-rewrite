@@ -1,0 +1,8 @@
+{100}{}{Tu vois une goule des souterrains.}
+{101}{}{On veut juste qu'on nous laisse tranquilles.}
+{102}{}{Set est un incapable qui va nous faire tuer.}
+{103}{}{Les Super-mutants vont nous tuer un jour et Set n'aide pas.}
+{104}{}{On se cache ici ; dis à personne où on est, s'il te plaît.}
+{105}{}{Ta tronche me plaît pas.}
+{106}{}{Va-t'en et laisse-nous tranquilles.}
+{107}{}{J'ai entendu des mauvaises choses sur toi. C'est vrai ?}

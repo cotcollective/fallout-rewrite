@@ -1,0 +1,26 @@
+{100}{}{Tu vois une porte qui a l'air très sécurisée.}
+{101}{}{La porte n'est pas affectée par la compétence.}
+{102}{}{Tu te fais choquer par le système de sécurité pour }
+{103}{}{ points de dégâts.}
+{104}{}{Tu déverrouilles la porte avec le passe rouge.}
+{105}{}{Cet objet n'a aucun effet sur la porte. Un autre objet sera peut-être plus utile.}
+{106}{}{Tu te fais choquer par le système de sécurité pour }
+{107}{}{ points de dégâts.}
+{108}{}{La porte semble protégée par un champ d'énergie. Tu pourrais peut-être le désactiver d'une façon ou d'une autre.}
+{109}{}{La porte semble avoir une serrure secondaire.}
+{110}{}{Tu remarques qu'il y a des marques rouges sur la porte.}
+{111}{}{Tu remarques qu'il y a des marques rouges sur la porte.}
+{112}{}{Tu te demandes ce qui pourrait déverrouiller la porte.}
+{113}{}{Tu as contourné le système de sécurité avec succès.}
+{114}{}{Tu actives le système de sécurité et tu te fais choquer pour }
+{115}{}{ points de dégâts.}
+{116}{}{Tu ne détectes aucun piège sur la porte.}
+{117}{}{Tu as contourné le système de sécurité avec succès.}
+{118}{}{Tu actives le système de sécurité et tu te fais choquer pour }
+{119}{}{ points de dégâts.}
+{120}{}{Tu ne détectes aucun piège sur la porte.}
+{121}{}{Tu te fais choquer par le système de sécurité pour }
+{122}{}{ points de dégâts.}
+{123}{}{La porte semble protégée par un champ d'énergie. Tu pourrais peut-être le désactiver d'une façon ou d'une autre.}
+{124}{}{Tu déverrouilles la porte avec succès.}
+{125}{}{Tu n'as pas réussi à crocheter la serrure de la porte.}

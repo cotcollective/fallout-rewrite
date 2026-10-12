@@ -1,0 +1,7 @@
+{100}{}{Tu vois : la femme d'Hightower.}
+{101}{}{Oh, bonjour. Tu dois être un des associés de mon mari.}
+{102}{}{Bonjour à nouveau.}
+{103}{}{Mon Dieu !!! Y a quelqu'un dans la maison !!!}
+{104}{}{Prends ce que tu veux ! Pars juste !}
+{105}{}{Comment t'es entré ?!}
+{106}{}{Gardes !!! À l'aide !!!}

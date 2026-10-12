@@ -1,0 +1,8 @@
+{100}{}{Tu vois un Super-mutant envahisseur.}
+{101}{}{Viens ici, humain !}
+{102}{}{Halte !}
+{103}{}{Meurs, humain !}
+{104}{}{La mort pour toi !}
+{105}{}{Hu-maaain !}
+{106}{}{Moi t'écraser maintenant !}
+{107}{}{Tous les normies vont mourir !}

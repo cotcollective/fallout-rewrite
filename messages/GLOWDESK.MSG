@@ -1,0 +1,4 @@
+{100}{}{Le tiroir du bureau est coincé.}
+{101}{}{Tu forces le tiroir et l'ouvres.}
+{102}{}{Le tiroir reste fermement coincé.}
+{103}{}{Le bureau ne réagit pas à la compétence.}

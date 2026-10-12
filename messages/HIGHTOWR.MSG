@@ -1,0 +1,28 @@
+{100}{}{Tu vois : Daren Hightower.}
+{101}{}{T'es qui ?! Et qui t'a laissé entrer ?}
+{102}{}{J'ai un message d'un ami.}
+{103}{}{Ta vie est en danger, et je dois te parler.}
+{104}{}{Je m'appelle }
+{105}{}{. Leon m'a laissé entrer.}
+{106}{}{Mon nom ? ...La Mort !}
+{107}{}{Je suis ton pire cauchemar.}
+{108}{}{BoBo ?}
+{109}{}{J'ai pas d'amis. C'est quoi ton message ?}
+{110}{}{Decker te passe le bonjour.}
+{111}{}{Euh... Bob m'a envoyé... ah... il a dit que tu l'avais trop payé de 100 capsules et m'a envoyé te les rendre.}
+{112}{}{Y a pas vraiment de message, j'essayais juste de me sortir de là en parlant.}
+{113}{}{Je t'aime.}
+{114}{}{Dis-moi un truc que je sais pas, moron !}
+{115}{}{Moron ? J'essayais de t'aider. Tu peux aller en enfer.}
+{116}{}{Decker veut ta mort et il m'a engagé pour le faire.}
+{117}{}{Tu sais visiblement pas que tu vas mourir !}
+{118}{}{Oublie ça. J'essayais juste d'aider.}
+{119}{}{Ça a été un plaisir de te rencontrer }
+{120}{}{. Maintenant mon assistant Leon va te raccompagner hors de ma maison.}
+{121}{}{Je connais pas de Bob, mais je prends les 100 capsules et tu peux partir.}
+{122}{}{Va en enfer !}
+{123}{}{D'accord, tiens. Merci pour ton temps.}
+{124}{}{Euh... Ce SALAUD de Bob m'a pas donné assez de capsules ! Je vais te les chercher M. Hightower, promis !}
+{125}{}{Y pense pas. J'adore toujours quand des étrangers entrent chez moi pour me donner de l'argent. Leon, montre la porte à cet imbécile ! Reviens, et mes gardes t'auront la tête !}
+{126}{}{Leon, montre la porte à cet imbécile ! Reviens, et mes gardes t'auront la tête !}
+{127}{}{Gardes ! Assassin !}

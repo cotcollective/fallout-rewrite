@@ -1,0 +1,11 @@
+{100}{}{Tu vois un voyageur.}
+{101}{}{Qu'est-ce que tu veux, étranger ?}
+{102}{}{T'es qui ?}
+{103}{}{Tu fais quoi par ici ?}
+{104}{}{C'est où la ville la plus proche ?}
+{105}{}{Rien, merci.}
+{106}{}{Euh...}
+{107}{}{Je suis un éclaireur.}
+{108}{}{Je surveille les pillards et les monstres.}
+{109}{}{Ce serait Junktown. C'est pas loin d'ici.}
+{110}{}{Tu vois un garde de Junktown.}

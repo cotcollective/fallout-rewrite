@@ -1,0 +1,19 @@
+{100}{}{Qu'est-ce que tu veux ?}
+{101}{}{Laisse-moi tranquille.}
+{102}{}{Quoi ?}
+{103}{}{Touche pas à mes affaires.}
+{104}{}{Salut.}
+{105}{}{Arrrr !}
+{106}{}{Grrrrr !}
+{107}{}{Uungh.}
+{108}{}{Uhh.}
+{109}{}{Hé, t'as entendu que Set s'est fait buter ?}
+{110}{}{Set est mort. Set est mort. Set est mort...}
+{111}{}{Y a assez d'eau pour tout le monde. Set s'en assure.}
+{112}{}{J'ai entendu dire que les mutants se sont fait chasser de la ville.}
+{113}{}{Depuis que les mutants sont partis, ça va mieux.}
+{114}{}{Bonjour.}
+{200}{}{Tu examines la pitoyable chose, mais tu n'arrives pas à comprendre ce qui a pu la rendre comme ça.}
+{201}{}{Ça a dû être humain autrefois, ou au moins descendre d'humains. Tu devines que la détérioration du corps est probablement due à l'acide ou aux radiations.}
+{202}{}{Le corps de l'humanoïde semble hautement irradié, mais encore fonctionnel. Bien qu'autrefois humain, il semble être retombé à un mode de vie plus animal.}
+{203}{}{Le corps de l'humanoïde semble hautement irradié, et une bonne partie des muscles et de la matière cérébrale semblent détériorés. Cependant, des indicateurs génétiques te portent à croire qu'il descend, comme toi, de ceux qui sont entrés dans les Abris.}

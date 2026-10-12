@@ -1,0 +1,40 @@
+{100}{}{Il a l'air d'un garde expérimenté.}
+{101}{}{Tu ferais mieux de te tenir à carreau ici.}
+{102}{}{C'est pas une ville où il fait bon avoir des ennuis.}
+{103}{}{Tiens-toi bien, et on n'aura pas à être méchants.}
+{104}{}{T'es correct.}
+{105}{}{Continue comme ça.}
+{106}{}{Belle journée, non ?}
+{107}{}{Ici c'est Junktown. Un bel endroit pour vivre, tant que tu restes de notre bon côté.}
+{108}{}{Méfie-toi de Gizmo et de ses sbires.}
+{109}{}{J'aime bien mon patron.}
+{110}{}{Tu ferais mieux de ranger ça. Junktown est un endroit amical, mon ami, et on veut que ça reste comme ça.}
+{111}{}{Ranger quoi ?}
+{112}{}{Me dis pas quoi faire, minable.}
+{113}{}{Ça me semble juste. Au fait, c'est quoi la loi locale sur les armes ?}
+{114}{}{Uh-oh.}
+{115}{}{Ton arme, idiot. Killian te confisquera pas tes armes, mais tu ferais sacrément bien de les garder au fourreau.}
+{116}{}{Oh, pardon.}
+{117}{}{Pas question ! Je pose pas mes flingues pour personne !}
+{118}{}{Tu ferais mieux de te tenir bien, puisque c'est la loi, et c'est moi qui l'applique. Range ton arme, sors-la qu'en légitime défense, et t'auras pas de problème avec nous les gardes. Désobéis à la loi, et on te renverra dans le désert sans loi — mort ou vif.}
+{119}{}{Bien sûr, puisque tu le dis comme ça.}
+{120}{}{Tes lois, tu sais où te les mettre !}
+{121}{}{Bon, euh, ça me va. Mais fais gaffe.}
+{122}{}{Bien demandé. Aucune arme ne peut être dégainée sauf en légitime défense. Si tu commences un combat, c'est ta faute. À part ça, t'as le droit de te balader armé. Sors juste pas un couteau ou un flingue sans raison valable. Bonne journée.}
+{123}{}{Hé toi, pas d'armes ! Et je m'en fiche si ta mère t'a laissé tomber sur la tête quand t'étais gamin. Pas d'armes.}
+{124}{}{Hé ! Toi ! Tu fais quoi à te faufiler comme ça ?}
+{125}{}{Rien.}
+{126}{}{Je me faufile pas. J'aime juste marcher prudemment.}
+{127}{}{Euhhh.}
+{128}{}{Quoi que tu fasses, fais pas ça dans cette ville.}
+{129}{}{Le garde te fixe un moment. Tu vois une lueur de reconnaissance sur son visage, puis il sort son arme.}
+{130}{}{Bon, euh, d'accord. Enfin. Fais juste rien de travers.}
+{131}{}{Merci, salut.}
+{132}{}{Certainement. Je vais jeter la prudence au vent, monsieur.}
+{133}{}{Certainement. Je vais jeter la prudence au vent, madame.}
+{134}{}{Range cette arme, ou subis les conséquences !}
+{135}{}{OK, assez d'avertissements. Quitte la ville, maintenant, et reviens jamais, ou subis les conséquences !}
+{136}{}{Hé ! Tu crois faire quoi ?}
+{137}{}{C'est fini, t'es cuit, mon pote.}
+{138}{}{T'es dans le pétrin maintenant...}
+{139}{}{Vous les Skulz, vous êtes en état d'arrestation !}

@@ -1,0 +1,24 @@
+{100}{}{Un garde de Junktown.}
+{101}{}{Ici c'est Junktown. On y vit bien, tant que tu restes de notre bon côté.}
+{102}{}{Méfie-toi de Gizmo et de ses sbires.}
+{103}{}{J'aime bien mon patron.}
+{104}{}{Tu ferais mieux de ranger ça. Junktown est un endroit convivial, mon ami, et on veut que ça le reste.}
+{105}{}{Ranger quoi ?}
+{106}{}{Me dis pas ce que je dois faire, minable.}
+{107}{}{Ça me semble juste. Au fait, c'est quoi la loi locale sur les armes ?}
+{108}{}{Oh oh.}
+{109}{}{Ton arme, idiot. Killian te confisquera pas tes armes, mais tu ferais sacrément bien de les garder au fourreau.}
+{110}{}{Oh, pardon.}
+{111}{}{Pas question ! Je pose pas mes flingues pour personne !}
+{112}{}{Tu ferais mieux de te tenir tranquille, puisque c'est la loi, et c'est moi qui l'applique. Range ton arme, sors-la qu'en légitime défense, et t'auras pas de problème avec nous les gardes.}
+{113}{}{[Suite]}
+{114}{}{Désobéis à la loi, et on te renverra dans le désert sans foi ni loi — mort ou vif.}
+{115}{}{Bien sûr, puisque tu le dis comme ça.}
+{116}{}{Tes lois, je m'en fous !}
+{117}{}{Bon, euh, ça me va. Mais fais gaffe.}
+{118}{}{Bien, alors. Héhé.}
+{119}{}{Bien demandé. Aucune arme dégainée sauf en légitime défense. Si tu cherches la bagarre, c'est ta faute. Sinon, t'as le droit de te balader armé. Sors juste pas un couteau ou un flingue sans raison valable. Bonne journée.}
+{120}{}{Merci — à toi aussi.}
+{121}{}{Hé toi, pas d'armes ! Et je m'en fous si ta mère t'a laissé tomber sur la tête quand t'étais gosse. Pas d'armes.}
+{122}{}{Dorf !}
+{123}{}{Tu gagnes 150 points d'expérience pour avoir tué le garde.}

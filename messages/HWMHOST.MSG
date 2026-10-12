@@ -1,0 +1,16 @@
+{100}{}{Tu vois un garde du Hub.}
+{101}{}{Je peux t'aider ?}
+{102}{}{Oui. Tu peux me dire où je suis ?}
+{103}{}{Au revoir.}
+{104}{}{Uhhhhhhh. Hein hein. Uhhhhh. Hein.}
+{105}{}{Mec, t'es plus con qu'un sac de marteaux, non ? Dégage d'ici}
+{106}{}{T'es dans le sud du Hub. Si tu regardes autour, tu trouveras les Marchands d'Eau et un petit hôpital.}
+{107}{}{C'est qui les Marchands d'Eau ?}
+{108}{}{Un hôpital ?}
+{109}{}{Merci. Au revoir.}
+{110}{}{Ces salauds. Ils croient qu'ils possèdent ce fichu Hub juste parce qu'ils contrôlent le château d'eau.}
+{111}{}{Un hôpital ?}
+{112}{}{Merci. Au revoir.}
+{113}{}{Les Enfants de la Cathédrale tiennent un petit hôpital ici au Hub. Ils ont l'air de braves gens.}
+{114}{}{C'est qui les Marchands d'Eau ?}
+{115}{}{Merci. Au revoir.}

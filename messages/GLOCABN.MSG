@@ -1,0 +1,7 @@
+{100}{}{Tu vois une armoire.}
+{101}{}{Il semble y avoir une serrure électronique sur cette armoire.}
+{102}{}{Tu déverrouilles l'armoire facilement.}
+{103}{}{Cette serrure semble plus coriace que tu ne le croyais d'abord.}
+{104}{}{Tu contournes facilement la serrure de l'armoire.}
+{105}{}{Cette serrure semble plus coriace que tu ne le croyais d'abord.}
+{106}{}{Cette compétence n'a aucun effet sur l'armoire.}

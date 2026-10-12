@@ -1,0 +1,41 @@
+{100}{}{Tu vois : Irwin.}
+{101}{}{Oh là là, tu peux pas me laisser tranquille ? J'ai déjà assez de problèmes comme ça.}
+{102}{}{Des problèmes ? Je peux peut-être aider.}
+{103}{}{Comme si t'étais le seul à avoir des problèmes.}
+{104}{}{OK, OK. Pas la peine de crier.}
+{105}{}{Hmm... je sais pas. Faut un autre calibre de héros que toi. Écoute, pourquoi tu reviendrais pas quand t'auras un peu plus d'expérience ?}
+{106}{}{C'est une tragédie, crois-moi. Rien n'est comme avant. J'ai une petite ferme hors de la ville et y a quelques jours une bande de pillards a surgi de nulle part et utilise ma maison comme camp. Ils ont tué Pugsley, mon âne, et ils m'ont menacé de me tuer si jamais j'ose revenir.}
+{107}{}{Dis-moi juste où c'est et je m'occupe du reste.}
+{108}{}{Désolé Irwin, mais j'ai des choses plus importantes à faire.}
+{109}{}{Vraiment ? Tu ferais ça ? Tu sais, j'ose plus y aller. Pourquoi tu reviendrais pas me dire quand ce sera sans danger d'y retourner ?}
+# 110 "beat it" means "leave"
+{110}{}{Écoute, freluquet, je t'ai dit de me laisser tranquille au départ. Maintenant dégage !}
+{111}{}{Je savais que tu te dégonflerais. Tout le monde se dégonfle quand il s'agit des pillards.}
+{112}{}{Alors, t'as pu donner une leçon à ces pillards ? Ma maison est de nouveau sûre ?}
+{113}{}{Bien sûr, mon pote.}
+{114}{}{J'ai pas encore eu le temps de m'en occuper.}
+{115}{}{Oh, merci infiniment. Je suis désolé, j'ai pas de richesses à te donner, mais tiens, prends ça pour avoir sauvé ma maison. C'était à mon père, transmis par grand-père Rick. T'en as probablement plus besoin que moi.}
+{116}{}{T'essaies de me rouler, c'est ça ? Joue pas avec moi, s'il te plaît. Reviens me dire quand ce sera vraiment sans danger d'y retourner, d'accord ?}
+{117}{}{Merci infiniment de m'avoir aidé.}
+
+# Nimrod
+{122}{}{Tu gagnes 500 points d'expérience pour avoir sauvé la ferme d'Irwin.}
+
+#for Stupid characters
+{118}{}{Grounk ?}
+{119}{}{Écoute, j'ai pas le temps pour les idiots. Reviens quand t'auras un peu de jugeote.}
+{120}{}{Uh huh, uh huh, uh huh. Moi fait ça.}
+{121}{}{Moi pas réparer encore.}
+{123}{}{Pas trouver ferme. Toi montrer ?}
+{403}{}{Mer-ci !}
+
+# the Raiders at his farm
+{300}{}{Va retrouver ton créateur !}
+{301}{}{Chope-le... mort !}
+{302}{}{Tu viens de manger ton dernier pain au fromage !}
+{303}{}{Je vais te percer comme du gruyère !}
+
+# Sduibek
+{400}{}{Pas tout à fait. Tu peux me redire comment y aller ?}
+{401}{}{Je veux bien, mais dépêche-toi. Je veux rentrer chez moi.}
+{402}{}{Merci.}
