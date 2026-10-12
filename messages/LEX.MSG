@@ -1,0 +1,18 @@
+# Alchemist: long phrases should be split and require some smooyhing.
+
+{100}{}{Tu vois : Lex, chef du clan de pillards des Vipères.}
+{101}{}{Un énorme gars avec une sale attitude, qui te fusille du regard.}
+{102}{}{[...Tu te réveilles peu à peu et tu regardes autour de toi. Tu vois un endroit inconnu, trois tentes et plusieurs personnes près d'elles. On dirait que t'as réussi à reprendre conscience avant qu'ils te fassent les poches. Tes yeux se fixent sur l'homme à côté de toi] Oh, notre malheureux acheteur s'est réveillé.}
+{103}{}{[Suite]}
+{104}{}{Ce sera quoi ? Tu peux nous donner toutes tes capsules et on te laisse partir. Ou on pourrait jouer aux cowboys intrépides.}
+{105}{}{Et qu'est-ce qui me garantit que je sors d'ici vivant si vous avez l'argent ?}
+{106}{}{J'ai toujours aimé les westerns.}
+{107}{}{Cowboys.}
+{108}{}{La parole du pillard !}
+{109}{}{Je crois que je peux te faire confiance. Tiens, prends. [Tu lui donnes tes économies]}
+{110}{}{Ces mots ne veulent rien dire pour moi.}
+{111}{}{Alors, une tête de mule ? Ça me plaît assez. Je crois que les gars vont bien s'amuser avec toi alors.}
+{112}{}{Si tu fais pas confiance aux mots, fais confiance à nos flingues ! Une mauviette comme toi fait pas le poids contre tout le gang !}
+{113}{}{Encore une fois, je préférerais te tuer. Pour être sûr que personne ne bavardera trop. Adieu.}
+{114}{}{Bien, mon gars. Sage décision. Tu es libre de partir maintenant.}
+

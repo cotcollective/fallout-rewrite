@@ -1,0 +1,8 @@
+{100}{}{T'as à manger ?}
+{101}{}{Oh là là, j'ai faim. J'aimerais bien des burgers de brahmine.}
+{102}{}{S'il vous plaît, monsieur, donnez-moi à manger.}
+{103}{}{S'il vous plaît, madame, donnez-moi à manger.}
+{104}{}{J'aimerais vraiment trouver à manger par ici.}
+{105}{}{Je meurs de faim !}
+{106}{}{Je travaillerai pour manger.}
+{107}{}{À maaaanger... donne à manger maintenant !}

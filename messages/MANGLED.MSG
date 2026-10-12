@@ -1,0 +1,2 @@
+{100}{}{Tu remarques des traces sanglantes qui mènent aux corps.}
+{101}{}{On dirait que certains animaux ont traîné les corps ici.}

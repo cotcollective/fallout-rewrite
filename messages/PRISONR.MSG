@@ -1,0 +1,27 @@
+{100}{}{Tu vois un prisonnier goule.}
+{101}{}{Q-qu'est-ce que tu veux.}
+{102}{}{Euh, rien.}
+{103}{}{Hng.}
+{104}{}{Je suis là pour te faire sortir.}
+{105}{}{À quoi tu t'attendais.}
+{106}{}{Hé, je m'en fous, sors-moi juste d'ici !}
+{107}{}{Génial ! Fais-le !}
+{108}{}{J'ai volé de l'eau. Hé, j'avais soif ! C'est pas comme si j'avais fait du mal à quelqu'un.}
+{109}{}{T'as pris plus que ta part légitime.}
+{110}{}{Ah, c'est rien. Je vais te faire sortir.}
+{111}{}{Je serais mort sans cette eau. C'était juste une tasse. De quoi me garder en vie. Faut que tu me sortes d'ici ! Je deviens fou.}
+{112}{}{OK, attends un moment.}
+{113}{}{Je crois que je vais laisser les autorités s'occuper de toi.}
+{114}{}{Laisse-moi sortir, s'il te plaît.}
+{115}{}{Merci de m'avoir fait sortir.}
+{116}{}{Pas de problème.}
+{117}{}{Elle vient d'où, cette eau ?}
+{118}{}{Ouais.}
+{119}{}{Ils la pompent des puits en dessous. Y a une bouche d'égout dans la cellule d'à côté qui mène au vieil Abri. C'est la source de l'eau. Sans ceux d'en dessous, on serait bien mieux.}
+{120}{}{Tu veux dire quoi ?}
+{121}{}{Merci.}
+{122}{}{C'est dur de faire marcher la vieille techno comme il faut, parfois. Les Luisants s'énervent dès qu'on descend. Nous, les goules, on les laisse tranquilles. Et les gros mutants s'en foutent complètement.}
+{123}{}{Bonne chance. Salut.}
+{124}{}{Tu gagnes }
+{125}{}{ points d'expérience pour avoir libéré le prisonnier goule.}
+{126}{}{Merci encore.}

@@ -1,0 +1,1 @@
+{100}{}{La zone a déjà été pillée. L'équipement délicat est très endommagé.}

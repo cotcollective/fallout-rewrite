@@ -1,0 +1,35 @@
+{100}{}{Tu vois : Cindy. Elle pleure.}
+{101}{}{Tu vois : Lisa. Elle pleure.}
+{102}{}{Tu vois : Sandy. Elle pleure.}
+{103}{}{Tu vois : Mary. Elle pleure.}
+{104}{}{Tu vois : Stacy. Elle pleure.}
+{105}{}{Tu vois : Susan. Elle pleure.}
+{106}{}{Tu vois : Cindy.}
+{107}{}{Tu vois : Lisa.}
+{108}{}{Tu vois : Sandy.}
+{109}{}{Tu vois : Mary.}
+{110}{}{Tu vois : Stacy.}
+{111}{}{Tu vois : Susan.}
+{112}{}{Bonjour, }
+{113}{}{. T'as trouvé la Puce d'eau ?}
+{114}{}{Non, pas encore.}
+{115}{}{Si. Comment ça va ?}
+{116}{}{Urug !}
+{117}{}{Oh... tu me comprends pas. J'imagine qu'on a vraiment plus beaucoup d'espoir, finalement. Excuse-moi, je vais pleurer.}
+{118}{}{Ugg !}
+{119}{}{Trouve-la avant que mon bébé meure de soif, s'il te plaît.}
+{120}{}{[Terminé]}
+{121}{}{Faut que tu la trouves ! Laisse-nous pas mourir comme ça !}
+{122}{}{[Terminé]}
+{123}{}{Continue d'essayer. Je crois en toi. Je sais que tu feras tout ce que tu peux pour nous sauver.}
+{124}{}{[Terminé]}
+{125}{}{J'ai peur de ce qui se passe. Quelqu'un a volé de l'eau et maintenant tout le monde est sur les nerfs.}
+{126}{}{Qui ferait une chose pareille ?}
+{127}{}{Qu'est-ce qui s'est passé ?}
+{128}{}{Des gens ont été accusés et des bagarres ont éclaté, mais personne sait vraiment.}
+{129}{}{OK. Merci.}
+{130}{}{Des gens ont signalé qu'on leur avait volé leur eau. On leur en a pas redonné mais des amis ont partagé avec eux. Après ça, tout le monde est devenu très parano et a commencé à garder son eau. Quelques jours plus tard, quelqu'un a assommé le garde dans la zone des rations et a volé de l'eau.}
+{131}{}{C'est terrible ! Qu'est-ce que je peux faire ?}
+{132}{}{Tu pourrais peut-être arrêter celui qui fait ça.}
+{133}{}{Je vais jeter un œil.}
+{134}{}{Salut.}

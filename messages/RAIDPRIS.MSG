@@ -1,0 +1,11 @@
+{100}{}{Tu vois un prisonnier des pillards, abattu.}
+{101}{}{Hé, toi ! Sors-moi d'ici !}
+{102}{}{Tais-toi, tu vas alerter les gardes !}
+{103}{}{Chut ! T'es qui ?}
+{104}{}{Goop}
+{105}{}{Je m'en fous. Sors-moi d'ici, s'il te plaît !}
+{106}{}{Je m'appelle Jack. Je viens de Junktown. Ces monstres ont tué le reste de ma caravane et m'ont mis ici.}
+{107}{}{OK. Je vais voir ce que je peux faire.}
+{108}{}{Quelle poisse. Profite bien de ton séjour.}
+{109}{}{S'il te plaît, aide-moi à sortir.}
+{110}{}{Aïe ! Ma jambe. Elle est blessée. Je crois qu'elle est cassée. Aide-moi, s'il te plaît !}

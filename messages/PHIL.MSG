@@ -1,0 +1,39 @@
+{100}{}{Tu vois un paysan.}
+{101}{}{Tu vois : Phil.}
+{102}{}{C'est pas mon chien !}
+{103}{}{Bien dit, descends-moi cette bête !}
+{104}{}{Je me méfierais de cette bête, à ta place. C'est une tueuse.}
+{105}{}{Monsieur,}
+{106}{}{Madame,}
+{107}{}{ ça me ferait vraiment plaisir que tu te débarrasses de ce satané chien.}
+{108}{}{Pourquoi ?}
+{109}{}{Non, je m'occupe que des trucs importants.}
+{110}{}{Il vient d'où ?}
+{111}{}{Hnnn.}
+{112}{}{Tu peux peut-être le tuer à force de parler.}
+{113}{}{Il nous laisse plus rentrer chez nous, voilà pourquoi.}
+{114}{}{OK.}
+{115}{}{C'est pas ton chien ?}
+{116}{}{C'était l'« animal de compagnie » d'un voyageur. Quand le voyageur est mort, ce satané chien a posé son gros cul poilu sur mon paillasson et a plus voulu partir. Ça fait des jours que ça dure.}
+{117}{}{Oh.}
+{118}{}{C'était qui, ce voyageur ?}
+{119}{}{Il ressemblait à quoi, ce voyageur ?}
+{120}{}{J'en sais rien. Un gars. Il venait de l'est, qu'il disait. Comme si quelqu'un pouvait traverser les terres mortes à l'est. Il s'est frotté à Gizmo en voulant se mêler de ses affaires.}
+{121}{}{Alors Gizmo a envoyé deux de ses gars le tabasser et le balancer du toit du casino. Le voyageur s'est brisé son satané cou d'idiot et il est mort. Le chien était furax.}
+{122}{}{Il ressemblait à quoi, ce voyageur ?}
+{123}{}{Oh, le gars était grand, cheveux noirs avec un peu de gris sur les bords. Il était tout en cuir noir, comme si c'était une bonne idée dans le désert, et il portait un fusil à pompe.}
+{124}{}{Il avait un drôle d'accent. Le chien était son compagnon fidèle, il le suivait partout.}
+{125}{}{Merci pour les ragots.}
+{126}{}{Je déteste ce chien.}
+
+{127}{}{Merci pour ton aide.}
+
+# For PEASVICT.SSL script mainly
+# KSW 9/9/97
+
+{128}{}{Au secours !}
+{129}{}{On nous attaque !}
+{130}{}{Merci de nous avoir aidés à nous défendre contre ces satanés pillards ivres. Pour ton aide, on te donne ces }
+{131}{}{ capsules.}
+{132}{}{On te remercie pour ton aide ! On a mis ces }
+{133}{}{ capsules en commun et on te les donne pour nous avoir défendus contre cette racaille.}

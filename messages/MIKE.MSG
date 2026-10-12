@@ -1,0 +1,14 @@
+{100}{}{Tu vois : Mike, le garde de la Vieille Ville.}
+{101}{}{Ouais, tu veux quoi ?}
+{102}{}{Euh... hum... euh...}
+{103}{}{Je suis pas du coin. C'est quel quartier, ici ?}
+{104}{}{Tu saurais où je peux trouver une Puce d'eau ?}
+{105}{}{Euh... Salut.}
+{106}{}{Ha. Encore un junkie. Va cuver ailleurs, tête de nœud.}
+{107}{}{Ouais. T'as dû te perdre. La plupart des gens se feraient pas prendre morts dans ce coin. C'est le côté Est, ou comme certains l'appellent, la Vieille Ville. Le désert du désert.}
+{108}{}{Tu saurais où je peux trouver une Puce d'eau ?}
+{109}{}{Merci pour l'info. Salut.}
+{110}{}{Une Puce d'eau ? T'es quoi, défoncé ? Une puce faite en eau ?}
+{111}{}{Me réponds pas sur ce ton, punk. Maintenant je vais devoir te mettre sous terre.}
+{112}{}{Je suis pas du coin. Je suis dans quel quartier ?}
+{113}{}{Laisse tomber. Salut.}

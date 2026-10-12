@@ -1,0 +1,48 @@
+{100}{}{Tu vois Lenny.}
+{101}{}{Tu vois un loser qui sent la brahmine.}
+{102}{}{[suite]}
+{103}{}{[terminé]}
+{104}{}{T'as fait mal à un de mes amis ! On va te le faire payer ! Chope-le, les filles !}
+{105}{}{Euh, salut.}
+{106}{}{Tu fais quoi ici ?}
+{107}{}{C'est quoi ces animaux ?}
+{108}{}{Pourquoi ces animaux puent autant ?}
+{109}{}{Ah bon ? J'avais pas remarqué. Je traîne avec eux depuis tellement longtemps que ça me dérange plus. C'est mes amis.}
+{110}{}{C'est des brahmines. C'est mes amis. Je dors dans l'enclos avec elles pour qu'elles aient pas peur la nuit. Cet endroit peut faire un peu peur, si tu vois ce que je veux dire.}
+{111}{}{Je vois pas ce que tu veux dire. Pourquoi cet endroit fait peur ?}
+{112}{}{Je peux en acheter une ?}
+{113}{}{NON ! Non ! Je suis pas un esclavagiste, comme certains de ces gens. Comment tu pourrais vendre tes amis !?}
+{114}{}{Je le pensais pas, c'est juste des animaux.}
+{115}{}{Je ferais pas ça, je te testais.}
+{116}{}{Doucement, je gagne plus d'argent comme ça.}
+{117}{}{Oh, je comprends. Tu réalises pas à quel point les brahmines sont importantes pour moi. C'est pas grave. Je crois que les gens me comprennent pas.}
+{118}{}{Euh, salut.}
+{119}{}{T'es méchant. Je te déteste.}
+{120}{}{Ouais, bon.}
+{121}{}{Oh. Oh, je comprends. Hé, t'es plutôt sympa. Je t'aime bien. Je devrais te prévenir pour ces gars les Fous. Ils m'aiment pas. Ils aiment personne.}
+{122}{}{Merci pour l'info.}
+{123}{}{Les mauvaises personnes. Elles se battent pour des trucs. Des trucs que je comprends pas. Les pires c'est les Fous. Ils me cherchent. Ils m'aiment pas. [renifle] Je les aime pas.}
+{124}{}{Oh, c'est encore toi.}
+{125}{}{Dis-moi ce que tu sais sur les Fous.}
+{126}{}{Dis-moi ce que tu sais sur les Cryptes.}
+{127}{}{Je veux en savoir plus sur le générateur.}
+{128}{}{On se revoit.}
+{129}{}{J'aime pas les Fous, ils me cherchent toujours. Ils vivent dans le garage au nord. Ils se battent contre les Cryptes, mais on perd tous.}
+{130}{}{Merci.}
+{131}{}{Les Cryptes sont vraiment méchantes. Elles tiennent l'lectricité et si on est pas sages, elles nous la coupent. Elles détestent les Fous, pire que tout. Pire qu'elles détestent mes amies.}
+{132}{}{C'est quoi, l'lectricité ?}
+{133}{}{Le généwateur ? Oh, j'en sais rien.}
+{134}{}{Ça nourrit les lumières. Ça fait marcher tous les trucs. Je sais pas, mais si on l'a pas, c'est pas bon.}
+{135}{}{Je vais pas te parler.}
+{136}{}{Je passe du temps avec mes amies. Je passe beaucoup de temps avec elles. Elles sont gentilles. Elles me traitent pas mal. Pas comme certaines personnes. [Lenny plisse les yeux.] Je déteste certaines personnes. Je déteste les Fous.}
+{137}{}{Tu me fais peur.}
+{138}{}{C'était gentil, mais t'as pas répondu à ma question.}
+{139}{}{Oh, pardon. Lex dit que je lui fais peur, aussi. C'est pas voulu. Et je fais jamais peur à mon amie.}
+{140}{}{C'est quoi tes amies ?}
+{141}{}{C'est qui Lex ?}
+{142}{}{Oh, je surveille les brahmines et je m'assure qu'il leur arrive rien.}
+{143}{}{Bon, c'était pas si difficile, hein ? C'est quoi tes amies ?}
+{144}{}{Lex est gentil. Lex traite mes amies comme de la famille. Environ une fois par mois, il en ramène même une pour dîner. [Lenny sourit.] Puis il les laisse jouer avec plein de brahmines du ciel. C'est pas gentil, ça ?}
+{145}{}{Oui, Lenny, c'est très gentil. Maintenant parle-moi de tes amies.}
+{146}{}{Lenny, je crois que tu dois savoir un truc. Lex mange tes amies.}
+{147}{}{Non, tu mens ! T'es un menteur ! Lex ferait jamais ça ! Espèce de menteur puant ! Je vais te faire mal pour avoir dit ça devant mes amies.}

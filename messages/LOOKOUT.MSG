@@ -1,0 +1,12 @@
+{100}{}{Tu vois un guetteur goule.}
+{101}{}{Je peux pas parler là. Je surveille le danger.}
+{102}{}{Un espion humain !}
+{103}{}{Tu fais quoi ici en bas ?}
+{104}{}{Hmm, pas grand-chose. Tu fais quoi ?}
+{105}{}{Je regarde autour.}
+{106}{}{Hein.}
+{107}{}{Ben rien. J'habite ici.}
+{108}{}{Tu trouveras rien ici. Va-t'en.}
+{109}{}{[Terminé]}
+{200}{}{On survivra pas sans eau.}
+{201}{}{Parle à notre chef avant de partir s'il te plaît.}

@@ -1,0 +1,5 @@
+{100}{}{Devant toi se trouve un Ordinateur Mach IV.}
+{101}{}{On dirait que le système est en redémarrage.}
+{102}{}{Le système semble s'être bloqué.}
+{103}{}{Le moniteur scintille.}
+{104}{}{L'écran affiche d'étranges motifs de couleurs.}

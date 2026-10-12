@@ -1,0 +1,5 @@
+{100}{}{Tu n'arrives pas à te résoudre à fouiller dans ces morceaux divers.}
+{101}{}{La glacière est remplie de morceaux d'organes et de parties de corps.}
+{102}{}{Les morceaux dans la glacière sont coupés en petits bouts, et refroidis pour l'expédition. Personne n'aura de greffe avec ces petits morceaux. }
+{103}{}{Des parties de corps remplissent la glacière.}
+{104}{}{La glacière est pleine de parties de corps, coupées en petits morceaux et emballées dans la glace. Bizarre.}

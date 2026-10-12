@@ -1,0 +1,8 @@
+{100}{}{Tu vois un paysan.}
+{101}{}{J'ai rien à te dire, étranger.}
+{102}{}{Les brahmines puent vraiment en cette saison.}
+{103}{}{Faut encore agrandir l'irrigation.}
+{104}{}{Me dérange pas.}
+{105}{}{J'ai entendu dire que les radscorpions ont encore tué cette nuit.}
+{106}{}{T'aurais pas des burgers de brahmine ?}
+{107}{}{On s'est pas fait attaquer par des pillards récemment. De la chance, j'imagine.}

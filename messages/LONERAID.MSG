@@ -1,0 +1,48 @@
+{100}{}{C'est pas parce que t'as une arme dégainée que je vais te donner ce que tu veux...}
+{101}{}{Tu m'as battu ! Qu'est-ce que tu veux de plus, bordel ?}
+{102}{}{J'ai rien à dire ! Parler c'est pour les faibles !}
+{103}{}{Je sais pas qui t'es, mais je te préviens : quiconque s'en prend aux Khans meurt dans d'atroces souffrances.}
+{104}{}{Tu sais, si tu te croyais vraiment plus fort, tu me tuerais.}
+{105}{}{Dommage. Je m'en prends à toi !}
+{106}{}{Bien. Ne nous cherchons pas noise, et on sera heureux.}
+{107}{}{Je me rends. Me tue pas, s'il te plaît !}
+{108}{}{Hngrrr !}
+{109}{}{Hein ?}
+{110}{}{Salut frère Khan ! Comment va la chasse ? Beaucoup de faibles sont morts aujourd'hui ?}
+{111}{}{Salut sœur Khan ! Comment va la chasse ? Beaucoup de faibles sont morts aujourd'hui ?}
+{112}{}{Je garderai mes vantardises pour le feu de camp, mais j'ai bien des histoires à raconter !}
+{113}{}{J'ai vu beaucoup de sang et pris beaucoup de butin.}
+{114}{}{Pas mal. Et toi ?}
+{115}{}{J'ai fait mieux...}
+{116}{}{Tu es un ennemi des Khans ! Tu attaques nos guerriers et tu prends nos femmes ! Donne-moi une raison de ne pas t'arracher le cœur !}
+{117}{}{Arrête la frime. Où est Tandi ? Dis-le moi, ou tu meurs !}
+{118}{}{Rien à dire. Battons-nous !}
+{119}{}{Parce qu'on vivra tous les deux si tu n'essaies pas.}
+{120}{}{Je suis pas en état de me battre. Je me rends.}
+{121}{}{T'es un des leurs ? Un des mutants ?}
+{122}{}{Qu'est-ce que tu sais sur les mutants ?}
+{123}{}{Ouais, je suis un mutant !}
+{124}{}{J'ai l'air d'un mutant ?}
+{125}{}{Non.}
+{126}{}{Peut-être. Si tu veux te battre, je me battrai. Si tu veux partir en paix, tu as ma parole de Khan que je t'attaquerai pas.}
+{127}{}{Battons-nous.}
+{128}{}{Battons-nous pas.}
+{129}{}{La parole d'un Khan ? Quelle blague !}
+{130}{}{Tu es trop fort pour moi, et je suis fatigué après bien des jours dans le désert. Je veux pas mourir. Même si ça me fait honte, je me rends.}
+{131}{}{D'accord. Je te donne ma parole que tu peux partir en paix, à condition que tu me provoques pas. Ne me cherche plus.}
+{132}{}{Je veux rien qui appartienne à un lâche, y compris ta vie ! Hors de ma vue !}
+{133}{}{Espèce d'animal stupide. Je vais adorer te tuer.}
+{134}{}{Euh, oui...}
+{135}{}{J'adorerai les entendre. Adieu, frère !}
+{136}{}{J'adorerai les entendre. Adieu, sœur !}
+{137}{}{Vraiment ? Alors faut que je l'aie pour moi !}
+{138}{}{Oui, j'ai entendu dire que la fortune te favorise grandement. C'est pour cette seule raison que je te défie pas pour ton butin. Adieu, mon frère ! Puissions-nous nous retrouver côte à côte au combat.}
+{139}{}{Oui, j'ai entendu dire que la fortune te favorise grandement. C'est pour cette seule raison que je te défie pas pour ton butin. Adieu, ma sœur ! Puissions-nous nous retrouver côte à côte au combat.}
+{140}{}{Je suis fatigué et las d'un voyage bien plus long que prévu. Les radscorpions ont tué mes compagnons. Je languis le confort du camp et la caresse guérisseuse de nos femmes.}
+{141}{}{Que la fortune te favorise encore. Adieu, mon frère.}
+{142}{}{Que la fortune te favorise encore. Adieu, ma sœur.}
+{143}{}{Ils ont détruit Shady Sands. Ils tuent tous ceux sur leur chemin. J'aurais jamais imaginé une telle férocité. Nous sommes tous condamnés...}
+{144}{}{Chien assassin !}
+{145}{}{Non, mais c'est dur à dire. J'ai entendu dire qu'ils se drapent dans la nuit, qu'ils embrument l'esprit des hommes, et prennent la forme de belles femmes ! Nous sommes tous condamnés !}
+{146}{}{C'est bien. Je languis de venger nos morts, et même les morts de Shady Sands. Tout mutant qui croisera mon chemin mourra ! Va, ami ! Va et tue ! Mort aux mutants !}
+{147}{}{Tu vas mourir pour ces mots !}

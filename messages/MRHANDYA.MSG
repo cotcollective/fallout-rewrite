@@ -1,0 +1,4 @@
+{100}{}{Tu vois un robot en panne.}
+{101}{}{Tu vois un robot fonctionnel.}
+{102}{}{Tu répares le robot en panne. Il démarre immédiatement et prend vie.}
+{103}{}{Les réparations dépassent tes compétences.}

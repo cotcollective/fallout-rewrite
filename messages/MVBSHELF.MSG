@@ -1,0 +1,2 @@
+{100}{}{La bibliothèque est remplie de livres religieux et philosophiques. C'est très poussiéreux.}
+{101}{}{Tu prends un livre, l'examines, et le remets vite sur l'étagère. L'étagère elle-même semble très solide.}

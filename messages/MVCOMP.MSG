@@ -1,0 +1,13 @@
+{100}{}{Cet ordinateur porte la mention "Terminal d'Accès Atomique".}
+{101}{}{Des câbles relient l'ordinateur d'accès à l'ogive derrière lui.}
+{102}{}{Tu as armé l'ogive. Un minuteur affichant "4:00" a commencé un compte à rebours.}
+{103}{}{Tu as désarmé l'ogive nucléaire.}
+{104}{}{BOOOOOOOOOM ! [Tu as fait exploser la bombe !]}
+{105}{}{Ça n'a pas l'air de marcher.}
+{106}{}{Le compte à rebours continue... tu devrais peut-être couper ce fil rouge.}
+{107}{}{Il faut peut-être aussi utiliser la clé.}
+{108}{}{Cet ordinateur est équipé d'un dispositif de verrouillage matériel qui empêche l'armement de la bombe sans la clé appropriée.}
+{109}{}{Impossible de crocheter cette serrure ultra-sécurisée.}
+{110}{}{Cet ordinateur ne peut pas être réparé.}
+{111}{}{Tu ne peux pas utiliser la compétence Pièges sur cet ordinateur.}
+{112}{}{Tu n'es pas assez compétent pour vaincre le mécanisme de sécurité.}

@@ -1,0 +1,30 @@
+{100}{}{Tu vois une goule en colère.}
+# the examine & look msgs are 200 & 201
+{101}{}{Tu fais quoi ici ?}
+{102}{}{À la recherche des restes du futur passé.}
+{103}{}{Je suis un explorateur.}
+{104}{}{Ça te regarde, face de ver ?}
+{105}{}{Bibi-duh.}
+{106}{}{Qu'est-ce que t'as dit ?}
+{107}{}{Rien.}
+{108}{}{Je cherche de la technologie perdue.}
+{109}{}{C'est bien ce que je pensais que t'avais dit. Sors de ma maison.}
+{110}{}{Oh, y en a pas par ici. Peut-être en haut au temple ou à l'endroit de l'eau. Vas-y.}
+{111}{}{Ack ! Touche pas à mes affaires. Dehors ! Je suis sérieux.}
+{112}{}{Me colle pas comme ça. C'est moi qui mène ici.}
+{113}{}{Oh, ouais.}
+{114}{}{Je vais prendre ta face et te la fourrer où...}
+{115}{}{Ack ! OK, je capitule. Je pars.}
+{116}{}{T'es pas assez costaud pour me donner des ordres comme ça. Prends-en un peu et fourre-le toi !}
+{117}{}{Je veux pas te parler.}
+{118}{}{T'es quoi ?}
+{119}{}{Je suis une goule. T'as jamais vu de goule avant ?}
+{120}{}{Oui.}
+{121}{}{Non.}
+{122}{}{T'as dû être une mauviette des souterrains. Ils t'ont laissé vivre pour que tu viennes m'embêter. Maintenant sors de ma maison.}
+{123}{}{Eh bien maintenant oui. Sors d'ici !}
+#
+# by Sduibek for Fallout Fixt:
+#
+{200}{}{Il semble être le propriétaire de cet établissement. L'expression « sous nouvelle direction » vient à l'esprit.}
+{201}{}{Tu vois : Gérant de l'hôtel.}

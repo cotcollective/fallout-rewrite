@@ -1,0 +1,8 @@
+{100}{}{Tu vois un paysan.}
+{101}{}{Oh, ouais, le grand costaud qui fuit un chien effrayant. Phil, tu lui as bien montré. Ouais, tu lui as montré.}
+{102}{}{Tu fais quoi, Phil ? Tu vérifies l'usure de tes baskets, hein ?}
+{103}{}{Mec, ce chien a l'air affamé. Il veut te bouffer vivant, Phil, c'est sûr.}
+{104}{}{C'est peut-être un peu excessif pour une pauvre bête sans défense, tu crois pas ?}
+{105}{}{C'est un sacré beau toutou que t'as là.}
+{106}{}{Phil apprécierait sûrement que tu te débarrasses de son chien.}
+{107}{}{Merci de t'être occupé de ce chien.}

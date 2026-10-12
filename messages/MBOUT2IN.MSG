@@ -1,0 +1,7 @@
+{100}{}{La porte est verrouillée. Un code de sécurité est requis pour l'ouvrir.}
+{101}{}{Tu entres le code de la cassette et tu déverrouilles la porte.}
+{102}{}{La porte n'est pas verrouillée.}
+{103}{}{Tu contournes le code de sécurité et tu déverrouilles la porte.}
+{104}{}{Impossible d'ouvrir la porte.}
+{105}{}{Impossible d'ouvrir la porte. Ce serait plus facile avec un kit de crochetage électronique.}
+{106}{}{L'explosion est puissante, mais elle n'a même pas éraflé la porte blindée.}

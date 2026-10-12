@@ -1,0 +1,5 @@
+{100}{}{Tu vois une porte de sas.}
+{101}{}{La porte est verrouillée électroniquement.}
+{102}{}{La porte n'est pas verrouillée.}
+{103}{}{Tu réussis à contourner le verrou électronique.}
+{104}{}{Ta tentative de contourner le verrou électronique échoue.}

@@ -1,0 +1,2 @@
+{100}{}{Tu remarques des fruits de forme étrange dans le bocal.}
+{101}{}{Tu prends l'étrange fruit dans le bocal.}

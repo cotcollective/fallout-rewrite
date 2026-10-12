@@ -1,0 +1,9 @@
+{100}{}{Paladin}
+{101}{}{Bonjour, Initié.}
+{102}{}{Si tu as besoin de quoi que ce soit, va voir Vree.}
+{103}{}{Vree est juste là-bas si tu veux parler à quelqu'un.}
+{104}{}{Faut que je trouve le temps, entre les patrouilles et l'entraînement, de réviser mes leçons. Je crois que je rouille un peu.}
+{105}{}{Faut garder l'esprit et le corps au top en permanence, Initié.}
+{106}{}{Nous, les Scribes, on conçoit tout l'équipement, les armes et les fournitures. C'est passionnant.}
+{107}{}{Être Paladin, c'est pas que du combat, mon gars.}
+{108}{}{Être Paladin, c'est pas que du combat, ma belle.}

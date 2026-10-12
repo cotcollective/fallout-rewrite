@@ -1,0 +1,23 @@
+{100}{}{Tu vois : Peter, chef des éclaireurs Disciples.}
+{101}{}{Tu fais quoi dans le coin ? Tu vois pas qu'on est occupés ?}
+{102}{}{Hein ?}
+{103}{}{Pardon. Je m'en vais.}
+{104}{}{Je peux t'aider pour quelque chose ?}
+{105}{}{À qui je peux parler pour offrir mon aide.}
+{106}{}{Génial. Je suis occupé, et je me retrouve avec un crétin qui me colle. Va voir Jake si tu cherches quelqu'un à qui parler.}
+{107}{}{Bien sûr. Tu peux commencer par te pousser de mon chemin.}
+{108}{}{Certainement. Autre chose ?}
+{109}{}{Il doit bien y avoir autre chose que je peux faire.}
+{110}{}{Me mets pas de côté comme ça.}
+{111}{}{Ouais. Tu peux dégager d'ici.}
+{112}{}{Bon. On dirait que je me débarrasserai pas de toi autrement. On dirait qu'on a un problème de sécurité. Tu veux aider, trouve le problème.}
+{113}{}{OK. Ça marche.}
+{114}{}{Laisse tomber !}
+{115}{}{Bon. Dégage, alors !}
+{116}{}{Écoute, on a une brèche dans la sécurité. Faut trouver cette brèche et la colmater.}
+{117}{}{OK. Ça marche.}
+{118}{}{Laisse tomber !}
+{119}{}{J'ai l'air d'un guide ? Va parler à Jake si tu cherches un guide.}
+{120}{}{Pars. J'essaie de finir un peu de boulot.}
+{121}{}{Faut que cet espion dégage. Dépêche-toi !}
+{122}{}{Beau boulot pour Heather. J'aurais dû m'en douter, c'était elle. Elle disparaissait toujours pendant les raids. Tiens, prends ça et file.}

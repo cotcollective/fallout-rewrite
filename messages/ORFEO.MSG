@@ -1,0 +1,8 @@
+{100}{}{Tu vois : Orfeo, un Membre Senior des Enfants de la Cathédrale.}
+{101}{}{Ah. Un nouveau converti. Bienvenue.}
+{102}{}{Moi tuer !!!}
+{103}{}{Je suis pas un converti !}
+{104}{}{Merci, mon Frère.}
+{105}{}{Alors nous réglerons ce problème sous peu.}
+{106}{}{Nous devons d'abord te purifier des impuretés du désert. Viens.}
+{107}{}{Nous te purifierons !}

@@ -1,0 +1,50 @@
+{100}{}{Tu vois : Neal, le barman.}
+{101}{}{Tu vois un barman.}
+{102}{}{Il a l'air surmené.}
+{103}{}{Hé ! Tu crois pas t'en tirer comme ça, voleur !}
+{104}{}{On est fermés. Reviens vers quatre heures.}
+{105}{}{Zzzz}
+{106}{}{Bienvenue au Skum Pitt. Qu'est-ce que je te sers ?}
+{107}{}{Euh, je vais prendre un verre.}
+{108}{}{Je cherche des informations.}
+{109}{}{Je m'appelle }
+{110}{}{. C'est quoi, cet endroit ?}
+{111}{}{Gaa hnnngh !}
+{112}{}{Très bien. Tu veux quoi ?}
+{113}{}{Nuka-Cola, 3 capsules.}
+{114}{}{Bière, 5 capsules.}
+{115}{}{Le fort, 20 capsules.}
+{116}{}{Bon, tu veux savoir quoi ?}
+{117}{}{C'est quoi le topo sur cette ville ?}
+{118}{}{C'est qui, l'étranger à l'air dangereux dans le coin ?}
+{119}{}{C'est qui, ces crétins ?}
+{120}{}{[Neal te regarde d'un air perplexe un instant] T'as jamais vu un bar, l'étranger ? C'est chez moi, ici, le Skum Pitt. On y achète des verres. Et on me donne des pourboires.}
+{121}{}{Euh, ouais. Je savais. Alors, je peux avoir un verre ?}
+{122}{}{Ouais. Euh, je peux avoir d'autres informations ?}
+{123}{}{Oh. Merci.}
+{124}{}{Ouais. Pareillement, mon pote.}
+{125}{}{C'est quoi, ce trophée sur l'étagère ?}
+{126}{}{Eh bien, juste là à l'ouest, y a le casino de Gizmo. Ça m'étonnerait que tu connaisses pas ; la plupart des gens ici sont ceux qui viennent de perdre leur fric là-bas. Dans l'autre partie de la ville, t'as le magasin général de Killian, et la Crash House de Marcelles. Killian est un bon gars, il tient un commerce honnête, il a tout ce qu'il te faut. La Crash House, c'est où tu vas cuver quand t'es resté ici trop longtemps. [Neal ricane]}
+{127}{}{Merci. Je peux avoir un verre ?}
+{128}{}{Merci pour l'info. À plus tard.}
+{129}{}{Il s'appelle Tycho. Apparemment un Ranger venu de l'est ou un truc comme ça. Assez redoutable au combat, d'après ce qu'on dit, mais un mec droit.}
+{130}{}{Ça te dérange si je pose d'autres questions ?}
+{131}{}{Oh, eux. C'est les Skulz. Un gang local. Que de la racaille. Parfois ils cherchent la bagarre ou font des histoires. Mais d'habitude Killian les tient en respect.}
+{132}{}{Tiens. Régale-toi.}
+{133}{}{Hé ! Tu m'as volé mon urne !}
+{134}{}{C'est pas un trophée, c'est une urne. Elle contient les cendres de ma femme — après ce bar, c'est la chose la plus importante de ma vie.}
+{135}{}{Autre chose ?}
+{136}{}{Je cherche d'autres informations.}
+{137}{}{Non merci.}
+{138}{}{Oh.}
+{139}{}{Ouais, je vais prendre un verre.}
+{140}{}{Reviens quand t'auras du fric.}
+{141}{}{Ce sera quoi, l'ami ?}
+{142}{}{Qu'est-ce qu'il est devenu, le trophée que t'avais là-haut ?}
+{143}{}{Merci. Tu peux pas savoir ce que ça représente pour moi. Tu ne paieras plus jamais un verre dans ce bar.}
+{144}{}{J'ai récupéré ton urne.}
+{145}{}{Une raclure me l'a volée. C'était pas un trophée, c'était une urne. Elle contenait les cendres de ma femme — après ce bar, c'était la chose la plus importante de ma vie.}
+{146}{}{Dégagez d'ici, bande de petits cons ! Si l'un de vous la retouche, je vous tue tous !}
+{147}{}{Le jour où je pourrai plus gérer des petits merdeux comme vous, c'est le jour où je mourrai !}
+{148}{}{Tu fais quoi, bordel ? On est fermés. Dehors !}
+{149}{}{Sales gosses, je vais vous apprendre deux ou trois trucs !}

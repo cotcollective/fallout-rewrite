@@ -1,0 +1,31 @@
+{100}{}{Tu vois un technicien. Il travaille avec diligence pour l'Unité et le Maître.}
+{101}{}{Nous faisons l'œuvre du Maître.}
+{102}{}{Nous faisons l'œuvre du Maître, et on ne doit pas nous interrompre !}
+{103}{}{Maître ! Un intrus !}
+{200}{}{Tu vois : Viscious, un chef Super-mutant. Il a l'air méchant.}
+{201}{}{Tu vois un Super-mutant à l'air méchant.}
+{202}{}{La volonté du Maître prévaut. Quelles nouvelles m'apportes-tu ?}
+{203}{}{Hng !}
+{204}{}{Euh, la guerre se passe bien.}
+{205}{}{J'ai un message pour le Maître de la part de son Lieutenant. Je dois voir le Maître maintenant.}
+{206}{}{La seule nouvelle que j'ai, c'est que tu vas bientôt servir d'engrais.}
+{207}{}{Un intrus !}
+{208}{}{Tes manières te trahissent, intrus. Je vais mettre fin à la menace ici même.}
+{209}{}{Tu ne peux pas être sérieux. En fait, tu dois mentir.}
+{210}{}{Euh, ouais, et alors ?}
+{211}{}{Non. Le Lieutenant ne pouvait pas confier ce message à la méthode habituelle. Je dois voir le Maître tout de suite ! Il n'y a pas de temps à perdre !}
+{212}{}{Alors prends la porte, et méfie-toi du Couloir. J'imagine que ta protection est en place ?}
+{213}{}{Bien sûr. Merci. L'Unité prévaut.}
+{214}{}{Non, pas vraiment. Je devrais ?}
+{215}{}{Bien sûr ! Tu ne peux pas espérer traverser le Couloir sans elle. Qu'est-ce que t'as fait de ton annulateur !}
+{216}{}{Je l'ai laissé dans mes autres robes.}
+{217}{}{Le Lieutenant n'a pas eu le temps de m'en donner un.}
+{218}{}{Ah, de l'humour, j'aime ça. [pause] Je n'en ai pas, évidemment. Tu dois aller en chercher un auprès des vide-cerveaux du deuxième niveau. L'Unité prévaut.}
+{219}{}{Alors c'était un idiot, ou tu n'es pas qui tu prétends être. C'est quoi ?}
+{220}{}{Évidemment, c'est un idiot.}
+{221}{}{La deuxième option.}
+{222}{}{Va seul et poursuis ta mission. Je n'ai pas le temps pour toi.}
+{300}{}{Il y a un petit tas de mégots dans le coin de la pièce.}
+{301}{}{Le Super-mutant va d'un côté de la pièce et allume une cigarette.}
+{302}{}{Tu vois un Super-mutant avec une cigarette qui pend de sa bouche.}
+{303}{}{Le Super-mutant jette le mégot dans le coin.}

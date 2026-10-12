@@ -1,0 +1,7 @@
+{100}{}{Hé, tu devrais pas être ici, Initié.}
+{101}{}{Tu fais quoi ici ?}
+{102}{}{Ce sont les quartiers des Paladins, sors.}
+{103}{}{Sors, s'il te plaît, tu devrais pas être ici.}
+{104}{}{Hé, pas d'Initiés ici.}
+{105}{}{Y a pas d'entraînement la nuit.}
+{106}{}{Hé, ce sont pas les quartiers des Initiés.}

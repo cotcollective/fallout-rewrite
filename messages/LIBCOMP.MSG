@@ -1,0 +1,16 @@
+{100}{}{Cet ordinateur contient une grande quantité d'informations préservées d'avant la Grande Guerre.}
+{101}{}{Tu utilises le système d'enseignement de l'ordinateur de l'Abri.}
+{102}{}{Tu passes 1 heure sur le système d'enseignement de l'ordinateur de l'Abri mais tu n'apprends rien de nouveau d'important. Le monde extérieur est ton professeur maintenant.}
+{103}{}{Tu passes 6 heures à rechercher tout sujet qui semble important. Tu sens que tu as acquis des connaissances vitales qui t'aideront dans tes voyages hors de l'Abri.}
+{104}{}{Tu passes 6 heures sur les interwebs à ne rien faire d'important.}
+{105}{}{Tu trifouilles un peu l'ordinateur, mais il faut des compétences scientifiques pour en tirer quelque chose d'utile.}
+#
+# Fallout Fixt:
+#
+# A number is inserted between 106 and 107/108/109
+{106}{}{Tu passes }
+{107}{}{ heures sur le système d'enseignement de l'ordinateur de l'Abri mais tu n'apprends rien de nouveau d'important. Le monde extérieur est ton professeur maintenant.}
+{108}{}{ heures sur les interwebs à ne rien faire d'important. C'était marrant mais ça te laisse un vide à l'intérieur.}
+#
+# INT less than 4:
+{109}{}{ heures sur les interwebs à chercher de la pornographie et des vidéos de chats.}

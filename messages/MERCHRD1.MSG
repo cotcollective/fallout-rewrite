@@ -1,0 +1,45 @@
+{100}{}{Tu vois : Mephisto, un marchand en colère.}
+{101}{}{Tu vois un marchand nommé Harms.}
+{102}{}{Tu vois un marchand contrarié nommé Fowler.}
+{103}{}{Tu vois : Dixon, un marchand en colère.}
+{104}{}{Tu vois : Morgan, un marchand.}
+{105}{}{Tu vois : Marco, un marchand en colère.}
+{106}{}{Tu vois : Kjolnir, un marchand.}
+{107}{}{Tu vois : Marzen, un marchand.}
+{108}{}{Tu vois : Joshua, un marchand contrarié.}
+{109}{}{Tu vois : Anthony, un marchand.}
+{110}{}{Tu vois : Clark, un marchand.}
+{111}{}{Tu vois : Malantic, un marchand contrarié.}
+{112}{}{Tu vois : Orlando, un marchand.}
+{113}{}{Tu vois un marchand nommé Ilya.}
+{114}{}{Tu vois : Tracy, un marchand contrarié.}
+{115}{}{Tu as vu ce chaos ?}
+{116}{}{Fais la queue.}
+{117}{}{Tu n'es pas de cette maison.}
+{118}{}{Ta caravane a été retardée aussi ?}
+{119}{}{Bonne chance pour faire avancer quoi que ce soit.}
+{120}{}{T'as vu Hightower ?}
+{121}{}{À ta place, j'irais voir les Far Go Traders.}
+{122}{}{Tu cherches le maître marchand ? Elle est juste là.}
+{123}{}{Si ma cargaison part pas bientôt, ça va barder.}
+{124}{}{Martha est juste là.}
+{125}{}{T'es pas marchand, dégage.}
+{126}{}{Les quartiers des gardes sont de l'autre côté.}
+{127}{}{Je te donnerai pas d'argent, alors pars.}
+{128}{}{Ma cargaison partira jamais.}
+{129}{}{Ne songe même pas à empiéter sur mon territoire.}
+{130}{}{Pourquoi ma cargaison est pas encore partie ?}
+{131}{}{Où sont mes provisions ?}
+{132}{}{Tes prix sont nuls !}
+{133}{}{Où est Hightower ?}
+{134}{}{Je suis censé être prioritaire !}
+{135}{}{Ma cargaison a deux semaines de retard !}
+{136}{}{Je veux qu'on me rembourse !}
+{137}{}{Je veux parler à Hightower.}
+{138}{}{Je vais faire affaire avec la Caravane Cramoisie.}
+{139}{}{Qu'est-ce qui vous prend, à tous ?}
+{140}{}{J'en ai marre d'attendre !}
+{141}{}{J'en ai marre des excuses !}
+{142}{}{Ma cargaison est plus importante que la sienne !}
+{143}{}{Qu'est-ce que tu comprends pas ?}
+{144}{}{Fais-le ou j'irai voir ailleurs !}

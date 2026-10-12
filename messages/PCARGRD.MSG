@@ -1,0 +1,20 @@
+{100}{}{Tu vois un Paladin.}
+{101}{}{Psst, t'as vu des bonnes affaires ?}
+{102}{}{Désolé, je suis de service. Je peux pas parler.}
+{103}{}{Quelle belle journée. J'espère qu'on aura pas d'attaque aujourd'hui.}
+{104}{}{Bonjour.}
+{105}{}{Certains de ces marchands de caravanes sont un peu bizarres.}
+{106}{}{Salut, beau gosse.}
+{107}{}{Salutations, Initié.}
+{108}{}{Si t'as des questions sur notre ordre, va voir Cabbot, près de la porte.}
+{109}{}{C'est Cabbot qu'il faut voir, c'est le jeunot près de la porte.}
+{110}{}{Si t'es là pour commercer, tu parles à la mauvaise personne.}
+{111}{}{Quoi ?}
+{112}{}{Me dérange pas, vermine.}
+{113}{}{J'ai l'air intéressé par ce que tu pourrais m'offrir ?}
+{114}{}{Hmph. Quel culot.}
+{115}{}{Je suis de garde, me dérange pas.}
+{116}{}{Initié, tu devrais savoir qu'il faut pas nous déranger pendant la garde.}
+{117}{}{Initié, tu devrais pas plutôt faire quelque chose d'utile ?}
+{118}{}{Si t'as des questions sur notre ordre, va voir Cabbot, près de la porte.}
+{119}{}{Je crois pas que tu devrais être ici, étranger.}

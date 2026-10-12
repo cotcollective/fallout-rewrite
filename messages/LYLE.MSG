@@ -1,0 +1,15 @@
+{100}{}{Tu vois : Lyle.}
+{101}{}{Alors c'est toi le voleur d'eau ! Traître !}
+{102}{}{Je suis si content que cette épreuve soit finie. Merci.}
+{103}{}{Bonjour, }
+{104}{}{.}
+{105}{}{Bonjour, Lyle. Comment tu tiens le coup ?}
+{106}{}{On s'en sort bien ici. Mais j'espère que tu trouveras la Puce d'eau bientôt. Tout le monde est à cran et on n'a plus beaucoup de temps.}
+{107}{}{Wahnnnngh !}
+{108}{}{Pas très bien. Depuis qu'on m'a volé une de mes rations d'eau l'autre jour, ça va de mal en pis. Tout le monde a peur et personne sait quoi faire.}
+{109}{}{C'est dommage. J'espère que ça ira mieux.}
+{110}{}{Je vais jeter un œil et voir ce que je peux faire.}
+{111}{}{Ouais, j'espère aussi.}
+{112}{}{Merci. J'espère vraiment que tu pourras aller au fond de cette histoire. Et dépêche-toi de trouver une nouvelle Puce d'eau. Cette folie serait jamais arrivée si on avait une puce qui marche !}
+{113}{}{Merci d'avoir attrapé ce voleur. Tu fais du bon boulot. Mais dépêche-toi de trouver la puce, sinon ça servira à rien !}
+{114}{}{Comment t'as pu nous trahir comme ça ? Laisse-moi tranquille !}

@@ -1,0 +1,18 @@
+{100}{}{Tu vois un ordinateur de contrôle du traitement de l'eau. Il est tombé en panne à cause du retrait d'une pièce matérielle critique.}
+{101}{}{Ta fouille de l'ordinateur de contrôle du traitement de l'eau réussit. Tu trouves la Puce d'eau sans problème.}
+{102}{}{Tu fouilles l'ordinateur à eau. Ça prend un moment mais tu finis par découvrir la Puce d'eau.}
+{103}{}{L'ordinateur ne peut pas être réparé sans une puce d'eau fonctionnelle.}
+{104}{}{Tu retires facilement la Puce d'eau de l'ordinateur. Tu entends le débit d'eau vers la ville s'arrêter.}
+{105}{}{Tu te débats un moment avec l'ordinateur, mais tu n'arrives pas à retirer la puce. Après un instant, tu réalises que tu as oublié de retirer les boulons de verrouillage.}
+{106}{}{Tu n'as pas retiré la puce. Tu devrais réessayer, un peu plus soigneusement cette fois.}
+{107}{}{Tu es trop loin pour examiner soigneusement l'ordinateur à eau.}
+{108}{}{Tu ne réussis pas à réparer l'ordinateur.}
+{109}{}{Tu n'apprends rien de spécial sur l'ordinateur à eau.}
+{110}{}{Tu réinstalles la Puce d'eau dans l'ordinateur. L'ordinateur redémarre après un instant, et se remet à fonctionner normalement.}
+{111}{}{Cet objet ne peut pas être utilisé sur l'ordinateur.}
+{112}{}{Tu vois un ordinateur de contrôle du traitement de l'eau. Il fonctionne.}
+{113}{}{Tu gagnes }
+{114}{}{ points d'expérience pour avoir récupéré une Puce d'eau.}
+{115}{}{Tu examines l'ordinateur attentivement. Ton esprit analytique découvre deux ou trois méthodes qui faciliteront le retrait de la Puce d'eau.}
+{116}{}{Tu apprends qu'il n'y a aucun moyen de réparer l'ordinateur sans réinstaller la Puce d'eau.}
+{117}{}{Après avoir arrêté l'Ordinateur de Purification d'Eau, tu peux maintenant entendre la pompe à eau réparée fonctionner au loin, qui remonte l'eau de ce qui doit être un puits profond sous Nécropolis.}

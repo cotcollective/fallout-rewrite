@@ -1,0 +1,5 @@
+{100}{}{Oh non.}
+{101}{}{Tu as déclenché un fil laser, activant une sorte de mécanisme de défense. Tu prends 1 point de dégât.}
+{102}{}{Tu as déclenché un fil laser, activant une sorte de mécanisme de défense. Tu prends }
+{103}{}{ points de dégâts.}
+{104}{}{Tu as déclenché un fil laser, activant une sorte de mécanisme de défense.}

@@ -1,0 +1,47 @@
+{100}{}{Tu vois un homme mal en point.}
+{101}{}{Merci, l'étranger ! Je sais pas combien de semaines, peut-être des mois, que ces brutes me gardaient ici. Je te suis très reconnaissant, et la Confrérie de l'Acier aussi, j'en suis sûr.}
+{102}{}{La Confrérie de l'Acier ?}
+{103}{}{Eh bien, content d'avoir pu aider.}
+{104}{}{Ça va aller ?}
+{105}{}{Je suis de la Confrérie. Je te cherchais.}
+{106}{}{De rien. Salut.}
+{107}{}{Euh.}
+{108}{}{Tu nous connais pas ? Ça m'étonne. Tu dois pas sortir souvent du Hub. Tu devrais sortir plus. On est au nord-ouest d'ici, sur le versant ouest de la chaîne de montagnes.}
+{109}{}{J'apprécie vraiment ton aide, mais pourquoi tu essaies de me mentir ? Tu crois vraiment que je connais pas chaque membre de notre ordre ?}
+{110}{}{C'est Talus qui m'envoie.}
+{111}{}{Eh bien, tu me connais pas, parce que je viens d'arriver.}
+{112}{}{Tu sais manifestement pas de quoi tu parles.}
+{113}{}{Merci encore ! Si tu passes à la Confrérie, ça me ferait plaisir que tu dises à Talus que je vais bien. Je suis sûr qu'il s'inquiète. Salut, et prends soin de toi.}
+{114}{}{Oh, ça ira maintenant, merci. J'ai des amis ici chez qui je peux rester pendant que je reprends des forces. J'essaierai de faire savoir à la Confrérie que je suis sain et sauf, grâce à toi. Salut !}
+{115}{}{Comment... Oh, pardon. Tu as dû passer ce « test » inventé par les Aînés. J'avais complètement oublié. Eh bien, ma gratitude n'en est que plus profonde. Je suis content que tu n'aies jamais abandonné. Ma vie aurait pu être en danger à tout moment. Ça a dû te prendre un moment de me retrouver. Cette ville est immense. Les obstacles que tu as dû surmonter.}
+{116}{}{Eh bien, tu sais... Je suis juste trop fort.}
+{117}{}{En fait, c'était assez facile. Talus savait où tu étais allé.}
+{118}{}{Juste de la chance, j'imagine.}
+{119}{}{Eh bien, de rien. Content de t'avoir trouvé.}
+{120}{}{Oh... Eh bien, je suis quand même très reconnaissant.}
+{121}{}{J'imagine. C'était du beau boulot.}
+{122}{}{Eh bien, content d'avoir pu aider.}
+{123}{}{Ça va aller ?}
+{124}{}{Eh bien, merci encore. Je vais rester chez des amis à moi jusqu'à ce que je reprenne des forces. Au fait, fais gaffe dans le coin. J'ai entendu mes hôtes parler d'un Cercle des Voleurs. J'imagine qu'on est près de leur territoire ou un truc comme ça. Je crois que c'est pour ça qu'ils parlaient de déménager. Salut.}
+{125}{}{Eh bien, content que ta chance ait tenu. J'ai entendu de mauvaises choses sur la Vieille Ville. Les clodos sont flippants, je crois que c'est autre chose.}
+{126}{}{Peu importe ce que tu dis. Je suis juste reconnaissant d'être libre. Je supporte mal la torture.}
+{127}{}{Non, vraiment, c'est Talus qui m'envoie.}
+{128}{}{Eh bien, content d'avoir pu aider.}
+{129}{}{Ça va aller ?}
+{130}{}{Peut-être pas. J'ai du mal à me souvenir des choses. Je crois que c'est un truc qu'ils m'ont fait manger.}
+{131}{}{Non, vraiment, c'est Talus qui m'envoie.}
+{132}{}{Eh bien, content d'avoir pu aider.}
+{133}{}{Ça va aller ?}
+{134}{}{Salut, toi.}
+{135}{}{Je pars bientôt. Je reprends juste des forces.}
+{136}{}{Merci encore.}
+
+## Tell Me Abouts
+{1000}{}{Confrérie}
+{1001}{}{Acier}
+{1002}{}{Talus}
+
+## Answers
+{1100}{}{Le seul salut de cette planète torturée et de son peuple. Sans eux, l'humanité est condamnée à périr.}
+{1101}{}{Le seul salut de cette planète torturée et de son peuple. Sans eux, l'humanité est condamnée à périr.}
+{1102}{}{C'est mon mentor et un grand homme. J'ai hâte de le revoir.}

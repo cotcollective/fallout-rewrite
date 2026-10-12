@@ -1,0 +1,5 @@
+{100}{}{Cette personne a l'air d'avoir été de la Confrérie de l'Acier.}
+{101}{}{Tu te demandes pourquoi cette personne en armure est ici.}
+{102}{}{Cette personne semble avoir été tuée par de fortes doses de radiations.}
+{103}{}{Impossible de déterminer ce qui a causé la mort de cette personne.}
+{104}{}{Cette compétence ne révèle rien de plus sur cette personne.}

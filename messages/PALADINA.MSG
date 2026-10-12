@@ -1,0 +1,14 @@
+{100}{}{Paladin}
+{101}{}{Reste vigilant, Initié !}
+{102}{}{Pas mal. Continue comme ça.}
+{103}{}{Salut, Initié, tout est sécurisé.}
+{104}{}{Salut, Frère }
+{105}{}{.}
+{106}{}{Désolé, je devrais parler à personne. Tu sais ce que c'est.}
+{107}{}{Tu devrais parler à Talus ou à Maxson si tu as des questions.}
+{108}{}{Vree est à la bibliothèque le jour si tu as des questions techniques.}
+{109}{}{Rhombus est mon idole.}
+{110}{}{J'aimerais mieux être à l'entraînement en ce moment. Ce tour de garde est une perte de temps.}
+{111}{}{Vree est mon idole.}
+{112}{}{Marco !}
+{113}{}{Polo !}

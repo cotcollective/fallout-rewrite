@@ -1,0 +1,5 @@
+{100}{}{Le passage vers le nord est bloqué par des gravats et des débris. Tu vas devoir trouver un autre chemin.}
+{101}{}{Le passage vers le sud est bloqué par des gravats et des débris. Tu vas devoir trouver un autre chemin.}
+{102}{}{Le passage vers l'est est bloqué par des gravats et des débris. Tu vas devoir trouver un autre chemin.}
+{103}{}{Le passage vers l'ouest est bloqué par des gravats et des débris. Tu vas devoir trouver un autre chemin.}
+{104}{}{Le passage devant toi est bloqué par des gravats et des débris. Tu pourrais peut-être passer par en dessous.}

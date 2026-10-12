@@ -1,0 +1,27 @@
+{100}{}{Dégage d'ici !}
+{101}{}{J'ai entendu des mauvaises choses sur toi, c'est vrai ?}
+{102}{}{Salut.}
+{103}{}{C'est chez moi ici, tu veux rester un moment ?}
+{104}{}{Hmm, t'as l'air appétissant... }
+{105}{}{J'espère que tu vas pas me virer d'ici.}
+{106}{}{Non.}
+{107}{}{C'est une drôle de façon d'entamer une conversation.}
+{108}{}{Hnnn.}
+{109}{}{Oh, eh bien, si tu veux rester un moment, vas-y. Je crois qu'on est en sécurité ici.}
+{110}{}{Faut faire gaffe ces temps-ci. J'espère que ta vie est meilleure que la mienne.}
+{111}{}{C'est vrai. Après ce qui est arrivé à mes amis, je dois protéger mon territoire. J'espère juste que tu vas pas me tuer.}
+{112}{}{Non, je te ferai pas de mal. Enfin, pas trop.}
+{113}{}{Pourquoi tu dis ça ?}
+{114}{}{Gack !}
+{115}{}{Pour rien. Vraiment.}
+# Translation note:
+# Line 116 has one of lines 117-120 appended to it, depending upon circumstances.
+{116}{}{Ces « serviables » de guérisseurs voulaient la baraque de mon pote, alors ils l'ont prise. Je sais pas ce qui est arrivé à mes amis.}
+{117}{}{ Et Killian est trop occupé pour m'aider.}
+{118}{}{ Killian est trop occupé à nettoyer le bordel de Gizmo pour m'aider.}
+{119}{}{ Gizmo s'est foutu de moi quand je lui ai demandé de l'aide.}
+{120}{}{ Y a personne pour m'aider.}
+{121}{}{T'es en sécurité ?}
+{122}{}{C'est dommage.}
+{123}{}{J'espère, j'espère vraiment.}
+{124}{}{Laisse-moi tranquille, s'il te plaît !}

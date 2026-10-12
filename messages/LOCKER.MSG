@@ -1,0 +1,22 @@
+#
+#from GENLOCK.MSG
+#
+{100}{}{Le conteneur semble verrouillé.}
+{101}{}{Tu crochètes la serrure avec succès.}
+{102}{}{Cette serrure dépasse ta capacité à la crocheter.}
+{103}{}{Tu échoues à crocheter la serrure.}
+{104}{}{Le casier est déjà déverrouillé.}
+{105}{}{Tu casses tes crochets dans la serrure !}
+{106}{}{Tu crochètes la serrure avec dextérité.}
+#
+#from LOCKER.MSG
+#
+{107}{}{Le casier est verrouillé.}
+{108}{}{Tu as cassé tes crochets.}
+{109}{}{Tu déverrouilles le casier.}
+{110}{}{Tu échoues à déverrouiller le casier.}
+#
+# new for Fallout Fixt
+#
+{111}{}{L'explosion détruit complètement la serrure.}
+{112}{}{Le conteneur est détruit par l'explosion !}

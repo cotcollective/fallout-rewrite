@@ -1,0 +1,33 @@
+{100}{}{Tu vois un bandit du désert à l'air coriace. À voir comment les autres le regardent, il doit avoir une position d'importance ou d'autorité.}
+{101}{}{Salutations ! Je suis Petrox. Je suis un des chefs pillards de Garl. Qui es-tu ?}
+{102}{}{Je suis }
+{103}{}{. Qu'est-ce que tu fais comme pillard ?}
+{104}{}{Mon nom n'a pas d'importance pour l'instant. Tu peux me parler un peu de ton camp ?}
+{105}{}{Hroo ?}
+{106}{}{Comme pillard, je voyage dans plein de coins du désert. Pendant mes voyages, je ramène des fournitures pour le camp.}
+{107}{}{Autrement dit, tu voles les gens chez qui tu vas.}
+{108}{}{Hé, c'est vraiment sympa de ta part. Je suis sûr que Garl est fier de toi.}
+{109}{}{T'es allé où ?}
+{110}{}{Eh bien, c'est gentil de te croire assez important pour te passer de nom par ici. Mais je vais au moins te parler un peu de nous. On est les plus coriaces du désert. Personne peut nous tenir tête. Même pas ces mauviettes de Shady Sands ou de Junktown.}
+{111}{}{Et Shady Sands ?}
+{112}{}{C'est quoi, Junktown ?}
+{113}{}{Désolé, mais j'ai pas de temps à perdre avec les lents. Adieu.}
+{114}{}{On vole jamais. On prend juste le surplus des autres et on le redistribue entre nous.}
+{115}{}{Donc, en gros, tu le voles.}
+{116}{}{Ça a l'air d'une super idée.}
+{117}{}{J'ai été dans plein d'endroits du désert. Les plus proches où j'ai été, c'est Shady Sands et Junktown. Il s'y passe pas grand-chose, mais c'est toujours plein d'infos et de fournitures.}
+{118}{}{Parle-moi de Shady Sands.}
+{119}{}{Parle-moi de Junktown.}
+{120}{}{Tu commences à m'énerver. Je crois que je vais régler ce petit problème.}
+{121}{}{Shady Sands est une communauté fertile. Ils sont contents de, euh, partager leur abondance avec nous.}
+{122}{}{Qu'est-ce que tu peux me dire sur Junktown ?}
+{123}{}{Junktown est un peu au sud d'ici. Y a plein de belles femmes.}
+{124}{}{Junktown est un peu au sud d'ici. Y a plein de belles femmes. Dis... je peux te faire visiter un de ces jours, on pourrait apprendre à mieux se connaître... ça te dit ?}
+{125}{}{Non merci, une autre fois peut-être.}
+{126}{}{Bien sûr, peut-être plus tard.}
+{127}{}{Eh bien, peut-être plus tard.}
+{128}{}{Je t'ai dit tout ce que j'ai le droit de dire. Va-t'en.}
+#
+# Fallout Fixt:
+#
+{200}{}{Tu vois : Petrox, le chef récupérateur des Khans.}

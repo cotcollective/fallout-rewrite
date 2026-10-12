@@ -1,0 +1,26 @@
+{100}{}{Tu vois : le Dr Solone, médecin.}
+{101}{}{Tu vois : l'infirmière Marney.}
+{102}{}{Tu vois un médecin.}
+{103}{}{Tu vois une infirmière.}
+{104}{}{Bienvenue. Comment puis-je vous aider aujourd'hui ?}
+{105}{}{Hurrgh.}
+{106}{}{Je suis blessé. Tu peux me soigner ?}
+{107}{}{Tu peux m'apprendre la médecine ?}
+{108}{}{Oui, je vois que vous êtes blessé. Ça peut prendre un moment. Voulez-vous que j'essaie de soigner vos blessures ?}
+{109}{}{Mm-hm.}
+{110}{}{Mm-mm.}
+{111}{}{Oui, s'il te plaît.}
+{112}{}{Non, merci.}
+{113}{}{Voilà. Ça devrait aller. Fais plus attention, là-dehors.}
+{114}{}{Tu es doué. Tu peux m'apprendre les soins de traumatologie ?}
+{115}{}{D'accord. Merci.}
+{116}{}{Je peux t'apprendre deux ou trois trucs. Mais ça prendra plusieurs heures. Tu veux rester ?}
+{117}{}{Oui.}
+{118}{}{Désolé, trop occupé.}
+{119}{}{Tu es un très bon élève. J'espère que tu resteras de notre côté. Au revoir.}
+{120}{}{Comme tu veux. Bonne chance, là-dehors.}
+{121}{}{Je peux t'apprendre deux ou trois trucs, mais pas grand-chose. Ça prendra un moment. Tu veux rester ?}
+{122}{}{Oui.}
+{123}{}{Désolé, mais je n'ai pas de temps à perdre.}
+{124}{}{Tu es un excellent élève. Bonne chance.}
+{125}{}{Rien pour l'instant. Merci quand même.}

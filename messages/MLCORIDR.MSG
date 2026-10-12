@@ -1,0 +1,8 @@
+{100}{}{Les poils de ta nuque se hérissent. Tu sens quelque chose dans le couloir devant toi. La bile monte tandis que tu reconnais la masse de chair devant — des morceaux humains dans le mur lui-même. Le pire, c'est que ça bouge, ça t'appelle.}
+{101}{}{Ton nez se met à saigner. Tu entends des voix dans ta tête. Elles appellent ton nom. Les ténèbres voilent tes yeux un instant, mais tu te ressaisis.}
+{102}{}{Une voix t'appelle. Tu tournes la tête et tu vois l'image d'un ami oublié, manifestement mort. Les vers tombent de sa mâchoire pourrie tandis que ton mal de tête s'intensifie.}
+{103}{}{Il devient de plus en plus difficile d'avancer. Ton pied semble collé au sol. Tu baisses les yeux, et la chair du sol rampe le long de ta jambe. Des dents rongent tes genoux. Et ton mal de tête empire.}
+{104}{}{Quelque chose attire ton attention, un éclair de mouvement au plafond, puis une esquille d'os te transperce l'œil ! Avec elle viennent les pensées des morts et des torturés !}
+{105}{}{La douleur dans ta tête est insupportable. Tu sens les péchés des autres déferler sur ton âme. Et ça empire, tandis que tes propres péchés leur répondent. Comme des fous, ils se fraient un chemin dans ta psyché, et au passage déchirent ta personnalité en lambeaux.}
+{106}{}{Ta tête pulse des pensées intrusives des autres. La douleur grandit, grandit. Soudain, comme si elle n'avait jamais existé, la douleur disparaît. Tu tombes à genoux et tu pleures. Mais quelque chose ne va pas.}
+{107}{}{La douleur dans ta tête n'est plus aussi forte. Les effets de cet étrange couloir semblent moins puissants.}

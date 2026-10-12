@@ -1,0 +1,12 @@
+{100}{}{C'est une ogive nucléaire active.}
+{101}{}{Des câbles relient l'ordinateur d'accès à l'ogive derrière lui.}
+{102}{}{Tu as armé l'ogive. Un minuteur affichant "4:00" a commencé un compte à rebours.}
+{103}{}{Tu as désarmé l'ogive nucléaire.}
+{104}{}{BOOOOOOOOOM ! [Tu as fait exploser la bombe !]}
+{105}{}{Ça n'a pas l'air de marcher.}
+{106}{}{Le compte à rebours continue... tu devrais peut-être couper ce fil rouge.}
+{107}{}{Il faut peut-être aussi utiliser la clé.}
+{108}{}{C'est une ogive nucléaire. Elle est contrôlée par l'ordinateur relié par les câbles.}
+{109}{}{Il n'y a rien à réparer sur cette ogive nucléaire.}
+{110}{}{Il n'y a rien à crocheter sur cette ogive nucléaire.}
+{111}{}{C'est un très gros piège qu'on ne peut ni désarmer ni armer d'ici.}

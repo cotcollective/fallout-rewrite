@@ -1,0 +1,18 @@
+{100}{}{Tu vois la table de Craps à petites mises. Ça coûte 20 capsules pour jouer.}
+{101}{}{Tu as fait un 7. Tu gagnes !!}
+#TRANSLATION NOTE: "Snake Eyes" in English means each of the dice rolled a 1.
+{102}{}{Tu fais des yeux de serpent. Tu perds.}
+#TRANSLATION NOTE: Extra space at end of 103 is intentional, DO NOT remove it.
+{103}{}{Tu as fait }
+{104}{}{! Tu gagnes !!}
+#TRANSLATION NOTE: Extra space at end of 105 is intentional, DO NOT remove it.
+{105}{}{Tu as fait }
+{106}{}{. Tu perds.}
+#TRANSLATION NOTE: Extra space at end of 107 is intentional, DO NOT remove it.
+{107}{}{Tu as fait }
+#TRANSLATION NOTE: Extra space at beginning of 108 is intentional, DO NOT remove it.
+{108}{}{ avant de faire ton point. Tu perds.}
+{109}{}{Tu as fait ton point. Tu gagnes.}
+#TRANSLATION NOTE: Extra space at end of 110 is intentional, DO NOT remove it.
+{110}{}{Tu as fait }
+{111}{}{. C'est ton point. On relance.}

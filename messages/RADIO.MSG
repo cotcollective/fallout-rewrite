@@ -1,0 +1,47 @@
+{100}{}{Radio. Étonnamment, elle a l'air de fonctionner.}
+{101}{}{[Un crissement de parasites, puis tu entends une voix grave à la radio.] Commandement à patrouille, commandement à patrouille. Quel est votre statut ? Terminé.}
+{102}{}{Hiii !}
+
+##{103}{}{Uh, nothing is wrong here. We're fine, uh, how are you?}
+
+{103}{}{Euh, tout est sous contrôle, situation normale. Rien d'anormal ici. On a eu un léger... dysfonctionnement d'arme. Mais tout va parfaitement bien maintenant. On va tous bien, ici, maintenant. Et vous ?}
+{104}{}{Commandement, on est attaqués par un gros groupe d'humains armés. On demande une assistance immédiate. Terminé.}
+{105}{}{Au secours ! Attaquants inconnus ! Gros dégâts ! Coordonnées : 10... Argh !}
+{106}{}{Compris, patrouille. On envoie de l'aide tout de suite. Terminé.}
+{107}{}{Répétez ? C'est qui ? Quel est votre but ?}
+{108}{}{Mon but, c'est de la fermer.}
+{109}{}{Je suis, euh... Oh, laisse tomber. Je vais juste tous vous tuer de toute façon.}
+{110}{}{Ici, euh, Fred. Mon but, c'est la patrouille. Je crois que je suis un peu sonné après cette chute.}
+{111}{}{Compris, patrouille. Quelles sont vos coordonnées ?}
+{112}{}{224 par 104.}
+{113}{}{Quatre miles, sud-sud-ouest.}
+{114}{}{Secteur Gamma, en Omicron-Delta-Bêta.}
+{115}{}{Compris, patrouille. Commandement, terminé.}
+{116}{}{Compris, patrouille. On envoie des renforts.}
+{117}{}{Ah, ça explique tout. On envoie de l'aide tout de suite.}
+{118}{}{Reçu, patrouille. On envoie de l'aide ! Tenez bon !}
+{119}{}{Il n'y a que des parasites sur la radio.}
+{120}{}{Tu entends des bavardages sur la radio. Tu écoutes un moment, mais tu ne découvres rien d'important.}
+{121}{}{La radio a un voyant rouge qui clignote. Tu entends un sifflement aigu dans le haut-parleur.}
+{122}{}{On dirait de l'audio crypté.}
+{123}{}{Tu envoies le code de commande pour inverser les réglages du champ de force.}
+
+##{124}{}{There is only quiet static on the radio [channel].}
+
+{124}{}{Tu entends des bavardages sur la radio. Tu écoutes un moment, mais tu ne découvres rien d'important.}
+{125}{}{La radio ne fonctionne pas.}
+{126}{}{Cette radio est en parfait état. La source du problème doit être externe.}
+{127}{}{Il n'y a que le crissement de données cryptées sur la radio.}
+{128}{}{[Crissement-clic-pop] Ici le commandement, allez-y patrouille.}
+{129}{}{Ack !}
+{130}{}{Euh, désolé, Commandement. J'ai appuyé sur le bouton par erreur.}
+{131}{}{Des intrus dans la base ! Sonnez l'alerte !}
+{132}{}{Reçu, patrouille, commandement terminé.}
+{133}{}{[Tu règles la fréquence de la radio sur le canal de contrôle de sécurité] [Clic !] Entrez le numéro d'accès. [Clic !]}
+{134}{}{Hng !}
+{135}{}{Euh, 69.}
+{136}{}{5566534571.}
+{137}{}{Fin d'accès.}
+{138}{}{Fermeture automatique du canal de sécurité.}
+{139}{}{Tu gagnes 1500 points d'expérience pour avoir roulé les gardes mutants.}
+{140}{}{Tu gagnes 2000 points d'expérience pour t'être infiltré au cœur de la base militaire sans te faire prendre (pour l'instant...)}

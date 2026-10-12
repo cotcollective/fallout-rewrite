@@ -1,0 +1,19 @@
+{100}{}{La pompe à eau est réparée et fonctionne bien.}
+{101}{}{La pompe à eau ne fonctionne pas à cause d'une pompe à vide cassée.}
+{102}{}{La pompe à eau ne fonctionne pas.}
+{103}{}{Une pièce de machinerie.}
+{104}{}{Cette pompe à eau ne fonctionne pas à cause d'une pompe à vide cassée.}
+{105}{}{Il faudrait peut-être un nouveau fusible.}
+{106}{}{La pompe à eau ne fonctionne pas.}
+{107}{}{Tu ne peux pas réparer la pompe à eau sans une pompe à vide de rechange.}
+{108}{}{Tu ne réussis pas à réparer la pompe à eau. Il faudrait peut-être un nouveau fusible.}
+{109}{}{Tu ne réussis pas à réparer la pompe à eau.}
+{110}{}{Cette pompe à eau ne fonctionne pas à cause d'une pompe à vide cassée.}
+{111}{}{Cette pompe à eau aurait peut-être besoin d'un nouveau fusible.}
+{112}{}{La pompe à eau ne fonctionne pas.}
+{113}{}{Tu ne remarques rien d'inhabituel.}
+{114}{}{L'énorme pompe reprend vie péniblement après que tu as installé les pièces manquantes.}
+{115}{}{Tu réussis à détruire les pièces en te coupant la main pour 1 point de dégât.}
+{116}{}{Tu as du mal à faire fonctionner ces pièces.}
+{117}{}{Cet objet ne peut pas être utilisé sur la pompe.}
+{118}{}{Tu gagnes 1000 points d'expérience pour avoir réparé la pompe à eau. Les goules te seront reconnaissantes !}

@@ -1,0 +1,36 @@
+{100}{}{Tu vois : Mathia.}
+{101}{}{Bonjour, Initié. Alors, c'est toi qui es sorti vivant de l'Ordre Ancien.}
+{102}{}{Hein ?}
+{103}{}{Et tu es qui, toi ?}
+{104}{}{Désolé, je t'ai pris pour quelqu'un d'autre. Salut.}
+{105}{}{Je m'appelle Mathia. Je suis officiellement l'assistante de Maxson, mais je suis aussi là pour m'assurer que personne ne cherche des noises au vieux.}
+{106}{}{Le vieux ? C'est un peu irrespectueux, non ?}
+{107}{}{Tu fais quoi, comme assistante de Maxson ?}
+{108}{}{Enchanté. Salut.}
+{109}{}{Non, non, pas du tout. C'est un chic type. [en riant] En plus, je ne dirais pas de mal de lui alors qu'il est juste à côté.}
+{110}{}{Alors, tu fais quoi pour Maxson, comme assistante ?}
+{111}{}{Au revoir.}
+{112}{}{Je m'occupe de toute la paperasse. Il serait incapable de remplir un formulaire pour sauver sa vie. Et s'il valide une amélioration d'arme pour un des Frères, c'est moi qui traite la commande.}
+{113}{}{OK, merci pour l'info.}
+{114}{}{J'arrive pas à croire qu'un idiot comme toi ait fait tourner l'Ordre Ancien. Va comprendre.}
+{115}{}{Salut, Initié. Comment je peux t'aider ?}
+{116}{}{Hein ?}
+{117}{}{Désolé, j'ai oublié ton nom.}
+{118}{}{Désolé, je t'ai pris pour quelqu'un d'autre. Bonne journée.}
+{119}{}{Très bien, on y va. [Elle t'attrape par le bras]}
+{120}{}{Mm-hm.}
+{121}{}{Mm-mm.}
+{122}{}{D'accord, d'accord. Je bouge.}
+{123}{}{Lâche-moi. Je vais nulle part.}
+{124}{}{OK. Maxson a validé une amélioration d'arme pour toi. Tu veux quoi ?}
+{125}{}{Hein ?}
+{126}{}{Fusil de précision.}
+{127}{}{Lance-roquettes.}
+{128}{}{Pistolet laser.}
+{129}{}{Poing assisté.}
+{130}{}{Éventreur.}
+{131}{}{Tiens. Content que tu sois des nôtres, Initié.}
+{132}{}{Les Aînés ont convoqué une réunion. Ils veulent te voir dans la salle de conférence tout de suite.}
+{133}{}{Elle est où, la salle de conférence ?}
+{134}{}{OK, merci.}
+{135}{}{À cet étage. Au coin nord-est, juste derrière la salle d'assemblée.}

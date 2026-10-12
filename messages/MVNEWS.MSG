@@ -1,0 +1,2 @@
+{100}{}{Le gros titre du journal dit : "La vie quotidienne au Village".}
+{101}{}{Le distributeur de journaux est inexplicablement coincé. C'est très frustrant.}

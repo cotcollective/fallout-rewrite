@@ -1,0 +1,1 @@
+{100}{}{Ceci est la bibliothèque de l'Abri. Des machines d'apprentissage sont connectées au noyau central. Elles enseignent aux habitants connaissances et compétences.}

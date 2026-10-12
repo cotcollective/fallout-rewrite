@@ -1,0 +1,46 @@
+{100}{}{Tu vois un homme fort et trapu avec une barbe broussailleuse.}
+{101}{}{Tu vois : MacRae.}
+{102}{}{Bonjour mon gars, qu'est-ce que tu cherches aujourd'hui ?}
+{103}{}{Bonjour ma fille, qu'est-ce que tu cherches aujourd'hui ?}
+{104}{}{Aïe, quoi d'autre tu voudrais savoir ?}
+{105}{}{T'es qui ?}
+{106}{}{Qu'est-ce que tu peux me dire sur les Lames ?}
+{107}{}{Rien, merci.}
+{108}{}{Eh bien, je suis MacRae. J'aide un peu les Lames contre les Écorcheurs et cette bande de Régulateurs. Je leur apprends un peu à se protéger contre ces saletés.}
+{109}{}{Tu leur apprends quoi comme trucs ?}
+{110}{}{T'as vu les Écorcheurs ?}
+{111}{}{C'est quoi l'histoire avec les Régulateurs}
+{112}{}{Je peux te demander autre chose ?}
+{113}{}{Eh bien ma spécialité c'est de me battre avec mes poings, et d'encaisser un ou deux coups de plus que le gars qui me les envoie.}
+{114}{}{Ça a l'air d'une idée stupide, je préfère utiliser un flingue.}
+{115}{}{Tu crois que tu pourrais m'apprendre un truc ?}
+{116}{}{Je peux te demander autre chose ?}
+{117}{}{Eh bien si c'est comme ça que tu le sens, tu peux faire demi-tour et t'en aller.}
+{118}{}{T'as l'air d'un gars correct, mais mon temps est pris à entraîner les Lames. Si les choses s'arrangeaient, j'aurais peut-être le temps alors.}
+{119}{}{D'accord, je peux te demander autre chose ?}
+{120}{}{Merci pour l'info.}
+{121}{}{Je les ai vus, ouais. J'ai couru comme un enfer. Si tu les cherches, tu les trouveras par là. [MacRae pointe vers l'est]}
+{122}{}{Je pensais que les Écorcheurs étaient le fruit d'un acte contre nature, mais ces Régulateurs sont maléfiques. Ils viennent une fois par mois environ, montrent leurs sales gueules et arrachent un père à ses petits.}
+{123}{}{Y a quelque chose que je pourrais faire pour aider ?}
+{124}{}{Ça a l'air grave, je peux te poser une autre question ?}
+{125}{}{Merci pour l'info.}
+{126}{}{Tu devrais parler à Razor. Une brave fille s'il en fut.}
+{127}{}{Les Lames sont un bon groupe de gens. Coincés ici entre ces satanés Régulateurs et les Écorcheurs, c'est pas la vie la plus heureuse, mais ils survivent.}
+{128}{}{[MacRae te tape dans le dos] Grâce à toi, les Lames vont vivre une meilleure vie. Alors, qu'est-ce qu'un vieil Écossais peut faire pour toi ?}
+{129}{}{T'avais dit plus tôt que si t'avais du temps libre, tu pourrais m'apprendre deux ou trois trucs.}
+{130}{}{Tu fais quoi ces temps-ci ?}
+{131}{}{Tu fais quoi par ici ?}
+{132}{}{Pas de problème.}
+{133}{}{Eh bien ça a été un peu calme depuis que les Lames ont aidé Adytum contre les Régulateurs. Mes services d'enseignement ont pas été très demandés.}
+{134}{}{Tu enseignes quoi ?}
+{135}{}{Désolé d'entendre ça, j'espère que ça va devenir plus intéressant ?}
+{136}{}{Tu pourrais m'apprendre ?}
+{137}{}{Ça a l'air intéressant, mais faut que j'y aille.}
+{138}{}{Eh bien je suppose que j'ai le temps. Autant commencer tout de suite. [MacRae commence à te montrer des positions de combat, et des façons d'encaisser les coups comme un vrai Écossais.]}
+{139}{}{T'apprends vite. J'espère que ça t'aidera dans tes voyages.}
+{140}{}{Eh bien avant j'aidais les Lames en leur apprenant deux ou trois trucs pour se protéger contre les Écorcheurs et les Régulateurs. Maintenant que tu t'es occupé de tout ça, c'est un peu ennuyeux ces temps-ci.}
+{141}{}{Content de te voir.}
+#
+##Sduibek, Fallout Fixt:
+#
+{200}{}{Tu gagnes 250 points d'expérience pour avoir appris à te battre comme un Écossais.}

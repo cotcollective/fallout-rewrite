@@ -1,0 +1,9 @@
+{100}{}{Tu vois un disque avec d'étranges marques dessus, et des taches qui ressemblent à du sang.}
+{101}{}{Le Pip-Boy 2000 affiche : "Téléchargement ... Abandon, données déjà existantes !"}
+{102}{}{Le Pip-Boy 2000 affiche : "Téléchargement des données ... ... ... Terminé. Bonne journée !"}
+{103}{}{Cet holodisque semble avoir servi à enregistrer des données audio d'un relais radio militaire.}
+#
+# for Fallout Fixt:
+#
+{104}{}{Tu vois : Disque de Transmissions Radio Super-mutantes.}
+{105}{}{Il porte d'étranges marques, et des taches qui ressemblent à du sang.}

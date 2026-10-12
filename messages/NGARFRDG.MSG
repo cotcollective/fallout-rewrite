@@ -1,0 +1,5 @@
+{100}{}{Le frigo est verrouillé.}
+{101}{}{Le frigo est déjà déverrouillé.}
+{102}{}{Tu déverrouilles le frigo.}
+{103}{}{T'as pas encore réussi à crocheter cette serrure.}
+{104}{}{Quelqu'un a laissé le frigo ouvert !}

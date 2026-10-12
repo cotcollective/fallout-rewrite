@@ -1,0 +1,35 @@
+{100}{}{Tu vois un Chevalier.}
+{101}{}{Bonjour Initié. Je suis Larry, comment puis-je t'aider ?}
+{102}{}{Vree a dit que tu pourrais me montrer un pistolet laser ?}
+{103}{}{Vree a dit que tu pourrais me donner un pistolet laser.}
+{104}{}{Beurk.}
+{105}{}{Euh, d'accord...}
+{106}{}{Euh, ouais. Ces trucs sont géniaux. Sa portée c'est... eh bien, aussi loin que tu peux voir. [Larry continue à parler pendant ce qui semble être des heures, mais tu retiens deux ou trois trucs sur l'utilisation des armes à énergie.]}
+{107}{}{Hein ? Mais elle sait que c'est pas encore prêt... Oh, elle voulait dire montrer. Ouais, je peux te montrer. Tu vois ça marche avec des cellules d'énergie qui sont fabriquées à partir de... [Larry continue pendant ce qui semble être des heures mais tu retiens deux ou trois trucs sur les armes à énergie.]}
+{108}{}{Bien sûr qu'elle l'a dit. Je crois que tu devrais partir, étranger.}
+{109}{}{J'aime pas les menteurs, pars s'il te plaît.}
+{200}{}{C'est pas bon du tout.}
+{201}{}{Voilà.}
+{202}{}{Le mécanisme de tir continue à s'enrayer.}
+{203}{}{C'est bien mieux.}
+{204}{}{J'y suis presque.}
+{205}{}{Ça va prendre un moment.}
+{206}{}{C'est ça le problème !}
+{207}{}{John, je crois que j'ai isolé le problème.}
+{208}{}{Merde !}
+{209}{}{Zut !}
+{210}{}{Ma faute !}
+{211}{}{Ça va.}
+{212}{}{OK, ça a fait mal.}
+{213}{}{C'était voulu.}
+{214}{}{Pourquoi ça n'arrête pas d'arriver ?}
+{215}{}{Mes yeux !}
+{216}{}{T'es pas un Chevalier.}
+{217}{}{J'ai besoin de parler à un Chevalier.}
+{218}{}{Je comprends pas, les cellules d'énergie n'arrêtent pas de griller.}
+{219}{}{Tu devrais reculer, ça peut être dangereux.}
+{220}{}{Me distrais pas s'il te plaît.}
+{221}{}{Regarde où tu mets les pieds.}
+{222}{}{T'es perdu ?}
+{223}{}{Désolé, je peux pas parler en ce moment.}
+{300}{}{Armes à énergie augmente de 5%.}

@@ -1,0 +1,20 @@
+{100}{}{Tu vois Phrax des Cryptes.}
+{101}{}{Ce frigo est pas ta propriété. Je te suggère fortement de pas y toucher.}
+{102}{}{Pourquoi pas ?}
+{103}{}{Tu vas me forcer ?}
+{104}{}{Non, je vais chercher mes camarades Cryptes et on va te faire connaître la douleur.}
+{105}{}{Oh.}
+{106}{}{Il appartient aux Cryptes. Il est pas à toi.}
+{107}{}{Je veux juste un verre.}
+{108}{}{Oh, OK.}
+{109}{}{Y a pas de verres dans ce frigo. Reste loin.}
+{110}{}{Tu devrais pas tripoter ce qui est pas à toi. Et ça, c'est définitivement pas à toi. Mauvais plan.}
+{111}{}{Tu peux être une Crypte, mais cette pièce est pas pour toi. Touche à rien.}
+{112}{}{T'es venu au mauvais endroit au mauvais moment.}
+{113}{}{Cette pièce est pas pour toi. Touche à rien, ou tu auras affaire à moi.}
+{114}{}{[Terminé]}
+{115}{}{[Suite]}
+{116}{}{Phil a plus de courage que n'importe quel Fou !}
+{117}{}{SINGES VIOLETS !}
+{118}{}{Les brahmines ont plus de jugeote qu'un Fou.}
+{119}{}{Les Fous sont tellement faibles que même Lex peut tous les battre.}

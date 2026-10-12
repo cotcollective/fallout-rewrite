@@ -1,0 +1,34 @@
+{100}{}{Tu vois un prisonnier sale et crasseux.}
+{101}{}{Un prisonnier de la deuxième cellule n'est pas comme les autres. Il se tient droit et te regarde droit dans les yeux.}
+{102}{}{Le prisonnier fixe le mur d'un regard vide.}
+{103}{}{Le prisonnier ignore tes tentatives de lui parler.}
+{104}{}{Il te regarde d'un air affolé un instant, puis se détourne.}
+{105}{}{Elle te regarde un instant, puis bave.}
+{106}{}{Tu n'obtiens aucune réponse.}
+{107}{}{On est libres ! On est libres !}
+{108}{}{Ton espèce est répugnante. Ne me parle pas.}
+{109}{}{Quib !}
+{110}{}{Tu n'as pas le droit de me parler comme ça.}
+{111}{}{Tu comprends pas. Je suis là pour vous libérer.}
+{112}{}{Ne te moque pas de moi.}
+{113}{}{Je n'ai aucun droit, et je m'en fiche. Va-t'en, et laisse-nous tranquilles.}
+{114}{}{Je refuse de te donner la moindre information. Laisse-moi tranquille.}
+{115}{}{Hng !!}
+{116}{}{Je suis vraiment là pour vous libérer. Je suis un humain normal.}
+{117}{}{Si c'est comme ça que tu le veux. Bien sûr. Au revoir.}
+{118}{}{Tu te souviens pas que tu as essayé ce tour la semaine dernière ? Ça n'a pas marché à l'époque, et ça marchera pas maintenant.}
+{119}{}{Quoi ? Pas de capuche derrière laquelle te cacher ? Ta nature traîtresse est évidente.}
+{120}{}{Je suis là pour vous libérer.}
+{121}{}{Au revoir, alors.}
+{122}{}{Tu es cruel. Laisse-nous tranquilles.}
+{123}{}{Je ne vendrai pas les miens. On ne peut pas forcer un homme à se trahir, on peut seulement forcer un homme à cesser de vivre.}
+{124}{}{Tu comprends vraiment rien. Je suis un être humain, venu vous secourir.}
+{125}{}{J'ai même pas besoin de te forcer à pourrir en enfer. Tu t'en charges très bien tout seul.}
+{126}{}{Tu te moques encore de moi.}
+{127}{}{De la bouche d'un homme sortent les paroles du serpent.}
+{128}{}{Ouais, j'aurais pu deviner. Va-t'en, et laisse-nous tranquilles.}
+{200}{}{Le prisonnier a l'air sale et fatigué. Un collier autour de son cou est brillant et neuf.}
+{201}{}{Le prisonnier te regarde d'un air vide. Tu remarques un collier autour de son cou.}
+{300}{}{Un panneau sur le mur indique : 'Entrée interdite. Zone sécurisée. Gardiens des prisonniers uniquement !'}
+{301}{}{Tu gagnes }
+{302}{}{ points d'expérience pour avoir délivré les prisonniers de leur misère.}

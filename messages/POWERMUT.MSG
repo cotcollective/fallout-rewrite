@@ -1,0 +1,2 @@
+{100}{}{Personne va dans pièce.}
+{101}{}{Tu vois un mutant avec un crâne phénoménalement petit.}

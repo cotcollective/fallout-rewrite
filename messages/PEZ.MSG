@@ -1,0 +1,28 @@
+{100}{}{Tu vois un paysan.}
+{101}{}{Merci d'avoir viré les gangs, mais sans le générateur, on va avoir une vie pire.}
+{102}{}{J'ai froid.}
+{103}{}{Je veux de la lumière.}
+{104}{}{On devrait te remercier, je crois.}
+{105}{}{Si tu tues pas tous les gangs, ils vont se venger sur nous !}
+{106}{}{C'est toi qui as commencé ce bain de sang, c'est toi qui le finis.}
+{107}{}{J'aiderais bien, mais j'ai un mauvais genou.}
+{108}{}{C'est de ta faute, tout ça.}
+{109}{}{La violence n'arrête rien.}
+{110}{}{Je te prenais pour un bon gars.}
+{111}{}{Encore une Crypte. J'imagine que tu vas me faire mal, maintenant.}
+{112}{}{Je ferai pas d'histoires.}
+{113}{}{Laisse-moi tranquille, s'il te plaît.}
+{114}{}{J'ai entendu dire que t'as rejoint les Fous.}
+{115}{}{C'est un Fou ! Oups, je voulais pas dire ça comme ça.}
+{116}{}{Je ferai pas d'histoires.}
+{117}{}{Laisse-moi tranquille, s'il te plaît.}
+{118}{}{Je promets de rire à tes blagues.}
+{119}{}{J'ai faim.}
+{120}{}{Où sont passés tous les gens bien ?}
+{121}{}{Phil a toujours des problèmes avec ce chien ?}
+{122}{}{Scrapheap va s'envoler dans le vent du désert si les gangs s'en mêlent.}
+{123}{}{Il fait froid la nuit sans les chauffages.}
+{124}{}{Ces brahmines puent vraiment l'été.}
+{125}{}{Électricité, électricité.}
+{126}{}{Salut.}
+{127}{}{[Terminé]}

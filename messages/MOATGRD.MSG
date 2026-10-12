@@ -1,0 +1,20 @@
+{100}{}{Tu vois un garde.}
+{101}{}{C'est pour quoi, ta visite ?}
+{102}{}{Urr ?}
+{103}{}{Je regarde juste.}
+{104}{}{Je veux acheter des armes.}
+{105}{}{}
+{106}{}{}
+{107}{}{J'ai pas de patience pour les blagues. Si tu quittes pas cette zone tout de suite, je te tire dessus !}
+{108}{}{On n'aime pas les curieux. Pars maintenant et je te tirerai pas dessus.}
+{109}{}{}
+{110}{}{}
+{111}{}{Tu sens le brahmine mais je parie que t'es pas aussi intelligent.}
+{112}{}{}
+{113}{}{Ahh, très bien. Les clients sont toujours les bienvenus. Entre mais garde tes armes au fourreau. Va voir Zack, il peut te fournir tout ce qu'il te faut.}
+{114}{}{}
+{115}{}{Je dois parler à ton chef. C'est très important.}
+{116}{}{Oh, d'accord. Gabriel te parlera. Entre.}
+{117}{}{Ouais, je me souviens de toi. Entre.}
+{118}{}{Je dois parler à Gabriel. C'est très important.}
+{119}{}{Je veux acheter des armes à Zack.}

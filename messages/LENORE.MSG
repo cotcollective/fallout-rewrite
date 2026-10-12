@@ -1,0 +1,9 @@
+{100}{}{Tu vois une paysanne.}
+{101}{}{Oh ouais, le grand costaud qui fuit devant un chien effrayant. Phil, tu lui as bien montré. Ouais, tu lui as bien montré.}
+{102}{}{Tu fais quoi, Phil ? Tu vérifies l'usure de tes baskets, hein ?}
+{103}{}{Hé, ce chien a l'air affamé. Il veut vraiment te manger tout cru, Phil.}
+{104}{}{Ce serait peut-être un peu excessif pour un pauvre animal sans défense, tu crois pas ?}
+{105}{}{C'est vraiment un beau toutou que t'as là.}
+{106}{}{Je suis sûre que Phil apprécierait que tu te débarrasses de son chien.}
+{107}{}{Merci de t'être occupé de ce chien.}
+{108}{}{Tu vois : Lenore.}

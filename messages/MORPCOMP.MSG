@@ -1,0 +1,8 @@
+{100}{}{Devant toi se trouve un Ordinateur Mach IV.}
+{101}{}{On dirait que le système est en cours de redémarrage.}
+{102}{}{Le système semble s'être bloqué.}
+{103}{}{Le moniteur scintille.}
+{104}{}{L'écran affiche d'étranges motifs de couleurs.}
+{105}{}{L'écran de l'ordinateur affiche de petites bombes vertes qui tombent sans fin vers le sol.}
+{106}{}{Tu ne peux pas pirater le mot de passe de l'écran.}
+{107}{}{Tu accèdes à des notes électroniques. La plus intéressante est une demande du Lieutenant pour « ...plus de sujets humains à tremper. Envoyez-les immédiatement à la Base militaire. »}

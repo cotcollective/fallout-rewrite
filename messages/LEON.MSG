@@ -1,0 +1,5 @@
+{100}{}{Tu vois : Leone.}
+{101}{}{Si tu veux de la compagnie, loue une prostituée. Je suis occupé.}
+{102}{}{Pas avant que le patron le dise. Ignore-le et il s'en ira.}
+{103}{}{Pas avant que le patron le dise. Ignore-la et elle s'en ira.}
+{105}{}{Laisse-moi tranquille. Tout le monde peut casser un genou ou briser des doigts. Ça n'a plus le choc d'avant.}
