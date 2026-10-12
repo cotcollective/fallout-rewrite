@@ -1,0 +1,89 @@
+{100}{}{Tu vois : Saul, le boxeur.}
+{101}{}{Tu vois un homme musclé à l'air coriace.}
+{102}{}{Il a des muscles durcis par des années de combat, et une posture légère caractéristique d'un boxeur habile.}
+{103}{}{Oh. Eh bien, bonne chance.}
+{104}{}{C'est ni le moment ni l'endroit pour les armes, l'ami. Mais si tu veux m'essayer un jour sur le ring, n'hésite pas.}
+{105}{}{Qu'est-ce que tu veux ?}
+{106}{}{Oui ?}
+{107}{}{Tu fais quoi ici ?}
+{108}{}{Un dur, hein ? Je parie que je pourrais te prendre.}
+{109}{}{Je m'appelle }
+{110}{}{. Je regarde juste autour.}
+{111}{}{[Saul rit de bon cœur.] Quoi, je suis boxeur !}
+{112}{}{Ah, je pourrais te botter le cul.}
+{113}{}{Hmm. C'est quoi l'affaire ?}
+{114}{}{Euh, non merci.}
+{115}{}{Saul est inconscient.}
+{116}{}{}
+{117}{}{}
+{118}{}{}
+{119}{}{}
+{120}{}{}
+{121}{}{}
+{122}{}{}
+{123}{}{}
+{124}{}{ [Saul rit de bon cœur.]}
+{125}{}{ [Saul rit d'un air menaçant.]}
+{126}{}{D'accord. Ça devrait être rapide.}
+{127}{}{Prouve-le ou tais-toi.}
+{128}{}{Eh bien, t'es au bon endroit si tu cherches quelqu'un pour remodeler ta vilaine tronche.}
+{129}{}{Je suis Saul.}
+{130}{}{Euh, non merci. Je peux te poser quelques questions ?}
+{131}{}{Alors, tu vis à Junktown depuis longtemps ?}
+{132}{}{Eh bien, enchanté. À plus.}
+{133}{}{Oui.}
+{134}{}{J'ai toujours été ici. J'ai grandi ici.}
+{135}{}{Qu'est-ce que tu peux me dire sur Junktown ?}
+{136}{}{Comment t'es devenu boxeur ?}
+{137}{}{Hmm. Eh bien, l'étranger, je travaille pour Gizmo. C'est le propriétaire de ce grand casino là-bas. Il paie bien les combattants ici, aussi ! Qu'est-ce que tu veux savoir d'autre ?}
+{138}{}{Y a quoi à faire ici ?}
+{139}{}{Tu peux me parler un peu de Gizmo et de ce casino ?}
+{140}{}{Je boxe depuis quelques années.}
+{141}{}{Je me battais tout le temps avec mes frères en grandissant. Une fois une petite bande de pillards a attaqué Junktown, et j'en ai soumis un avant qu'il puisse sortir son flingue. Juste de la chance, vraiment, mais Gizmo sponsorisait des combats organisés, et j'avais besoin d'argent. Je boxe depuis.}
+{142}{}{Qu'est-il arrivé à tes frères ?}
+{143}{}{Alors y a quoi à faire dans cette ville ?}
+{144}{}{Tu peux me parler de ton patron ?}
+{145}{}{Si tu cherches juste des provisions, tu devrais essayer le magasin de Killian Darkwater, au sud-est d'ici. Tu peux aussi dormir au Crash House près d'ici. Si tu comptes rester un moment, tu pourrais aller boire un verre au Skum Pitt, mais méfie-toi des Skulz.}
+{146}{}{C'est qui les Skulz ?}
+{147}{}{Alors, parle-moi un peu plus du casino.}
+{148}{}{Le casino de Gizmo, c'est là que tout le monde va jouer. Y a plein de jeux et tu peux passer un super moment ! C'est le meilleur endroit de ce côté du Hub !}
+{149}{}{Y a quoi d'autre à faire dans le coin ?}
+{150}{}{Mon frère James a été tué dans une attaque de pillards il y a quelques années. Peu après, mon autre frère, Darrell, a rassemblé quelques affaires et est parti vers le sud en direction d'un endroit mythique appelé la Lueur, à la recherche du trésor des anciens, ou un truc comme ça. Il n'est jamais revenu.}
+{151}{}{Pourquoi tu restes à Junktown ?}
+{152}{}{Euh, on peut changer de sujet ?}
+{153}{}{Je suis désolé d'apprendre ta perte.}
+{154}{}{Qu'est-ce que tu sais sur cet endroit légendaire, la Lueur ?}
+{155}{}{Merci. Ça fait quelques années, mais j'aime toujours pas trop en parler.}
+{156}{}{Alors, je peux te poser quelques questions ?}
+{157}{}{Je vis ici. J'aime la boxe, j'ai une belle vie avec Trish, et j'ai aucune envie d'aller ailleurs.}
+{158}{}{Oh. Eh bien, c'est bien. Ça te dérange si on change de sujet ?}
+{159}{}{Oui, j'ai rencontré Trish.}
+{160}{}{Eh bien, quoi ?}
+{161}{}{Qu'est-ce que je peux faire pour toi ?}
+{162}{}{Y a quoi à faire ici ?}
+{163}{}{Tu peux me parler un peu de ton patron ?}
+{164}{}{[Tu tapotes ton arme] J'aimerais te présenter ma petite amie.}
+{165}{}{Merci pour la causette. On se revoit.}
+{166}{}{Les Skulz sont une mauvaise bande qui traîne au fond du Crash House et au Skum Pitt. Méfie-toi d'eux ; ils aiment jouer avec les couteaux.}
+{167}{}{Merci pour le tuyau. Je ferai attention où je mets les pieds.}
+{168}{}{Je vois. Tu peux me dire autre chose ?}
+{169}{}{Eh bien, fais gaffe à garder tes mains pour toi, hein ?}
+{170}{}{Elle est très importante pour moi.}
+{171}{}{ [Saul fronce les sourcils.] Mais elle aime pas ma boxe. Elle semble pas comprendre que c'est ce que je veux faire.}
+{172}{}{Elle s'inquiète pour toi. Elle supporte probablement pas de te voir te faire tabasser et risquer ta vie pour Gizmo. Si vous trouvez pas un compromis, tu pourrais la perdre.}
+{173}{}{Je crois qu'elle s'inquiète pour toi.}
+{174}{}{Alors, on parle d'autre chose ?}
+{175}{}{Eh bien, à plus tard.}
+{176}{}{J'y avais jamais pensé comme ça. Je croyais qu'elle aimait juste pas la boxe. Je suppose qu'il faudra que je lui en parle plus. Merci.}
+{177}{}{Ah, elle aime juste pas la boxe, c'est tout.}
+{178}{}{Eh bien, on peut parler d'autre chose ?}
+{179}{}{On se revoit.}
+{180}{}{Toi encore. Quoi de neuf ?}
+{181}{}{Rebonjour.}
+{182}{}{Je suis ici pour t'apprendre les bonnes manières.}
+{183}{}{Je dois te parler de Trish.}
+{184}{}{Tu peux me parler de Junktown ?}
+{185}{}{D'après ce que j'ai entendu, la Lueur est un grand cratère qui brille la nuit. C'est censé être loin, loin au sud, mais je sais pas où. Les histoires disent que c'est habité par toutes sortes de mutants bizarres qui gardent la technologie d'avant la Guerre.}
+{186}{}{Je vois. Merci pour l'info.}
+{187}{}{Intéressant. Tu peux m'en dire plus ?}
+{188}{}{Ça va être dur sans tête, mon gars.}

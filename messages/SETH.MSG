@@ -1,0 +1,101 @@
+{100}{}{Tu vois : Seth, chef des gardes de Shady Sands.}
+{101}{}{Toi ! Tu as assez empoisonné notre village. Je vais te tuer moi-même !}
+{102}{}{Rien de bon ne vient de ton espèce. Je vais te tuer et débarrasser le désert d'un monstre de plus.}
+{103}{}{Pas très futé, hein ? Bon, méfie-toi des scorpions rad, et reste en dehors des ennuis.}
+{104}{}{Scorpin !}
+{105}{}{Salut.}
+{106}{}{On dirait un de ces pillards. On surveille de près ici à Shady Sands. Qu'est-ce que tu veux ?}
+{107}{}{Je veux tout ton argent !}
+{108}{}{J'aimerais des informations.}
+{109}{}{Bloop ?}
+{110}{}{Bonjour. Je m'appelle Seth. Comment je peux t'aider ?}
+{111}{}{J'aimerais des informations.}
+{112}{}{Wub-wub !}
+{113}{}{Des informations ? Tu veux savoir quoi ?}
+{114}{}{Qu'est-ce que je peux faire pour toi ?}
+{115}{}{Je veux savoir des choses sur les scorpions rad.}
+{116}{}{Je veux savoir des choses sur les pillards.}
+{117}{}{Je veux savoir des choses sur cet endroit.}
+{118}{}{Emmène-moi aux grottes des scorpions rad.}
+{119}{}{Grotte !}
+{120}{}{Rien d'autre, merci.}
+{121}{}{Qu'est-ce que tu veux maintenant ?}
+{122}{}{Ces fichus scorpions rad s'en prennent à nos brahmines depuis qu'on est ici. Il ne se passe pas une semaine sans que quelqu'un se fasse empoisonner en essayant de les tenir hors des enclos. La semaine dernière ils ont pris mon frère Jarvis. Razlo, notre médecin, cherche un antidote aussi vite qu'il peut. Hé, si tu as les moyens de nous aider, pourquoi tu ne parles pas à notre chef, Aradesh.}
+{123}{}{Il y a plusieurs groupes de pillards. J'organise des gardes comme Ian pour aider à les repousser. Il y a une bande au sud-est d'ici. Méfie-toi d'eux.}
+{124}{}{Shady Sands est une communauté paisible. On a notre propre système d'irrigation, donc on peut cultiver notre propre nourriture. Si on n'était pas empoisonnés par les pillards et les scorpions rad, on n'aurait aucun problème.}
+{125}{}{T'es sûr que tu veux que je te donne les directions vers les grottes des scorpions rad ? Je peux pas y aller, mais je peux te montrer le chemin.}
+{126}{}{Oui.}
+{127}{}{Non.}
+{128}{}{D'accord, fais-moi savoir quand tu seras prêt à aller aux grottes.}
+{129}{}{[Terminé]}
+{130}{}{Uh-huh.}
+{131}{}{Uh-uh.}
+
+{200}{}{Toute notre ville te remercie d'avoir détruit les scorpions rad. Merci.}
+{201}{}{Grâce à toi, on est maintenant à l'abri d'eux.}
+{202}{}{T'es sûr de vouloir y retourner ? C'est un long voyage, et tu as éliminé leur menace.}
+{203}{}{D'accord. Bon séjour ici.}
+{204}{}{Bienvenue à Shady Sands, étranger. Range ton arme pendant que tu es ici, s'il te plaît.}
+{205}{}{Bonjour l'étranger. Bienvenue à Shady Sands.}
+{206}{}{Tu devrais parler à Aradesh, notre chef. Il aime rencontrer tous nos visiteurs. Il devrait être dans notre Hôtel de Ville, le bâtiment au sud.}
+
+{300}{}{Dharma soit loué, te voilà vagabond. Ma copine... euh, Tandi, la fille d'Aradesh, a été enlevée. On croit que ce sont les pillards qui l'ont.}
+{301}{}{Où sont ces pillards ?}
+{302}{}{Wow. Dur. Bon, on se revoit.}
+{303}{}{Je suis désolé, j'aimerais pouvoir aider.}
+{304}{}{C'est terrible, mais je dois d'abord m'occuper de ces scorpions rad. Ils posent un danger pour toute ta ville.}
+{305}{}{Où est Tandi ? Pourquoi vous ne l'avez pas secourue ?}
+{306}{}{J'ai besoin de plus de provisions avant de m'attaquer à ces gars.}
+{307}{}{J'ai décidé que la petite traînée valait pas le risque.}
+{308}{}{Je m'en occupe.}
+{309}{}{Je pensais d'abord régler votre problème de scorpions rad.}
+{310}{}{Je te croyais quelqu'un de bien. Soit.}
+{311}{}{Ils sont au sud-est. S'il te plaît, dépêche-toi. Je sais pas ce qu'ils vont lui faire.}
+{312}{}{D'accord, je vais te la ramener.}
+{313}{}{J'ai pas dit que j'aiderais, j'ai mes propres problèmes.}
+{314}{}{Combien ce boulot vaut pour toi ?}
+{315}{}{Je dois aider mes gens. Je suis désolé.}
+{316}{}{Je savais que t'étais un mercenaire sans cœur. On te paiera bien pour l'avoir sauvée, sois-en sûr.}
+{317}{}{Si tu me dis pas combien tu me donneras, je prends pas le boulot.}
+{318}{}{D'accord, je vais m'en occuper pour toi.}
+{319}{}{Désolé, faut que j'y aille.}
+{320}{}{Salaud !}
+{321}{}{S'il te plaît, dépêche-toi. Seuls les dieux savent ce qu'ils lui font.}
+{322}{}{J'aimerais que tu sauves Tandi d'abord, l'étranger, mais si tu veux bien nous aider avec les scorpions rad, je suppose que je vais te montrer le chemin.}
+{323}{}{D'accord, emmène-moi aux scorpions rad.}
+{324}{}{J'ai changé d'avis. Au revoir.}
+{325}{}{Super. Je reviens dans un moment, et tu pourras m'y emmener alors.}
+
+{1000}{}{Khans}
+{1001}{}{Garl}
+{1002}{}{Junktown}
+{1003}{}{Shady}
+{1004}{}{Hub}
+{1005}{}{Eau}
+{1006}{}{Tandi}
+{1007}{}{Aradesh}
+{1008}{}{Seth}
+{1009}{}{Razlo}
+{1010}{}{Sands}
+{1011}{}{Scorpion}
+{1012}{}{Scorpion rad}
+{1013}{}{Scorpions}
+{1014}{}{Scorpions rad}
+
+
+{1100}{}{C'est un groupe sans foi ni loi qui se fait passer pour des gens d'un lointain passé.}
+{1101}{}{Il dirige les Khans. C'est l'un des hommes les plus dangereux qui aient jamais posé les yeux sur Shady Sands. Il mène les clans de pillards d'une main de fer.}
+{1102}{}{C'est à quatre à six jours au sud-ouest. Bon commerce de temps en temps, mais le plus souvent, ils essaient de nous arnaquer.}
+{1103}{}{Tu es dedans.}
+{1104}{}{Bien plus au sud que Junktown. Le Hub est la plus grande ville dont j'ai entendu parler. Il doit y avoir au moins un millier de gens là-bas.}
+{1105}{}{Désolé, je ne peux pas t'aider.}
+{1106}{}{C'est la fille d'Aradesh. Un jour elle pourrait nous diriger, mais elle doit apprendre à tempérer ses ardeurs.}
+{1107}{}{C'est le chef de notre communauté, et un vrai héros. Tu peux toujours le trouver au travail dans la salle commune.}
+{1108}{}{C'est moi. Je travaille avec Aradesh pour que tout le monde soit en sécurité.}
+{1109}{}{Notre médecin. Va le voir si tu es blessé.}
+{1110}{}{Tu es dedans.}
+{1111}{}{Des créatures dégoûtantes avec un venin mortel.}
+{1112}{}{Des créatures dégoûtantes avec un venin mortel.}
+{1113}{}{Des créatures dégoûtantes avec un venin mortel.}
+{1114}{}{Des créatures dégoûtantes avec un venin mortel.}
+

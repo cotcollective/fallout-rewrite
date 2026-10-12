@@ -1,0 +1,79 @@
+{100}{}{Tu vois un ivrogne.}
+{101}{}{Tu vois un client.}
+{102}{}{Tu vois une très jolie dame.}
+{103}{}{Tu vois un homme à l'air étrange.}
+{104}{}{Tu vois un joueur.}
+{105}{}{Tu vois une femme, elle semble occupée.}
+{106}{}{Tu vois une femme.}
+{107}{}{Tu vois un homme.}
+{108}{}{Tu vois un joueur très contrarié.}
+{109}{}{Tu vois un mercenaire.}
+{110}{}{Laisse-moi à mes chagrins.}
+{111}{}{T'es mon meilleur ami.}
+{112}{}{Mais t'es... (hoquet) où je suis ?}
+{113}{}{T'es qui, toi ?}
+{114}{}{On se connaît ?}
+{115}{}{Je me sens un peu barbouillé.}
+{116}{}{C'est moi qui paie les verres, je veux dire toi.}
+{117}{}{Pourquoi vous êtes deux ?}
+{118}{}{Reste tranquille, mon gars !}
+{119}{}{Reste tranquille, ma fille !}
+{120}{}{Dégage, vermine !}
+{121}{}{Tu fais baisser le niveau de cet établissement.}
+{122}{}{Éloigne-toi, tu vas me porter malheur !}
+{123}{}{Ne brise pas ma concentration.}
+{124}{}{Je vais finir par battre ce fichu jeu !}
+{125}{}{T'es bon à ça ?}
+{126}{}{T'as vu ça ? C'était impossible !}
+{127}{}{Je crois qu'ils trichent.}
+{128}{}{Là, c'est une bonne cote.}
+{129}{}{C'est dans la poche.}
+{130}{}{Quoi ? Comment j'ai pu perdre ?}
+{131}{}{Cette table est maudite !}
+{132}{}{Je suis occupé.}
+{133}{}{Tu vois pas que je joue, là ?}
+{134}{}{Mise ou dégage.}
+{135}{}{Laisse-nous tranquilles ou j'appelle les gardes.}
+{136}{}{Fais gaffe, je suis un ami proche de l'adjoint Fry.}
+{137}{}{Ça te dérange ?}
+{138}{}{Pas de voyeurs !}
+{139}{}{Je ne fais pas les groupes.}
+{140}{}{Je suis trop fatigué pour un autre.}
+{141}{}{Tu rêves, mon pote, dégage !}
+{142}{}{Dégage d'ici !}
+{143}{}{Mais qu'est-ce que tu crois faire ?}
+{144}{}{Tiens-toi bien !}
+{145}{}{J'appelle les flics !}
+{146}{}{N'y pense même pas !}
+{147}{}{Sors !}
+{148}{}{Dégage !}
+{149}{}{Tu regardes quoi ?}
+{150}{}{Ça te dérange ?}
+{151}{}{Sors de notre chambre !}
+{152}{}{Sors !}
+{153}{}{Tu fais partie du groupe ?}
+{154}{}{Dégage, pervers !}
+{155}{}{C'est quoi ton problème ?}
+{156}{}{Dégage avant que je m'énerve.}
+{157}{}{Prends-en un à toi.}
+{158}{}{Elle est à moi.}
+{159}{}{Merde !}
+{160}{}{Tu triches ?}
+{161}{}{Ça aurait dû être à moi.}
+{162}{}{Presque !}
+{163}{}{Raté de peu.}
+{164}{}{C'est quoi les règles, déjà ?}
+{165}{}{J'étais bon à ça, avant.}
+{166}{}{Merci pour rien.}
+{167}{}{J'y crois pas !}
+{168}{}{C'était fait exprès.}
+{169}{}{Faites vos jeux.}
+{170}{}{Bas les pattes, monsieur.}
+{171}{}{Gagnant !}
+{172}{}{Désolé les amis, ce sera pour la prochaine fois.}
+{173}{}{Encore un gagnant !}
+{174}{}{Bas les pattes !}
+{175}{}{À vous, monsieur.}
+{176}{}{Désolé, mise invalide.}
+{177}{}{C'est tout.}
+{178}{}{Quelqu'un d'autre ?}

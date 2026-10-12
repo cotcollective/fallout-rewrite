@@ -1,0 +1,132 @@
+{100}{}{Tu vois : Razlo.}
+{101}{}{Je suis désolé, mais je ne peux pas t'aider.}
+{102}{}{Tu ne peux pas ou tu ne veux pas ?}
+{103}{}{Razlo te regarde un moment, puis se détourne.}
+{104}{}{Tu as l'air bouleversé. As-tu besoin d'aide ?}
+{105}{}{Tandi a été enlevée.}
+{106}{}{Hng, pauvre Tanny.}
+{107}{}{Tandi a disparu ? C'est terrible. J'espère qu'on va la retrouver.}
+{108}{}{Hmm, Tandi partie ? J'ai du mal à y croire, mais peut-être qu'elle s'est enfuie avec Seth. Je sais qu'ils se regardent depuis un moment. Aradesh a toujours été un peu prude, peut-être que c'en était trop pour elle, finalement.}
+{109}{}{Hmm, je n'y avais pas pensé.}
+{110}{}{Non, je ne crois pas, je pense qu'elle a été enlevée.}
+{111}{}{Peut-être, je vais aller parler à d'autres gens.}
+{112}{}{Quelle horreur ! Si c'est le cas, j'espère qu'elle n'est pas blessée. Qui la cherche ?}
+{113}{}{Presque tout le monde.}
+{114}{}{Beaucoup de gens, dont moi.}
+{115}{}{J'espère qu'on la retrouvera avant qu'il soit trop tard.}
+{116}{}{Si elle est blessée, ça pourrait être grave. Tiens, prends ça... J'espère que tu n'en auras pas besoin.}
+{117}{}{J'espère que Tandi reviendra bientôt. Aradesh doit se sentir terrible en ce moment.}
+{118}{}{J'ai entendu dire que tu as aidé à sauver Tandi. Félicitations et merci. Chaque fois que tu auras besoin de soins, viens ici.}
+{119}{}{Mon chagrin est sans fin. Tandi, la fille unique de mon bon ami, a disparu. Je ne peux pas travailler pour l'instant.}
+{120}{}{Je suis Razlo. Je peux t'aider ?}
+{121}{}{Pas pour l'instant, mais c'était sympa de te rencontrer.}
+{122}{}{J'ai besoin de soins.}
+{123}{}{Hnngh !}
+{124}{}{Hmmm. Je crois que j'ai vu des brahmines avec plus de cellules cérébrales que toi. Bon, voyons si tu es blessé.}
+{125}{}{Eh bien, tu m'as l'air en forme. Peut-être plus tard, alors ?}
+{126}{}{Voyons voir.}
+{127}{}{Je t'ai déjà donné tout ce que je pouvais. Bonne chance.}
+{128}{}{Hmmm, tu n'as pas l'air net. J'espère que tu viens pour affaires, et que tu ne vas pas t'éterniser... }
+{129}{}{Pas besoin d'être sur la défensive, je regarde juste autour de moi.}
+{130}{}{Au secours, j'ai besoin de soins.}
+{131}{}{Bonjour, encore. Comment puis-je t'être utile ?}
+{132}{}{Rebonjour. Je ne fais que passer.}
+{133}{}{J'ai besoin de soins.}
+{134}{}{Beurk !}
+{135}{}{C'était sympa de te revoir. Bonne journée.}
+{136}{}{Bien sûr. C'est encore toi. Quoi de neuf ?}
+{137}{}{Rien.}
+{138}{}{J'ai besoin de soins.}
+{139}{}{Luki !}
+{140}{}{Bien sûr que oui.}
+{141}{}{Je peux t'aider ?}
+{142}{}{Non.}
+{143}{}{J'ai besoin de soins.}
+{144}{}{J'ai été empoisonné !}
+{145}{}{Que sais-tu des scorpions rad ?}
+{146}{}{J'ai un échantillon du venin de scorpion rad, tu peux en faire quelque chose ?}
+{147}{}{Luki !}
+{148}{}{Désolé, je ne peux soigner aucun poison. Je n'ai pas les bons ingrédients pour faire un antivenin correct.}
+{149}{}{Tiens, voyons voir.}
+{150}{}{Oui, comme je pensais. Laisse-moi chercher le remède.}
+{151}{}{Tu m'as l'air en forme, maintenant. Fais attention à l'avenir.}
+{152}{}{Repasse, mais reste en bonne santé la prochaine fois.}
+{153}{}{Pas grand-chose. Ce sont des versions extrêmement grandes du scorpion empereur nord-américain. Contrairement à mes connaissances médicales, leur venin est devenu plus puissant, pas dilué, comme je m'y attendrais. Seth les chasse, ce qui aide certains de mes tests.}
+{154}{}{Et comment une créature aussi grande peut même être possible par évolution naturelle, ou même par mutation induite par les radiations, ça me dépasse.}
+{155}{}{Merci.}
+{156}{}{Tu sembles bien éduqué. Qu'est-ce que tu fais ici ?}
+{157}{}{Autre chose ?}
+{158}{}{Ils semblent sensibles à la lumière. Nocturnes. Si je pouvais obtenir un échantillon de leur venin, en particulier la poche à venin située dans leur queue, je pourrais créer un antivenin.}
+{159}{}{Merci.}
+{160}{}{Doc Morbid à Junktown m'a appris deux-trois trucs. Et ce n'est pas parce qu'on vit dans des huttes de pierre qu'on est moins intelligents ou éduqués. Bonne journée.}
+{161}{}{Fais-moi voir la poche ! Oui, je peux en faire quelque chose.}
+{162}{}{Tiens, prends ça en échantillon gratuit. Ça marche bien contre les piqûres de scorpion rad, bien sûr, mais ça montre beaucoup de potentiel comme antivenin général et remède contre le poison.}
+{163}{}{Il est tard. Reviens demain matin.}
+{164}{}{Mais j'ai besoin de ton aide.}
+{165}{}{J'essaie de tuer des scorpions rad. Tu as quelque chose pour m'aider ?}
+{166}{}{Je cherche Tandi. Tu peux m'aider ?}
+{167}{}{Hnn.}
+{168}{}{Hnn ?! C'est quoi ça ? Génial, je me fais réveiller par la grande bête marmonnante du nord. Reviens demain matin.}
+{169}{}{Tu es blessé ?}
+{170}{}{Oui.}
+{171}{}{Non.}
+{172}{}{Tu le seras, si tu m'empêches de dormir. Maintenant, reviens demain matin.}
+{173}{}{Grand Brahmin ! Pourquoi tu ne l'as pas dit tout de suite ?}
+{174}{}{Euh... si...}
+{175}{}{Tu es à peine blessé. Je te conseille une bonne nuit de sommeil et du repos ; tu guériras naturellement avec le temps.}
+{176}{}{Tu es à peine blessé, mauviette. Reviens demain matin.}
+{177}{}{Aïe, ça a l'air un peu douloureux. Ça fera 25 capsules.}
+{178}{}{D'accord, tiens.}
+{179}{}{Je n'ai pas assez d'argent.}
+{180}{}{Oh Grand Brahmin ! C'est très, très grave. Ça coûtera 50 capsules.}
+{181}{}{D'accord, tiens.}
+{182}{}{Je n'ai pas assez d'argent.}
+{183}{}{Comment tu tiens encore debout ?! Ça a l'air extrêmement grave. Il va falloir des prières spéciales pour celle-là et beaucoup de chance. Sans parler de 100 capsules.}
+{184}{}{D'accord, tiens.}
+{185}{}{Je n'ai pas assez d'argent.}
+{186}{}{Tu n'as pas assez d'argent ! Je suis désolé, mais mon éthique professionnelle ne me permet pas de soigner gratuitement, tu sais. Reviens quand tu auras assez d'argent.}
+{187}{}{Tu peux prendre quelque chose en échange ?}
+{188}{}{Merci pour rien.}
+{189}{}{Désolé, pas aujourd'hui.}
+{190}{}{Pourquoi je pourrais t'aider à tuer des scorpions rad ? Je suis médecin, pas guerrier. Pour ça, vois Aradesh, ou même Tandi, ou son copain, Seth. Laisse-moi.}
+{191}{}{J'ai besoin de quelque chose contre leur venin.}
+{192}{}{Si j'avais un échantillon de leur venin, je pourrais créer un remède.}
+{194}{}{Non, je ne crois pas, je pense qu'elle a été enlevée.}
+{195}{}{Peut-être, je vais aller parler à d'autres gens.}
+{196}{}{Ça va prendre un peu de temps. Viens, repose-toi au fond. Tu auras peut-être un léger mal de tête à cause du jus de junja, aussi. Viens, viens...}
+{197}{}{Je t'ai déjà donné tout ce que je pouvais. Bonne chance.}
+{300}{}{Tu gagnes 250 points d'expérience pour avoir aidé à fabriquer un antidote contre le venin de scorpion rad.}
+{301}{}{K, moi donne ?}
+{302}{}{Nunga.}
+{303}{}{Scorpin, Scorpin ?}
+{304}{}{Moi donne ça ?}
+{305}{}{Et une queue de scorpion rad à la place ?}
+{306}{}{Fais-moi voir la poche ! Oui, je peux en faire quelque chose, et te soigner pour ce beau cadeau.}
+{307}{}{Ça va prendre un peu de temps. Viens, repose-toi au fond pendant que je travaille sur la poche. Tu auras peut-être un léger mal de tête à cause du jus de junja, aussi. Viens, viens...}
+{308}{}{S'il te plaît, ne prends pas mes affaires.}
+
+
+{1000}{}{Khans}
+{1001}{}{Garl}
+{1002}{}{Junktown}
+{1003}{}{Shady}
+{1004}{}{Hub}
+{1005}{}{Eau}
+{1006}{}{Tandi}
+{1007}{}{Aradesh}
+{1008}{}{Seth}
+{1009}{}{Razlo}
+{1010}{}{Sands}
+
+
+{1100}{}{C'est un groupe sans foi ni loi qui se fait passer pour des gens d'un lointain passé.}
+{1101}{}{Il dirige les Khans. C'est l'un des hommes les plus dangereux qui aient jamais posé les yeux sur Shady Sands. Il mène les clans de pillards d'une main de fer.}
+{1102}{}{C'est à quatre à six jours au sud-ouest. Bon commerce de temps en temps, mais le plus souvent, ils essaient de nous arnaquer.}
+{1103}{}{Tu es dedans.}
+{1104}{}{Bien plus au sud que Junktown. Le Hub est la plus grande ville dont j'ai entendu parler. Il doit y avoir au moins un millier de gens là-bas.}
+{1105}{}{Désolé, je ne peux pas t'aider.}
+{1106}{}{C'est la fille d'Aradesh. Un jour elle pourrait nous diriger, mais elle doit apprendre à tempérer ses ardeurs.}
+{1107}{}{C'est le chef de notre communauté, et un vrai héros. Tu peux toujours le trouver au travail dans la salle commune.}
+{1108}{}{Il travaille avec Aradesh pour qu'on soit en sécurité.}
+{1109}{}{C'est moi. Je suis le médecin de Shady Sands.}
+{1110}{}{Tu es dedans.}

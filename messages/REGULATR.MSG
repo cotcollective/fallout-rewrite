@@ -1,0 +1,75 @@
+{100}{}{Tu vois un Régulateur, un des gardes d'Adytum.}
+{101}{}{}
+{102}{}{Garde tes armes sous contrôle pendant que tu es ici.}
+{103}{}{Bienvenue à Adytum, étranger. Tiens-toi bien, on te surveille.}
+{104}{}{J'aimerais entrer.}
+{105}{}{Je peux te poser quelques questions ?}
+{106}{}{Euhhh... }
+{107}{}{Zimmerman pourrait avoir besoin de toi. Entre, mais souviens-toi, on te surveille.}
+{108}{}{Bon retour ! Tu es le bienvenu ici à tout moment.}
+{109}{}{T'as pas un boulot à faire ? Reviens quand tu t'en seras occupé.}
+{110}{}{Va-t'en !}
+{111}{}{Qu'est-ce que tu veux encore ?}
+{112}{}{J'aimerais entrer.}
+{113}{}{}
+{114}{}{Rien. Laisse tomber.}
+{115}{}{}
+{116}{}{Non.}
+{117}{}{Tu veux savoir quoi ?}
+{118}{}{Vous faites quoi ici ?}
+{119}{}{Tu peux m'en dire plus sur le Cimetière de L.A. ?}
+{120}{}{Comment je peux entrer ?}
+{121}{}{Que sais-tu des Enfants de la Cathédrale et des Disciples de l'Apocalypse ?}
+{122}{}{Rien, merci.}
+{123}{}{Je suis un des Régulateurs. C'est notre boulot de maintenir la paix à Adytum, et de protéger la ville. Notre chef, Caleb, pourrait t'en dire plus.}
+{124}{}{À l'est d'ici il y a les Disciples. C'est une bande de pacifistes. À l'est il y a les Lames, une bande de vermines si tu veux mon avis. Un peu au sud d'ici il y a la Cathédrale, où les Enfants ont leur centre religieux.}
+{125}{}{Désolé, mais on doit se méfier des étrangers ici. Trop dangereux. Tu pourrais peut-être faire du boulot pour Zimmerman.}
+{126}{}{Finis ton boulot.}
+{127}{}{Tu es le bienvenu ici à tout moment, bien sûr !}
+{128}{}{C'est deux groupes de cinglés. Les Disciples veulent que tout le monde soit paisible et heureux. Ils ne réalisent pas que le monde est trop dur pour ça.}
+# "on the level" means legit, following all the rules, being legal/ethical/transparent
+{129}{}{Les Enfants ont une sorte de dieu qu'ils adorent dans leur Cathédrale au sud. Ils ont un hôpital, mais ils sont un peu trop bizarres pour être nets.}
+{130}{}{On t'avait prévenu de garder tes armes sous contrôle !}
+{131}{}{Tu ferais mieux de ranger tes armes pendant que tu es ici.}
+{132}{}{Un voleur, hein ? Laisse-moi te montrer ce qu'on fait à ton espèce ici !}
+{133}{}{[Terminé]}
+
+{134}{}{Tiens-toi bien.}
+{135}{}{On te surveille.}
+{136}{}{Reste dans le rang.}
+{137}{}{Tu regardes quoi.}
+{138}{}{Tu veux quoi.}
+
+{139}{}{J'imagine que ça veut dire qu'on en a fini avec toi, vieil homme.}
+
+{1000}{}{Adytum}
+{1001}{}{Disciples}
+{1002}{}{Cathédrale}
+{1004}{}{Lames}
+{1005}{}{Trafiquants}
+{1006}{}{Hub}
+{1007}{}{Junktown}
+{1008}{}{Puce}
+{1009}{}{Magasin}
+{1010}{}{Zimmerman}
+{1011}{}{Nécropolis}
+{1012}{}{Lueur}
+{1013}{}{Régulateurs}
+{1014}{}{Charognards}
+{1015}{}{Cimetière}
+
+{1100}{}{C'est ici.}
+{1101}{}{Ils vivent à l'est d'ici.}
+{1102}{}{C'est un peu au sud d'ici.}
+{1104}{}{Ils sont au nord d'ici.}
+{1105}{}{Ils sont à l'est des Lames, puis au nord des Écorcheurs.}
+{1106}{}{On commerce avec eux.}
+{1107}{}{C'est pas une ville au nord d'ici ?}
+{1108}{}{Un quoi ?}
+{1109}{}{Le magasin de Tine est sous terre près de la porte.}
+{1110}{}{C'est le maire.}
+{1111}{}{J'ai entendu dire que c'est à l'est.}
+{1112}{}{C'est un mythe.}
+{1113}{}{On protège Adytum.}
+{1114}{}{Ils sortent pour rapporter des choses.}
+{1115}{}{Ici c'est le Cimetière de L.A.}

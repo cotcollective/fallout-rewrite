@@ -1,0 +1,56 @@
+{100}{}{Tu vois : Sammael, un des charognards d'Adytum.}
+{101}{}{Tu vois un homme crasseux en vêtements bleu foncé.}
+{102}{}{Hé, je crois qu'on s'est jamais rencontrés. T'es qui ?}
+{103}{}{Je suis }
+{104}{}{.}
+{105}{}{C'est qui qui demande ?}
+{106}{}{Eruh ?}
+{107}{}{Tout le plaisir est pour moi. On m'appelle Sammael.}
+{108}{}{Tu fais quoi ici ?}
+{109}{}{Sympa de te parler.}
+{110}{}{Personne de spécial. Laisse tomber.}
+{111}{}{Je suis un Charognard — un récupérateur. Mon boulot c'est de fouiller tout le Cimetière de L.A. à la recherche d'objets utiles et d'informations. Un boulot dangereux.}
+{112}{}{Pourquoi c'est dangereux ?}
+{113}{}{Comment tu évites les Écorcheurs ?}
+{114}{}{T'as déjà exploré d'autres zones ?}
+{115}{}{Merci, salut.}
+{116}{}{On se revoit. Si tu me vois. Hé hé.}
+{117}{}{Eh bien, t'as les Écorcheurs dehors, et puis t'as les Régulateurs ici à Adytum. Ni les uns ni les autres sont du genre indulgent.}
+{118}{}{Comment tu évites les Écorcheurs ?}
+{119}{}{T'as déjà exploré d'autres zones ?}
+{120}{}{Merci, salut.}
+{121}{}{On travaille que la nuit, et on est bons dans ce qu'on fait. Mais j'avoue que tout le monde revient pas toujours. La semaine dernière j'ai envoyé un gars au nord chercher des pièces pour Miles, et on n'a plus eu de nouvelles depuis. Sa dernière transmission disait qu'il avait trouvé les pièces, et qu'il revenait.}
+{122}{}{J'ai fait un peu d'exploration. Tu veux savoir quoi ?}
+{123}{}{Les Lames.}
+{124}{}{Les Écorcheurs.}
+{125}{}{Les Trafiquants d'armes.}
+{126}{}{Les Disciples de l'Apocalypse.}
+{127}{}{Les Enfants de la Cathédrale.}
+{128}{}{Personne, merci.}
+{129}{}{Les Lames, c'est un triste spectacle pour un groupe de gens. Ils s'en sortent quand même, et certains finissent ici à Adytum s'ils acceptent ce que les Régulateurs leur offrent en échange.}
+{130}{}{Eh bien si tu les as jamais vus. Ils sont méchants comme l'enfer, et ils adorent arracher le cœur d'un pauvre charognard.}
+{131}{}{J'ai entendu dire qu'il y a un nid quelque part à l'est des Lames, mais je l'ai pas vu moi-même.}
+{132}{}{Les Trafiquants d'armes se sont installés dans une grande usine au nord-est il y a pas longtemps. Je peux pas t'en dire beaucoup parce qu'ils ont un fossé rempli de boue radioactive, et faut passer les Écorcheurs pour y arriver.}
+{133}{}{Les Disciples prêchent la paix et la tolérance. Belle idée, mais pas pratique. Ils vivent dans une grande bibliothèque au nord-ouest d'ici.}
+{134}{}{Les Enfants de la Cathédrale sont basés dans une grande église un peu au sud d'ici. Il se passe des trucs étranges là-bas. J'ai vu des créatures qui peuvent pas être humaines entrer et sortir.}
+{135}{}{Et si les histoires sont vraies, l'église est construite sur un vieil Abri, où vivaient les prédécesseurs d'Adytum.}
+{136}{}{Hé. On se recroise. Quoi de neuf ?}
+{137}{}{C'était quoi ton boulot, déjà ?}
+{138}{}{Rien, merci.}
+{139}{}{Oh, je vois. D'accord. Salut !}
+
+# Added by Sduibek for Fallout Fixt:
+
+{140}{}{Miles m'a dit de te parler des pièces pour ses fermes hydroponiques. Tu sais quelque chose là-dessus ?}
+{141}{}{Ah, oui. En fait oui. La semaine dernière j'ai envoyé un gars au nord chercher les pièces pour Miles, mais on n'a plus eu de nouvelles depuis. Sa dernière transmission disait qu'il avait trouvé les pièces, et qu'il revenait. J'ai pas encore eu le temps de vérifier moi-même, et je veux pas perdre une autre personne à cause de ce qui a pu causer sa disparition.}
+{142}{}{Dur, désolé d'apprendre ça. Merci pour l'info. Salut.}
+{143}{}{Si je peux avoir des infos sur ton gars, y a une prime de découverte ?}
+{144}{}{Super, merci. Je vais chercher dans cette zone pour les pièces. Je te dirai si je trouve ton ami disparu.}
+{145}{}{À tout moment. Salut.}
+{146}{}{Tu ferais ça ? Ce serait super. Comme je disais, on est débordés ici et on peut pas se permettre de perdre plus de gens.}
+{147}{}{(Il rit.) Non, pas vraiment. Si j'avais les capsules pour ça, j'aurais déjà embauché quelqu'un pour le retrouver. (Il réfléchit un moment.) J'aime ton esprit, quand même. Voilà ce que je te propose, si tu le trouves, je verrai ce que je peux faire pour toi.}
+{148}{}{Bonne nouvelle, j'ai trouvé ton gars. Mauvaise nouvelle, il est bien mort.}
+{149}{}{Je suis désolé de te dire ça, mais on dirait que ton ami a été tué par les Écorcheurs à l'entrepôt.}
+{150}{}{Merde ! *soupir* Je m'en doutais. Merci.}
+{151}{}{Oh, c'est vrai. Voilà ta récompense. (Il te tend ce qui ressemble à une tronçonneuse miniature portative.) Il y avait un gang ici qui utilisait ça. N'hésite pas à tuer quelques-uns de ces salauds d'Écorcheurs avec. On se revoit.}
+{152}{}{Tiens, prends ça pour la peine, c'est le moins que je puisse faire. (Il te tend 200 capsules.)}

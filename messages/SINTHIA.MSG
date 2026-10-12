@@ -1,0 +1,81 @@
+{100}{}{Tu vois : Sinthia, la belle séductrice.}
+{101}{}{Tu vois une femme pulpeuse à la moue boudeuse.}
+{102}{}{Hé, mon chou, comment ça va ?}
+{103}{}{D'accord. Salut.}
+{104}{}{Ça va, mais ça pourrait aller mieux.}
+{105}{}{Euh.}
+{106}{}{Oh, bébé, je comprends. Tu dois rentrer chez maman. Eh bien, reviens ici quand t'auras besoin de câlins !}
+{107}{}{Ouais, mon sucre, à toi aussi.}
+{108}{}{Tu trouveras ce que, ou qui, tu cherches, mon miel, et ça te remettra sur pied, j'en suis sûre.}
+{109}{}{Peut-être que je peux t'aider avec ça.}
+{110}{}{Peut-être que oui. Tu charges combien ?}
+{111}{}{Je laisserais même pas mon chien te toucher.}
+{112}{}{Oh, bébé, si tu dois demander... plus que tu peux te permettre. Peut-être la prochaine fois, mon sucre. On se revoit.}
+{113}{}{Oh, mon sucre, c'est juste dégoûtant.}
+{114}{}{Oh, mon dieu, aide-moi s'il te plaît.}
+{115}{}{S'il te plaît, laisse-le pas me tuer.}
+{116}{}{Je suis trop jeune pour mourir.}
+{117}{}{Oh, mon dieu, je suis trop jolie pour mourir.}
+{118}{}{Merci pour ce que t'as fait. Personne ne s'était jamais occupé de moi comme ça avant.}
+{119}{}{Je pourrai vraiment prendre soin de toi plus tard.}
+{120}{}{De rien.}
+{121}{}{Unh.}
+{122}{}{Encore merci.}
+{123}{}{C'est tout ce à quoi tu peux penser ? Mon dieu. Certaines personnes.}
+{124}{}{Je veux dire, mon patron a même pas envoyé un de ses gorilles pour aider. Tu croirais que pour tout le fric que je lui rapporte, ce loser, il respecterait au moins sa part du marché.}
+{125}{}{C'est qui ton patron ?}
+{126}{}{Quel marché ?}
+{127}{}{Gizmo, bien sûr. Il dirige tout le vice de cette ville. Killian supporterait certainement pas moi ou mon espèce. Si c'était pas le fait que je rapporte un max de fric à Giz, je devrais lui faire d'autres choses.}
+{128}{}{Et, mon miel, ces pensées font pas grand bien à mon estomac.}
+{129}{}{Gizmo contrôle quoi d'autre ?}
+{130}{}{Tu devrais juste tout plaquer et refaire ta vie.}
+{131}{}{Tu me le dis. Mais je peux faire quoi d'autre ? On dirait que ma vie a été dessinée par quelqu'un d'autre. Oh, bon. Une fille doit bien gagner sa vie.}
+{132}{}{Mais mon sucre, celle-là est gratuite.}
+{133}{}{Encore merci, mon miel. Nous les femmes, on doit se serrer les coudes.}
+{134}{}{À peu près tout ce qu'une personne peut faire de mal dans cette ville. Il possède le Casino. Il me dirige moi et quelques autres filles, même des petits gamins. J'ai entendu dire qu'il essaie de prendre le bar.}
+{135}{}{Tu restes loin de lui, d'accord ? Crois-moi, c'est pas le genre de client qu'il veut te faire croire qu'il est. Reste loin.}
+{136}{}{Giz veut s'occuper de Killian, si tu vois ce que je veux dire.}
+{137}{}{Pourquoi, mon miel, je m'occupe des hommes, et ils s'occupent de moi en retour. Gizmo prend 25% et j'ai soi-disant sa protection. T'as vu comme ça a bien marché, hein ?}
+{138}{}{Gizmo contrôle quoi d'autre ?}
+{139}{}{Tu as envie de rendre une autre visite à Sinthia.}
+{140}{}{Peut-être que Sinthia aimerait un peu de compagnie...}
+
+## You shit! You killed him! Why did you have to kill him?
+
+{141}{}{Salaud ! Je peux pas croire que tu l'as tué. Il voulait juste quelqu'un à qui parler. Tu te fous de la vie humaine, hein ?}
+{142}{}{Salope ! Je peux pas croire que tu l'as tuée. Il voulait juste quelqu'un à qui parler. Tu te fous de la vie humaine, hein ?}
+{143}{}{Dégage de ma chambre !}
+{144}{}{Tu l'as tué ! Je peux pas croire que tu l'as tué. Il voulait juste quelqu'un à qui parler...}
+{145}{}{Il est pas mort. Il va juste avoir mal à la tête en se réveillant.}
+{146}{}{Hnnn.}
+{147}{}{Ouais, peu importe. Dégage de ma chambre !}
+{148}{}{Oh, désolée. Je croyais qu'il était mort. Je croyais que tu l'avais tué. C'est pas un si mauvais gars, finalement. Juste un peu seul.}
+{149}{}{Pas de problème.}
+{150}{}{Toi encore. Je peux t'aider avec quoi cette fois ?}
+{151}{}{Je passe juste voir comment tu vas.}
+{152}{}{J'ai 40 capsules, si t'as dix minutes.}
+{153}{}{J'ai besoin de plus d'infos sur ton patron.}
+{154}{}{Ah, mon miel, je crois pas. Imagine ce que donneraient les enfants.}
+{155}{}{Ça va bien, grâce à toi, mon sucre.}
+{156}{}{Tu veux savoir quoi, mais fais court, mon miel, je suis au boulot.}
+{157}{}{Il a combien de gardes ?}
+{158}{}{Où il cache l'argent ?}
+{159}{}{Il a des faiblesses ?}
+{160}{}{Merci, ma belle, mais j'ai besoin de rien savoir d'autre.}
+{161}{}{Hmm. J'en connais huit, personnellement, si tu vois ce que je veux dire. Je crois qu'il en a une dizaine d'autres.}
+{162}{}{L'argent ? Comment je saurais ? Il prend juste mon argent, il me montre pas le sien. Je dirais que c'est dans sa chambre, mais pour ce que j'en sais, il pourrait le garder là où le soleil brille pas. Et pour Giz, c'est un grand endroit.}
+{163}{}{Juste qu'il croit qu'il en a pas. Bon, ça et que c'est un gros porc, qui peut pas bouger d'un poil. Il faut que ses gardes l'aident à se déplacer. Même là, ils doivent utiliser un petit tricycle. Hé hé.}
+{164}{}{Mon sucre, t'as un rencard.}
+{165}{}{Bien sûr, mon miel, pour toi.}
+{166}{}{Je vais te faire passer un bon moment.}
+{167}{}{Mon miel, il te faut plus d'argent. Je t'aime bien et tout, mais une fille doit gagner sa vie.}
+{168}{}{Je me réserve le droit de refuser l'entrée, et mon miel, tu t'approcheras pas de moi !}
+{169}{}{Sinthia dort.}
+{170}{}{Sinthia est occupée.}
+{171}{}{Sinthia refuse de te parler.}
+{172}{}{Désolée, mon miel, je fais pas les bizarres.}
+{173}{}{Prends ton fric, ton attitude, et ta petite bite et va voir ailleurs !}
+{174}{}{Oh, mon dieu, quelqu'un m'aide !}
+{175}{}{Tu gagnes }
+{176}{}{ points d'expérience pour avoir sauvé Sinthia.}
+{177}{}{Les gardes emmènent le pillard pendant qu'il est inconscient.}

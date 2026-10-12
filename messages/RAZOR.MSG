@@ -1,0 +1,147 @@
+{100}{}{Bonjour, je peux faire quelque chose pour toi ?}
+{101}{}{Qui es-tu ?}
+{102}{}{C'est toi le chef de ce gang ?}
+{103}{}{Laisse tomber.}
+{104}{}{Hein... Quoi ?}
+{105}{}{Razor, c'est mon nom. Je suis ce qui se rapproche le plus d'un chef ici.}
+{106}{}{Donc c'est toi le chef de ce gang ?}
+{107}{}{C'est quoi l'histoire avec la zone clôturée au sud ?}
+# Player's name follows 108
+{108}{}{Enchanté de te rencontrer. Je suis }
+{109}{}{Enchanté de te rencontrer, mais je dois y aller. Salut.}
+{110}{}{Un gang ? On est à peine un gang. Mais c'est moi le chef ici.}
+{111}{}{Si vous n'êtes pas un gang, vous êtes quoi ?}
+{112}{}{Eh bien, vous ressemblez à un gang, pour moi.}
+{113}{}{Au revoir.}
+{114}{}{C'est Adytum. C'est un camp de travail forcé dirigé par un groupe appelé les Régulateurs, mais ils disent à tout le monde que c'est une « ville ». Ils viennent ici et emmènent nos gens pour les faire travailler jusqu'à la mort. Puis ils viennent en prendre d'autres.}
+{115}{}{Vous ne pouvez pas y aller et libérer vos gens ?}
+{116}{}{Alors pourquoi je te parle ? C'est à ces gars-là que je dois m'associer.}
+{117}{}{Je vais aller voir ce que je peux apprendre sur Adytum. Au revoir.}
+{118}{}{Alors. Qu'est-ce qui t'amène dans ce coin du désert ?}
+{119}{}{Je cherche une Puce d'eau. Tu sais où je peux en trouver une ?}
+{120}{}{Je marche juste sur la terre.}
+{121}{}{Je regarde juste autour. Salut.}
+{122}{}{On est juste des gens qui essaient de survivre. C'est Adytum qui nous a mis dans cette position. Ils nous maintiennent à terre et utilisent nos amis et nos familles comme des animaux. On n'a même pas de quoi se défendre.}
+{123}{}{Pourquoi vous ne les combattez pas ?}
+{124}{}{Vous défendre contre qui ?}
+{125}{}{Eh bien, les gens d'Adytum sont plus forts et plus intelligents que vous, c'est leur droit d'exploiter les faibles.}
+{126}{}{Je vais aller regarder autour pour voir ce que je peux trouver. Salut.}
+{127}{}{J'aimerais bien qu'on soit un gang. Au moins on aurait des armes correctes pour se défendre.}
+{128}{}{Vous défendre contre qui ?}
+{129}{}{Eh bien, tu ne me trompes pas. Vous n'êtes qu'une bande de dégénérés et je crois que vous préparez un mauvais coup.}
+{130}{}{Vous ressemblez drôlement à un gang, pour moi.}
+{131}{}{Eh bien, je ne peux pas t'aider pour ça.}
+{132}{}{C'est quoi avec la zone clôturée au sud ?}
+{133}{}{C'est toi le chef de ce gang ?}
+{134}{}{Il nous faut de meilleures armes. Les Trafiquants d'armes, à peu de distance d'ici, ont des armes, mais on ne peut pas les atteindre.}
+{135}{}{Pourquoi pas ?}
+{136}{}{Je vais aller voir ce que je peux apprendre sur la situation.}
+{137}{}{Les Régulateurs. C'est eux qui dirigent vraiment Adytum. Pas Zimmerman. Ils viennent ici et traînent nos gens jusqu'à Adytum comme esclaves. Ils nous tuent quand on essaie de se défendre. Parfois ils viennent juste en tuer un ou deux pour les amener à Zimmerman, pour pouvoir dire qu'on a essayé de forcer l'entrée de leur ville, ou une autre histoire ridicule. Ces fils de putes ont même tué le fils de Zimmerman !}
+{138}{}{Le fils de Zimmerman ? Pourquoi ils voudraient le tuer ?}
+{139}{}{Tu dis que vous n'avez jamais rien fait contre Adytum ?}
+{140}{}{Il y a un nid d'Écorcheurs entre eux et nous. On n'a même jamais parlé à aucun des Trafiquants d'armes. Les Régulateurs ont la puissance de feu pour nettoyer les Écorcheurs, mais ils ne le font pas pour une raison quelconque.}
+{141}{}{Où je peux trouver les Trafiquants d'armes ?}
+{142}{}{D'accord. Au revoir.}
+{143}{}{Josh vivait ici avec moi... euh... je... je veux dire nous. Il connaissait la vérité sur ce qui se passait. Les Régulateurs lui ont dit que s'il essayait de contacter son père ou de retourner à Adytum, ils le tueraient.}
+{144}{}{Ils l'ont tué ? Qu'est-ce qu'il a fait ?}
+{145}{}{Je vais à Adytum pour vérifier ça.}
+{146}{}{Tard un soir, il a essayé de se faufiler en ville pour dire à son père ce qui se passait vraiment. Je surveillais les transmissions radio des Régulateurs la nuit où... ils... il s'est fait... prendre. (Elle baisse les yeux et secoue lentement la tête.) Tiens, tout est sur cet holodisque.}
+{147}{}{Pourquoi tu ne l'as pas donné au père de Josh ?}
+{148}{}{C'est pas comme si aucun de nous pouvait même s'approcher d'Adytum. On se ferait abattre avant même d'atteindre les portes.}
+{149}{}{Pourquoi je ne lui donnerais pas le disque ?}
+{150}{}{Pourquoi vous ne rassemblez pas un grand groupe pour prendre Adytum par la force ?}
+{151}{}{Tu risquerais ta vie pour nous aider ?}
+{152}{}{Bien sûr. Tout pour aider.}
+{153}{}{Peut-être. Je dois d'abord vérifier les choses avant de faire quoi que ce soit.}
+{154}{}{Merci. Ça pourrait vraiment nous aider. Bonne chance. (Elle te tend l'holodisque.)}
+{155}{}{À plus tard.}
+{156}{}{Très bien. J'espère que tu prendras la bonne décision.}
+{157}{}{Au revoir.}
+{158}{}{Les Trafiquants d'armes sont à l'est puis au nord d'ici. Mais fais attention — les Écorcheurs, c'est pas à prendre à la légère. J'ai vu un Écorcheur déchirer un homme en deux d'un seul coup de patte.}
+{159}{}{Je vais aller voir ce que je peux trouver.}
+{160}{}{Je suis désolée que tu le prennes comme ça. Je pense qu'il vaudrait mieux que tu partes.}
+{161}{}{Salut.}
+{162}{}{Je peux t'aider ?}
+{163}{}{C'est toi le chef de ce gang ?}
+{164}{}{Laisse tomber.}
+{165}{}{Hein... Quoi ?}
+{166}{}{Un gang ? On est à peine un gang. Mais c'est à moi que tous viennent demander la direction.}
+{167}{}{Zimmerman m'envoie.}
+{168}{}{Eh bien, tu ressembles à un gang, pour moi.}
+{169}{}{Au revoir.}
+{170}{}{(Elle commence à avoir l'air nerveuse.) Quoi ? Il a... ?}
+{171}{}{Pour te mettre une balle dans la tête.}
+{172}{}{Pour te rembourser d'avoir tué son fils.}
+{173}{}{QUOI ?! CES PUTAINS D'ENFOIRÉS DE MERDE ! JE VAIS LES TUER, JE VAIS LES ENVOYER TOUS EN ENFER !!}
+{174}{}{Non, c'est toi qui vas en enfer.}
+{175}{}{Euh... qui tu vas envoyer en enfer ?}
+{176}{}{Les Régulateurs. C'est eux qui ont tué Josh ! Je ne ferais jamais rien pour blesser Josh. C'est les Régulateurs qui dirigent Adytum, pas Zimmerman.}
+{177}{}{C'est une piètre tentative pour t'en sortir avec des mots.}
+{178}{}{Pourquoi les Régulateurs tueraient le fils de Zimmerman ?}
+{179}{}{Josh vivait ici avec moi... euh... je... je veux dire nous. Il connaissait la vérité sur ce qui se passait. Les Régulateurs lui ont dit que s'il essayait de contacter son père ou de retourner à Adytum, ils le tueraient. Ils se sont moqués de lui... ils étaient tellement sûrs qu'il ne pourrait pas atteindre son père...}
+{180}{}{Ils l'ont tué ? Qu'est-ce qu'il a fait ?}
+{181}{}{Comment avance notre plan ?}
+{182}{}{J'essaie encore de tout mettre au point.}
+{183}{}{Euh... Quoi ?}
+{184}{}{Je ne suis pas sûre que ça aiderait sans la menace de la violence pour l'appuyer. Ce qu'il nous faut vraiment, ce sont des armes des Trafiquants d'armes.}
+{185}{}{Eh bien, où sont ces Trafiquants d'armes ? Pourquoi vous n'allez pas chercher des armes chez eux ?}
+{186}{}{Oh, eh bien, j'ai proposé. Au revoir.}
+{187}{}{Ils sont un peu à l'est d'ici, mais il y a un nid d'Écorcheurs entre eux et nous. On n'a même jamais parlé à aucun des Trafiquants d'armes.}
+{188}{}{D'accord, donne-moi l'holodisque, et je vais aller parler aux Trafiquants d'armes avant d'approcher Zimmerman.}
+{189}{}{J'espère que tu trouveras un moyen de nous aider. Au revoir.}
+{190}{}{Qu'est-ce qui ne va pas ?}
+{191}{}{Ils ont tué Zimmerman !}
+{192}{}{Euh... Quoi ?}
+{193}{}{...Maintenant on n'a pas le choix, il faut prendre ces armes aux Trafiquants d'armes. Tu vas nous aider ?}
+{194}{}{Oui.}
+{195}{}{Non.}
+{196}{}{Merci. Que les Dieux soient avec toi dans ton voyage.}
+{197}{}{Merci pour toute ton aide. On va envahir Adytum ; on pourrait vraiment utiliser quelqu'un comme toi de notre côté.}
+{198}{}{Non merci, j'ai vu assez d'action cette semaine.}
+{199}{}{Bien sûr, je serais ravi de faire tomber les Régulateurs.}
+{200}{}{Euh... Quoi ?}
+{201}{}{J'aimerais d'abord parler à Zimmerman.}
+{202}{}{Eh bien, merci encore pour ton aide. Au revoir.}
+{203}{}{Super. Allons-y.}
+{204}{}{Je ne pense pas que ce soit une bonne idée, mais tu es libre d'essayer.}
+# 205 fixed with patch 1.3 from TeamX. 240 or 241 will be substituted BEFORE this line.
+{205}{}{Avec les Trafiquants d'armes partis, on n'aura jamais la chance de nous armer. Dégage d'ici ! Tu n'es plus le bienvenu.}
+{206}{}{Je suis désolé.}
+{207}{}{Va te faire foutre.}
+{208}{}{Je vais aller parler à Zimmerman et lui donner cet holodisque. Tout va bien se passer.}
+{209}{}{Tu sais quoi ? Je vais te tuer.}
+{210}{}{Euh... Hein ?}
+{211}{}{Vas-y. C'est ton enterrement. Sans ces flingues, on n'a rien pour nous appuyer.}
+{212}{}{Va-t'en !}
+{213}{}{Tu n'es pas le bienvenu ici.}
+{214}{}{Dégage.}
+{215}{}{Merci.}
+{216}{}{Mon peuple est libre.}
+{217}{}{Bonjour.}
+{218}{}{Qu'est-ce qui t'est arrivé ? On t'a tiré une balle dans la tête ?}
+{219}{}{Hein ?}
+{220}{}{Tu vois : Razor, chef des Lames.}
+{221}{}{Tu vois une très belle femme avec un regard triste.}
+{222}{}{S'il te plaît, va-t'en. Je suis très occupée.}
+{223}{}{Merci de nous avoir aidés avec les Régulateurs. N'hésite pas à rester aussi longtemps que tu veux. Tu devrais voir Miles et Smitty, ils pourront peut-être t'aider pour la suite de ton voyage.}
+{224}{}{Salut, je peux t'aider ?}
+{225}{}{Qui es-tu ?}
+{226}{}{Hootzpah !}
+{227}{}{Je m'appelle Razor, je suis le chef des gens que tu vois ici. On vit ici au gré des Régulateurs d'Adytum.}
+{228}{}{Les Régulateurs ? Je m'en suis occupé. C'est un problème ?}
+{229}{}{Tu les as tous tués ? Ce n'est pas un problème du tout. Mon peuple peut maintenant vivre libre avec les gens d'Adytum.}
+{230}{}{Je n'arrive pas à y croire. Tu as réussi à tous les tuer. Les Lames et moi te remercions.}
+{231}{}{J'ai entendu dire que les Régulateurs contrôlent toujours Adytum. Tu n'as pas réussi à tous les tuer comme tu l'espérais ?}
+{232}{}{Ne t'inquiète pas, je vais m'en occuper.}
+{233}{}{Je ne crois pas que je peux, en fait.}
+{234}{}{On irait avec toi, mais sans armes les Régulateurs nous tueraient tous. Il y aurait peut-être un autre moyen. (Elle réfléchit un moment.) Si tu pouvais convaincre les Trafiquants d'armes de nous fournir des armes, un certain nombre d'entre nous pourrait t'accompagner.}
+{235}{}{Ça marche. Je vais aller leur parler.}
+{236}{}{Je vais essayer de m'occuper des Régulateurs tout seul encore une fois.}
+{237}{}{Rebonjour. J'ai entendu dire que tu t'es amusé avec les Régulateurs. Je voulais te remercier de t'en être débarrassé. Mon peuple pourra vivre avec les gens d'Adytum en liberté maintenant. Parle à Beca (Jade), elle a quelque chose à te dire.}
+{238}{}{Je vais juste m'occuper des Régulateurs moi-même.}
+{239}{}{Vraiment ? Eh bien si tu as besoin d'aide ou si tu réussis, reviens me parler.}
+
+# to male player - space at end of line is intentional
+{240}{}{Salaud ! }
+# to female player - space at end of line is intentional
+{241}{}{Salope ! }

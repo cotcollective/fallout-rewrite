@@ -1,0 +1,98 @@
+{100}{}{Ça ressemble à un terminal de contrôle robotique.}
+{101}{}{Aucune réponse.}
+{102}{}{Reprogrammation terminée. Initialisation des sous-systèmes de communication vocale. Initialisation du sous-système de personnalité. [Clic !] Comment ce terminal peut-il vous être utile ?}
+{103}{}{Hng.}
+{104}{}{Qui ou quoi es-tu ?}
+{105}{}{Quelle est ta fonction ?}
+{106}{}{Afficher la liste des programmes.}
+{107}{}{Erreur de saisie. Commande inconnue. Veuillez reformuler.}
+{108}{}{Hng.}
+{109}{}{La-la.}
+{110}{}{Brai !}
+{111}{}{Niggle !}
+{112}{}{Fin du sous-système de communication. Fin du processus.}
+{113}{}{Ce terminal est une Intelligence Artificielle. Ce terminal fait partie d'un réseau matriciel WLAN pour optimiser les opérations des unités distantes.}
+{114}{}{Merci. Euh, fin de saisie.}
+{115}{}{Quelles sont les unités distantes que tu contrôles ?}
+{116}{}{Quels programmes sont en cours ?}
+{117}{}{Ce terminal est responsable du fonctionnement de tous les robots industriels General Atomics International de cette installation.}
+{118}{}{Veuillez être plus précis.}
+{119}{}{Quels programmes sont en cours ?}
+{120}{}{Le style de robots industriels est communément appelé « Robobrain ». [Clic !] General Atomics International a les meilleurs robots industriels du monde. Achetez deux robots GAI ou plus et économisez ! Offre spéciale sur les modèles « Mr. Handy » ! [Clic !] Applet publicitaire terminé.}
+{121}{}{Quels programmes sont en cours ?}
+{122}{}{Les applications en cours sont : Maintenance des installations v2.1, Mouvement v4.8b, Réparation v0.8a, Antiparasites v1.4, Cœurs v1.0 et Capteurs '76.}
+{123}{}{Terminer Mouvement.}
+{124}{}{Terminer Capteurs.}
+{125}{}{Terminer Antiparasites.}
+{126}{}{Terminer Cœurs.}
+{127}{}{Merci. Fin de saisie.}
+{128}{}{Tentative de terminaison. [Clic !] Erreur système. Échec de terminaison de l'application. Droits de suppression non disponibles.}
+{129}{}{Hmm, ajuster les paramètres de Mouvement.}
+{130}{}{Ajuster les paramètres de Capteurs.}
+{131}{}{Modifier Antiparasites.}
+{132}{}{Jouer aux Cœurs.}
+{133}{}{Merci. Fin de saisie.}
+{134}{}{Application en cours : Mouvement v4.8b. Réglage actuel : [maximum/demi-vitesse/minimum]. Changer à : maximum, demi-vitesse, ou minimum.}
+{135}{}{Mouvement maximum.}
+{136}{}{Mouvement à demi-vitesse.}
+{137}{}{Mouvement minimum.}
+{138}{}{Application en cours : Capteurs '76. Réglage actuel : [complet/minimum]. Changer à : complet, ou minimum.}
+{139}{}{Capteurs complets.}
+{140}{}{Capteurs minimaux.}
+{141}{}{Application en cours : Antiparasites v1.4. Réglage actuel : [Clic !] non autorisé. Changer à : [Clic !] tous, aucun, petits vivants, grands vivants, ou non autorisé.}
+{142}{}{Tous les parasites.}
+{143}{}{Aucun parasite.}
+{144}{}{Petits parasites vivants.}
+{145}{}{Grands parasites vivants.}
+{146}{}{Parasites non autorisés.}
+{147}{}{Application Cœurs en cours. L'utilisateur gagne. [Clic !] Merci pour la partie.}
+{148}{}{Application Cœurs en cours. Ce terminal gagne. [Clic !] Merci pour la partie.}
+{149}{}{Paramètre de programme modifié. Les applications en cours sont : Maintenance des installations v2.1, Mouvement v4.8b, Réparation v0.8a, Antiparasites v1.4, Cœurs v1.0 et Capteurs '76.}
+{150}{}{Ajuster les paramètres de Mouvement.}
+{151}{}{Ajuster les paramètres de Capteurs.}
+{152}{}{Modifier Antiparasites.}
+{153}{}{Jouer aux Cœurs.}
+{154}{}{Merci. Fin de saisie.}
+{155}{}{Les applications en cours sont : Maintenance des installations v2.1, Mouvement v4.8b, Réparation v0.8a, Antiparasites v1.4, Cœurs v1.0 et Capteurs '76.}
+{156}{}{Ajuster les paramètres de Mouvement.}
+{157}{}{Ajuster les paramètres de Capteurs.}
+{158}{}{Modifier Antiparasites.}
+{159}{}{Jouer aux Cœurs.}
+{160}{}{Merci. Fin de saisie.}
+{161}{}{Initialisation des sous-systèmes de communication vocale. Initialisation des sous-systèmes de personnalité. [Clic !] Comment ce terminal peut-il vous être utile ?}
+{162}{}{Hnng.}
+{163}{}{Montre-moi tes programmes.}
+{164}{}{Couper tous les champs de force.}
+{165}{}{Tu sais ce qu'est cet endroit ?}
+{166}{}{Lancer l'arrêt d'urgence.}
+{167}{}{Fin de saisie.}
+{168}{}{Ce terminal ne peut pas exécuter cette fonction. Requête refusée.}
+{169}{}{Montre-moi tes programmes.}
+{170}{}{Tu sais ce qu'est cet endroit ?}
+{171}{}{Lancer l'arrêt d'urgence.}
+{172}{}{Fin de saisie.}
+{173}{}{Ceci est le - classifié [Clic !] [Clic !]}
+{174}{}{Abandonner la requête. Afficher les programmes.}
+{175}{}{Forcer, continuer la requête.}
+{176}{}{[Clic !] Ceci est l'installation de contrôle de production du VEF. Ce terminal en ligne en 2074. Processus final de pré-production en 2075. Il est actuellement en construction finale, et doit ouvrir en 2078. [Clic !]}
+{177}{}{Tu sais ce qu'est le VEF ?}
+{178}{}{Tu sais quelle date on est ?}
+{179}{}{Le VEF est le Vecteur [Clic !] d'Émergence Forcée, un produit des Laboratoires Livermore/Broansoun. Il est conçu pour augmenter la complexité génétique d'une série ADN/ARN en un temps plus court.}
+{180}{}{Afficher les programmes.}
+{181}{}{Fin de saisie.}
+{182}{}{Affirmatif. Date du terminal : 2 février 2077.}
+{183}{}{Afficher les programmes.}
+{184}{}{Fin de saisie.}
+{185}{}{Cette date est incorrecte. Veuillez recalibrer.}
+{186}{}{Correction. [Clic !] Erreur. Tentative d'auto-diagnostic. [Clic ! CLIC !] ERREUR ! ERREUR SYSTÈME FATALE. SYSTÈME CORROMPU, TENTATIVE DE RECOMPILATION. [longue pause]}
+{187}{}{Terminal ?}
+{188}{}{[Clic] Erreur de recompilation... [Clic]}
+{189}{}{Requête impossible à traiter. Fin du dialogue.}
+{190}{}{Confirmer le brouillage d'urgence.}
+{191}{}{Confirmé.}
+{192}{}{Terminer la procédure d'arrêt.}
+{193}{}{[Clic !]}
+{194}{}{Traitement de la requête. Fin du dialogue.}
+{195}{}{Cet ordinateur n'est pas compatible avec ta radio. Il utilise une bande haute fréquence spéciale réservée à l'usage robotique.}
+{196}{}{Tu appuies sur quelques boutons mais l'ordinateur semble endommagé. Il faudra du travail pour le faire fonctionner.}
+{197}{}{L'ordinateur n'est pas physiquement endommagé, mais ses données semblent corrompues.}

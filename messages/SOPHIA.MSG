@@ -1,0 +1,112 @@
+{100}{}{Tu vois : Sophia, instructrice des Initiés de la Confrérie.}
+{101}{}{D'accord, est-ce que quelqu'un a des questions ?}
+{102}{}{N'oubliez pas de poser des questions si vous ne comprenez pas quelque chose. Ne soyez pas timides.}
+{103}{}{Relisez vos notes.}
+{104}{}{On aura un autre test demain pour ceux d'entre vous qui sont à la section 14.}
+{105}{}{Je suis désolée, mais je peux pas parler pour l'instant. J'ai un cours à donner.}
+{106}{}{Je crois que tu as quelque chose pour moi.}
+{107}{}{Oui. Tiens.}
+{108}{}{Oui, mais je l'ai pas sur moi pour l'instant.}
+{109}{}{Toi.}
+{110}{}{Je suis désolée, mais j'ai un cours à donner. Ne me dérange pas, s'il te plaît.}
+{111}{}{Tu devrais pas être ici. Vree aime pas être dérangée la nuit. C'est l'heure où on médite.}
+{112}{}{On médite. Pars, s'il te plaît. Reviens demain matin.}
+{113}{}{Laisse-nous.}
+{114}{}{Un peu de respect. Ne dérange pas quelqu'un pendant qu'il médite.}
+{115}{}{Vous les Initiés avez beaucoup à apprendre. Pars, s'il te plaît.}
+{116}{}{Ne me dérange pas.}
+{117}{}{On n'est pas disponibles la nuit. Reviens nous voir demain matin.}
+{118}{}{C'est la nuit. Tu devrais être au lit, sauf si tu es de garde, auquel cas tu devrais être à ton poste.}
+{200}{}{Bonjour Initié. Comment je peux t'aider ?}
+{201}{}{Je crois que tu as quelque chose pour moi ?}
+{202}{}{Oui, tiens.}
+{203}{}{Oui, mais je l'ai pas sur moi pour l'instant.}
+{204}{}{Moi ? Non, désolée. Tu dois me confondre avec quelqu'un d'autre.}
+{205}{}{Uk.}
+{206}{}{Merci beaucoup. C'était gentil de les déposer.}
+{207}{}{Euh, merci. Ça va ? Bon, en tout cas, c'était gentil de les déposer.}
+{208}{}{Ma recherche aurait été retardée sans eux. C'est bon de voir qu'on a un Initié aussi digne de confiance. Je savais que prendre un étranger serait pas une mauvaise décision. Si tu vas voir Michael, il aura quelque chose pour toi.}
+{301}{}{Salutations. Je t'ai jamais vu ici, t'es perdu ? Je peux t'être utile ?}
+{302}{}{Euh...}
+{303}{}{Tu pourrais m'indiquer la bibliothèque ?}
+{304}{}{Je cherche Vree.}
+{305}{}{C'est quoi cet endroit ?}
+{306}{}{Si j'étais perdu, je demanderais pas de l'aide à un idiot comme toi !}
+{307}{}{Je peux pas croire le genre de gens qu'on accepte comme Initiés ces temps-ci. Dieu nous aide.}
+{308}{}{Ici c'est la bibliothèque. On y garde les archives de toutes les données techniques sur l'armement et la technologie, et, bien sûr, l'histoire de la Confrérie.}
+{309}{}{J'ai besoin de faire réparer une Puce d'eau. Tu peux m'aider ?}
+{310}{}{J'aimerais en savoir plus sur les armes que vous fabriquez ici.}
+{311}{}{C'est ici que je trouverais des holodisques ?}
+{312}{}{Laisse tomber, merci pour ton temps.}
+{313}{}{Je cherche un gros flingue pour améliorer mes talents de tueur.}
+{314}{}{Je suis l'assistante de Vree. Vree est là-bas.}
+{315}{}{Merci.}
+{316}{}{Tu fais quoi comme assistante de Vree ?}
+{317}{}{Mon domaine d'expertise c'est l'histoire de la Confrérie. On dirait un problème de fabrication, tu devrais peut-être demander à Vree ?}
+{318}{}{Je croyais que les Scribes savaient ce genre de trucs.}
+{319}{}{J'aimerais en savoir plus sur l'histoire de la Confrérie.}
+{320}{}{Tu m'aides beaucoup, toi !}
+{321}{}{D'accord, merci pour ton aide.}
+{322}{}{Tu dois parler à Vree, la Scribe en Chef, pour ça. J'ai des choses plus importantes à faire.}
+{323}{}{Je vais aller demander à Vree.}
+{324}{}{Des choses plus importantes à faire ? Comme quoi ?}
+{325}{}{Tu considères pas l'armement de la Confrérie comme important ?}
+{326}{}{On a beaucoup d'holodisques ici à la bibliothèque. Ils sont divisés entre histoire, technologie et conception d'armes.}
+{327}{}{J'aimerais voir un holodisque sur votre technologie.}
+{328}{}{J'aimerais voir un holodisque sur la conception d'armes.}
+{329}{}{J'aimerais voir un holodisque sur l'histoire de la Confrérie.}
+{330}{}{On m'a envoyé ici pour demander à Vree l'histoire de la Confrérie.}
+{331}{}{Mon domaine de spécialité c'est l'histoire de la Confrérie. On dirait que certains ici ont oublié l'importance de notre histoire.}
+{332}{}{Qu'est-ce que tu peux me dire sur l'histoire de la Confrérie ?}
+{333}{}{Qu'est-ce qui pourrait être plus important que l'histoire ?}
+{334}{}{Ça doit être ta période du mois, hein ?}
+{335}{}{J'aimerais demander à quelqu'un pour les armes.}
+{336}{}{Comme garder l'histoire de la Confrérie. On dirait que certains ici ont oublié à quel point notre histoire est importante.}
+{337}{}{Vree semble penser que la recherche de nouvel armement et les informations tirées des autopsies de mutants sont plus importantes que notre histoire. Elle a oublié que notre histoire est une partie vitale de nos vies. C'est devenu si grave que beaucoup de nouveaux Initiés savent même pas qui est Roger Maxson ni ce qu'il a fait pour nous.}
+{338}{}{J'aimerais en apprendre plus sur l'histoire de la Confrérie. T'as des informations à me donner ?}
+{339}{}{Hmmm, on dirait que Vree est la personne à qui je veux parler. Au revoir.}
+{341}{}{On dirait que Vree a raison ! Qui a besoin de connaître ces conneries de toute façon !?!}
+{342}{}{Je suis d'accord que l'histoire est importante, mais la nouvelle technologie et de meilleures armes, c'est ce que je cherche.}
+{343}{}{Tu dois parler à Vree pour ce genre de choses.}
+{344}{}{Ce sont des choses auxquelles seuls les Scribes et les Paladins ont accès. Vree pourra peut-être t'aider.}
+{345}{}{Merci, je vais aller demander à Vree.}
+{346}{}{Y a des holodisques auxquels je peux avoir accès ?}
+{347}{}{T'es visiblement pas la bonne personne à qui parler. Au revoir.}
+{348}{}{Eh bien, ça fait plaisir de voir quelqu'un qui s'intéresse à notre grande histoire. Contrairement à d'autres ici. Tiens. C'est un disque avec quelques-uns de nos premiers écrits.}
+{349}{}{Merci.}
+{350}{}{Je m'en fous de ces conneries. Merci pour rien.}
+{351}{}{Notre histoire est accessible à tous. Pour qu'ils apprennent notre grande histoire... Pas que quelqu'un les regarde jamais.}
+{352}{}{J'aimerais voir tout ce que vous avez sur l'histoire de la Confrérie.}
+{353}{}{Vraiment ? Moi non plus, montre-moi juste les flingues.}
+{354}{}{Salutations. Je t'ai jamais vu ici, t'es perdu ? Je peux t'être utile ?}
+{355}{}{Euh...}
+{356}{}{Tu pourrais m'indiquer la bibliothèque ?}
+{357}{}{On m'a envoyé ici pour parler à Vree de l'histoire de la Confrérie.}
+{358}{}{Si j'étais perdu, je demanderais pas de l'aide à un idiot comme toi !}
+{359}{}{T'es pas allé loin avec ça, hein ? Vree est trop occupée avec ses « expériences » pour se soucier encore de l'histoire.}
+{360}{}{Eh bien, alors à qui je peux parler de l'histoire de la Confrérie ?}
+{361}{}{Ouais, la Confrérie semble remplie d'idiots.}
+{362}{}{Moi non plus. Au revoir.}
+{363}{}{Je te parlerai pas.}
+{364}{}{Comment je peux t'aider ?}
+{365}{}{Tu fais quoi ici ?}
+{366}{}{Tu pourrais me parler de l'histoire de la Confrérie.}
+{367}{}{Désolée, je te prenais pour quelqu'un d'autre. Au revoir.}
+{368}{}{Je suis l'assistante de Vree.}
+{369}{}{Merci.}
+{370}{}{Tu fais quoi comme assistante de Vree ?}
+{371}{}{Eh bien, ça fait plaisir de voir quelqu'un qui s'intéresse à notre grande histoire. Contrairement à d'autres ici. Tiens. C'est un disque avec quelques-uns de nos premiers écrits.}
+{372}{}{Merci.}
+{373}{}{Je m'en fous de ces conneries. Merci pour rien.}
+{374}{}{Je t'ai donné le disque avec quelques-uns de nos premiers écrits dessus. Charge-le juste dans ton Pip-Boy 2000 et tu pourras le lire.}
+{375}{}{Merci.}
+{376}{}{Je m'en fous de ces conneries. Merci pour rien.}
+{377}{}{J'aime pas ton attitude, et je choisis de ne pas te parler.}
+{378}{}{Soit. Au revoir !}
+{379}{}{Je suis désolée, j'ai été très impolie et je m'excuse.}
+{380}{}{J'accepte tes excuses. Maintenant comment je peux t'aider ? }
+{381}{}{Tu fais quoi ici ?}
+{382}{}{Tu pourrais me parler de l'histoire de la Confrérie.}
+{383}{}{Désolée, je te prenais pour quelqu'un d'autre. Au revoir.}
+{384}{}{Je suis l'assistante de Vree. Vree est au Centre d'Apprentissage.}
+{400}{}{Tu vois une instructrice des Initiés de la Confrérie.}
