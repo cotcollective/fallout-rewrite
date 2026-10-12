@@ -1,7 +1,7 @@
 {100}{}{Tu vois un conducteur de caravane.}
 {101}{}{Salut, si tu cherches du boulot sur une de nos caravanes, tu devrais parler à la Grande Marchande. Elle est dans le bâtiment à l'est.}
 {102}{}{Désolée, mais tu dois parler à la Grande Marchande.}
-{103}{}{Bien, t'as eu le feu vert. Je savais que ce serait pas un problème. Elle est tellement débordée ces temps-ci, depuis que Daren Hightower a commencé à se terrer dans son bureau. Drôle de type. On part à peu près tous les cinq jours. C'est le 1er, le 5, le 10, le 15, le 20 et le 25. Pour l'instant on va seulement à Junktown et à Boneyard.}
+{103}{}{Bien, t'as eu le feu vert. Je savais que ce serait pas un problème. Elle est tellement débordée ces temps-ci, depuis que Daren Hightower a commencé à se terrer dans son bureau. Drôle de type. On part à peu près tous les cinq jours. C'est le 1er, le 5, le 10, le 15, le 20 et le 25. Pour l'instant on va seulement à Junktown et à le Cimetière.}
 {104}{}{Alors, c'est payé combien ?}
 {105}{}{Euh.}
 {106}{}{Notre paie, c'est 200 capsules. C'est pas terrible, mais on part souvent et nos routes sont pas trop dangereuses et oui, comme tout le monde, c'est pour chaque trajet, mais bien sûr t'es pas obligé de faire l'aller-retour. }
@@ -56,13 +56,13 @@
 {155}{}{Désolée, je peux pas attendre.}
 {156}{}{C'est une tragédie. On a perdu toute la caravane, mais t'as survécu ? Ça aurait pas dû arriver. Je sais pas ce qui s'est passé là-bas, mais on peut plus t'embaucher. Désolée.}
 {157}{}{Junktown}
-{158}{}{Boneyard}
+{158}{}{le Cimetière}
 {159}{}{Euh, pas maintenant. Peut-être une autre fois.}
 {160}{}{Formidable, je vais chercher le reste de l'équipage.}
 {161}{}{Super.}
 {162}{}{En route. Bonne chance !}
 {163}{}{Essaie d'éviter les ennuis, va pas les chercher.}
-{164}{}{Fais attention, j'aime pas l'air de Boneyard. C'est glauque.}
+{164}{}{Fais attention, j'aime pas l'air de le Cimetière. C'est glauque.}
 {165}{}{C'est bien. Ces passerelles noires sont vraiment étranges, mais elles sont super pour voyager.}
 {166}{}{Je crois qu'il y a des gangs là-bas. Je ferais bien attention à qui tu parles.}
 {167}{}{Super. Junktown, c'est un endroit correct.}
@@ -116,5 +116,5 @@
 {215}{}{Décembre }
 
 # invasion - WastelandGhost@RestorationMOD
-{300}{}{Bien, t'as eu le feu vert. Je savais que ce serait pas un problème. Elle est tellement débordée ces temps-ci, depuis que Daren Hightower a commencé à se terrer dans son bureau. Drôle de type. On part à peu près tous les cinq jours. C'est le 1er, le 5, le 10, le 15, le 20 et le 25. On va seulement à Junktown pour l'instant. Y avait des rumeurs d'invasion de mutants à Boneyard, alors on y va plus.}
+{300}{}{Bien, t'as eu le feu vert. Je savais que ce serait pas un problème. Elle est tellement débordée ces temps-ci, depuis que Daren Hightower a commencé à se terrer dans son bureau. Drôle de type. On part à peu près tous les cinq jours. C'est le 1er, le 5, le 10, le 15, le 20 et le 25. On va seulement à Junktown pour l'instant. Y avait des rumeurs d'invasion de mutants à le Cimetière, alors on y va plus.}
 

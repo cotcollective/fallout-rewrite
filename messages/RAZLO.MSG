@@ -56,7 +56,7 @@
 {155}{}{Merci.}
 {156}{}{Tu sembles bien éduqué. Qu'est-ce que tu fais ici ?}
 {157}{}{Autre chose ?}
-{158}{}{Ils semblent sensibles à la lumière. Nocturnes. Si je pouvais obtenir un échantillon de leur venin, en particulier la poche à venin située dans leur queue, je pourrais créer un antivenin.}
+{158}{}{Ils semblent sensibles à la lumière. Nightkin. Si je pouvais obtenir un échantillon de leur venin, en particulier la poche à venin située dans leur queue, je pourrais créer un antivenin.}
 {159}{}{Merci.}
 {160}{}{Doc Morbid à Junktown m'a appris deux-trois trucs. Et ce n'est pas parce qu'on vit dans des huttes de pierre qu'on est moins intelligents ou éduqués. Bonne journée.}
 {161}{}{Fais-moi voir la poche ! Oui, je peux en faire quelque chose.}
