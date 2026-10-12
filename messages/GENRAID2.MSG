@@ -1,0 +1,47 @@
+{100}{}{Le pillard a trop peur de Garl pour te parler davantage.}
+{101}{}{Tu vois un coriace pillard du désert.}
+{102}{}{C'est la Main-de-Mort. Il est revenu !}
+{103}{}{Excuse-moi, Main-de-Mort. Désolé de te déranger.}
+{104}{}{Tu es revenu pour tuer ton fils ?}
+{105}{}{Aiyeee ! Un fantôme !}
+{106}{}{Les morts marchent à nouveau ! La Main-de-Mort est revenue !}
+{107}{}{Bien le bonjour.}
+{108}{}{Salut.}
+{109}{}{J'attends que Garl écrase Shady Sands. Je veux du butin.}
+{110}{}{Bienvenue, ami.}
+{111}{}{Je suis content que tu aies pu revenir nous voir.}
+{112}{}{À moins que tu veuilles des ennuis, tu ferais mieux de ranger ça.}
+{113}{}{Tu veux faire la fête ? Sinon, range ton arme.}
+{114}{}{Oh, un coriace, hein ?}
+{115}{}{Garl Main-de-Mort aime ses guerriers. Range ce truc et va lui parler.}
+{116}{}{Alors, tu te crois coriace, hein ? Touche-moi et on verra bien tous les deux.}
+{117}{}{J'aime pas ta tronche.}
+{118}{}{Va-t'en !}
+{119}{}{Qu'est-ce que tu veux ?}
+{120}{}{Je cherche une femme nommée Tandi. Tu l'as vue ?}
+{121}{}{Rien. Je regarde juste.}
+{122}{}{Hein ?}
+{123}{}{Oh. Tu dois chercher du boulot. Va voir Garl dans la grande salle et laisse-nous tranquilles.}
+{124}{}{Alors fais-le ailleurs.}
+{125}{}{Nan, je l'ai pas vue. Pourquoi tu demandes ?}
+{126}{}{Rien. Je cherche juste une amie à moi.}
+{127}{}{Il y a une prime sur sa tête. Si je peux la tuer, je peux me faire du bon fric.}
+{128}{}{Tu mens. Elle est où ?}
+{129}{}{Ah, d'accord.}
+{130}{}{Vraiment ? Elle ressemble à quoi ?}
+{131}{}{Environ 1m80. Blonde. Elle vient de Shady Sands.}
+{132}{}{Ouais, elle est ici. Elle est dans la grande maison. Tu sais, si on le dit à Garl, il voudra sa part de la prime. Tu devrais y réfléchir.}
+{133}{}{On dirait pas que tu le penses. Je crois que tu manigances quelque chose. Et si tu dis la vérité, alors je garderai la récompense pour moi.}
+{134}{}{Je... je peux rien dire de plus, ou Garl me tuera.}
+{135}{}{Va te faire voir !}
+{136}{}{J'aime pas ta tronche. Tu ferais mieux de t'éloigner de moi.}
+{137}{}{Quoi ? Va-t'en !}
+#
+# Fallout Fixt:
+#
+{200}{}{Il a l'air aguerri par le combat et habitué à la dure vie du désert.}
+{201}{}{Son langage corporel en dit plus que son expression. Les deux sont pas très sympas.}
+{202}{}{Il te ricane au nez et resserre sa prise sur son arme.}
+{203}{}{Elle a l'air aguerrie par le combat et habituée à la dure vie du désert.}
+{204}{}{Tu as l'impression que "dame" ne serait pas un mot approprié pour cette femme.}
+{205}{}{Elle fait un geste obscène des hanches et te fait un clin d'œil.}

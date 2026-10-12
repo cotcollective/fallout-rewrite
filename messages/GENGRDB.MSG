@@ -1,0 +1,5 @@
+{100}{}{Ton arrivée tombe à pic, ami. Bon voyage et sans danger.}
+{101}{}{On pourrait utiliser ton aide !}
+{102}{}{Je vais te tuer !}
+{103}{}{Laisse-moi tranquille !}
+{104}{}{Protégez la caravane !}

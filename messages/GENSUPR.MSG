@@ -1,0 +1,28 @@
+{100}{}{Commandement, ici le Corps de garde. Tout est dégagé. Terminé.}
+{101}{}{Mort à toi !}
+{102}{}{Intrus !}
+{103}{}{Hu-main !}
+{104}{}{Halte. Zone interdite. Toi pas être ici.}
+{105}{}{Tu ferais mieux de te rendre.}
+{106}{}{Toi arrêter. Moi emmener au Lieutenant. Viens en paix ou meurs.}
+{107}{}{Luggi !}
+{108}{}{Meurs, engeance de l'enfer !}
+{109}{}{Je suis venu parler à ton Maître.}
+{110}{}{Je suis un mutant spécial en mission pour ton Maître. Laisse-moi passer ou affronte les conséquences.}
+{111}{}{Je suis avec la Cathédrale. Laisse-moi passer.}
+{112}{}{Meurs !}
+{113}{}{Comme tu veux.}
+{114}{}{Très bien. À mort alors.}
+{115}{}{Bien. Viens avec moi, pas de trucs rigolos.}
+{116}{}{D'accord. Allons-y.}
+{117}{}{Des trucs rigolos ? Mais tu vas avoir l'air si drôle quand je vais te mettre en boîte !}
+{118}{}{Je te crois pas.}
+{119}{}{Je crois pas.}
+{120}{}{Non. Toi humain. Toi mourir.}
+{121}{}{Si tu mens, moi te tuer.}
+{122}{}{Oh, d'accord. Circule.}
+{123}{}{Euh, d'accord. Je suppose. Tu ferais peut-être mieux de voir le Lieutenant.}
+{124}{}{Tu as tué mon frère. J'aurai ma vengeance !}
+{125}{}{Mort à toi !}
+{126}{}{Meurtrier !}
+{127}{}{Tueur !}

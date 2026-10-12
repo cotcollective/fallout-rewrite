@@ -1,0 +1,9 @@
+{100}{}{Tu vois un marchand du convoi des Far Go Traders.}
+{101}{}{Tu vois un marchand du convoi de la Caravane Cramoisie.}
+{102}{}{Tu vois un marchand du convoi des Marchands d'Eau.}
+{103}{}{Tu veux retourner au Hub ? Je te paierai 400 capsules de plus.}
+{104}{}{Tu veux retourner au Hub ? Je te paierai 600 capsules de plus.}
+{105}{}{Tu veux retourner au Hub ? Je te paierai 200 capsules de plus.}
+{106}{}{Oui.}
+{107}{}{Non.}
+{108}{}{Beurk.}

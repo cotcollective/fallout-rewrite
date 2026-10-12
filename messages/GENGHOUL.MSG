@@ -1,0 +1,45 @@
+{100}{}{Tu vois une goule zombie.}
+{101}{}{Tu vois : Zombie.}
+{102}{}{Ugh.}
+{103}{}{Brrrrraaiinsss}
+{104}{}{Buuuu...}
+{105}{}{Uuhnnng..}
+{106}{}{Grrr !}
+{107}{}{Uungh.}
+{108}{}{Mmmuuh...}
+{109}{}{Arrrr !}
+{110}{}{Grrrrr !}
+{111}{}{*gémissement*}
+{112}{}{*gargouillis*}
+{113}{}{Mmmmmmm.}
+{114}{}{*gémissement*}
+
+# Examining the ghouls, restored from original Fallout files
+
+{200}{}{Tu examines la pauvre chose, mais tu n'arrives pas à comprendre ce qui a pu la rendre ainsi.}
+{201}{}{Elle semble avoir été humaine autrefois, ou du moins descendre d'humains. Tu devines que la détérioration du corps est très probablement due à l'acide ou aux radiations.}
+{202}{}{Le corps de l'humanoïde semble hautement irradié, mais fonctionne toujours. Bien qu'autrefois humain, il semble être revenu à un mode de vie plus animal.}
+{203}{}{Le corps de l'humanoïde semble hautement irradié, et une grande partie des muscles et de la matière cérébrale s'est détériorée. Cependant, des indicateurs génétiques te portent à croire qu'il descend, comme toi, de ceux qui sont entrés dans les Abris.}
+{204}{}{Cette pauvre chose est hautement irradiée. Tu ne peux déterminer si elle est devenue folle à force d'être en cage, ou si elle a simplement perdu trop de matière cérébrale à cause des radiations.}
+{205}{}{Le corps de l'humanoïde semble hautement irradié, mais il a conservé assez de matière cérébrale et de fonction motrice pour pouvoir parler clairement.}
+
+# Messages when getting rads during combat with irradiated critters (glowing ones, radrats, etc)
+# Listed in different formats, in case I want to implemented user choice of how it displays. --Sduibek
+
+#Not currently used:
+{300}{}{Tu reçois une petite dose de radiation.}
+{301}{}{Tu reçois une dose modérée de radiation.}
+{302}{}{Tu reçois une forte dose de radiation.}
+
+#Not currently used:
+{303}{}{Tu as été légèrement irradié.}
+{304}{}{Tu as été irradié.}
+{305}{}{Tu as été modérément irradié.}
+{306}{}{Tu as été fortement irradié.}
+
+# THIS IS THE FORMAT CURRENTLY USED:
+
+{1004}{}{Tu as reçu une légère dose de radiation.}
+{1005}{}{Tu as reçu une petite dose de radiation.}
+{1006}{}{Tu as reçu une dose modérée de radiation.}
+{1007}{}{Tu as reçu une forte dose de radiation.}

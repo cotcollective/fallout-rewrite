@@ -1,0 +1,9 @@
+{100}{}{Tu vois : Holodisque.}
+{101}{}{Le Pip-Boy 2000 affiche : "Téléchargement des données ... ... ... Terminé. Bonne journée !"}
+{102}{}{Ça semble avoir été un disque avec une sorte de divertissement dessus.}
+{103}{}{Le disque a été trop horriblement endommagé pour te permettre d'y lire quoi que ce soit.}
+{104}{}{Ce disque semble parler d'un code d'accès sur un autre disque.}
+{105}{}{Tu vois un petit écran apparaître et montrer les restes d'un vieux film de la Seconde Guerre mondiale.}
+#
+{106}{}{Le disque est vide.}
+{107}{}{Tu jettes le disque.}

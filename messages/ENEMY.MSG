@@ -1,0 +1,8 @@
+{100}{}{Je veux pas te parler.}
+{101}{}{Va-t'en.}
+{102}{}{Laisse-moi tranquille !}
+{103}{}{Quelqu'un devrait faire quelque chose à ton sujet.}
+{104}{}{Tire-toi d'ici, connard.}
+{105}{}{Je veux rien avoir à faire avec toi.}
+{106}{}{J'ai pas le droit de parler aux étrangers.}
+{107}{}{Va-t'en, je veux pas te parler !}

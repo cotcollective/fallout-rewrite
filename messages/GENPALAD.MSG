@@ -1,0 +1,17 @@
+{100}{}{Tu vois un Paladin.}
+{101}{}{Désolé, je peux pas parler, Initié.}
+{102}{}{Bonjour.}
+{103}{}{Tu savais qu'on peut survivre des semaines sans eau dans une Armure Assistée ?}
+{104}{}{Tu n'aimes pas un bon combat ?}
+{105}{}{J'aime vraiment les nouveaux fusils laser, mais les vieux pistolets laser sont mes préférés.}
+{106}{}{Les patrouilles de nuit sont très dangereuses. Je ne m'aventurerais pas trop loin la nuit si j'étais toi.}
+{107}{}{Fais attention, c'est un monde mortel dehors.}
+{108}{}{Je crois que mon armure a une tache !}
+{109}{}{La Confrérie est géniale. Je n'ai aucune expérience en dehors, mais ça ne pourrait pas être mieux que ça.}
+{110}{}{Bonjour, Initié.}
+{111}{}{Si tu as besoin de quoi que ce soit, tu devrais parler à Vree.}
+{112}{}{Vree est juste là-bas si tu as besoin de parler à quelqu'un.}
+{113}{}{Je dois trouver du temps entre les patrouilles et l'entraînement pour suivre mes études. Je crois que je rouille un peu.}
+{114}{}{Tu dois garder ton esprit et ton corps en parfait état en tout temps, Initié.}
+{115}{}{Être Paladin, c'est pas que du combat, mon fils.}
+{116}{}{Être Paladin, c'est pas que du combat, ma dame.}

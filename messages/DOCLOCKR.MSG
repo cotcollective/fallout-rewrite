@@ -1,0 +1,12 @@
+{100}{}{Le casier est verrouillé.}
+{101}{}{Tu repères un piège sur le casier, et tu le désamorces.}
+{102}{}{Tu repères un piège sur le casier, mais tu n'arrives pas à le désamorcer.}
+{103}{}{Tu repères un piège sur le casier, et tu le déclenches accidentellement !}
+{104}{}{Tu désamorces le piège.}
+{105}{}{Tu n'arrives pas à désamorcer le piège.}
+{106}{}{Tu as accidentellement déclenché le piège !}
+{107}{}{Tu déverrouilles le casier.}
+{108}{}{Tu n'arrives pas à contourner la serrure du casier.}
+{109}{}{Le casier est déjà déverrouillé.}
+{110}{}{En tripotant la serrure, tu coinces les goupilles. Impossible de crocheter cette serrure maintenant.}
+{111}{}{Tu remarques un engin explosif rudimentaire sur le casier.}

@@ -1,0 +1,13 @@
+{100}{}{On n'est pas là pour parler.}
+{101}{}{Je te suivrai jusqu'à la mort.}
+{102}{}{C'est un boulot assez important, hein ?}
+{103}{}{Nicole dit qu'on doit faire un maximum de dégâts.}
+{104}{}{Qui je dois tuer ensuite ?}
+{105}{}{Qu'est-ce qu'on fait à bavarder ?}
+{106}{}{J'aime pas ces trous-du-cul en robe marron, merci bien.}
+{107}{}{Ça pourrait être dangereux.}
+{108}{}{Temps de partir.}
+{109}{}{Cet endroit ressemble à de la merde sur un mur.}
+{110}{}{Je crois que je vais vomir.}
+{111}{}{Nicole nous a dit de revenir dès que tu aurais quitté la Cathédrale.}
+{112}{}{Content de te voir. Allons-y.}

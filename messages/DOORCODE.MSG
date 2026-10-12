@@ -1,0 +1,2 @@
+{100}{}{Bien que cette cassette soit endommagée au point d'être inutilisable, on peut lire une inscription gravée sur le plastique : KODE 010597}
+{101}{}{Tu vois un holodisque en très mauvais état.}

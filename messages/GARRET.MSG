@@ -1,0 +1,33 @@
+{100}{}{Tu vois : Garret.}
+{101}{}{Tu ne devrais pas être ici pendant la journée ; ça rend Set malheureux. Reviens la nuit.}
+{102}{}{Oh, d'accord.}
+{103}{}{Il devrait apprendre à gérer ses problèmes.}
+{104}{}{C'est pas important. Ce qui est important, c'est que je lui parle.}
+{105}{}{Tu devrais parler à Set.}
+{106}{}{Tu reçois : un fusil à pompe, 10 cartouches, 4 fusées éclairantes, 4 bouteilles de Nuka-Cola, et 200 capsules.}
+{107}{}{Tu reçois : un fusil à pompe, 10 cartouches et 100 capsules.}
+{108}{}{Tu reçois : 4 fusées éclairantes, 4 bouteilles de Nuka-Cola, et 50 capsules.}
+{109}{}{Tu ferais mieux de partir maintenant.}
+{110}{}{À plus tard.}
+{111}{}{C'est tout ce que j'ai ? Je mérite plus, et tu ferais mieux de me le donner !}
+{112}{}{Yerg.}
+{113}{}{Tu dois partir d'ici... immédiatement.}
+{114}{}{Suis-moi. Je vais m'occuper de ta récompense.}
+{115}{}{J'espère pas, pour ton bien. Set n'était pas très content d'avoir à t'utiliser. Ce serait une bonne idée de quitter Nécropolis... bientôt.}
+{116}{}{Je t'ai dit de partir.}
+{117}{}{Peu importe.}
+{118}{}{Peut-être. Hmm. Tiens, prends ça aussi.}
+{119}{}{Tu reçois 100 capsules.}
+{120}{}{Maintenant pars.}
+{121}{}{Hmm. Il manque des trucs dans le frigo. On dirait qu'on s'est fait voler.}
+{200}{}{Garret t'ignore.}
+{201}{}{Voici ta récompense.}
+{202}{}{Tu reçois une grosse récompense.}
+{203}{}{Tu reçois : }
+{204}{}{un fusil à pompe}
+{205}{}{des cartouches}
+{206}{}{des fusées éclairantes}
+{207}{}{une fusée éclairante}
+{208}{}{quelques bouteilles de Nuka-Cola}
+{209}{}{une bouteille de Nuka-Cola}
+{210}{}{ capsules}

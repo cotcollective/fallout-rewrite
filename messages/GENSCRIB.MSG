@@ -1,0 +1,24 @@
+{100}{}{Tu vois un Scribe.}
+{101}{}{Vree est mon idole.}
+{102}{}{Vree est si jolie.}
+{103}{}{Sophia est vraiment sympa.}
+{104}{}{Derek est cool.}
+{105}{}{Est-ce que l'univers continuera à s'étendre ou finira-t-il par s'effondrer sur lui-même ?}
+{106}{}{J'adore ces vieux livres et magazines, mais ils sont si durs à trouver.}
+{107}{}{Le savoir, c'est le pouvoir.}
+{108}{}{La plume est plus forte que l'épée.}
+{109}{}{La technologie doit être préservée.}
+{110}{}{La science, c'est tellement amusant.}
+{111}{}{J'ai déjà vu un vaisseau spatial extraterrestre.}
+{112}{}{Tu savais que le soleil est en fait une grosse réaction nucléaire ?}
+{113}{}{Tu savais qu'un trou noir est en fait une ouverture vers un autre univers ?}
+{114}{}{Tu savais que l'atome d'hydrogène est vide à 99,9843425 % ?}
+{115}{}{Le voyage dans le temps sera un jour possible et on pourra peut-être empêcher le désastre qui a ruiné notre monde dans le passé.}
+{116}{}{La recherche est une de mes activités préférées. J'ai l'impression d'essayer de résoudre un mystère.}
+{117}{}{Être Scribe, c'est le top. Tu peux étudier toutes les vieilles technologies et essayer d'en développer de nouvelles.}
+{118}{}{Ces terminaux pourraient utiliser une amélioration. Peut-être qu'on devrait mettre l'écran par ici ?}
+{119}{}{Désolé, je suis en plein milieu d'une percée possible. Je peux pas parler là tout de suite.}
+{120}{}{Hé Initié. Tu devrais t'entraîner pour devenir Scribe, si t'as pas encore décidé.}
+{121}{}{Nous les Scribes, on conçoit tout l'équipement, les armes et les fournitures. C'est assez excitant.}
+{122}{}{S'il te plaît, ne me dérange pas, j'essaie de finir mes recherches.}
+{123}{}{C'est Vree juste là, elle est aussi Scribe.}

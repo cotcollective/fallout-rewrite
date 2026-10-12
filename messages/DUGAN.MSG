@@ -1,0 +1,26 @@
+{100}{}{Tu vois : Dugan, le drogué au Nuka-Cola des Lames.}
+{101}{}{Tu vois un homme très grand et mince avec des lunettes. Il tient une bouteille de Nuka-Cola serrée dans sa main.}
+{102}{}{Oui ?}
+{103}{}{Je regarde juste, merci.}
+{104}{}{Qu'est-ce que tu fais par ici ?}
+{105}{}{C'est quoi, avec le Nuka-Cola ?}
+{106}{}{C'est qui le chef par ici ?}
+{107}{}{Ah, laisse tomber.}
+{108}{}{Dah, Cola, bon ?}
+{109}{}{Bon, alors arrête de me faire perdre mon temps.}
+{110}{}{Je pontifie beaucoup sur la vie, et j'aide les Lames à comprendre le vrai sens du Nuka-Cola.}
+{111}{}{Qu'est-ce qu'il a de si bon, le Nuka-Cola ?}
+{112}{}{C'est tout ? Ça a pas l'air d'aider grand monde.}
+{113}{}{T'en bois combien, de ce truc ?}
+{114}{}{Je peux te demander autre chose ?}
+{115}{}{Ah, d'accord. On se reverra.}
+{116}{}{C'est le nectar de la vie... Enfin, en fait, si j'en bois pas toutes les heures, j'ai un mal de tête à me fendre le crâne.}
+{117}{}{Alors ? (Il lève les sourcils vers toi.)}
+{118}{}{Environ 5 litres par jour.}
+{119}{}{C'est à Razor que tu voudras parler.}
+{120}{}{Je suis la personne la plus stupide que j'aie jamais rencontrée — enfin, à part toi. Tire-toi d'ici !}
+{121}{}{Il me faut un autre Nuka-Cola !}
+{122}{}{Où sont passés mes cheveux ?!}
+{123}{}{Eau gazéifiée, colorant caramel, aspartame, acide phosphorique, benzoate de potassium (pour protéger le goût), arômes naturels, acide citrique, caféine...}
+{124}{}{Dommage qu'on ait plus de Light.}
+{125}{}{Où sont passées ces petites femmes ?}

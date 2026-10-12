@@ -1,0 +1,14 @@
+{100}{}{Tu vois un chantre des Enfants.}
+{101}{}{Le Maître pardonnera tes péchés ! Rejoins-nous et sois libre ! Gloire au Maître et à sa miséricorde !}
+{102}{}{Salut l'ami ! Tu veux chanter un chant de louange avec moi ? ...Un jour j'errais aveugle, dans un pays si cruel...}
+{103}{}{Je déteste interrompre ton hymne, mais où pourrais-je rencontrer le Maître ?}
+{104}{}{Ne quitte pas ton boulot de jour.}
+{105}{}{Qui est le chef ici ?}
+{106}{}{...mais maintenant je baise le cul du Maître...}
+{107}{}{Joyeux ! Joyeux ! Moi chanter chanson bien !}
+{108}{}{Il te trouve quand et où tu t'y attends le moins ! Gloire au Maître ! Gloire à la Sainte Flamme ! Gloire au monde !}
+{109}{}{Quelle blague merveilleuse ! Avant je n'avais aucun sens de l'humour, mais grâce au Maître, je suis plein de gaieté ! Gloire au Maître !}
+{110}{}{Celui qui siège au-dessus. Celui qui siège en dessous. Celui qui repose au-dedans. Gloire au Maître pour une telle clarté de vision !}
+{111}{}{Oh, si seulement j'étais si fortuné ! Peut-être qu'un jour le Maître me laissera embrasser ses parties du corps. Gloire au Maître ! Gloire à la Sainte Flamme !}
+{112}{}{Hmm, c'est pas ce que j'avais en tête. Tu ferais mieux de t'entraîner, mon ami. Gloire au Maître ! Gloire à la Sainte Flamme !}
+{113}{}{[Terminé]}

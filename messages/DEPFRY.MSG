@@ -1,0 +1,23 @@
+{100}{}{Tu vois : l'adjoint Fry.}
+{101}{}{Salut, l'ami. Adjoint Tony Fry à ton service.}
+{102}{}{C'est quoi cet endroit ?}
+{103}{}{Pousse-toi de mon chemin ou ils devront te planter à six pieds sous terre.}
+{104}{}{C'est pas moi.}
+{105}{}{Enchanté. Salut.}
+{106}{}{Wug.}
+{107}{}{Ack !}
+{108}{}{Oh, un nouveau ! Bienvenue au Hub ! Je pensais que tu faisais partie des caravanes. T'es arrivé avec elles ?}
+{109}{}{Oui.}
+{110}{}{Non.}
+{111}{}{Ça m'étonne pas. La plupart des nouveaux de notre ville arrivent avec les caravanes, même avec les caravanes disparues qu'on a eues. C'est une belle ville, mais fais attention à tes fréquentations. Des gens comme Decker et ses brutes peuvent te mettre dans de beaux draps.}
+{112}{}{C'est qui, Decker ?}
+{113}{}{Des caravanes disparues ?}
+{114}{}{OK, merci.}
+{115}{}{C'est surprenant. Ça a été assez rude dehors, surtout avec les caravanes disparues. Mais t'es en sécurité maintenant, reste juste loin du Maltese Falcon. C'est une bande de fauteurs de troubles, Decker et sa clique.}
+{116}{}{C'est qui, Decker ?}
+{117}{}{Des caravanes disparues ?}
+{118}{}{Ouais, bon, je suis assez rude.}
+{119}{}{J'imagine. T'avais d'autres questions ?}
+{120}{}{C'est qui, Decker ?}
+{121}{}{C'était quoi, cette histoire de caravanes disparues ?}
+{122}{}{C'est tout, merci.}

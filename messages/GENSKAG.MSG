@@ -1,0 +1,17 @@
+{100}{}{Tu vois un skag.}
+{101}{}{Cet endroit est chouette ! C'est bien mieux que mon ancien endroit.}
+{102}{}{J'aime bien ici !}
+{103}{}{Il y a tellement d'espace. Si j'avais des trucs, j'aurais plein de place.}
+{104}{}{Où est mon chien ?}
+{105}{}{J'ai soif.}
+{106}{}{T'as de la bouffe ?}
+{107}{}{J'ai faim.}
+{108}{}{C'est déjà l'heure de me coucher ?}
+{109}{}{Tu peux avoir mon ancien endroit.}
+{110}{}{Je suis fatigué, pourquoi t'es ici ?}
+{111}{}{C'est ma maison ! Tu pars !}
+{112}{}{C'est ma maison ! Tu pars !}
+{113}{}{Où est mon oreiller ?}
+{114}{}{J'ai sommeil.}
+{115}{}{Ne me fais pas mal.}
+{116}{}{C'est toi la personne qui fait mal aux gens !}

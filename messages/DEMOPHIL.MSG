@@ -1,0 +1,29 @@
+{100}{}{Tu vois un paysan.}
+{101}{}{Tu vois : Phil.}
+{102}{}{C'est pas mon chien !}
+{103}{}{Putain ouais, bute cette bête !}
+{104}{}{Je me méfierais de cette bête, à ta place. Ce truc est un tueur.}
+{105}{}{Monsieur,}
+{106}{}{Madame,}
+{107}{}{ Je serais vraiment ravi que tu te débarrasses de ce satané chien.}
+{108}{}{Pourquoi ?}
+{109}{}{Nan, je m'occupe que des trucs importants.}
+{110}{}{D'où il venait ?}
+{111}{}{Hnnn.}
+{112}{}{Ptêt que tu peux le tuer à force de parler.}
+{113}{}{Il nous laisse pas rentrer dans notre maison, voilà pourquoi.}
+{114}{}{OK.}
+{115}{}{C'est pas ton chien ?}
+{116}{}{C'était l'« animal de compagnie » d'un voyageur. Quand le voyageur est mort, ce satané chien a juste posé son cul poilu sur mon paillasson et a refusé de partir. Ça fait des jours qu'il est là.}
+{117}{}{Oh.}
+{118}{}{C'était qui, ce voyageur ?}
+{119}{}{À quoi ressemblait le voyageur ?}
+{120}{}{Je sais pas. Un gars. Il venait de l'est, d'après lui. Comme si quelqu'un pouvait traverser les terres mortes à l'est. Il s'est mis Gizmo à dos en essayant de fourrer son nez dans ses affaires.}
+{121}{}{Alors, Gizmo a envoyé quelques gars le tabasser et le jeter du toit du casino. Le voyageur s'est brisé sa satanée nuque et est mort. Le chien était furax.}
+{122}{}{À quoi ressemblait le voyageur ?}
+{123}{}{Oh, le gars était grand, cheveux noirs avec un peu de gris sur les bords. Il était habillé tout en cuir noir, comme si c'était une bonne idée dans le désert, et il portait un fusil à pompe.}
+{124}{}{Il avait un drôle d'accent. Le chien était son compagnon fidèle, il le suivait partout.}
+{125}{}{Merci pour les ragots.}
+{126}{}{Je déteste ce chien.}
+{127}{}{Merci pour ton aide.}
+{128}{}{Tu gagnes 50 points d'expérience.}

@@ -1,0 +1,30 @@
+{100}{}{Tiens-toi bien avec le Doc, et j'aurai pas à te refaire le portrait à l'ancienne.}
+{101}{}{On est fermés. Reviens plus tard.}
+{102}{}{Faut que je voie le Doc.}
+{103}{}{OK, je m'en occupe.}
+{104}{}{C'est très important que je voie le docteur.}
+{105}{}{Hnnn.}
+{106}{}{Beau temps qu'on a, hein ?}
+{107}{}{Tant pis pour toi. Tire-toi d'ici, et reviens pas avant le matin. Ce bureau n'ouvre pas la nuit.}
+{108}{}{Attends une seconde, faut que je vérifie avec le Doc.}
+{109}{}{Qu'est-ce que tu veux maintenant ?}
+{110}{}{Faut que je voie le Doc.}
+{111}{}{Le docteur est disponible ?}
+{112}{}{Hnnn !}
+{113}{}{Nan. Le Doc dort. Reviens plus tard.}
+{114}{}{Je sais pas, pourquoi tu lui parles pas toi-même.}
+{115}{}{Ouais, OK. Dehors.}
+{116}{}{Hé, c'est une propriété privée. Tu ferais mieux de partir, maintenant.}
+{117}{}{Mange ma merde.}
+{118}{}{Si tu te pousses pas de mon chemin, tu vas avoir besoin du docteur pour des raisons personnelles.}
+{119}{}{Tu sais pas que les femmes sont le sexe faible ?}
+{120}{}{Tu me crois faible ? Regarde ça alors...}
+{121}{}{Je vais juste partir.}
+{122}{}{Garde tes minables menaces et cours chez maman. Tu parles à un vrai homme, là.}
+{123}{}{Tu me crois faible ? Regarde ça alors...}
+{124}{}{Je vais juste partir.}
+{125}{}{Whoa ! Si tu veux vraiment le voir, vas-y.}
+{126}{}{Bon, quand est-ce que le docteur est là ?}
+{127}{}{Le doc reçoit de 8h à 17h. Maintenant tire-toi.}
+{128}{}{Quand est-ce que le docteur est là ?}
+{129}{}{Je t'ai dit de pas revenir.}

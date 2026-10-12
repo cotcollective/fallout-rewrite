@@ -1,0 +1,2 @@
+{100}{}{La serrure de cette porte est piégée.}
+{101}{}{Le piège a été désamorcé.}

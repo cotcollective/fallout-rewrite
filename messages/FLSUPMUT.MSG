@@ -1,0 +1,20 @@
+{100}{}{Tu vois : Lou, des Nightkin.}
+{101}{}{Tu vois : Sue, des Nightkin.}
+{102}{}{Tu vois : Drew, des Nightkin.}
+{103}{}{Tu vois : Kurt, des Nightkin.}
+{104}{}{Tu vois : Bert, des Nightkin.}
+{105}{}{Tu vois : Tyche, des Nightkin.}
+{106}{}{Tu vois : Mike, des Nightkin.}
+{107}{}{Tu vois : Char, des Nightkin.}
+{108}{}{Tu vois : Reine, des Nightkin.}
+{109}{}{Tu vois : Daggarth, des Nightkin.}
+{110}{}{Moi dit emmener toi faire quelque chose. Quelque chose avec normaux. Moi pas souvenir quoi.}
+{111}{}{Moi penser normaux stupides.}
+{112}{}{Tous les normaux doivent mourir !}
+{113}{}{Uthern un malin. Uh huh.}
+{114}{}{Chef dit normaux sont rien.}
+{115}{}{Sais pas pourquoi chef veut ces livres.}
+{116}{}{Moi content ces stupides normaux pas là. Eux moches.}
+{117}{}{Moi meilleur que toi ! Moi meilleur que toi !}
+{118}{}{Moi t'écraser maintenant !}
+{119}{}{Moi t'écraser maintenant !}## don't think it's needed but leaving here --Sduibek

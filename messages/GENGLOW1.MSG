@@ -1,0 +1,4 @@
+{100}{}{Tu vois : Goule Luminescente.}
+{101}{}{Arrrr !}
+{102}{}{Mmmm !}
+{103}{}{Uck !}

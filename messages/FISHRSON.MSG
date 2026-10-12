@@ -1,0 +1,50 @@
+{100}{}{Tu vois un garçon maigre et débraillé.}
+{101}{}{Je pense que je devrais pas te parler. Va-t'en.}
+{102}{}{Pourquoi t'as une arme dégainée ? On n'a rien, même pas de poisson !}
+{103}{}{Salut. Tu veux quoi ?}
+{104}{}{Ça mord ?}
+{105}{}{Je commence à manquer un peu de provisions...}
+{106}{}{T'as vu quelque chose d'inhabituel ces temps-ci ?}
+{107}{}{Tu veux entendre parler de mes aventures dans les grottes à radscorpions ?}
+{108}{}{Runk !}
+{109}{}{Salut. C'est pas toi la personne qui se promène en aidant les gens ? Tu dois avoir plein d'histoires intéressantes à raconter !}
+{110}{}{Tu viens d'où ?}
+{111}{}{Salut. Je vois que t'es pas assez stupide pour pêcher ici. Quoi de neuf ?}
+{112}{}{Pas sûr. Papa et moi on erre dans le désert depuis si longtemps. On avait un ami, un chasseur de scorpions avec nous, mais il est devenu fou et on a dû le tuer, et puis on...}
+{113}{}{Hmmm, je devrais peut-être pas parler de ça.}
+{114}{}{Parle-moi de ton père.}
+{115}{}{Et les scorpions ?}
+{116}{}{C'est nul. Pardon, je devrais pas dire « nul ». Papa pense que les gens qui disent « nul » tout le temps sont soit des débiles profonds soit des losers inarticulés. Papa essaie toujours d'avoir l'air intelligent.}
+{117}{}{Je suis d'accord avec ton père.}
+{118}{}{Désolé. C'est pas à moi qu'il faut parler pour les provisions.}
+{119}{}{J'ai vu un gros truc comme une araignée géante avec deux têtes, et une tête avait l'air humaine. Papa pense que j'ai absorbé trop de radiations. Je sais pas. L'eau contaminée fait des trucs bizarres au cerveau.}
+{120}{}{Ouais, comme quoi ?}
+{121}{}{C'est quoi, un « runk » ?}
+{122}{}{Bien sûr !}
+{123}{}{Le pire dans la chasse aux radscorpions, c'est d'attendre qu'ils se mettent en bonne position d'embuscade.}
+{124}{}{Le pire dans la chasse aux radscorpions, c'est de leur courir après quand ils se sauvent !}
+{125}{}{Le pire dans la chasse aux radscorpions, c'est de se faire piquer en pleine face par leur dard.}
+{126}{}{Ouais. T'as déjà entendu parler des pillards qui sont tombés dans le nid de radscorpions et qui se sont tous fait piquer et piquer et bouffer vivants, sauf celui qui s'est enfui avec la moitié du visage mâchouillé !}
+{127}{}{Mec, elle était bonne, celle-là !}
+{128}{}{Bon, il est un peu bruyant et ennuyeux, et je suis pas sûr que ce soit mon vrai père. Je crois qu'il m'a volé quand j'étais bébé. Mais il me nourrit la plupart du temps, alors je l'aime bien, j'imagine.}
+{129}{}{Ils sont gros et méchants, et ça devient incontrôlable. Papa disait qu'il y avait avant des héros qui erraient dans le désert et les tuaient, mais la plupart sont morts maintenant, j'imagine.}
+{130}{}{Quels genres de héros ?}
+{131}{}{Ouais, les adultes sont toujours d'accord entre eux. C'est juste stupide.}
+{132}{}{Big Henry venait avec nous avant, et il était meilleur que papa et moi, jusqu'à ce qu'il devienne fou et essaie de m'étrangler. Papa a dû le descendre !}
+{133}{}{Ton père est un bon tireur ?}
+{134}{}{C'est qui, Big Henry ?}
+{135}{}{Ça a l'air super ! Mais je ferais mieux de retourner pêcher, sinon on va avoir tellement faim qu'on va devoir te manger !}
+{136}{}{Plein de héros. Le gars qui a fondé la Confrérie de l'Acier, Roger Maxson, c'était un vrai bon tueur de scorpions. Quand je serai grand, je vais trouver où ils sont et les rejoindre !}
+{137}{}{Ça me va.}
+{138}{}{C'est vraiment dur de rejoindre la Confrérie. Et c'est un long voyage dangereux.}
+{139}{}{Il est correct, j'imagine. En fait, je l'ai vu toucher un radscorpion entre les yeux à soixante-dix mètres, mais c'était un coup de chance.}
+{140}{}{C'était un gars du sud. Une sorte de pillard qui essayait de vivre de la terre, pas des gens. C'était un vrai bon gars, mais parfois il pétait les plombs, et une fois il... euh... ça n'a pas d'importance.}
+{141}{}{Ouais. Je vais être un hé-ros, comme lui. Tu peux parier !}
+{142}{}{Tu crois que c'est facile de vivre comme ça ? J'ai pas peur des difficultés et y a rien de sûr ici, alors j'abandonne pas. Faut juste que je sois assez vieux pour partir de mon côté.}
+{143}{}{Et le combat entre un radscorpion et un homme ?}
+{144}{}{Seulement une douzaine de fois...}
+{145}{}{Euh, oui monsieur.}
+{146}{}{Je crois que cette fois je vais attraper un rhume...}
+{147}{}{Dépêche-toi ! Je meurs de faim !}
+{148}{}{Ça fait si longtemps que t'as rien attrapé, que j'ai oublié quel goût ça a.}
+{149}{}{Papa, t'as entendu quelque chose... ?}

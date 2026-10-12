@@ -1,0 +1,8 @@
+{100}{}{Tu vois un marchand Far Go Trader.}
+{101}{}{Dégage d'ici.}
+{102}{}{Tire-toi ou tu vivras pas assez longtemps pour le regretter.}
+{103}{}{Skag !}
+{104}{}{T'en veux un peu, ducon ?}
+{105}{}{Prêt pour une autre punition ?}
+{106}{}{Ne me force pas à te refaire mal !}
+{107}{}{T'as un vœu de mort ou quoi ? Dégage.}

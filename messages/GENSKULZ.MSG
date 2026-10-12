@@ -1,0 +1,13 @@
+{100}{}{Tu vois un membre du gang des Skulz.}
+{101}{}{Hé ! Tu te crois où, là ?!}
+{102}{}{T'es sur le territoire des Skulz, étranger. Tu ferais mieux de partir.}
+{103}{}{T'as des capsules en rab ?}
+{104}{}{Tu regardes quoi ?}
+{105}{}{Sors d'ici.}
+{106}{}{Zzzzzzzz}
+{107}{}{Purée, il fait chaud aujourd'hui.}
+{108}{}{J'ai faim.}
+{109}{}{Faisons quelque chose.}
+{110}{}{Pourquoi on tabasserait pas quelqu'un ?}
+{111}{}{Je veux m'amuser un peu.}
+{112}{}{Bâillement...}

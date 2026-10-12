@@ -1,0 +1,49 @@
+{100}{}{Tu vois : l'adjoint Fry.}
+{101}{}{J'espérais bien te croiser, tueur d'enfants. J'espère que ton séjour ne sera pas long. Je vais te surveiller de près pendant que tu es ici. Tiens-toi tranquille dans ma ville ; je meurs d'envie d'avoir une excuse pour me débarrasser de la racaille comme toi.}
+{102}{}{Salut l'ami, l'adjoint Tony Fry à ton service.}
+{103}{}{C'est quoi cet endroit ?}
+{104}{}{Enchanté. Salut.}
+{105}{}{Wug.}
+{106}{}{Ack !}
+{107}{}{Oh, un nouveau ! Bienvenue au Hub ! Tu as atteint la plus grande ville de la côte. Peut-être même la plus grande ville du monde, qui sait. Je te prenais pour un membre de la caravane, tu es arrivé avec eux ?}
+{108}{}{Oui.}
+{109}{}{Non.}
+{110}{}{Ça ne m'étonne pas. La plupart des nouveaux membres de notre ville arrivent avec les caravanes, même avec les caravanes disparues qu'on a eues. C'est une belle ville, mais fais attention à qui tu fréquentes. Des gens comme Decker et ses brutes peuvent t'attirer beaucoup d'ennuis.}
+{111}{}{C'est surprenant. La route a été plutôt rude, surtout avec les caravanes disparues. Mais tu es en sécurité maintenant, reste juste loin du Maltese Falcon. C'est une bande de fauteurs de troubles, Decker et son équipe.}
+{112}{}{C'est qui, Decker ?}
+{113}{}{Ouais, eh bien... je suis plutôt rude.}
+{114}{}{C'était quoi, cette histoire de caravanes disparues ?}
+{115}{}{Où est-ce que je peux me faire de l'argent ?}
+{116}{}{C'est tout, merci.}
+{117}{}{Si tu le dis. Alors, tu avais d'autres questions ?}
+{118}{}{C'est une tragédie, vraiment. Des caravanes ont disparu. Butch, chez les Far Go Traders, offre une récompense pour toute information. Tu devrais jeter un œil au Marché des Marchands si ça t'intéresse.}
+{119}{}{Il possède le Maltese Falcon au Marché des Marchands, mais je ne le fréquenterais pas si tu veux éviter les ennuis. C'est un animal assassin, mais le Shérif ne me laissera pas l'arrêter sans preuve.}
+{120}{}{Pas de problème. Crois-le ou non, notre ville est très sûre et notre police est composée de gardiens de la paix très bien entraînés. Tu ne devrais avoir aucun problème ; évite juste le Maltese Falcon.}
+{121}{}{Je suis désolé, je ne comprends pas. Tu as peut-être besoin de soins ? Les Enfants de la Cathédrale sont au sud. Va tout droit après le Marché des Marchands jusqu'aux Marchands d'Eau. Ils sont juste à côté des Marchands d'Eau.}
+{122}{}{Je te surveille toujours, tueur d'enfants.}
+{123}{}{Animal assassin !}
+{124}{}{Je n'arrive pas à croire que le Shérif est mort...}
+{125}{}{Te voilà, petit serpent voleur ! Je t'avais presque pas reconnu. Gardes !}
+{126}{}{Bien sûr.}
+{127}{}{Attrape-moi si tu peux.}
+{128}{}{Non.}
+{129}{}{ARG !}
+{130}{}{Salut encore. J'espère que notre ville te plaît. Un chic type comme toi est toujours le bienvenu. Si tu décides de rester, je suis sûr que tu serais un atout précieux pour le Hub.}
+{131}{}{Salut encore. J'espère que notre ville te plaît. Une belle dame comme toi est toujours la bienvenue. Si tu décides de rester, je suis sûre que tu serais un atout précieux pour le Hub.}
+{132}{}{Salut encore. Qu'est-ce que je peux faire pour toi ?}
+{133}{}{Oui ? J'ai pas toute la journée. J'essaie de surveiller la porte d'entrée.}
+{134}{}{J'ai un crime à signaler !}
+{135}{}{Vous avez un hôpital, je suis blessé.}
+{136}{}{Où sont les magasins ?}
+{137}{}{Où est-ce que je peux trouver du travail par ici ?}
+{138}{}{Salut.}
+{139}{}{Garro ?}
+{140}{}{Ooga.}
+{141}{}{Vraiment ? Euh, tu devrais en parler au Shérif. Je peux pas quitter mon poste là tout de suite. Faut que... euh, je repousse les pillards qui pourraient venir. En plus, je suis pas très bon avec les rapports.}
+{142}{}{Oh, désolé. J'avais pas remarqué. Les Enfants tiennent l'hôpital à côté des Marchands d'Eau. Va au sud après le Marché des Marchands et tu le verras juste au nord-ouest des Marchands d'Eau. J'espère que tout ira bien.}
+{143}{}{Ça se rate pas. C'est de loin le quartier le plus animé de la ville. Le Marché des Marchands est à quelques kilomètres au sud d'ici. Ce qui t'intéressera le plus, c'est la section nord : c'est là que la plupart des gens du coin achètent et vendent au public.}
+{144}{}{Eh bien ce serait au Marché des Marchands, à quelques kilomètres au sud d'ici. Deux des maisons de caravanes sont là-bas, la troisième est plus au sud. Je te recommanderais les Far Go Traders. Ils paient bien et ils sont pas trop cinglés.}
+{145}{}{Morts... ils sont tous morts...}
+{146}{}{Pfffftttt... Chrrrr...}
+{147}{}{Tu saurais où je pourrais trouver une Puce d'eau ? La puce de mon Abri est tombée en panne, et il nous en faut une autre immédiatement.}
+{148}{}{Une Puce d'eau ? Eh bien, j'en ai jamais entendu parler. Si ça a un rapport avec l'eau, tu devrais parler aux Marchands d'Eau. Leur quartier général est plus au sud, après le centre-ville.}

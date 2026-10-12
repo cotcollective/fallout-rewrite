@@ -1,0 +1,18 @@
+{100}{}{C'est une disquette d'aspect étrange. Elle pourrait peut-être servir dans ton Pip-Boy 2000.}
+{101}{}{Le Pip-Boy 2000 affiche : « Téléchargement... Abandon, données déjà existantes ! »}
+{102}{}{Le Pip-Boy 2000 affiche : « Téléchargement des données... ... ... Terminé. Bonne journée ! »}
+#
+# Everything below is for Fallout Fixt:
+#
+{103}{}{Tu remarques que la disquette a une étiquette fanée et usée où on peut lire « Journal des expériences Delta ».}
+{104}{}{Tu vois : Holodisque des expériences Delta.}
+#
+# Delta Experiments Disk has had its contents moved here from PIPBOY.MSG (under GAME folder)
+# to help fix the Too Many Pipboy Entries bug(s).
+#
+# It's now displayed in dialog window, similar to Radio and SecDisk and MutDisk.
+#
+{105}{}{L'armée a jugé nécessaire que nous étudiions plus en profondeur les effets de la technologie des ondes sur les organismes vivants. Nous avons pris la lumière et le son comme base de nos études. En manipulant l'amplitude des ondes lumineuses et en amplifiant la fréquence, nous avons obtenu des lasers capables de traverser quelques pieds d'acier. Malheureusement, la puissance nécessaire à une telle tâche n'a pas été pleinement développée. D'autres scientifiques s'y attellent.}
+{106}{}{**BEGIN-DISK**}
+{107}{}{**END-DISK**}
+{108}{}{[Continuer]}

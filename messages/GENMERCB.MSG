@@ -1,0 +1,15 @@
+{101}{}{J'ai pas besoin de tes services pour l'instant. Peut-être plus tard.}
+{102}{}{Au secours ! Sauve-moi !}
+{103}{}{Tu dois mourir pour ce que tu as fait !}
+{104}{}{Épargne-moi ! S'il te plaît !}
+{105}{}{Ils sont déjà morts ? Y en a peut-être d'autres !}
+
+#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{106}{}{Ton arrivée tombe à pic, mon ami. Permets-moi de te remettre un petit gage de ma gratitude.}
+{107}{}{Ton arrivée tombe à pic, mon ami. Permets-moi de te remettre un petit gage de ma gratitude.}

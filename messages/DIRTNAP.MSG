@@ -1,0 +1,4 @@
+{100}{}{Tu vois : Goule Luminescente.}
+{101}{}{On offre une sieste dans la poussière à qui touche au système. Le dernier a essayé.}
+{102}{}{Le flux s'arrête. Ta vie aussi.}
+{103}{}{Merci d'avoir réparé la pompe à eau.}

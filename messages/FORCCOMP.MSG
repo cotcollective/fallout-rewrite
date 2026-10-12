@@ -1,0 +1,2 @@
+{100}{}{Cet ordinateur porte l'étiquette : "Contrôles du champ de force".}
+{101}{}{Vous manipulez l'ordinateur et un instant plus tard il crache une étincelle puis s'éteint.}

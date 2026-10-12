@@ -1,0 +1,2 @@
+{100}{}{Tu vois un membre du gang des goules.}
+{101}{}{T'es pas censé être ici ! Purée, je vais devoir te botter le cul.}

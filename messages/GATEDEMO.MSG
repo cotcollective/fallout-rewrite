@@ -1,0 +1,26 @@
+{100}{}{Le garde est furieux et commence à attaquer.}
+{101}{}{Le garde est effrayé par ta puissance.}
+{102}{}{Seule l'Épée de l'Ombre peut intimider ce garde par sa seule présence. Tu dois le faire par les mots.}
+{103}{}{Tu subtilises quelque chose au garde.}
+{104}{}{On t'a repéré.}
+{105}{}{Le garde n'a plus rien sur lui.}
+{106}{}{Le garde n'est pas affecté.}
+{107}{}{Un garde de la porte de Junktown.}
+{108}{}{Qu'est-ce que tu fais à Junktown, étranger ?}
+{109}{}{Je cherche un peu d'amusement.}
+{110}{}{Donne-moi tout ce que tu as !}
+{111}{}{Tu pourrais m'aider à me procurer de l'équipement ?}
+{112}{}{Rien. Merci. Au revoir.}
+{113}{}{Il y a plein de choses à faire ici. Voyons. Tu peux t'entraîner au tir sur les brahmines, ou juste te balader dans Junktown et voir les curiosités, tant que tu ne cherches pas d'ennuis.}
+{114}{}{Il y a autre chose par ici ?}
+{115}{}{Très bien ! Donne-moi tout ce que tu as !}
+{116}{}{Merci. Au revoir.}
+{117}{}{Paraît qu'un des anciens résidents avait caché un vilain flingue dans sa maison, au nord-ouest. Mais personne l'a jamais trouvé.}
+{118}{}{D'accord. Merci pour ton temps.}
+{119}{}{Il y a autre chose ?}
+{120}{}{D'accord, d'accord, d'accord. S'il te plaît, ne me fais pas de mal.}
+{121}{}{Pas de chance ! Meurs, vermine !!}
+{122}{}{Paraît que le type qui habitait dans le bâtiment au nord-ouest avait un vilain flingue. Tu pourras peut-être le trouver.}
+{123}{}{Désolé, je suis juste un garde. Essaie de parler à d'autres résidents.}
+{124}{}{Ce n'est qu'un avant-goût de ce que tu pourras faire quand le jeu complet sortira. Tu pourras : tuer tout ce qui se met en travers de ton chemin, voler et te faufiler dans les situations, ou t'en sortir par la parole et rentrer dans les grâces des autres.}
+{125}{}{Quand le jeu complet sortira, tu pourras utiliser tes compétences davantage qu'ici.}

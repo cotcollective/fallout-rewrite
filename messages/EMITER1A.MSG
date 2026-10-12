@@ -1,0 +1,17 @@
+{100}{}{Tu ne vois pas de panneau de contrôle sur cet émetteur.}
+{101}{}{Tu désactives temporairement le champ de force grâce aux dommages de l'émetteur.}
+{102}{}{Tu détruis complètement l'émetteur de champ de force et le champ se dissipe.}
+{103}{}{Tu désactives temporairement l'émetteur de champ de force.}
+{104}{}{Tu n'arrives à rien avec l'émetteur de champ de force.}
+{105}{}{Tu actives l'émetteur de champ de force.}
+{150}{}{Ta tentative de recâbler l'émetteur de champ échoue.}
+{151}{}{Tu éteins l'émetteur de champ.}
+{200}{}{Tu vois un émetteur de champ horriblement endommagé.}
+{201}{}{L'émetteur est trop endommagé pour être utilisé.}
+{202}{}{L'émetteur est trop endommagé pour être réparé.}
+{203}{}{Tu remarques que le champ est assez endommagé pour passer au travers.}
+#
+# Fallout Fixt
+#
+{204}{}{Une explosion bien placée pourrait mettre l'émetteur complètement hors service.}
+{205}{}{Tu ne vois aucun moyen de fixer les explosifs sur l'émetteur. Tu devras les placer à proximité.}

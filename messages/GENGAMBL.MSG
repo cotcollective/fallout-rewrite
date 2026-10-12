@@ -1,0 +1,21 @@
+{100}{}{Tu vois un joueur.}
+{101}{}{Ack ! C'est un braquage !}
+{102}{}{Je veux pas d'ennuis avec toi.}
+{103}{}{Il a un flingue !}
+{104}{}{Elle a un flingue !}
+{105}{}{Oh, c'est toi.}
+{106}{}{J'ai entendu beaucoup de mauvaises choses sur toi. Chouette.}
+{107}{}{T'as mal commencé, hein ?}
+{108}{}{Espèce de personne horrible. Tuer ces enfants. J'arrive pas à y croire.}
+{109}{}{J'ai entendu dire qu'il y a des chasseurs de primes après toi. Tu les as tués aussi ?}
+{110}{}{Ne me parle pas.}
+{111}{}{Purée, t'as buté le Maire, pas vrai ?}
+{112}{}{Oh, quand Killian était vivant, j'aimais pas cet endroit. Maintenant c'est correct d'y venir.}
+{113}{}{Va-t'en.}
+{114}{}{Hé, comment ça va aujourd'hui ? Moi ça va.}
+{115}{}{Hé, comment ça va ce soir ? Moi ça va.}
+{116}{}{Laisse-moi tranquille. Je suis sur une bonne série.}
+{117}{}{Chéri, ces machines à sous sont à moi.}
+{118}{}{File-moi un truc à boire, tu veux bien mon gars ?}
+{119}{}{Grrr ! Cet endroit craint !}
+{120}{}{Je me fais du gros fric, maintenant.}

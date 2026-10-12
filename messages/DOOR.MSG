@@ -1,0 +1,13 @@
+{100}{}{Tu déverrouilles la porte.}
+{101}{}{T'as cassé tes crochets !}
+{102}{}{Tu ne peux pas ouvrir cette serrure.}
+{103}{}{Tu n'as pas réussi à crocheter la serrure.}
+{104}{}{La porte est verrouillée.}
+{105}{}{La porte est ouverte.}
+{106}{}{La porte est fermée mais pas verrouillée.}
+{107}{}{La porte est verrouillée.}
+{108}{}{La porte grince bruyamment.}
+{109}{}{La porte est déjà déverrouillée.}
+{110}{}{La serrure dépasse tes talents de crochetage.}
+{200}{}{Y a pas de serrure à crocheter sur cette porte.}
+{201}{}{Tu remarques des irrégularités dans le mur.}

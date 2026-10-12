@@ -1,0 +1,25 @@
+{100}{}{Tu vois : Flip.}
+{101}{}{Tu vois un énorme mutant.}
+{102}{}{Arrrghhh ! Meurs, infidèle !}
+{103}{}{Tu devrais être dans la salle de contrôle. Ne traîne pas.}
+{104}{}{Alors, un humain. Très intéressant. Tu vas m'accompagner voir le Lieutenant, ou tu vas périr ici même.}
+{105}{}{Jamais !}
+{106}{}{Bon, j'abandonne. Allons-y.}
+{107}{}{Lop !}
+{108}{}{Excellent. Suis-moi si tu veux vivre.}
+{109}{}{OK. Allons-y.}
+{110}{}{Après vous.}
+{111}{}{Tu me crois idiot, comme beaucoup de mes semblables. Tu te trompes lourdement. C'est un problème terminal, je comprends.}
+{112}{}{On se revoit. Tu ne m'échapperas pas cette fois.}
+{113}{}{L'approche pas ! Je te tue avant !}
+{114}{}{Flip, quand est-ce que je sors d'ici ?}
+{115}{}{Bientôt. Très bientôt. Ton heure est proche.}
+{116}{}{J'ai hâte qu'on soit réunis.}
+{117}{}{Tu ne regretteras pas ta décision, ma chérie. Le trempage est douloureux...}
+{118}{}{Pas trop, j'espère.}
+{119}{}{Le VEF est très douloureux, mais tu survivras.}
+{120}{}{Et tu nous rejoindras. Corps et âme.}
+{121}{}{On sera réunis ?}
+{122}{}{Oui, ma chérie. Oui.}
+{123}{}{Je t'aime.}
+{124}{}{Et moi de même.}

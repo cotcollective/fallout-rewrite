@@ -1,0 +1,26 @@
+{100}{}{Tu vois : Snake, un membre des Lames.}
+{101}{}{Tu vois : Dolgan, un membre des Lames.}
+{102}{}{}
+{103}{}{}
+{104}{}{Tu vois un membre des Lames.}
+{105}{}{Tu vois un membre des Lames.}
+{106}{}{Ça pourrait être Books.}
+{107}{}{Ça pourrait être Scars.}
+{108}{}{Ça pourrait être Gunner.}
+{109}{}{Ça pourrait être Twitch.}
+{110}{}{Ça pourrait être Hammer.}
+{111}{}{Ça pourrait être Razor.}
+{112}{}{Dégage ! C'est réservé aux vrais combattants.}
+{113}{}{Alors, tu crois que tu peux affronter ces mauviettes de Régulateurs ? Tiens, je vais t'apprendre à manier cette lame.}
+{114}{}{T'as l'air d'aller mieux. Maintenant va botter le cul de Caleb jusqu'à l'année prochaine pour moi.}
+{115}{}{Beau travail, d'avoir découpé ces Régulateurs. Qu'est-ce que je peux faire pour toi ?}
+{116}{}{Tu peux m'apprendre d'autres techniques de lame ?}
+{117}{}{Comment je peux contacter les Trafiquants d'armes ?}
+{118}{}{Rien, merci.}
+{119}{}{Pas de problème. Mais ça prendra presque toute la journée pour une petite amélioration. Tu veux toujours ?}
+{120}{}{Oui.}
+{121}{}{Non.}
+{122}{}{Voilà. Tu t'es un peu amélioré. Bonne chance.}
+{123}{}{Pas de problème. Reviens quand tu voudras plus d'entraînement.}
+{124}{}{On dirait qu'on a laissé entrer un fou. Bon, si tu veux entrer chez eux, y a une petite brèche dans leurs douves. Cherche-la et cours comme un dératé. Tu pourrais même passer.}
+{125}{}{Merci.}

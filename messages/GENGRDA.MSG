@@ -1,0 +1,6 @@
+{100}{}{Purée, il fait chaud.}
+{101}{}{J'aurais bien besoin d'un verre.}
+{102}{}{Ces voyages sont vraiment longs.}
+{103}{}{J'espère qu'on va pas croiser de pillards.}
+{104}{}{J'ai vraiment besoin de l'argent de ce boulot.}
+{105}{}{Je déteste ce boulot.}

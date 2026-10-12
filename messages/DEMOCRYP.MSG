@@ -1,0 +1,22 @@
+{100}{}{Tu vois un Crypte.}
+{101}{}{Tu vois un membre de gang.}
+{102}{}{Bienvenue dans le gang, mec.}
+{103}{}{Nous, les Cryptes, on enterrera ces Fous.}
+{104}{}{Content que tu sois de notre côté.}
+{105}{}{Avec ton aide, on peut tuer ces Fous.}
+{106}{}{Cette ville est à nous maintenant.}
+{107}{}{J'aime ton style.}
+{108}{}{Faut que tu te trouves du cuir. T'es un Crypte maintenant.}
+{109}{}{On veut pas des gens comme toi ici, Fou.}
+{110}{}{Dehors, avant qu'on te jette dehors.}
+{111}{}{Si tu cherches des noises, toute la Crypte te tombera dessus.}
+{112}{}{T'as fait le mauvais choix. Maintenant tu vas être enterré.}
+{113}{}{Qu'est-ce que tu fais ici ?}
+{114}{}{Scrapheap nous appartient.}
+{115}{}{À Scrapheap, si t'es pas avec nous, t'es soit un loser soit un Fou. T'es quoi, toi ?}
+{116}{}{C'est à moi que tu parles ? C'est à moi que tu parles ?}
+{117}{}{C'est pas un jeu, mec. Soit t'es un Crypte, soit tu vas être enterré.}
+{118}{}{Seuls les Cryptes ont le droit de porter des cuirs.}
+{119}{}{Courez, les Fous, tant que vous avez encore une chance de vivre.}
+{120}{}{Hé, Rayze, la saison de la chasse vient d'ouvrir, et les Fous sont sur la liste des animaux stupides.}
+{121}{}{Hé les gars, laissez-moi un Fou à tuer.}

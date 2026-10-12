@@ -1,0 +1,34 @@
+{100}{}{Tu vois : Dragon, un membre des Lames.}
+{101}{}{}
+{102}{}{}
+{103}{}{Tu vois un membre des Lames.}
+{104}{}{Tu vois un membre des Lames.}
+{105}{}{Ça pourrait être Books.}
+{106}{}{Ça pourrait être Scars.}
+{107}{}{Ça pourrait être Gunner.}
+{108}{}{Ça pourrait être Twitch.}
+{109}{}{Ça pourrait être Hammer.}
+{110}{}{Ça pourrait être Razor.}
+{111}{}{Dégage ! Tu vois pas que j'essaie de me reposer !}
+{112}{}{Qu'est-ce que tu fais à traîner par ici ?}
+{113}{}{Je regarde juste les étoiles.}
+{114}{}{Dehors à ta recherche.}
+{115}{}{La chasse.}
+{116}{}{Tes regards vont te coûter cher. C'est quoi l'histoire ? Dis-moi la vérité, et tu pourrais bien survivre.}
+{117}{}{Je suis vraiment là pour te tuer.}
+{118}{}{Je veux mettre fin aux guerres de gangs.}
+{119}{}{Je cherche juste la maison. Elle est juste là : la lune.}
+{120}{}{Je crois que ça me ferait de la peine, mais j'écoute pas les morts.}
+{121}{}{Tu peux toujours rêver. Maintenant dégage avant que j'envoie la garde de nuit.}
+{122}{}{Dis donc, tu profites pas beaucoup de la vie. Je vais t'aider à y mettre fin.}
+{123}{}{Tu m'as trouvé. Maintenant éloigne-toi ou meurs !}
+{124}{}{Je crois que je vais y aller.}
+{125}{}{Je préférerais vraiment vivre.}
+{126}{}{Quoi de neuf sur les Éventreurs ?}
+{127}{}{Ils vont te tuer !}
+{128}{}{Ils sont morts. Les Écorcheurs les ont tous tués, tu vois ?}
+{129}{}{Rien pour l'instant.}
+{130}{}{Parfait. Va porter ça à Razor.}
+{131}{}{Me mens pas. Dehors !}
+{132}{}{Alors sors ton cul d'ici et bute ce salaud !}
+{133}{}{Yo, mon pote ! Beau boulot sur les Régulateurs !}

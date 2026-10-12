@@ -1,0 +1,27 @@
+{100}{}{Tu vois : l'initié Walter, des Disciples.}
+{101}{}{Tu vois : l'initié Nicolas, des Disciples.}
+{102}{}{Tu vois : l'initié William, des Disciples.}
+{103}{}{Tu vois : l'initié Matthew, des Disciples.}
+{104}{}{Tu vois : l'initié John, des Disciples.}
+{105}{}{Tu vois : l'initiée Mellenie, des Disciples.}
+{106}{}{Tu vois : l'initiée Jeanne, des Disciples.}
+{107}{}{Tu vois : l'initiée Lorraine, des Disciples.}## was Lori, then Gloria
+{108}{}{Tu vois : l'initiée Sarah, des Disciples.}
+{109}{}{Tu vois : l'initiée Christine, des Disciples.}
+{110}{}{Que la paix guide tes pas dans cet horrible désert.}
+{111}{}{J'ai hâte de me battre contre les Enfants}
+{112}{}{Si je peux pas être Érudit, alors je veux être Scribe.}
+{113}{}{Je veux devenir Érudit un jour.}
+{114}{}{Ces gangs là-dehors devraient vraiment arrêter de se battre}
+{115}{}{Je me demande à quoi ressemblerait le monde avec la paix.}
+{116}{}{J'ai entendu dire que quelqu'un donnait notre savoir aux Enfants.}
+{117}{}{Ces Nightkin me font peur.}
+{118}{}{Seuls les éclaireurs peuvent sortir après le coucher du soleil.}
+{119}{}{Je me demande où les Érudits trouvent leurs nouveaux livres.}
+{120}{}{On a perdu beaucoup de monde à cause de cet espion.}
+{121}{}{J'ai entendu Neil dire que l'espion était probablement un des nouveaux.}
+{122}{}{Trouve l'espion vite, s'il te plaît.}
+{123}{}{Je me demande si Nicole va nous laisser vraiment utiliser cette technique de combat.}
+{124}{}{Si Amber nous voyait maintenant, elle serait furieuse.}
+{125}{}{Neil était très content que tu acceptes de nous apprendre.}
+{126}{}{Maintenant je peux affronter tous les Enfants tout seul !}

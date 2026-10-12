@@ -1,0 +1,6 @@
+{100}{}{Tu allumes la fusée éclairante.}
+{101}{}{Cette fusée éclairante est épuisée.}
+{102}{}{La fusée éclairante n'a plus de carburant et s'éteint.}
+{103}{}{Tu vois une fusée éclairante allumée.}
+{104}{}{Tu vois une fusée éclairante épuisée.}
+{105}{}{Tu vois une fusée éclairante.}

@@ -1,0 +1,38 @@
+{100}{}{Tu vois un marchand ambulant d'origine asiatique.}
+{101}{}{Tu vois : Duc, le marchand ambulant.}
+{102}{}{Eh bien bonjour, voyageur. Je m'appelle Duc, et je vais à Shady Sands pour commercer. Peut-être que je peux t'intéresser à quelques marchandises ?}
+{103}{}{Qu'est-ce que t'as à vendre ?}
+{104}{}{Tu vas souvent à Shady Sands ?}
+{105}{}{Erf !}
+{106}{}{Laisse-moi te montrer.}
+{107}{}{Oui, Shady Sands fait partie de ma route commerciale habituelle. Tu peux voyager avec nous pour plus de sécurité si tu veux.}
+{108}{}{Bien sûr, ça me va.}
+{109}{}{Non merci.}
+# Old response to 114 "None of your business" was 110 "Oh, sorry -- didn't realize you were that stupid."
+{110}{}{Hmph ! Je savais pas que t'étais un connard. Va raconter tes conneries ailleurs.}
+{111}{}{Ça devrait prendre qu'un jour ou deux. Allons-y !}
+{112}{}{SHADYW.MAP}
+{113}{}{Peu de gens bravent le désert seuls. T'es qui ?}
+{114}{}{Ça te regarde pas.}
+{115}{}{Je suis }
+{116}{}{.}
+
+#TRANSLATION NOTE: 117 & 132 are for Stupid characters,
+# they are shouting their name as a greeting. For example "Me John!"
+{117}{}{Moi }
+{132}{}{!}
+
+{118}{}{Tiens, te revoilà ! Qu'est-ce que je peux faire pour toi ?}
+{119}{}{Je peux me joindre à votre groupe pour Shady Sands ?}
+{120}{}{Qu'est-ce que t'as à vendre ?}
+{121}{}{Rien, merci.}
+{122}{}{Qu'est-ce que tu veux ?}
+{123}{}{Rien, désolé.}
+{124}{}{Qu'est-ce que t'as à vendre ?}
+{125}{}{Hein ?}
+{126}{}{Tu devrais faire attention si tu voyages seul. Des gens ont disparu de Shady Sands récemment.}
+{127}{}{Hé, j'ai entendu parler de la façon dont t'as sauvé cette femme de Shady Sands. Beau travail.}
+{128}{}{Oh, pardon. Je savais pas que t'étais un idiot.}
+{129}{}{Merci, à la prochaine.}
+{130}{}{Rumph !}
+{131}{}{Erf !}

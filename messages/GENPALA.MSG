@@ -1,0 +1,5 @@
+{100}{}{Meurs, chien !}
+{101}{}{Ma défaite sera vengée !}
+{102}{}{Salut, Initié ! J'espère que tes patrouilles se sont bien passées.}
+{103}{}{Halte ! Si tu n'as pas encore parlé à notre Capitaine, fais-le puis va-t'en !}
+{104}{}{Halte ! Je te reconnais et je ne te fais pas confiance. Je te préviens loyalement : si tu nous cherches des ennuis, tu seras abattu. Maintenant bouge !}

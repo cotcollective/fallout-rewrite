@@ -1,0 +1,20 @@
+{100}{}{Tu vois un Disciples de l'Apocalypse studieux.}
+{101}{}{Silence, s'il te plaît, j'essaie d'étudier.}
+{102}{}{Nous cherchons le savoir pour nous protéger des Enfants.}
+{103}{}{Nicole dit que connaître nos ennemis nous aidera à l'emporter.}
+{104}{}{Bonjour.}
+{105}{}{Bienvenue chez les Disciples de l'Apocalypse. Respecte le caractère sacré de notre Bibliothèque, s'il te plaît.}
+{106}{}{Jour glorieux à toi.}
+{107}{}{Tout savoir est sacré.}
+{108}{}{On doit se protéger.}
+{109}{}{Qui sait ce qui se passe sous la Cathédrale des Enfants ?}
+{110}{}{Le savoir, c'est la vie.}
+{111}{}{Nicole nous aide à comprendre le caractère sacré du savoir.}
+{112}{}{Nicole nous pousse à ressusciter ce qui a été perdu.}
+{113}{}{Je dois trouver ce livre pour Nicole.}
+{114}{}{Katja doit être quelque part par ici. Katja !}
+{115}{}{Les Enfants ont été chassés de la Cathédrale.}
+{116}{}{C'était toi, n'est-ce pas ?}
+{117}{}{Maintenant on est en sécurité pour découvrir le savoir nécessaire à reconstruire la civilisation.}
+{118}{}{C'est pas glorieux que les Enfants ne soient plus une menace ?}
+{119}{}{Jour glorieux à toi.}

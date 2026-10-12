@@ -1,0 +1,19 @@
+{100}{}{Tu vois un Chevalier.}
+{101}{}{Je me demande à quoi ressemblaient vraiment les vieux moteurs à turbine.}
+{102}{}{Ce serait génial si on avait une automobile qui marche.}
+{103}{}{Tu savais que l'homme est allé sur la lune ? Enfin, je crois que c'est ce qu'ils ont dit.}
+{104}{}{Je trouve pas le dossier qu'il me faut.}
+{105}{}{Je serai Paladin un jour.}
+{106}{}{Talus est un guerrier habile. Je voudrais jamais avoir à l'affronter.}
+{107}{}{Thomas est le meilleur combattant de la Confrérie. Je parie qu'il pourrait battre Rhombus.}
+{108}{}{J'aimerais bien mettre la main sur ces pillards. Leur montrer ce que méritent les voleurs.}
+{109}{}{C'est ça... quoi ? Oh désolé. Je peux pas parler là tout de suite.}
+{110}{}{Je me demande... hein ? Oh, tu m'as fait perdre le fil de ma pensée.}
+{111}{}{J'adore travailler sur de nouveaux prototypes.}
+{112}{}{Quand nos réserves sont limitées, ça peut vraiment être un défi de trouver comment utiliser ce qu'on a.}
+{113}{}{Je comprends pas pourquoi mon dernier prototype a pas marché.}
+{114}{}{Désolé, je peux pas parler là tout de suite.}
+{115}{}{Vree est là-bas.}
+{116}{}{Alors où est-ce que j'ai mis ce dossier...}
+{117}{}{Où est ce schéma ?}
+{118}{}{Eh bien l'ordinateur dit que ça devrait marcher ; alors qu'est-ce que j'ai fait de travers ?}

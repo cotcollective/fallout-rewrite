@@ -1,0 +1,17 @@
+{100}{}{Tu vois un fermier.}
+{101}{}{Salut, l'étranger. Elles te plaisent, mes récoltes ?}
+{102}{}{Bonjour à toi !}
+{103}{}{Bon après-midi !}
+{104}{}{Bonsoir, l'ami !}
+{105}{}{Belle journée, non ?}
+{106}{}{Cette terre est bien plus saine qu'elle en a l'air.}
+{107}{}{J'essaie de sauver ces arbres et je crois que ça marche.}
+{108}{}{Il devrait y avoir une caravane d'engrais. Voilà de l'argent.}
+{109}{}{Entre, y a plein de place.}
+{110}{}{Il fait un peu frisquet dehors ; assieds-toi.}
+{111}{}{L'agriculture me va bien.}
+{112}{}{Tu savais que les plantes poussent mieux quand on est gentil avec elles ?}
+{113}{}{J'aimerais avoir un peu plus de terre.}
+{114}{}{Tu savais qu'il y avait avant de grandes étendues d'eau potable ?}
+{115}{}{J'ai lu des trucs sur les rivières. J'aimerais tellement en avoir une à côté de mes champs.}
+{116}{}{J'aimerais que les jours soient plus longs ; y a tant à faire.}

@@ -1,0 +1,21 @@
+{100}{}{Tu vois un garde goule.}
+{101}{}{Va-t'en ! T'es pas désiré ici.}
+{102}{}{D'accord. Ravi de te rencontrer aussi.}
+{103}{}{Hein ?}
+{104}{}{Je suis de service. Si tu veux voir Set, faut le faire à l'intérieur.}
+{105}{}{La porte est verrouillée. Tu devras revenir plus tard quand il fera nuit.}
+{106}{}{Merci.}
+{107}{}{Hein ?}
+{108}{}{Je t'ai dit de partir. Les tiens sont pas désirés ici.}
+{109}{}{Bien.}
+{110}{}{Myuh !}
+{111}{}{Les portes ouvrent pas avant la nuit.}
+{112}{}{J'ai besoin d'entrer là-dedans. Y a moyen que tu m'aides ?}
+{113}{}{Hmm, d'accord.}
+{114}{}{Ugh !}
+{115}{}{Eh bien, je suppose que ça peut pas faire de mal. Vas-y, je vais te déverrouiller la porte.}
+{116}{}{J'aimerais pouvoir t'aider, mais Set me tannerait le cul si je le faisais. Tu sais comment c'est... faut toujours faire ce que dit le grand chef.}
+{117}{}{Ouais, je comprends. Merci.}
+{118}{}{Merci !}
+{119}{}{T'étais prévenu. Prépare-toi à mourir.}
+{120}{}{La goule t'ignore.}

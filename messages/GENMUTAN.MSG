@@ -1,0 +1,41 @@
+{100}{}{Halte !}
+{101}{}{Meurs, humain !}
+{102}{}{À mort.}
+{103}{}{Tu paieras pour tes péchés !}
+{104}{}{Tu n'es pas censé être armé dans cette zone, petit frère. Explique-toi.}
+{105}{}{Tu n'es pas censée être armée dans cette zone, petite sœur. Explique-toi.}
+{106}{}{Hngg.}
+{107}{}{C'est bon, je travaille ici.}
+{108}{}{C'est bon, j'ai un laissez-passer.}
+{109}{}{Je suis armé avec la permission du Lieutenant.}
+{110}{}{Quelle sorte de trahison est-ce ?!}
+{111}{}{Alors montre-moi ton laissez-passer.}
+{112}{}{Euh, je l'ai laissé dans mon autre robe.}
+{113}{}{Il est juste ici, agrafé devant mon flingue.}
+{114}{}{Dépêche-toi pour ta tâche alors, mais sois averti : je te surveille.}
+{115}{}{Oui, petit frère. De quoi as-tu besoin de ma part ?}
+{116}{}{Oui, petite sœur. De quoi as-tu besoin de ma part ?}
+{117}{}{Hng !}
+{118}{}{Hmm, il est où ce type du Maître ?}
+{119}{}{Gloire à l'Unité, frère.}
+{120}{}{Je suis désolé, mais tu devras trouver le chemin vers l'Unité toi-même.}
+{121}{}{Tu es visiblement un païen ! Paie pour tes péchés !}
+{122}{}{Il réside au Niveau 3, comme il se doit. Pourquoi poses-tu une question aussi idiote ?}
+{123}{}{Oh, euh, aucune raison.}
+{124}{}{Je vais lui botter le cul d'ici jusqu'à, euh, un endroit vraiment loin !}
+{125}{}{Quelle question ? J'ai dit 'Gloire au Maître, au revoir.'}
+{126}{}{Tu m'insultes ! Meurs !}
+{127}{}{Gloire à l'Unité.}
+{128}{}{On dirait que tu ne crois pas ce que tu dis. Serait-ce vrai ? Ou as-tu quitté le chemin de la droiture ?}
+{129}{}{Tu prends le tremblement de ma voix pour de la peur alors que c'est en fait une sorte de rhume.}
+{130}{}{Je crois que les tiens sont condamnés, en fait. Tiens, laisse-moi te le prouver avec l'aide de mes amis...}
+{131}{}{Quand tu seras l'un des nôtres, tu ne craindras plus ces broutilles. Disparais.}
+{132}{}{Qu'est-ce que tu veux cette fois ? J'ai peu de temps pour tes bavardages.}
+{133}{}{Labbo !}
+{134}{}{J'ai peu de temps pour ta vie... Meurs !}
+{135}{}{Rien, désolé.}
+{136}{}{Gloire à l'Unité, frère.}
+{137}{}{Mais t'es qui, toi ? Laisse-moi voir... Argh ! Un intrus...}
+{138}{}{Circule. Fais ta part pour l'Unité et arrête de me déranger !}
+{139}{}{En route.}
+{140}{}{Circule. Fais ta part pour l'Unité.}

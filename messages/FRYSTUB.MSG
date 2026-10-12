@@ -1,0 +1,2 @@
+{100}{}{Tu vois : l'adjoint Fry.}
+{101}{}{C'est le Shérif qui dirige cette opération. Parle-lui plutôt.}

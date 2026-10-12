@@ -1,0 +1,20 @@
+{100}{}{Tu vois un garde des Far Go Traders.}
+{101}{}{Ces saletés de Marchands d'Eau nous arnaquent tous.}
+{102}{}{N'oublie pas de payer la FLC à temps, c'est une sacrée bande.}
+{103}{}{Tu voudras parler à Rutger.}
+{104}{}{Les Far Go Traders sont les meilleurs.}
+{105}{}{La Caravane Cramoisie, c'est une bande d'idiots et de cinglés.}
+{106}{}{Hmm, j'ai une de ces envies d'iguane sur un bâton.}
+{107}{}{C'est qui, bordel, qui vole nos caravanes ?}
+{108}{}{Mon frère était dans la dernière caravane disparue.}
+{109}{}{Ces grippe-sous de l'eau sont responsables, j'en suis sûr.}
+{110}{}{Les mutants ont pris les caravanes, paraît-il. Terrible.}
+{111}{}{J'ai entendu dire que c'était des Super-mutants. J'espère que tu leur as fait payer.}
+{112}{}{Je pensais que c'était l'Écorcheur le responsable. Saletés de mutants !}
+{113}{}{On est fermés. Reviens demain matin.}
+{114}{}{Hé, c'est pas le Faucon ici. Tire-toi.}
+{115}{}{T'es quoi ? Une sorte de clodo ? Tire-toi.}
+{116}{}{Dégage !}
+{117}{}{On n'ouvre que le jour.}
+{118}{}{T'es drogué ou quoi ? Dégage.}
+{119}{}{Tu dois revenir demain matin.}

@@ -1,0 +1,17 @@
+{100}{}{Tu vois un garde goule.}
+{101}{}{On va t'emmener voir Set. Je crois qu'il voudra te parler, personnellement.}
+{102}{}{Tu ne devrais pas être ici...}
+{103}{}{Garret m'a dit que c'était bon. Il m'a dit de prendre quelque chose dans la chambre de Set pour lui. Tu sais où c'est ?}
+{104}{}{D'accord. Je vais juste partir alors.}
+{105}{}{Hein ?}
+{106}{}{Ça sonne pas juste. Tu ferais mieux de venir avec moi.}
+{107}{}{Je crois pas.}
+{108}{}{D'accord.}
+{109}{}{Je crois pas que tu veuilles aller dans cette chambre.}
+{110}{}{Pourquoi pas ?}
+{111}{}{D'accord, je veux pas aller dans cette chambre. Et maintenant ?}
+{112}{}{Je crois que tu ferais mieux de partir.}
+{113}{}{On est ici pour s'assurer que les gens qui n'ont rien à faire dans la chambre de Set n'y entrent pas. Pas pour la sécurité de Set, en fait, mais pour la leur. Autre chose ?}
+{114}{}{Ouais. Tes lacets sont défaits.}
+{115}{}{Nan. Merci.}
+{116}{}{Je suis de service. Va-t'en.}

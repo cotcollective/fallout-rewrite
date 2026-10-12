@@ -1,0 +1,17 @@
+{100}{}{Tu vois Dumar, un acolyte des Enfants de la Cathédrale.}
+{101}{}{Salutations, voyageur. Nous avons entendu des récits sur celui qui traverse le désert. Comment pouvons-nous t'être utiles aujourd'hui ?}
+{102}{}{Hein ? Arrooo ?}
+{103}{}{Le désert est un endroit rude. J'ai été assez salement blessé. Tu peux m'aider avec ça ?}
+{104}{}{Je veux que toi et les tiens soyez massacrés !}
+{105}{}{Raconte-moi une histoire.}
+{106}{}{Hein ? Je t'entends pas. Tu peux parler plus fort, s'il te plaît ?}
+{107}{}{Qui pourrais-je consulter pour devenir membre de cet établissement ?}
+{108}{}{Je souhaite comprendre la sagesse sur laquelle toi et tes compagnons avez fondé cet établissement de croyances.}
+{109}{}{Désolé, mais je suis un peu trop occupé pour te raconter toute l'histoire des Enfants de la Cathédrale. Ils me font nettoyer les bancs. Parle à Laura si tu veux des infos.}
+{110}{}{Je suis désolé, mais tes paroles me dépassent. Peut-être que nos disciples plus sages, comme Laura, pourront mieux t'aider que moi.}
+{111}{}{Je suis vraiment désolée d'apprendre ta maladie. Hélas, je ne suis qu'une acolyte et je ne peux pas t'aider à guérir. Seuls les membres à part entière reçoivent la formation aux arts de guérison.}
+{112}{}{Ah, mon enfant, il semble que nous ne parlions pas le même langage. Peut-être que si tu parles à Laura, elle pourra mieux t'aider que moi. Que la paix t'accompagne, mon enfant.}
+{113}{}{Parle à Laura, s'il te plaît. Elle pourra mieux t'aider que moi.}
+{114}{}{Nous sommes vraiment un peuple pacifique. Ne verse pas de sang dans ce lieu saint, s'il te plaît.}
+{115}{}{Il était une fois un petit voyageur qui marchait autour du monde. Il s'approcha d'une jeune femme nommée Laura et lui demanda de lui raconter une histoire. Fin.}
+{116}{}{Dumar te supplie de cesser tes attaques sauvages.}

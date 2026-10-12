@@ -1,0 +1,22 @@
+{100}{}{Tu vois un Fou.}
+{101}{}{Tu vois un membre de gang.}
+{102}{}{Ils nous appellent les Fous, mais c'est toi le stupide d'être venu ici.}
+{103}{}{Tu vas nous chercher des noises ?}
+{104}{}{C'est pas ta place ici.}
+{105}{}{Crois pas que tu peux débarquer ici et chercher des noises.}
+{106}{}{Fais gaffe, ou tu finiras dans une crypte, Crypte.}
+{107}{}{Ouais, on va s'occuper de ces Cryptes.}
+{108}{}{Scrapheap sera plus jamais pareil sans ces Cryptes. Ça va être à nous !}
+{109}{}{Ha ha ha ! Ha ha ha ha !}
+{110}{}{Les Fous ! Les Fous ! Les Fous ! Ouais !}
+{111}{}{Tu connais celle du poulet et du trou d'obus ?}
+{112}{}{Reste cool.}
+{113}{}{Celui qui rit le dernier, rit le dernier.}
+{114}{}{La vie est une blague, marre-toi.}
+{115}{}{Sans ces Cryptes, on dirigerait cette ville. Ou au moins on mettrait un coup de pied dans les couilles à Lenny.}
+{116}{}{Sois un Fou.}
+{117}{}{Tu crois que ce misérable cuir te sauvera de Baka ?}
+{118}{}{Qu'est-ce qui s'est passé ? Ta mère t'a laissé tomber sur la tête à la naissance ?}
+{119}{}{Si j'étais aussi moche, je me tuerais.}
+{120}{}{Vous, les Cryptes, on dirait que vous sortez d'une crypte.}
+{121}{}{Seul un fou essaierait un truc aussi stupide. Oh, attends, je suis un Fou.}

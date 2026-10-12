@@ -1,0 +1,26 @@
+{100}{}{Tu vois un pillard du désert avec un sourire avenant et un drôle d'assortiment d'outils.}
+{101}{}{Je suis Diana. Comment puis-je t'aider aujourd'hui ?}
+{102}{}{Je cherche une femme nommée Tandi. Tu l'as vue ?}
+{103}{}{Laisse tomber, merci.}
+{104}{}{Ça te dirait un rencard ?}
+{105}{}{Qu'est-ce que tu fais ici ?}
+{106}{}{Qu'est-ce que tu peux me dire sur ce camp ?}
+{107}{}{Eurrreh ?}
+{108}{}{Si c'est une de ces femmes de Shady Sands, tu devrais peut-être chercher là-bas. Moi je fais que travailler ici.}
+{109}{}{Oh. Bon, merci quand même.}
+{110}{}{Tu peux réparer mon équipement ?}
+{111}{}{Comme tu peux le voir, je suis bien trop occupée pour accéder à ta demande.}
+{112}{}{Garl me fait réparer l'équipement du camp en ce moment. J'ai pas le temps de réparer notre matos et celui de tous les étrangers qui passent. Désolée.}
+{113}{}{Je suis l'armurière de ce campement. Je suis la seule à avoir les compétences nécessaires pour réparer et entretenir les armes et l'équipement des hommes de Garl.}
+{114}{}{Tu peux réparer mon équipement ?}
+{115}{}{Qu'est-ce que tu peux me dire sur ce camp ?}
+{116}{}{C'est Garl Main-de-Mort qui dirige. C'est un chef redoutable et sans pitié. Il s'assure qu'on survive tous à la dure réalité du désert.}
+{117}{}{Je cherche une femme nommée Tandi. Tu l'as vue ?}
+{118}{}{Tu peux réparer mon équipement ?}
+{119}{}{Je suis occupée. Va voir ailleurs, s'il te plaît.}
+{120}{}{T'es ce nouvel ami de Garl, n'est-ce pas ? Qu'est-ce que tu veux ?}
+{121}{}{Hmm. Ton équipement semble fonctionner. J'ai des tâches plus importantes.}
+#
+# Fallout Fixt:
+#
+{200}{}{Tu vois : Diana, l'armurière attitrée des Khans.}

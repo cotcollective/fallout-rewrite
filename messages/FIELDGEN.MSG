@@ -1,0 +1,2 @@
+{100}{}{Ta tentative de recâbler l'émetteur de champ échoue.}
+{101}{}{Tu éteins l'émetteur de champ.}

@@ -1,0 +1,4 @@
+{100}{}{Reste hors de notre chemin !}
+{101}{}{Tue ou sois tué !}
+{102}{}{Profite de ta victoire, et prie tes dieux pour qu'on ne se rencontre plus jamais !}
+{103}{}{J'ai pas le temps de parler !}

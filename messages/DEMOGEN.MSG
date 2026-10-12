@@ -1,0 +1,20 @@
+{100}{}{Le générateur a été saboté. Il ne fonctionne plus.}
+{101}{}{Tu vois un générateur. C'est la seule source d'énergie de Scrapheap.}
+{102}{}{Tu coupes des fils sur le transformateur. Le générateur ne fonctionne plus.}
+{103}{}{Les pinces ne servent plus à rien.}
+{104}{}{Cet objet est inutile sur le générateur.}
+{105}{}{Tu ne remarques rien de particulier sur le générateur.}
+{106}{}{Le générateur lui-même a l'air assez inviolable ; cependant, tu remarques un faisceau de fils entre le transformateur et le générateur.}
+{107}{}{Tu ne vois rien de spécial sur ce grand générateur.}
+{108}{}{Tu ne peux rien déterminer de plus sur le générateur.}
+{109}{}{Les fils pourraient être réparés, mais ça peut prendre un moment, sans garantie de succès.}
+{110}{}{Tu ne vois rien de spécial sur le générateur endommagé.}
+{111}{}{Tu ne peux pas faire d'autres réparations.}
+{112}{}{Pas besoin de réparer le générateur. Il fonctionne parfaitement.}
+{113}{}{Tu ne peux pas réparer le générateur qui fonctionne.}
+{114}{}{Ça prend plusieurs heures, mais tu répares le générateur. Avec le courant rétabli et les gangs partis, les habitants sont reconnaissants. Ils te donnent des infos précieuses. Ta mission à Scrapheap est terminée. La mission pour trouver la Puce d'eau t'attend toujours.}
+{115}{}{Tu ne peux pas réparer le générateur. Les gens de Scrapheap mèneront une vie plus pauvre sans leur courant ; mais avec les gangs partis, au moins ils auront une vie. Ta mission à Scrapheap est terminée. La mission pour trouver la Puce d'eau t'attend toujours.}
+{116}{}{Tripoter davantage le générateur ne donne rien.}
+{117}{}{Cette compétence n'a aucun effet sur le générateur.}
+{118}{}{Le générateur tourne déjà.}
+{119}{}{Tu ne peux pas démarrer le générateur, parce qu'il est cassé.}

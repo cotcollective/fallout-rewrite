@@ -1,0 +1,2 @@
+{100}{}{Un lourd réfrigérateur militaire.}
+{101}{}{Un papier jauni sur le congélateur dit : "Bureau Fédéral d'Investigation, Projets Spéciaux, Classifié : Terminus de Sécurité."}

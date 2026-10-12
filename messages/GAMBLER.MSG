@@ -1,0 +1,46 @@
+{100}{}{Tu vois un Mexicain à l'air louche avec des cheveux gominés.}
+{101}{}{Tu vois : Hernandez, le joueur filou.}
+{102}{}{Oye, muchacho, permets-moi de me présenter : je suis Hernandez, un homme de mucho gusto ! On dirait que tu es nouveau ici. Permets-moi d'être ton informateur sur le casino.}
+{103}{}{Tu peux me parler du casino ?}
+{104}{}{Non, merci.}
+{105}{}{Bloo ?}
+{106}{}{Mais bien sûr ! Ce bel établissement est tenu par le célèbre Gizmo. Un vrai visionnaire et un homme très riche.}
+{107}{}{Merci.}
+{108}{}{Tu dis que Gizmo est un visionnaire. C'est quoi, sa vision ?}
+{109}{}{Les jeux sont comment, niveau cotes ?}
+{110}{}{Mon ami, je déteste m'imposer, mais peut-être pourrais-tu m'aider. J'ai mis au point un système infaillible parce que j'ai découvert comment Gizmo truque ses tables, mais je n'ai pas les capsules pour jouer.}
+{111}{}{ (Tu as l'impression qu'il essaie de t'arnaquer.)}
+{112}{}{Tu pourrais peut-être me dépanner de quelques capsules ? Je garantis le succès.}
+{113}{}{Bien sûr, ça marche.}
+{114}{}{Non, merci.}
+{115}{}{Je crois que tu mens. Tu essaies de m'arnaquer.}
+{116}{}{Désolé, mi amigo. Hé, laisse-moi te montrer un petit jeu... }
+{117}{}{Merci beaucoup, mi amigo ! (Il accepte 100 capsules de ta part.) Dans quelques jours, je pourrai te rembourser, avec intérêts. Mon système est lent, tu vois, il demande beaucoup de patience, mais il rapportera gros, c'est sûr !}
+{118}{}{Très bien, mais je garantis le succès ! Si tu veux profiter des richesses qui n'attendent que toi, reviens vite, ou je trouverai un autre partenaire !}
+{119}{}{Mon ami, je vois que tu es aussi un homme de grand goût. Peut-être une simple partie de dés ?}
+{120}{}{D'accord !}
+{121}{}{Non merci, je préfère essayer autre chose.}
+{122}{}{Gizmo rêvait d'ouvrir un endroit où les gens pourraient se rencontrer et s'amuser. Il avait l'ambition de le réaliser. Le résultat, c'est le casino que tu vois ici.}
+{123}{}{Il donne aux gens une chance d'oublier leurs soucis dans le monde brisé du dehors. Et il fait rentrer de l'argent à Junktown !}
+{124}{}{Ça a l'air d'une bonne idée.}
+{125}{}{La vie est déjà assez dure. Je ne fais pas confiance aux motivations de quelqu'un qui encourage les gens à perdre leur argent.}
+{126}{}{Tu ne partages visiblement pas le génie de Gizmo. Cet endroit est un répit face à la dureté de la vie quotidienne.}
+{127}{}{Eh bien, Gizmo tient une bonne maison, même si les jeux sont, comment dire, plutôt à l'avantage de la maison. C'est pas comme si ses croupiers trichaient, ceci dit. À moins d'avoir un système, comme moi, il te faudra être très malin.}
+{128}{}{Merci.}
+{129}{}{}
+{130}{}{Ton système avance comment ?}
+{131}{}{Rien, merci.}
+{132}{}{Mon système progresse lentement. J'ai des frais de subsistance et tout, tu vois, mais ça marche !}
+{133}{}{C'est super !}
+{134}{}{Je crois que tu es un menteur et un tricheur. Où est mon argent ?}
+{135}{}{Alors, tu crois m'avoir percé à jour, hein ? Eh bien, tu n'obtiendras rien de moi !}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{136}{}{Buenos dias, mon ami ! Qu'est-ce que je peux faire pour toi aujourd'hui ?}
+{137}{}{Buenos dias, mon ami ! Qu'est-ce que je peux faire pour toi aujourd'hui ?}

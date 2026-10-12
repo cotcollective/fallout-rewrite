@@ -1,0 +1,5 @@
+{100}{}{Tu vois un cadavre sans vie étendu sur le sol.}
+{101}{}{Une âme malheureuse gît ici.}
+{102}{}{Les restes d'un humain muté reposent sur le sol.}
+{103}{}{Le garde-manger des charognards.}
+{104}{}{On dirait que cette personne a défié Thanatos et a perdu.}

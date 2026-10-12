@@ -1,0 +1,2 @@
+{100}{}{Jamais tu n'as vu une obscurité naturelle comme celle-ci. Elle te semble presque surnaturelle.}
+{101}{}{Tu parviens à peine à contenir tes peurs, mais tu arrives à avancer dans l'obscurité.}

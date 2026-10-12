@@ -1,0 +1,2 @@
+{100}{}{La section du plancher à côté de toi est électrifiée.}
+{101}{}{Une section du plancher électrifié a été désactivée.}
