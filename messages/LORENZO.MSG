@@ -122,7 +122,7 @@
 {221}{}{Parle-moi de toi.}
 {222}{}{Où est-ce qu'on trouve du travail par ici ?}
 {223}{}{Bon, salut !}
-{224}{}{Je parie que leur chef, ce Morpheus, il est pas fauché ! Non monsieur ! Je parie que là-bas à L.A. Boneyard, il mène la grande vie !}
+{224}{}{Je parie que leur chef, ce Morpheus, il est pas fauché ! Non monsieur ! Je parie que là-bas à le Cimetière de L.A., il mène la grande vie !}
 {225}{}{Et ces caravanes disparues ?}
 {226}{}{Parle-moi de Decker.}
 {227}{}{Et la police locale ?}
