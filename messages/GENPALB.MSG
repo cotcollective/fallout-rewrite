@@ -1,0 +1,56 @@
+{100}{}{Meurs, chien !}
+{101}{}{Ma défaite sera vengée !}
+{102}{}{Halte, Initié ! Qu'as-tu à rapporter ?}
+{103}{}{Rien à signaler sur le front ouest.}
+{104}{}{Des radscorpions et une chaleur intolérable, euh... monsieur.}
+{105}{}{En fait, je voulais savoir si t'avais entendu quelque chose.}
+{106}{}{Rien à signaler, monsieur !}
+{107}{}{Ruh ?}
+{108}{}{Halte ! Je te reconnais — t'as visité la Confrérie. Certains te font confiance, mais pas moi. Décline ton identité !}
+{109}{}{Mes affaires sont les miennes, comme les tiennes t'appartiennent.}
+{110}{}{Je voulais voir un visage amical.}
+{111}{}{J'erre dans le désert, j'essaie de survivre.}
+{112}{}{Je tue la vermine du désert. T'as quelque chose contre ?}
+{113}{}{Je ne parlerai qu'au chef de ton ordre. Emmène-moi à la Confrérie.}
+{114}{}{Affaires ?}
+{115}{}{Halte ! Je te reconnais et je te fais pas confiance. Je te préviens : si tu nous cherches des ennuis, tu seras abattu. Maintenant, bouge !}
+{116}{}{Halte ! Qui va là ! Ton nom et tes affaires !}
+
+# TRANSLATION NOTES
+# The player-character's name is inserted after line 117, and then has
+# line 118, 119, 120, or 121 appended.
+{117}{}{Je suis }
+{118}{}{ et je cherche une Puce d'eau pour mon Abri. Tu peux m'aider ?}
+{119}{}{ et j'essaie de trouver la source des attaques de mutants.}
+{120}{}{ et ça te regarde pas !}
+{121}{}{ et je cherche l'aventure.}
+{122}{}{Va te faire voir, petit soldat.}
+{123}{}{Runk !}
+{124}{}{Halte ! Ces terres appartiennent à la Confrérie de l'Acier. Pars maintenant, ou on te tirera dessus comme un intrus.}
+{125}{}{Très bien. Continue, Initié.}
+{126}{}{Je vois. Continue, Initié.}
+{127}{}{On nous signale de grands humains mutants qui attaquent les voyageurs, alors on redouble de vigilance. Surveille bien la zone et replie-toi vers l'enceinte si nécessaire. Rompez !}
+{128}{}{C'est une période troublée, Initié ! Les mutants sont en marche, ils attaquent les caravanes ! Il nous faut des informations, et il nous les faut maintenant ! « Rien à signaler », ça suffit pas !}
+{129}{}{Sors ton misérable cul d'ici et ramène des renseignements utiles ! Rompez !}
+{130}{}{Oh oui, j'ai entendu parler de toi. Pas un gros Q.I., mais un sacré combattant. Dommage.}
+{131}{}{C'est notre terre, et ici, tes affaires sont nos affaires. Je répète : décline tes affaires.}
+{132}{}{Je cherche une Puce d'eau pour mon Abri. Tu peux m'aider ?}
+{133}{}{J'essaie de trouver la source des attaques de mutants.}
+{134}{}{C'est peut-être ta terre, mais je suis pas ton esclave.}
+{135}{}{J'erre dans le désert depuis longtemps. Je voulais savoir si t'as des nouvelles.}
+{136}{}{Un visage amical ? Ce sera pas le mien. Je te recommande de partir.}
+{137}{}{Comme nous tous. Tant que tu n'agis pas contre la Confrérie, on te fera pas de mal, mais marche prudemment.}
+{138}{}{Ça dépend si tu nous considères comme de la vermine. Si tu attaques nos ennemis, tu pourras voyager sur notre territoire. Si tu nous offenses, tu mourras. Considère-toi comme prévenu.}
+{139}{}{C'est une demande raisonnable. Rentre dans le rang.}
+{140}{}{Une Puce d'eau ? J'espère que tu plaisantes ! Tu ferais mieux de lutter à la surface que de t'asservir à un seul morceau de machinerie.}
+{141}{}{Comme nous. La théorie la plus courante, c'est qu'ils viennent de la Lueur, mais je doute que même des mutants puissent y survivre longtemps. Si tu découvres quelque chose, fais-le-nous savoir.}
+{142}{}{Comment oses-tu m'accuser d'une telle chose ! La Confrérie de l'Acier n'a jamais forcé personne à servir contre son gré. Ça va contre tout ce en quoi nous croyons. Hors de ma vue !}
+{143}{}{On a trouvé une caravane saccagée à environ un jour de voyage vers l'ouest. On a trouvé un survivant — une pauvre fille. Elle a affirmé qu'ils avaient été attaqués par des humains mutants d'une force incroyable.}
+{144}{}{On a eu assez de rapports pour être... inquiets. Je marcherais prudemment, si j'étais toi.}
+{145}{}{Va falloir que je t'apprenne les bonnes manières, mon garçon. Ça devrait être un léger divertissement.}
+{146}{}{Va falloir que je t'apprenne les bonnes manières, ma fille. Ça devrait être un léger divertissement.}
+{147}{}{Ton esprit est complètement parti. Pauvre créature.}
+{148}{}{Arrête de me faire perdre mon temps, imbécile !}
+{149}{}{Qu'est-ce que tu veux ?}
+{150}{}{Rien.}
+{151}{}{Alors je te suggère de partir.}

@@ -1,0 +1,58 @@
+{100}{}{Halte !}
+{101}{}{Meurs, humain !}
+{102}{}{À mort.}
+{103}{}{Tu paieras pour tes péchés !}
+{104}{}{Je vais t'écraser !}
+{105}{}{L'Unité pour toujours !}
+{106}{}{Pour le Maître !}
+{107}{}{T'es pas censé être armé dans ce secteur, petit frère. Explique-toi.}
+{108}{}{T'es pas censée être armée dans ce secteur, petite sœur. Explique-toi.}
+{109}{}{Hngg.}
+{110}{}{Ça va, je travaille ici.}
+{111}{}{Ça va, j'ai un laissez-passer.}
+{112}{}{Je suis armé avec la permission du Lieutenant.}
+{113}{}{Quelle trahison est-ce là ?!}
+{114}{}{Alors montre-moi ton laissez-passer.}
+{115}{}{Je, euh, l'ai laissé dans mon autre robe.}
+{116}{}{Il est juste ici, agrafé devant mon flingue.}
+{117}{}{Dépêche-toi pour ta tâche, alors, mais sois prévenu : je te surveille.}
+{118}{}{Oui, petit frère. Qu'est-ce que tu me veux ?}
+{119}{}{Oui, petite sœur. Qu'est-ce que tu me veux ?}
+{120}{}{Hng !}
+{121}{}{Hmm, il est où, ce gars du Maître ?}
+{122}{}{Gloire à l'Unité, frère.}
+{123}{}{Je suis pas du genre à te guider sur le chemin de l'Unité. Pars !}
+{124}{}{Tu es évidemment un païen ! Paie pour tes péchés !}
+{125}{}{Ici, c'est ici. Pourquoi tu demandes ?}
+{126}{}{Oh, euh, pour rien.}
+{127}{}{Je vais lui botter le cul d'ici jusqu'à, euh, un endroit vraiment loin !}
+{128}{}{Quelle question ? J'ai dit « Gloire au Maître, au revoir. »}
+{129}{}{Tu m'insultes ! Meurs !}
+{130}{}{Gloire à l'Unité.}
+{131}{}{On dirait que tu crois pas ce que tu dis. Ça se pourrait ? Ou t'as quitté le chemin des justes ?}
+{132}{}{Tu prends le tremblement dans ma voix pour de la peur alors que c'est juste une sorte de rhume.}
+{133}{}{Je crois que les tiens sont condamnés, en fait. Tiens, laisse-moi te le prouver avec l'aide de mes amis...}
+{134}{}{Quand tu deviendras l'un des nôtres, tu craindras plus ces broutilles. Décampe.}
+{135}{}{Qu'est-ce que tu veux encore ? J'ai pas beaucoup de temps pour tes bavardages.}
+{136}{}{Labbo !}
+{137}{}{J'ai pas beaucoup de temps pour ta vie... Meurs !}
+{138}{}{Rien, désolé.}
+{139}{}{Gloire à l'Unité, frère.}
+{140}{}{Tu es évidemment un intrus !}
+{141}{}{Sors de ma vue.}
+{142}{}{J'ai pas le temps pour toi. Arrête de me déranger.}
+{200}{}{Tu vois un Sergent Super-mutant.}
+{201}{}{Hé, ça ressemble à une bombe nucléaire. Pourquoi c'est là ?}
+{202}{}{C'est l'arme de dernier recours de notre Maître. Si on trouve un ennemi qu'on peut pas vaincre au combat, alors on le détruira avec ça. Mais je doute que ça arrive un jour. Même notre Maître veut pas déchaîner à nouveau la puissance redoutée de l'atome !}
+{203}{}{D'accord, merci.}
+{204}{}{Elle est fonctionnelle ?}
+{205}{}{De rien. Maintenant tais-toi, faut que je me concentre pour garder cet engin.}
+{206}{}{Oh, oui, elle l'est. On la maintient en parfait état de marche, prête à exploser au moindre signal. L'Unité ne sera pas vaincue !}
+{207}{}{Ah, merci.}
+{208}{}{Ça t'inquiète pas que quelqu'un puisse voler des robes et se faufiler ici pour la faire sauter ?}
+{209}{}{Non. On est là pour la garder contre les intrus. Personne pourrait accéder à l'engin sans qu'on le remarque. En plus, la clé d'armement nucléaire nécessaire pour armer l'engin est pas ici.}
+{210}{}{Oh, ça se tient. Merci.}
+{211}{}{Eh bien, pour ma tranquillité d'esprit, tu pourrais me dire où est la clé ?}
+{212}{}{Oh, bien sûr, pas de problème. Le Lieutenant garde la clé. Il est à la Base militaire, alors il est même pas dans le coin. Ça empêche que la bombe nucléaire explose sous notre Maître bien-aimé.}
+{213}{}{Merci pour ton temps.}
+{214}{}{(Le grand mutant te fixe un moment, les sourcils broussailleux levés.) Je crois que tu poses trop de questions.}

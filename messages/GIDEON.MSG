@@ -1,0 +1,93 @@
+{100}{}{Tu vois : Gideon, un humain d'apparence normale. Il porte une couronne.}
+{101}{}{Jason est un dieu vivant ! Seuls les annulés peuvent passer !}
+{102}{}{Annulés ? C'est ces appareils que vous portez qui restreignent vos pouvoirs psychiques ?}
+{103}{}{C'est qui, Jason ?}
+{104}{}{Qu'est-ce que tu veux dire par annulés ?}
+{105}{}{Je viens de le tuer, alors ça doit être un dieu mort, maintenant. Tu veux le rejoindre ?}
+{106}{}{Hein ?}
+{107}{}{Les murs aussi ont des esprits... Je t'ai vu... demain ?}
+{108}{}{D'autres comme toi sont dans le mur ?}
+{109}{}{Laisse tomber.}
+{110}{}{J'aimerais te tuer maintenant. Tu pourrais ouvrir ce champ de force ?}
+{111}{}{Ouvre le champ de force et je te laisse sortir.}
+{112}{}{Euh, ouais. C'est toi les « expériences » que je cherche ?}
+{113}{}{Jason ? C'est qui, Jason ?}
+{114}{}{Tu viens de dire... laisse tomber.}
+{115}{}{Stup.}
+{116}{}{Oui, les murs sont vivants avec ceux qui nous ont précédés.}
+{117}{}{Qu'est-ce qui leur est arrivé ?}
+{118}{}{Euh, faut que j'y aille.}
+{119}{}{Rencontre de l'âme... fusionnée avec, pour protéger, le Maître de tout.}
+{120}{}{Je vois. Comment je me protège des protecteurs du Maître ?}
+{121}{}{Et les chiens de guerre ?}
+{122}{}{Je dois protéger le Maître. Comment je l'atteins ?}
+{123}{}{Je peux tuer n'importe qui ou n'importe quoi. Ouvre ce champ de force et je te fais une démonstration.}
+{124}{}{Au revoir.}
+{125}{}{Il n'y a que la paix et l'union... le prix... la douleur... faut être aveugle... annulé.}
+{126}{}{Eh bien, faut que je m'unisse. Où je peux trouver un de ces chics annulateurs ?}
+{127}{}{Super ! Comment je m'unis ?}
+{128}{}{J'aimerais unir mon flingue à ta tête !}
+{129}{}{J'ai pas le temps pour ça. Au revoir.}
+{130}{}{Je vais t'oindre... Je dois donner ce que je dois pas.}
+{131}{}{Merci.}
+{132}{}{Personne va m'oindre, espèce de cinglé !}
+{133}{}{Oindre ? M'oindre avec quoi ?}
+{134}{}{Non, merci.}
+{135}{}{Tu peux pas tuer le génie de... le tout... tu... hehf !}
+{136}{}{Ouais, mais je peux lui causer un sacré paquet de douleur.}
+{137}{}{Je veux pas tuer. Je veux vénérer.}
+{138}{}{Évidemment. Au revoir.}
+{139}{}{Glaire ! Développement insubstantiel... communication, nul... fin de la mort.}
+{140}{}{Les murs aussi ont des esprits... Je t'ai vu... demain, c'était ?}
+{141}{}{Je prends ça pour un oui.}
+{142}{}{Super ! Comment je m'unis ?}
+{143}{}{Les blasphématoires... décomposent... la mort sera... le salut... fort !}
+{144}{}{Les esprits... les murs... devant le grand.}
+{145}{}{Ceux qui nous ont précédés... doivent arrêter ton voyage.}
+{146}{}{Faut que je change ça.}
+{147}{}{Je dois accomplir mon voyage ; le Maître le veut.}
+{148}{}{Qui ? A fait quoi ?}
+{149}{}{Ouais, mais je peux leur causer un sacré paquet de douleur.}
+{150}{}{Désolé de te déranger encore. Au revoir.}
+{151}{}{J'aimerais t'aider à t'échapper.}
+{200}{}{Tu vois : Moore, un type à l'air négligé. Il porte une couronne.}
+{201}{}{Tu vois un type à l'air négligé.}
+{202}{}{L'asphalte coulera rouge ! Je vais écraser !}
+{203}{}{Exactement.}
+{204}{}{De quoi tu parles ?}
+{205}{}{Ouais, il sera rouge de ton sang.}
+{206}{}{Euh, ouais. Au revoir.}
+{207}{}{Urgh !}
+{208}{}{Je vais arrêter le moteur ! Le Maître m'a donné le pouvoir...}
+{209}{}{D'accord, Hank. J'aimerais rencontrer le Maître, comment j'y vais ?}
+{210}{}{Quel moteur ?}
+{211}{}{Bien sûr ! Je comprends complètement...}
+{212}{}{J'aimerais te fendre le crâne, espèce d'idiot bavard.}
+{213}{}{Oh, pas encore toi. Au revoir.}
+{214}{}{Seuls les puissants peuvent passer, mais ils seront empêchés de passer.}
+{215}{}{Ouvre ce champ de force, je veux te montrer mon pouvoir.}
+{216}{}{Mais faut que je voie le Maître !}
+{217}{}{Tu peux me montrer comment ?}
+{218}{}{Gideon... Gideon montre la voie.}
+{219}{}{Exactement.}
+{300}{}{Tu vois : Lucy, une humaine d'apparence normale. Elle porte une couronne.}
+{301}{}{Tu vois une humaine. Elle fixe tes chaussures.}
+{302}{}{Y a pas d'endroit comme chez soi, pas d'endroit comme chez soi, pas d'endroit comme chez soi... [elle fait les cent pas]}
+{303}{}{Hng !}
+{304}{}{Arrête ça !}
+{305}{}{Et cet endroit ? C'est pas chez toi ?}
+{306}{}{Je suis d'accord. Complètement et totalement. T'as raison... [elle s'arrête un moment.] Qu'est-ce que t'as dit ? Oh, t'inquiète pas.}
+{307}{}{(Elle te regarde intensément.) Je vais te tuer pour ça ! Je vais faire couler ton sang rouge. Attends une minute. Le sang est rouge, comment je peux le faire couler rouge ? Je peux pas vraiment faire ça. Hmmm. Faut que j'y réfléchisse. Va-t'en !}
+{308}{}{Chez moi, c'est, euh, ouais. Ici. Ouais, c'est ici. C'est chez moi ! [elle saute de joie] Je suis tellement heureuse ! Tu peux pas croire à quel point ça me rend heureuse. Je crois que je vais aller cogner le mur pendant un moment.}
+{309}{}{Je suis occupée. J'ai presque la solution aux problèmes environnementaux qui foutent ce monde en l'air, mais je peux pas m'empêcher de penser aux dinosaures violets. C'est un problème ?}
+{310}{}{Arrête de me déranger, je réfléchis...}
+{400}{}{Tu vois : Wiggum, un parfait loser. Il porte une couronne.}
+{401}{}{Tu vois ce qui ressemble à un parfait loser.}
+{402}{}{Je suis fatigué.}
+{403}{}{Ma vie, c'est l'Enfer.}
+{404}{}{J'en ai marre de vivre.}
+{405}{}{Les ténèbres viennent.}
+{406}{}{Peu importe.}
+{500}{}{Un panneau sur le mur dit : « Attention ! Ne pas déranger ! »}
+{501}{}{Tu gagnes }
+{502}{}{ points d'expérience pour avoir convaincu le psyker de te donner un Annulateur.}

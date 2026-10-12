@@ -1,0 +1,161 @@
+{100}{}{Tu vois : Gizmo, le propriétaire du casino.}
+{101}{gizmo_1}{Ramène ton cul ici et assieds-toi. On a des affaires à discuter.}
+{102}{}{On dirait qu'y a déjà assez de cul par ici...}
+{103}{}{Je m'en doutais. Qu'est-ce que tu veux ?}
+{104}{}{Quelles affaires ?}
+{105}{}{Beuh.}
+{106}{gizmo_1b}{Dégage d'ici, espèce d'idiot !}
+{107}{gizmo_2}{Tu embrasses ta mère avec cette bouche ? Montre un peu de respect.}
+{108}{}{Tu fais autre chose que manger ?}
+{109}{}{T'as raison, je suis désolé. Alors parlons affaires.}
+{110}{gizmo_4}{Bon, *renifle* voilà l'affaire. Junktown, c'est plus ce que c'était. La seule raison pour laquelle c'est toujours là, c'est mon établissement de jeux. Même comme ça, Killian me respire dans le cou, et je commence à le prendre personnellement. *renifle* Et c'est là que tu entres en scène, mon beau.}
+{111}{}{Qu'est-ce que tu veux que je fasse ?}
+{112}{}{Si tu crois que je t'aiderais, t'es gros et stupide.}
+{113}{gizmo_4a}{Drôle.}
+{114}{gizmo_5}{Ce que je crois, c'est que tu vas le descendre pour moi, tu vois ? Pas de témoins, juste dedans, fini, dehors.}
+{115}{}{Pourquoi t'envoies pas un de tes propres hommes de main ?}
+{116}{}{Je travaillerais pas pour toi même si tu m'offrais tout l'argent de ce trou paumé.}
+{117}{}{Bien sûr. J'ai besoin d'argent.}
+{118}{}{Je crois pas. Merci quand même.}
+{119}{}{Combien t'es prêt à payer ?}
+{120}{gizmo_6}{Je le ferais, mais il doit y avoir aucun lien entre moi et la mort malheureuse de Killian.}
+{121}{}{Ça se tient. Bien sûr, je le fais.}
+{122}{}{D'accord, je le fais.}
+{123}{}{Quel lâche. Peur qu'on t'aime pas ? Trop tard.}
+{124}{}{Combien t'es prêt à payer ?}
+{125}{}{Certainement pas.}
+{126}{}{Je crois pas. Merci quand même.}
+{127}{gizmo_7}{*respiration sifflante* Je savais que tu verrais les choses comme moi. Comme preuve, je veux les plaques d'identité que Killian porte autour du cou. Tu les as, t'as ton argent. Maintenant, dégage. Et me double pas. J'ai encore les rotules du dernier qui a essayé.}
+{128}{gizmo_8}{Mille capsules. Pas plus, pas moins.}
+{129}{}{Ça marche. Je le fais.}
+{130}{}{Tu appelles ça une récompense ? Si je dois buter le gars, va me falloir plus que ça.}
+{131}{}{Même pas proche. Je veux rien avoir à faire avec ce deal.}
+{132}{}{Je te ferais pas confiance même si deux personnes pouvaient te lancer. Laisse tomber, maigrichon.}
+{133}{gizmo_9}{Haha ! *tousse* T'as peut-être raison. Je crois que tu vaux plus. 1500.}
+{134}{}{Là on parle.}
+{135}{}{C'est à peu près quoi, une capsule par livre pour toi ? Laisse tomber.}
+{136}{}{Merci, mais je préfère pas.}
+{137}{}{Certainement pas.}
+{138}{gizmo_10}{Désolé que tu le prennes comme ça. Pas aussi désolé que tu vas l'être, par contre. Je peux pas laisser cette histoire s'ébruiter. Izo, montre à notre nouvel ami ce qu'on fait aux gens qui me disent non.}
+{139}{gizmo_11}{Une, ça va. Deux, c'est trop. Et ça faisait deux. Izo, apporte-moi des rotules.}
+{140}{gizmo_13}{T'as fini le boulot ?}
+{141}{}{Ouais, c'est fait.}
+{142}{}{Non, pas encore.}
+{143}{gizmo_14}{Fais voir les plaques.}
+{144}{gizmo_15}{Oh, ouais. Oh, ouais ! Izo a ton argent. Oh, c'est bon ! Hé, hé, euh... tu devrais quitter la ville pour un moment. Tu sais, au cas où.}
+{145}{}{D'accord, je m'en vais.}
+{146}{}{Tu me donnes pas d'ordres, gros lard. T'as compris ?}
+{147}{}{Et si je le fais pas ?}
+{148}{}{Bien sûr, je m'en vais. Souviens-toi juste que tu m'en dois une.}
+{149}{gizmo_16}{Tu quittes pas la ville, tu finis sous elle. T'as compris ?}
+{150}{}{D'accord, d'accord. Je m'en vais.}
+{151}{}{Qui va faire ça ? Toi ? Tu pourrais pas lever ton gros cul pour aller chercher un sandwich, encore moins me tuer.}
+{152}{}{Très bien. Souviens-toi juste que tu me dois quelque chose.}
+{153}{gizmo_17}{Alors donne-moi les plaques d'identité.}
+{154}{}{Euh... eh bien... je... euh, je les ai perdues.}
+{155}{}{Et si je veux pas te les donner ?}
+{156}{}{J'ai menti. Je les ai pas.}
+{157}{}{Je les avais, mais je les ai perdues.}
+{158}{gizmo_18}{Haha ! Tu sais, t'es un piètre menteur. Maintenant va chercher les plaques. Je veux pas voir ta tronche tant que t'as pas descendu Killian.}
+{159}{gizmo_19}{Pas de problème. Je les prendrai sur ton cadavre.}
+{160}{}{Euh... eh bien, j'ai un peu menti. Je les ai pas.}
+{161}{}{Ouais ? Tu vas engager quelqu'un pour faire tes courbettes à ta place ?}
+{162}{}{Je les ai perdues.}
+{163}{}{Eh bien, je les avais, mais on me les a volées.}
+{164}{gizmo_20}{Pas de plaques, pas d'argent. Tu reviens sans les plaques et Izo va devenir créatif avec ton anatomie. Maintenant dehors !}
+{165}{gizmo_21}{Qu'est-ce que tu veux ? Je suis un homme occupé.}
+{166}{}{Je suis là pour te dire que ton assassin a échoué.}
+{167}{}{Rien, en fait. Je vais juste m'en aller.}
+{168}{}{Je veux savoir comment quelqu'un d'aussi stupide que toi est encore en vie.}
+{169}{}{Je suis là pour parler de la tentative sur la vie de Killian.}
+{170}{gizmo_22}{Je sais pas de quoi tu parles.}
+{171}{}{Bien sûr que si. T'as engagé quelqu'un pour tuer Killian, et il a foiré.}
+{172}{}{Tu te souviens pas d'avoir engagé quelqu'un pour tuer Killian, espèce de limace stupide ?}
+{173}{}{Eh bien, prenons une situation hypothétique...}
+{174}{}{T'es un menteur !}
+{175}{}{T'as raison. Au revoir.}
+{176}{gizmo_23}{Je sais pas qui t'es, mais j'aime pas que des étrangers entrent dans mon bureau pour m'accuser de choses dont ils savent rien.}
+{177}{}{Ah, mais c'est là que tu rates le point, Gizmo. J'accuse pas. Je suis là pour t'aider.}
+{178}{}{Je sais tout. Alors avoue !}
+{179}{}{T'as raison. Je m'en vais.}
+{180}{gizmo_24}{Vraiment ? *ricanement* Il va m'aider ? On parle de quelle aide ?}
+{181}{}{Facile. T'as envoyé quelqu'un tuer Killian. Il a échoué. T'as besoin de quelqu'un qui peut faire le boulot... mieux.}
+{182}{}{Rien. Oublie que j'en ai parlé.}
+{183}{gizmo_25}{Et devine quoi. C'est toi, ce quelqu'un ?}
+{184}{}{Très bien... Pour un prix, bien sûr.}
+{185}{}{Je peux le tuer plus vite que tu peux cracher.}
+{186}{gizmo_26}{Eh bien, comment je peux te faire confiance ?}
+{187}{}{Je suis là. Et t'as besoin de quelqu'un de l'extérieur pour faire ton sale boulot. Non ?}
+{188}{}{Tu peux pas... Je veux dire, tu peux... Je veux dire...}
+{189}{}{Parce que j'ai roulé ma bosse. J'ai déjà tué.}
+{190}{gizmo_27}{Hmm... d'accord. On peut faire ça. Mais tu travailles pour moi, tu sais bien que personne double jamais Gizmo et vit pour en parler. T'as compris ?}
+{191}{}{Oh, je pourrais te rouler... c'est juste que pour te rouler « autour », faudrait en faire tout le tour.}
+{192}{}{Bien sûr. Mais d'abord faut que je sache pourquoi tu veux sa mort.}
+{193}{gizmo_28}{Huh. Facile. Je le veux mort parce qu'il nuit à mes affaires. Alors, tu le fais pour moi ?}
+{194}{}{C'est pour ça que je suis là. Il sera mort avant le coucher du soleil.}
+{195}{}{Bien sûr. C'est un boulot.}
+{196}{}{Tu pourrais répéter, s'il te plaît ? Cette fois dans la poche de mon manteau ?}
+{197}{}{Eh bien, euh... Non, je peux pas.}
+{198}{gizmo_29}{Bien. Reviens avec les plaques d'identité qu'il porte autour du cou comme preuve. Et on n'a jamais eu cette conversation ; tu en parles à personne. Personne me double. Personne.}
+{199}{gizmo_30}{T'es soit vraiment stupide... soit un espion vraiment stupide. Peu importe, parce que maintenant Izo va te rendre vraiment mort.}
+{200}{gizmo_32}{J'aime pas les gens qui me font perdre mon temps. Reviens pas de sitôt !}
+{201}{gizmo_33}{Comme quoi ?}
+{202}{}{Eh bien, disons que t'as essayé de tuer Killian, et que ton assassin a échoué. Ça veut dire qu'il t'en faut un nouveau pour bien faire le boulot.}
+{203}{}{Hein ? Oh, laisse tomber.}
+{204}{gizmo_34}{Tu sais, *soupir* j'aime pas quand on m'insulte chez moi. Izo, raccompagne notre invité dehors... par la fenêtre.}
+{205}{gizmo_35}{T'es de retour. Tu sais, j'ai dû engager quelqu'un d'autre pour faire ton boulot. Ça m'a pas rendu heureux. En fait, Izo va te montrer à quel point je suis malheureux. J'espère que t'as passé une bonne journée. C'était ta dernière.}
+{206}{gizmo36a}{*grognement* Killian est le maire de cette ville. Il croit tout savoir... eh bien, on va voir ce qu'il sait, hein ?}
+{207}{gizmo_37}{*toux* C'est moi, stupide. Je dirige le... l'établissement de jeux ici.}
+{208}{gizmo_38}{C'est la boutique de Killian au nord de la ville. Il vend de la camelote.}
+{209}{gizmo_39}{Eh bien, la plupart des gens jouent ici. Tu poses des questions stupides.}
+{210}{gizmo_42}{Ça t'plairait de savoir, hein ?}
+{211}{gizmo_43}{T'as pas besoin de t'en soucier.}
+{212}{gizmo_44}{*reniflement* Je euh... j'ai pas envie d'en parler là tout de suite.}
+{213}{gizmo45m}{Hé, c'est quoi ton problème ? Izo, arrache-lui les bras !}
+{214}{gizmo45f}{Hé, c'est quoi ton problème ? Izo, arrache-lui les bras !}
+{215}{gizmo_47}{Quoi, t'es sourd ? J'ai dit...}
+{216}{gizmo_48}{Hé, je me répéterai pas !}
+{217}{}{Tu gagnes 600 points d'expérience pour ton travail contre Gizmo. Que le salaud repose en morceaux.}
+{218}{}{C'est facilement l'individu le plus corpulent que t'aies jamais vu.}
+{219}{}{Tu sais, j'ai trouvé quelque chose de très intéressant après ton dernier passage. S'il y a une chose que je supporte encore moins qu'une pizza pepperoni minable, c'est un mouchard. Les gars !}
+{220}{}{Alors on en arrive là, Killian. Eh bien, j'ai jamais pu supporter ta puanteur, et maintenant je vais y mettre fin !}
+{221}{}{Je me suis occupé de Killian. On dit que tu pourrais apprécier ça.}
+{222}{}{Oh, vraiment ?}
+{223}{}{Hé, d'accord, si tu veux pas qu'il meure, très bien. J'essaie juste d'aider.}
+{224}{}{Je pensais peut-être à un couteau dans le dos ou une balle dans la tête.}
+{225}{}{Compris. Pourquoi tu le veux mort ?}
+{226}{gizmo_24}{Vraiment ? *ricanement* Elle va m'aider ? On parle de quelle aide ?}
+
+# for Fallout Fixt:
+
+{227}{}{T'es qui ? Tu veux quoi ?}
+{228}{}{Tu vois une excuse répugnante d'homme. Ça doit être Gizmo.}
+
+
+# Gizmo's Tell-Me-Abouts generic responses
+{980}{gizmo_42}{Ça t'plairait de savoir, hein ?}
+{981}{gizmo_43}{T'as pas besoin de t'en soucier.}
+
+#
+# Gizmo's Tell-Me-Abouts
+#
+
+{1000}{}{Killian}
+{1001}{}{Gizmo}
+{1002}{}{Darkwaters}
+{1003}{}{Chez Gizmo}
+{1004}{}{Darkwater}
+{1005}{}{Chez Gizmo}
+{1006}{}{Casino}
+{1007}{}{Junktown}
+{1008}{}{Chez Darkwater}
+
+{1100}{gizmo36a}{*grognement* Killian est le maire de cette ville. Il croit tout savoir... eh bien, *ricanement* on va voir ce qu'il sait, hein ?}
+{1101}{gizmo_37}{*toux* C'est moi, stupide. Je dirige le... l'établissement de jeux ici.}
+{1102}{gizmo_38}{C'est la boutique de Killian au nord de la ville. Il vend de la camelote.}
+{1103}{gizmo_39}{Eh bien, la plupart des gens jouent ici. Tu poses des questions stupides.}
+{1104}{gizmo36a}{*grognement* Killian est le maire de cette ville. Il croit tout savoir... eh bien, *ricanement* on va voir ce qu'il sait, hein ?}
+{1105}{gizmo_39}{Eh bien, la plupart des gens jouent ici. Tu poses des questions stupides.}
+{1106}{gizmo_39}{Eh bien, la plupart des gens jouent ici. Tu poses des questions stupides.}
+{1107}{gizmo_39}{Eh bien, la plupart des gens jouent ici. Tu poses des questions stupides.}
+{1108}{gizmo_38}{C'est la boutique de Killian au nord de la ville. Il vend de la camelote.}

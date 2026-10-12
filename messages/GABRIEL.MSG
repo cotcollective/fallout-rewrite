@@ -1,0 +1,100 @@
+{100}{}{Tu vois un homme corpulent et bien armé.}
+{101}{}{Tu vois : Gabriel, chef des Trafiquants d'armes.}
+{102}{}{C'est pas souvent qu'on a des visiteurs. Comment puis-je t'aider ?}
+{103}{}{Pourquoi vous avez pas beaucoup de visiteurs ?}
+{104}{}{Qu'est-ce que vous faites ici ?}
+{105}{}{L'endroit est pas très accessible avec un nid de ces satanés Écorcheurs juste devant notre usine.}
+{106}{}{Vous avez l'air pas mal armés, pourquoi vous allez pas les exterminer ?}
+{107}{}{On y est déjà allés et on en a descendu quelques-uns, mais ils reviennent toujours. En plus, on est des machinistes, pas des combattants.}
+{108}{}{Qu'est-ce que vous me donneriez si j'allais m'en occuper pour vous ?}
+{109}{}{On fabrique des armes et des munitions. Ça fait 30 ans qu'on fait ça. Mais les 10 dernières ont été l'enfer.}
+{110}{}{Pourquoi ça ?}
+{111}{}{On a dépouillé les environs de notre usine de toute la ferraille qu'il restait après la guerre. Maintenant on doit compter sur Adytum pour nous fournir en matières premières.}
+{112}{}{Qu'est-ce qu'il y a de mal à ce qu'Adytum vous fournisse vos matériaux ?}
+{113}{}{Au début, ça allait. Ils nous fournissaient en matières premières, on fabriquait et on vendait les armes. Puis, il y a 3 ans, Zimmerman a engagé des mercenaires pour aider à protéger Adytum contre l'Écorcheur et les attaques occasionnelles de pillards. Ces Régulateurs sont des salauds au cœur froid et ils nous pressent comme des citrons. On fabrique les flingues et c'est eux qui s'enrichissent.}
+{114}{}{Pourquoi vous partez pas vous installer ailleurs ?}
+{115}{}{C'est dur. Qu'est-ce que vous me donneriez pour m'occuper de l'Écorcheur ?}
+{116}{}{On le ferait si on pouvait, mais déménager, c'est une grosse entreprise avec tous les tours et les fraiseuses. C'est pas des trucs qu'on ramasse et qu'on déplace facilement. On pourrait déménager, mais l'Écorcheur rend ça impossible.}
+{117}{}{Vous avez l'air pas mal armés, pourquoi vous allez pas les exterminer ?}
+{118}{}{Si tu pouvais te débarrasser des Écorcheurs une bonne fois pour toutes, tu pourrais demander ton prix.}
+{119}{}{Je veux des armes et des munitions, et plein.}
+{120}{}{}
+{121}{}{Si tu nettoies la zone, on partira, mais on laissera derrière nous plus d'armes et de munitions que tu pourras jamais utiliser.}
+{122}{}{Marché conclu.}
+{123}{}{Va falloir que j'y réfléchisse.}
+{124}{}{Des gens qui régleraient tous vos problèmes avec Adytum.}
+{125}{}{Tu nettoies les Écorcheurs, tous, et marché conclu.}
+{126}{}{D'accord. Je le fais.}
+{127}{}{Va falloir que j'y réfléchisse.}
+{128}{}{Salut, toi.}
+{129}{}{Qu'est-ce que vous faites ici ?}
+{130}{}{Salut.}
+{131}{}{}
+{132}{}{Ça se passe pas mal.}
+{133}{}{Je crois que j'ai tué tous les Écorcheurs.}
+{134}{}{Faut qu'on en soit sûrs. On en a tué plus de 20 ces 2 dernières années et ils reviennent toujours. On n'a jamais compris comment. Attendons quelques jours et s'ils sont toujours partis, on verra ce qu'on peut faire pour toi.}
+{135}{}{D'accord, merci.}
+{136}{}{Fais-nous savoir quand tu t'es occupé des Écorcheurs.}
+{137}{}{Ouais. On se reverra, peut-être.}
+{138}{}{Je sais, parle-m'en.}
+{139}{}{On se reverra, peut-être.}
+{140}{}{C'est pas souvent qu'on a des visiteurs. Je peux t'aider ?}
+{141}{}{Pourquoi c'est que vous avez pas beaucoup de visiteurs ?}
+{142}{}{Qu'est-ce que vous faites ici ?}
+{143}{}{L'endroit est pas très accessible, avec un nid de ces satanés Écorcheurs juste devant notre usine.}
+{144}{}{J'ai tué tous les Écorcheurs. Même tous les satanés œufs.}
+{145}{}{On le ferait si on pouvait, mais déménager, c'est une grosse entreprise avec tous les tours et les fraiseuses. C'est pas des trucs qu'on ramasse et qu'on déplace facilement. On pourrait déménager, mais les Écorcheurs rendent ça impossible.}
+{146}{}{J'ai tué tous les Écorcheurs. Même tous les satanés œufs.}
+{147}{}{}
+{148}{}{Je veux des armes et des munitions, et plein.}
+{149}{}{}
+{150}{}{Pas besoin de me payer. Tes remerciements suffisent.}
+{151}{}{C'est comme tu veux — prends ce que tu veux. On lève le camp dans un jour ou deux, mais on laissera plus d'armes et de munitions que tu peux porter là tout de suite. Reviens ici quand t'en as besoin.}
+{152}{}{}
+{153}{}{}
+{154}{}{Merci.}
+{155}{}{}
+{156}{}{Pas de problème.}
+{157}{}{}
+{158}{}{}
+{159}{}{Vous partiez pas, vous ?}
+{160}{}{Je viens juste prendre quelques trucs. Vous avez quoi aujourd'hui ?}
+{161}{}{Rien. Merci quand même.}
+{162}{}{}
+{163}{}{Super. Vous avez quoi aujourd'hui ?}
+{164}{}{Bon, je vous reverrai plus tard.}
+{165}{}{}
+{166}{}{Je viens juste prendre quelques trucs. Vous avez quoi aujourd'hui ?}
+{167}{}{Rien. Merci quand même.}
+{168}{}{Désolé, je peux pas te parler là, je suis très occupé.}
+{169}{}{Des flingues ! J'aime les flingues !}
+
+#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+{170}{}{J'ai des amis qui pourraient vraiment utiliser certaines de vos armes.}
+{171}{}{J'ai des amis qui pourraient vraiment utiliser certaines de vos armes.}
+{172}{}{Comment ça va, mon ami ?}
+{173}{}{Comment ça va, mon amie ?}
+{174}{}{Quoi ?! Tu les as tous tués ? Dieu merci ! Maintenant on peut déménager dans un nouvel endroit, où on pourra avoir nos propres matériaux sans dépendre de ces serpents d'Adytum. Demande ce que tu veux et c'est à toi, mon ami.}
+{175}{}{Quoi ?! Tu les as tous tués ? Dieu merci ! Maintenant on peut déménager dans un nouvel endroit, où on pourra avoir nos propres matériaux sans dépendre de ces serpents d'Adytum. Demande ce que tu veux et c'est à toi, mon amie.}
+{176}{}{Très bien. Ça a été un plaisir de faire affaire avec toi, l'ami.}
+{177}{}{Très bien. Ça a été un plaisir de faire affaire avec toi, l'amie.}
+{178}{}{C'est comme tu veux. Dis à tes amis qu'ils ont leurs armes.}
+{179}{}{C'est comme tu veux. Dis à tes amis qu'ils ont leurs armes.}
+{180}{}{Merci, mon ami.}
+{181}{}{Merci, mon amie.}
+{182}{}{Désolé, je peux pas te parler, l'ami, mais on est occupés à tout emballer pour déménager. Sers-toi de ce dont t'as besoin.}
+{183}{}{Désolée, je peux pas te parler, l'amie, mais on est occupés à tout emballer pour déménager. Sers-toi de ce dont t'as besoin.}
+{184}{}{Y a plus de raison de partir maintenant que tes amis se sont débarrassés de ces satanés Régulateurs.}
+{185}{}{Y a plus de raison de partir maintenant que tes amis se sont débarrassés de ces satanés Régulateurs.}
+{186}{}{Bienvenue, l'ami. Je peux t'aider ?}
+{187}{}{Bienvenue, l'amie. Je peux t'aider ?}
+
+#
+# Following Line is just to be translated normally.
+#
+{188}{}{Faut que tu parles à Zack pour acheter des trucs.}

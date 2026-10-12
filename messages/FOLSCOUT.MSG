@@ -1,0 +1,80 @@
+{100}{}{Tu vois : Jerry, éclaireur des Disciples.}
+{101}{}{Tu vois : Basbear, éclaireur des Disciples.}
+{102}{}{Tu vois : Richard, éclaireur des Disciples.}
+{103}{}{Tu vois : Jason, éclaireur des Disciples.}
+{104}{}{Tu vois : Shadow, éclaireur des Disciples.}
+{105}{}{Tu vois : Lynne, éclaireuse des Disciples.}
+{106}{}{Tu vois : Gwendolyne, éclaireuse des Disciples.}
+{107}{}{Tu vois : Rosa, éclaireuse des Disciples.}
+{108}{}{Tu vois : Elizabeth, éclaireuse des Disciples.}
+{109}{}{Tu vois : Rebeca, éclaireuse des Disciples.}
+{110}{}{Qui arpente les couloirs des Disciples ?}
+{111}{}{Hein ?}
+{112}{}{Je suis }
+{113}{}{. Je viens en paix.}
+{114}{}{Je suis }
+{115}{}{. Ton destructeur.}
+{116}{}{Qui sont les Disciples ?}
+{117}{}{Bon. Je vois que t'es un peu lent. T'es qui, toi ?}
+{118}{}{Moi }
+{119}{}{. Toi mort.}
+{120}{}{Moi }
+{121}{}{. Moi aider.}
+{122}{}{Moi tuer !}
+{123}{}{Moi }
+{124}{}{. Moi partir.}
+{125}{}{Tu veux aider ? Je crois qu'il faudra parler à Nicole ou à Jake si tu veux nous aider. Ils ont plus de temps à consacrer aux gens un peu lents.}
+{126}{}{Très bien. Évite juste les ennuis par ici.}
+{127}{}{Comptes-tu mettre fin au mal des Enfants ?}
+{128}{}{Oui. Je veux exterminer cette vermine.}
+{129}{}{Non. Je préfère vous tuer, bande de mauviettes.}
+{130}{}{C'est qui, ces Enfants ?}
+{131}{}{Pourquoi je voudrais tuer des enfants ?}
+{132}{}{Excellent ! Va parler à Nicole, elle saura te dire comment nous aider.}
+{133}{}{Les Enfants sont un groupe occulte qui vénère un dieu des ténèbres. Personnellement, je trouve qu'ils puent le mal.}
+{134}{}{Je vais les tuer.}
+{135}{}{Je sais pas. Ils ont l'air trop forts pour moi.}
+{136}{}{Que puis-je faire pour aider ?}
+{137}{}{Laisse tomber ! Il n'est pas question que je vous aide.}
+{138}{}{C'est du costaud, mais avec tes talents, tu devrais pouvoir t'infiltrer et nous aider à les détruire.}
+{139}{}{Je le fais, alors.}
+{140}{}{Non. Je crois que je vais pas aider.}
+{141}{}{Comme tu veux. S'ils prennent le contrôle du désert, dis pas qu'on t'a pas prévenu.}
+{142}{}{Si tu parles à Nicole, elle pourra t'en dire plus sur les moyens de les arrêter.}
+{143}{}{Merci. Au revoir.}
+{144}{}{Pas des enfants. On songerait pas à leur faire du mal. Non. Ce sont les Enfants de la Cathédrale. Une sale bande.}
+{145}{}{Dans ce cas, d'accord — je vais les descendre.}
+{146}{}{Oh. Je croyais que tu parlais de gamins. Laisse tomber. Je crois que je vais pas aider.}
+{147}{}{Que peux-tu me dire sur ces Enfants ?}
+{148}{}{Nous sommes les Disciples de l'Apocalypse. Nous essayons d'apporter la paix dans le désert.}
+{149}{}{Ça a l'air d'une bonne idée. Bonne chance.}
+{150}{}{Comment comptez-vous vous y prendre ?}
+{151}{}{Ça m'étonnerait beaucoup.}
+{152}{}{Nous travaillons à amener la tolérance dans le désert, pour ces quelques malheureux que la nature destructrice de l'homme a mutés.}
+{153}{}{Bonne chance, alors.}
+{154}{}{De toute l'histoire, on n'a jamais réussi à devenir tolérants. Pourquoi tu crois que la Guerre a eu lieu ?}
+{155}{}{C'est que des conneries.}
+{156}{}{Tu as raison de dire que nous, humains, avons été bornés. Mais il reste toujours de l'espoir.}
+{157}{}{Bonne chance, alors.}
+{158}{}{Je crois que tu as raison. Tiens, laisse-moi t'ouvrir un peu l'esprit avec ça.}
+{159}{}{Quoi qu'il en soit, on t'a pas demandé ton avis. Au revoir.}
+{160}{}{Un cynique parmi nous. Je suis sûr que tu as tes raisons. Quoi qu'il en soit, je suis certain qu'on peut arriver à une forme de compréhension.}
+{161}{}{Bonne chance, alors. Au revoir.}
+{162}{}{J'ai entendu dire que les Enfants ont réussi à obtenir certains de nos secrets. Je me demande comment c'est possible ?}
+{163}{}{Je crois qu'il y a un espion quelque part par ici.}
+{164}{}{Je sais. C'est moi qui leur vends vos secrets.}
+{165}{}{Je suis sûr que tu t'imagines des choses. Comment pourraient-ils savoir quoi que ce soit ?}
+{166}{}{Vraiment ? Je pensais la même chose, mais je craignais de ne jamais trouver beaucoup de soutien pour cette théorie.}
+{167}{}{Tu as des indices sur qui ça pourrait être ?}
+{168}{}{Content de le savoir. Merci pour ton temps.}
+{169}{}{C'est toi l'agent double !!!}
+{170}{}{Pas vraiment. Tout ce que je peux imaginer, c'est que la personne devrait avoir accès à des informations et avoir accès à l'extérieur. Tu devrais regarder du côté des initiés ou des éclaireurs.}
+{171}{}{Merci. Au revoir.}
+{172}{}{Nicole sera ravie d'apprendre que j'ai tué l'agent.}
+{173}{}{Tu dois avoir raison. Merci de m'avoir remis les idées en place.}
+{174}{}{Je crois que c'est toi l'agent double. Tu essaies de me rouler, je vois. Eh bien maintenant tu MEURS !}
+{175}{}{Beau travail d'avoir descendu cet agent. Maintenant on a peut-être une chance contre ces Enfants.}
+{176}{}{Bonne chance.}
+{177}{}{Je peux t'aider à t'entraîner pour devenir un combattant plus efficace.}
+{178}{}{Tu voudrais ? Ce serait merveilleux.}
+{179}{}{Et voilà. Peut-être que ça t'aidera, si tu te retrouves dans un combat.}

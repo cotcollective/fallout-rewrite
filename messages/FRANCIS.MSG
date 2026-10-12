@@ -1,0 +1,68 @@
+{100}{}{Tu vois : Sœur Francis.}
+{101}{}{Salut ! Oh, c'est toi ! J'espère que tu n'es pas là pour me tuer. Si ça te dérange pas, tu pourrais attendre que j'aie fini de méditer ?}
+{102}{}{Oh, c'est encore toi. Je veux pas être impolie, mais je suis en train de méditer...}
+{103}{}{Excuse-moi, tu pourrais ranger ton arme ? J'arrive pas à méditer sur la paix quand je fixe, euh, la mort en face. Merci beaucoup.}
+{104}{}{Tu sais, y a des gens qui disent des choses vraiment méchantes sur toi. Tu devrais faire quelque chose...}
+{105}{}{Salut. Je médite. T'as remarqué ? Je peux t'aider ?}
+{106}{}{Bien sûr. T'as remarqué quelque chose d'inhabituel par ici ?}
+{107}{}{Ça te dirait de partager tes méditations préférées avec moi ?}
+{108}{}{Qui dirige, ici ?}
+{109}{}{Où puis-je trouver le Maître ?}
+{110}{}{Je cherche de grandes quantités d'alcool. J'aimerais les faire sortir des lieux...}
+{111}{}{T'as des munitions ?}
+{112}{}{Aide ! Moi aider ?}
+{113}{}{Bonjour, mon frère. Je peux t'aider ?}
+{114}{}{Bonjour, ma sœur. Je peux t'aider ?}
+{115}{}{Bien sûr. T'as remarqué quelque chose d'inhabituel par ici ?}
+{116}{}{Ça te dirait de partager tes méditations préférées avec moi ?}
+{117}{}{Qui dirige, ici ?}
+{118}{}{Où puis-je trouver le Maître ?}
+{119}{}{Je cherche de grandes quantités d'alcool. J'aimerais les faire sortir des lieux...}
+{120}{}{T'as des munitions ?}
+{121}{}{Aide ! Moi aider ?}
+{122}{}{Bien sûr. T'as remarqué quelque chose d'inhabituel par ici ?}
+{123}{}{Ça te dirait de partager tes méditations préférées avec moi ?}
+{124}{}{Qui dirige, ici ?}
+{125}{}{Où puis-je trouver le Maître ?}
+{126}{}{Je cherche de grandes quantités d'alcool. J'aimerais les faire sortir des lieux...}
+{127}{}{T'as des munitions ?}
+{128}{}{Aide ! Moi aider ?}
+{129}{}{Eh bien, le Père Morpheus n'a pas fait de sermon depuis si longtemps. C'est dommage, parce que j'adore tellement ses discours et tout le monde semble très occupé avec une Croisade quelconque.}
+# Space of " Now" at beginning of line is intentional!
+{130}{}{ Maintenant, si tu veux bien m'excuser, je dois retourner méditer.}
+{131}{}{Eh bien, je pourrais, mais ceux qui passent par le processus de Serviteur sont tellement meilleurs que moi... Leurs esprits sont tellement plus concentrés sur le Maître que le mien. Peut-être qu'après ma transformation, je m'améliorerai.}
+# Space of " Now" at beginning of line is intentional!
+{132}{}{ Maintenant, si tu veux bien m'excuser, je dois retourner méditer.}
+{133}{}{Mais oui, c'est le Père Morpheus. C'est un si bon orateur, il donne vraiment vie à la Paix et à l'Unité, et quand il parle, je peux juste voir ces Flammes Sacrées !}
+{134}{}{Ce Père Morpheus, il parle bien ; et il est beau, en plus !}
+{135}{}{Je crois que c'est l'un des Mystères Intérieurs dont les prêtres discutent en haut dans le Sanctuaire Intérieur. Je n'ai pas encore eu le privilège de cette révélation, mais j'y travaille !}
+# Space of " Now" at beginning of line is intentional!
+{136}{}{ Maintenant, si tu veux bien m'excuser, je dois retourner méditer.}
+{137}{}{Mon Dieu ! De l'alcool et des drogues ici ?! Tu dois te tromper. Le Maître ne tolérerait jamais ça. Il veut que tous ses disciples gardent l'esprit sain et pur.}
+# Space of " Now" at beginning of line is intentional!
+{138}{}{ Maintenant, si tu veux bien m'excuser, je dois retourner méditer.}
+{139}{}{Je crois que des munitions sacrées sont disponibles à la Boutique Souvenir de la Cathédrale...}
+# Space of " Now" at beginning of line is intentional!
+{140}{}{ Maintenant, si tu veux bien m'excuser, je dois retourner méditer.}
+{141}{}{Eh bien, non. Aucune aide du tout. Au revoir.}
+{142}{}{Bonjour, mon frère. Non, j'ai médité comme une bonne Initiée, en attendant d'être baptisée par les Serviteurs. Je suis sûre qu'il n'y a pas de souci à se faire.}
+{143}{}{Bonjour, ma sœur. Non, j'ai médité comme une bonne Initiée, en attendant d'être baptisée par les Serviteurs. Je suis sûre qu'il n'y a pas de souci à se faire.}
+{144}{}{Le Maître est mon ami. L'Unité, c'est la prospérité. La paix, c'est la prospérité. La paix et l'Unité passent par l'obéissance. L'obéissance se prouve par la soumission à l'autorité...}
+{145}{}{Qui se soumet sera baptisé par la Flamme Sacrée, mais les fidèles ne brûleront pas. Qui traverse le Feu sans brûler aura la vie éternelle...}
+{146}{}{J'espère que j'ai rien manqué...}
+{147}{}{C'est une question piège ? C'est le Maître, non ?}
+{148}{}{Eh bien, j'ai entendu dire qu'on peut trouver le Maître dans le Feu Sacré, qu'il attend en bas l'Unité et la Paix, et qu'il vit dans les cœurs et les esprits de tous les gens vertueux...}
+{149}{}{Je suis pas sûre de savoir lequel de tout ça est une métaphore. Peut-être qu'il est partout.}
+{150}{}{Mais voyons, mon frère, rien d'aussi impur ne souille la Cathédrale. Je préviendrais les Grands Prêtres si de tels péchés étaient commis.}
+{151}{}{Mais voyons, ma sœur, rien d'aussi impur ne souille la Cathédrale. Je préviendrais les Grands Prêtres si de tels péchés étaient commis.}
+{152}{}{Je suis armée, bien sûr, si la raison ne suffit pas à convaincre nos ennemis, mais je ne m'arme pas à l'excès. Y a pas de munitions à la Boutique Souvenir ?}
+{153}{}{Oh non, mon frère, je n'ai pas besoin d'aide. Excuse-moi, s'il te plaît.}
+{154}{}{Oh non, ma sœur, je n'ai pas besoin d'aide. Excuse-moi, s'il te plaît.}
+{155}{}{Eh bien, on me dit que la Paix et l'Unité que nous cherchons pour toutes les créatures, c'est inhabituel, mais j'espère que ce sera plus le cas très longtemps.}
+# Space of " Now" at beginning of line is intentional!
+{156}{}{ Maintenant, si tu veux bien m'excuser, je dois retourner méditer.}
+{157}{}{Je sais pas. Peut-être qu'il se révélera en temps voulu.}
+{158}{}{[Terminé]}
+{159}{}{[Suite]}
+{160}{}{Bonjour, monsieur. Je peux vous aider ?}
+{161}{}{Bonjour, mademoiselle. Je peux vous aider ?}

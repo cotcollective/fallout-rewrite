@@ -1,0 +1,68 @@
+{100}{}{Tu vois un habitant de l'Abri.}
+{101}{}{J'arrive pas à croire que tu nous as trahis !}
+{102}{}{Traître !}
+{103}{}{Je te déteste. Pourquoi t'es jamais revenu ?!}
+{104}{}{J'espère que tu t'étouffes avec ta vilenie !}
+{105}{}{}
+{106}{}{}
+{107}{}{}
+{108}{}{}
+{109}{}{Merci de nous avoir sauvés.}
+{110}{}{J'étais un peu sûr que tu pouvais le faire, mais maintenant j'ai confiance.}
+{111}{}{Merci ! Merci !}
+{112}{}{T'es un héros. Mon petit garçon veut être comme toi quand il sera grand. Je sais pas si ça me plaît.}
+{113}{}{T'es une héroïne. Ma petite fille veut être comme toi quand elle sera grande. Je sais pas si ça me plaît.}
+{114}{}{T'es un chic type !}
+{115}{}{T'es une chic fille !}
+{116}{}{T'es sûr d'avoir besoin de ça ici ?}
+{117}{}{C'est une arme !}
+{118}{}{Tu t'en es déjà servi contre quelqu'un ?}
+{119}{}{Pourquoi tu crois nécessaire de porter une arme ici ?}
+{120}{}{Ça fait plaisir de te revoir.}
+{121}{}{Je suis content que tu ailles bien.}
+{122}{}{T'as l'air correct pour moi. Tous ces bruits doivent être faux.}
+{123}{}{Salut }
+{124}{}{. Continue ton bon travail.}
+{125}{}{J'espère que tout se passe bien là-dehors. On pourrait bien utiliser de l'eau.}
+{126}{}{On commence à manquer d'eau. C'est terrible !}
+{127}{}{Dépêche-toi de trouver cette puce, s'il te plaît. On a besoin de toi.}
+{128}{}{Je suis content que tu ailles bien. Continue ton bon travail.}
+{129}{}{Ça me fait mal de dire ça, mais si tu trouves pas la Puce d'eau bientôt, on va tous mourir.}
+{130}{}{Mon petit pleure toujours au milieu de la nuit pour un verre d'eau et je peux rien lui donner.}
+{131}{}{On va pas s'en sortir, hein ?}
+{132}{}{Les rations d'eau touchent à leur fin.}
+{133}{}{La section hydroponique a fermé maintenant. Ça veut dire que nos réserves de nourriture s'épuisent.}
+{134}{}{Hmm. T'as toujours l'air humain pour moi. Ça peut pas être si terrible dehors.}
+{135}{}{Salut }
+{136}{}{.}
+{137}{}{J'espère que ta quête se passe bien.}
+{138}{}{À plus tard.}
+{139}{}{T'as parlé au Superviseur récemment ?}
+{140}{}{Le Superviseur est très préoccupé par l'état de ta mission.}
+{141}{}{Faut que tu te dépêches. On peut pas se permettre que tu échoues.}
+{142}{}{J'espère que tu fais de ton mieux.}
+{143}{}{C'est pas le moment de se reposer, retourne là-dehors.}
+{144}{}{C'est pas ce que t'es censé faire, hein ?}
+{145}{}{On va mourir, et ce sera ta faute.}
+{146}{}{Reste pas planté là, retourne là-dehors ! Maintenant !}
+{147}{}{Si on meurt, ce sera ta faute.}
+{148}{}{Le dehors t'a corrompu, hein ?}
+{149}{}{Laisse-moi tranquille.}
+{150}{}{Je crois que tu devrais me laisser tranquille, moi et ma famille, }
+{151}{}{. Ce serait mieux.}
+{152}{}{Tu devrais avoir honte.}
+{153}{}{Et dire que je t'aimais bien avant.}
+{154}{}{L'habitant de l'Abri refuse de te parler.}
+{155}{}{Un regard vide accueille ta demande de parler.}
+{156}{}{Je regrette qu'on t'ait choisi pour aller dehors.}
+{157}{}{L'eau est infecte, mais ta compagnie est pire.}
+{158}{}{Va-t'en. Pars juste. Tu peux te racheter en trouvant cette Puce d'eau.}
+{159}{}{J'espère que t'es satisfait.}
+{160}{}{L'habitant de l'Abri refuse de te parler.}
+{161}{}{C'est toi qui as causé ça ! T'as probablement cassé la Puce d'eau en premier lieu, aussi !}
+{162}{}{Je te déteste. Je te déteste vraiment, vraiment.}
+{163}{}{L'habitant de l'Abri sanglote juste de grosses larmes.}
+{164}{}{Ta demande de parler se heurte à un regard froid.}
+{165}{}{Merci.}
+{166}{}{Il est tard. Reviens une autre fois.}
+{167}{}{L'habitant de l'Abri se repose.}

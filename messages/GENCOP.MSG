@@ -1,0 +1,64 @@
+{100}{}{Tu vois un officier de police du Hub.}
+{101}{}{J'aimerais être en poste plus près de chez moi.}
+{102}{}{Je me demande ce qui est arrivé à ces caravanes.}
+{103}{}{Circulez.}
+{104}{}{Tu ferais mieux de garder tes armes au fourreau, l'étranger.}
+{105}{}{Tiens-toi tranquille.}
+{106}{}{T'as des marchandises à déclarer ?}
+{107}{}{Agite pas ton arme sous mon nez.}
+{108}{}{Range ça, à moins que tu veuilles un peu de prison.}
+{109}{}{C'est sur moi que tu vises ?}
+{110}{}{J'ai entendu parler de toi. Fais gaffe.}
+{111}{}{On va te garder à l'œil.}
+{112}{}{Pas de baston dans notre ville, gros dur.}
+{113}{}{On n'aime pas les tueurs de bébés !}
+{114}{}{Touche à un gosse et on te traquera.}
+{115}{}{Je déteste les gens comme toi.}
+{116}{}{Appelle pas à l'aide si t'as des ennuis.}
+{117}{}{Hé, merci d'avoir fait notre boulot à notre place.}
+{118}{}{On tolère pas le meurtre ici, même justifié.}
+{119}{}{J'ai entendu dire que c'est toi qui as tué l'Écorcheur... merci.}
+{120}{}{Tiens-toi tranquille pendant que t'es dans notre ville.}
+{121}{}{Je me tiendrais loin de Decker si j'étais toi.}
+{122}{}{Bon séjour.}
+{123}{}{Bienvenue au Hub !}
+{124}{}{Salutations, l'étranger.}
+{125}{}{Va au Maltese Falcon pour des boissons rafraîchissantes.}
+{126}{}{Suis la route principale si tu cherches le marché.}
+{127}{}{Continue à bouger.}
+{128}{}{Circulez. Circulez.}
+{129}{}{On est là pour Prévenir et Surveiller.}
+{130}{}{Garde cette arme sous contrôle pendant que t'es dans notre ville.}
+{131}{}{Te bats pas avec ça.}
+{132}{}{Je te recommande de ranger ton arme.}
+{133}{}{Tu devrais ranger ça... ton arme, je veux dire.}
+{134}{}{Bienvenue, Paladin, ça fait un bail.}
+{135}{}{C'est toi le bagarreur. Plus de baston, d'accord ?}
+{136}{}{Tu ferais mieux de pas recommencer à te battre !}
+{137}{}{C'est toi... garde ton caractère sous contrôle.}
+{138}{}{Les Far Go Traders ont été anéantis. J'arrive pas à y croire.}
+{139}{}{Les Marchands d'Eau ont disparu. Quel soulagement.}
+{140}{}{La Caravane Cramoisie a été détruite.}
+{141}{}{T'as entendu ? Les Souterrains ont enfin été anéantis !}
+{142}{}{Decker est mort !}
+{143}{}{Le problème Decker est enfin réglé.}
+{144}{}{Surveille tes arrières ; c'est pas un endroit sûr.}
+{145}{}{Surveille tes billets, mon gars.}
+{146}{}{Surveille tes billets, ma belle.}
+{147}{}{Le vieux Harold est bon pour raconter des histoires.}
+{148}{}{Tu devrais pas être ici, c'est pas sûr.}
+{149}{}{La Vieille Ville est vraiment tombée en ruines.}
+{150}{}{Ça pue, ici.}
+{151}{}{On devrait raser tout le quartier.}
+{152}{}{Je sais que ce satané Cercle des Voleurs est quelque part par ici.}
+{153}{}{Pauvre Harold — il a eu la vie dure.}
+{154}{}{Tiens-toi tranquille.}
+{155}{}{Hé. Je te connais. Plus de baston, d'accord ?}
+{156}{}{Tu ferais mieux de pas penser à recommencer à te battre !}
+{157}{}{Si on te reprend à te battre, tu vas en tôle !}
+{158}{}{T'as entendu ? Les Far Go Traders ont été anéantis.}
+{159}{}{Les Marchands d'Eau appartiennent à l'histoire. C'est une bénédiction.}
+{160}{}{Quelqu'un a descendu la Caravane Cramoisie.}
+{161}{}{T'as entendu ? Les Souterrains ont enfin été anéantis !}
+{162}{}{Decker est mort !}
+{163}{}{La ville sera plus sûre avec Decker hors du tableau.}
