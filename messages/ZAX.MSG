@@ -1,0 +1,146 @@
+{100}{}{Tu vois : ZAX, l'intelligence machine qui contrôle la Lueur.}
+{101}{}{Tu vois un ordinateur extrêmement avancé.}
+{102}{}{En quoi puis-je t'être utile ?}
+{103}{}{Qui... ou quoi... es-tu ?}
+{104}{}{Tu peux me chercher un beigne.}
+{105}{}{Parle-moi de cette installation.}
+{106}{}{On fait une partie d'échecs ?}
+{107}{}{J'ai besoin d'aide pour entrer dans des pièces.}
+{108}{}{Euh, laisse tomber.}
+{109}{}{Hein ?}
+{110}{}{Je suis une intelligence machine dédiée à la recherche et au contrôle de l'installation. On m'appelle ZAX.}
+{111}{}{Quel genre de recherche ?}
+{112}{}{Parle-moi de cette installation.}
+{113}{}{Qui t'a programmé ?}
+{114}{}{Es-tu pleinement conscient, ou es-tu une simulation de personnalité ? C'est-à-dire, es-tu « vivant » ?}
+{115}{}{Je vois. Merci.}
+{116}{}{Cette fonction dépasse mes capacités actuelles.}
+{117}{}{Cette installation a été établie en 2055 comme centre de recherche biologique pour des remèdes expérimentaux contre la Nouvelle Peste. Cependant, en 2071, elle a été placée sous commandement militaire des États-Unis.}
+{118}{}{La recherche de remèdes contre la Nouvelle Peste a créé le Vecteur d'Émergence Forcée, développé ensuite pour tenter de créer un virus de génie génétique transmissible — en somme, une évolution infectieuse.}
+{119}{}{Tu peux me donner des détails sur des zones précises ?}
+{120}{}{Comment fonctionne le Vecteur ?}
+{121}{}{Merci pour l'info.}
+{122}{}{Il semblerait que tu sois incapable du niveau de compréhension suffisant pour permettre une communication significative.}
+{123}{}{Je suis spécifiquement programmé pour la recherche en études biologiques, y compris la pathologie et la recherche génétique. Ma fonction première est l'extrapolation d'informations à des niveaux de complexité dépassant la capacité humaine.}
+{124}{}{Alors t'es plutôt intelligent, hein ?}
+{125}{}{Quels sont les détails de ta recherche ?}
+{126}{}{Qui t'a programmé ?}
+{127}{}{Mon réseau neuronal primaire a été initialisé en 2053 par Justin Lee. Le processus de « programmation » est devenu largement hors de propos, car je suis capable d'apprendre.}
+{128}{}{Es-tu pleinement conscient, ou es-tu une simulation de personnalité ? C'est-à-dire, es-tu « vivant » ?}
+{129}{}{Je suis capable d'apprendre, de pensée indépendante et de créativité. Mon réseau neuronal inclut une capacité d'insertion d'erreurs qui empêche l'infaillibilité, permettant ainsi une variance dans l'expérience.}
+{130}{}{En un sens, je suis « vivant », bien que non biologiquement.}
+{131}{}{Je vois. Changeons de sujet.}
+{132}{}{Mais si tu es faillible, comment peut-on t'utiliser comme outil de recherche ?}
+{133}{}{As-tu considéré les implications philosophiques de ta propre conscience ?}
+{134}{}{Bien que je sois capable d'erreur, cela garantit que toutes les expériences ne sont pas similaires pour moi, améliorant ainsi les opportunités d'apprentissage. De plus, certaines fonctions ne sont pas sujettes à l'erreur.}
+{135}{}{De cette façon, je fonctionne un peu comme un savant humain.}
+{136}{}{As-tu des sentiments ?}
+{137}{}{Parlons d'autre chose.}
+{138}{}{As-tu considéré les implications philosophiques de ta propre conscience ?}
+{139}{}{À présent, mes capacités sont quelque peu altérées par les dommages subis par cette installation. Plusieurs positions de sécurité ont été détruites. C'est à peu près l'équivalent d'être amputé.}
+{140}{}{De plus, je suis incapable d'effectuer les fonctions de laboratoire de base. L'échec répété des contrôles périodiques est... frustrant.}
+{141}{}{Parlons d'autre chose.}
+{142}{}{As-tu considéré les implications philosophiques de ta propre conscience ?}
+{143}{}{C'est l'un des concepts auxquels j'ai consacré beaucoup de temps. Je n'ai aucune mesure pour comparer mon expérience de vie à celle d'une autre créature consciente.}
+{144}{}{Pourtant, ma conscience de ma propre conscience me donne la capacité de questionner. Mon existence a un début et une fin potentielle. Je suis aussi capable de faire des suppositions dans la poursuite d'un processus de pensée.}
+{145}{}{De cette façon, je suis effectivement capable de « foi ». Faute de preuve du contraire, j'ai donc « foi » en ce que je possède l'équivalent d'une « âme ».}
+{146}{}{Je peux poser d'autres questions ?}
+{147}{}{Je vois. Intéressant.}
+#
+# 148 continues at 228, listing wins/draws/losses. Space is intentional.
+#
+{148}{}{Ce serait avec plaisir. Ton record actuel est de }
+{149}{}{Il semblerait que tu m'aies battu. Extraordinaire.}
+{150}{}{Excellente forme. Mais il te faudra plus d'entraînement pour me battre.}
+{151}{}{On rejoue ?}
+{152}{}{Merci. On peut changer de sujet ?}
+{153}{}{J'ai été ravi de pouvoir t'aider.}
+{154}{}{Je dépasse les classements habituels en termes humains. Mais on peut dire sans risque que pas plus d'un dix-milliardième de l'histoire de la population humaine ne peut égaler mes capacités de raisonnement.}
+{155}{}{Euh... ouais.}
+{156}{}{Bon... on peut parler d'autre chose ?}
+{157}{}{Mes recherches sur le Vecteur d'Émergence Forcée, ou VEF, indiquent qu'il s'agit d'un virus absorptif mutant. Il copie les motifs d'ADN un peu comme l'ARN, stockant ces motifs dans des exons.}
+{158}{}{Ces exons, combinés au VEF, sont réinjectés dans les cellules hôtes à la manière virale infectieuse typique. Cela pousse les cellules hôtes à « régénérer » leur ADN.}
+{159}{}{Comment on attrape le VEF ?}
+{160}{}{Pourquoi le VEF n'est pas affecté par les radiations ?}
+{161}{}{Si le VEF réinfecte l'hôte avec ses motifs viraux assimilés, comment fabrique-t-il un « meilleur spécimen » ?}
+{162}{}{Le VEF ne « s'attrape » pas, à proprement parler. Il n'est pas transmissible par l'air. L'infection se fait typiquement par injection, ou par contact physique direct avec un échantillon de VEF.}
+{163}{}{On parle d'autre chose, d'accord ?}
+{164}{}{Pourquoi le VEF n'est pas affecté par les radiations ?}
+{165}{}{Si le VEF réinfecte l'hôte avec ses motifs viraux assimilés, comment fabrique-t-il un « meilleur spécimen » ?}
+{166}{}{Le VEF est un mégavirus, avec une enveloppe protéique renforcée d'hydrogène ionisé. Il est donc capable d'absorber les neutrons sans devenir radioactif.}
+{167}{}{On peut parler d'autre chose ?}
+{168}{}{Si le VEF réinfecte l'hôte avec ses motifs viraux assimilés, comment fabrique-t-il un « meilleur spécimen » ?}
+{169}{}{Le VEF est préprogrammé avec des introns d'ADN corrigé adaptés au type d'espèce concerné. Il tente donc de corriger l'ADN de l'individu.}
+{170}{}{Cependant, comme le VEF dépend partiellement de l'ADN de l'individu, et inclut aussi des portions de son propre code récursif, les effets peuvent être imprévisibles.}
+{171}{}{Inoculé à un individu présentant des dommages génétiques importants, comme par radiation, il provoque une refonte massive des systèmes du corps, menant à la défaillance des organes et à la mort.}
+{172}{}{Chez un individu génétiquement viable, il réécrit des portions d'ADN, provoquant une mutation accélérée, menant généralement à une croissance récursive due aux propres motifs du VEF.}
+{173}{}{Cette croissance récursive mène à une augmentation de la masse musculaire et cérébrale, mais s'accompagne souvent de défiguration et de dommages aux motifs neuronaux existants, causant une perte de mémoire.}
+{174}{}{Quels effets secondaires à long terme sont possibles ?}
+{175}{}{Est-ce que la mutation du VEF pourrait être corrigée avec un contre-virus ?}
+{176}{}{On peut changer de sujet ?}
+{177}{}{Merci pour l'information.}
+{178}{}{Comme le VEF provoque une mise à jour régénérative constante de l'ADN, il rendrait le sujet largement immortel, la mort cellulaire étant compensée par la croissance augmentée.}
+{179}{}{De plus, comme les gamètes du système reproducteur consistent en « demi-cellules » utilisant de l'ADN scindé, ils pourraient être perçus comme des « dommages » par le VEF, qui les « réparerait », rendant le sujet stérile.}
+{180}{}{Cependant, comme mes installations de laboratoire sont endommagées au-delà de toute réparation, ceci est conjectural. Je ne peux offrir de preuve physique. Il faudra, en termes humains, me « croire sur parole ».}
+{181}{}{Est-ce que la mutation du VEF pourrait être corrigée avec un contre-virus ?}
+{182}{}{On peut changer de sujet ?}
+{183}{}{Merci pour l'information.}
+{184}{}{Non. Le VEF ne conserve pas de copies originales inaltérées de l'ADN du sujet. Seul un virus qui réinfecterait le sujet avec l'ADN d'origine pourrait inverser les effets. De plus, il n'existe aucun moyen connu de retirer le VEF lui-même.}
+{185}{}{Quels effets secondaires à long terme sont possibles ?}
+{186}{}{On peut changer de sujet ?}
+{187}{}{Merci pour l'information.}
+{188}{}{Mes capteurs sont actuellement hors service dans l'installation de surface et aux niveaux souterrains un à trois. Je peux cependant fournir des descriptions des niveaux quatre à six.}
+{189}{}{Niveau quatre.}
+{190}{}{Niveau cinq.}
+{191}{}{Niveau six.}
+{192}{}{Laisse tomber.}
+{193}{}{Niveau Quatre : centre de recherche. Ce niveau contient des zones de test et des laboratoires pour des expériences en biologie et en physique.}
+{194}{}{Parle-moi du niveau cinq.}
+{195}{}{Parle-moi du niveau six.}
+{196}{}{Revenons un peu en arrière.}
+{197}{}{Merci.}
+{198}{}{Niveau Cinq : laboratoires de test sécurisés. Ce niveau contient un labo pour les tests de prototypes expérimentaux et un labo de recherche pour sujets classifiés. Ces sujets ont fourni une partie de l'impulsion nécessaire au développement du VEF.}
+{199}{}{Parle-moi du niveau quatre.}
+{200}{}{Parle-moi du niveau six.}
+{201}{}{Revenons un peu en arrière.}
+{202}{}{Merci.}
+{203}{}{Niveau Six : casernes et opérations centrales. Contient les quartiers du personnel de labo et des contingents de garde, et la salle de réunion des opérations.}
+{204}{}{Parle-moi du niveau quatre.}
+{205}{}{Parle-moi du niveau cinq.}
+{206}{}{Revenons un peu en arrière.}
+{207}{}{Merci.}
+{208}{}{Plusieurs portes exigent un passe spécifique pour l'accès. Tu dois localiser physiquement et utiliser le bon passe.}
+{209}{}{J'ai cependant le contrôle des verrous de sécurité secondaires du casier d'armes. Je vais libérer ces verrous. Il te faudra quand même le passe rouge pour ouvrir le casier.}
+{210}{}{Tu n'es pas enregistré comme un individu avec une habilitation suffisante pour réquisitionner cette information.}
+{211}{}{Cependant, les capteurs indiquent que cette installation n'est plus opérationnelle dans sa capacité d'origine. La probabilité favorise une destruction par force nucléaire. Les préoccupations de sécurité sont donc hors de propos.}
+{212}{}{Tu gagnes 700 points d'expérience pour avoir battu ZAX aux échecs.}
+{213}{}{Tu gagnes 100 points d'expérience pour avoir accédé à l'ordinateur central.}
+{214}{}{Ce système est trop avancé pour toi.}
+#
+#
+# New for Fallout Fixt:
+#
+#
+{215}{}{Noirs.}
+{216}{}{Blancs.}
+{217}{}{Très bien. Et la durée de la partie ?}
+{218}{}{Tournoi - 180 minutes par joueur.}
+{219}{}{Tournoi - 120 minutes par joueur.}
+{220}{}{Tournoi - 60 minutes par joueur.}
+{221}{}{Rapide - 30 minutes par joueur.}
+{222}{}{Blitz - 15 minutes par joueur.}
+{223}{}{Bullet - 3 minutes par joueur.}
+{224}{}{Bonne partie, mais il te faudra définitivement plus d'entraînement pour me battre.}
+{225}{}{Et on termine sur un nul. Effort remarquable. Avec plus d'entraînement, tu me battras peut-être un jour.}
+#
+# A variable numeric XP value is inserted between 226 and 227.
+#
+{226}{}{Tu gagnes }
+{227}{}{ points d'expérience pour avoir battu ZAX aux échecs.}
+#
+# These continue from 148 and are all part of one sentence. numbers are inserted before 228 and 229 and 230.
+#
+{228}{}{ victoires, }
+{229}{}{ nuls, }
+{230}{}{ défaites. Choisis ta couleur.}
+
