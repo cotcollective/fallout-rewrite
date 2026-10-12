@@ -104,7 +104,7 @@
 {203}{}{Eh, ça m'est égal que tu viennes ou pas. On a des gens qui cherchent du boulot tous les jours. Si tu viens pas, c'est pas grave.}
 {204}{}{Je te l'ai déjà dit : t'inquiète pas. Si tu peux pas venir, je ferai avec.}
 {205}{}{La Confrérie de l'Acier}
-{206}{}{L.A. Boneyard.}
+{206}{}{le Cimetière de L.A..}
 {207}{}{Junktown}
 {208}{}{Laisse tomber. Je veux plus le boulot après tout.}
 {209}{}{Tu tombes bien, nos caravanes partent aujourd'hui. Ça paie le tarif standard de 400 capsules. Quelle route de caravane tu voulais prendre ?}
@@ -121,13 +121,13 @@
 {220}{}{D'accord. On partira pour la Confrérie dès que j'aurai rassemblé le reste de l'équipe.}
 {221}{}{D'accord, tu partiras pour la Confrérie dès que j'aurai monté l'équipe.}
 {222}{}{Prêt à partir ! Assure-toi de rester loin des montagnes.}
-{223}{}{L.A. Boneyard c'est un endroit rude - fais attention. Assure-toi que tout le monde respecte ses tours de garde.}
-{224}{}{L'équipe est presque prête. J'ai entendu dire qu'il y a eu des problèmes autour de L.A. Boneyard récemment - fais gaffe à toi.}
-{225}{}{D'accord, l'équipe de la caravane pour L.A. Boneyard est prête et t'attend.}
+{223}{}{le Cimetière de L.A. c'est un endroit rude - fais attention. Assure-toi que tout le monde respecte ses tours de garde.}
+{224}{}{L'équipe est presque prête. J'ai entendu dire qu'il y a eu des problèmes autour de le Cimetière de L.A. récemment - fais gaffe à toi.}
+{225}{}{D'accord, l'équipe de la caravane pour le Cimetière de L.A. est prête et t'attend.}
 {226}{}{Junktown c'est normalement un trajet court et facile ; tu devrais pas avoir de problèmes.}
 {227}{}{Bien, l'équipe pour la caravane de Junktown est prête.}
 {228}{}{D'accord. Junktown nous attend, allons-y.}
-{229}{}{Tiens, bonjour. Je crois comprendre que tu cherches un boulot. Je suis surpris que Rutger t'ait embauché, mais je suis sûr qu'il a ses raisons. Nos caravanes partent trois fois par mois : le 8, le 18 et le 28. On va régulièrement à trois endroits : la Confrérie de l'Acier, Junktown et L.A. Boneyard. La paie est toujours de 400 capsules, et c'est l'aller simple. Tu peux revenir avec la caravane pour 400 capsules de plus.}
+{229}{}{Tiens, bonjour. Je crois comprendre que tu cherches un boulot. Je suis surpris que Rutger t'ait embauché, mais je suis sûr qu'il a ses raisons. Nos caravanes partent trois fois par mois : le 8, le 18 et le 28. On va régulièrement à trois endroits : la Confrérie de l'Acier, Junktown et le Cimetière de L.A.. La paie est toujours de 400 capsules, et c'est l'aller simple. Tu peux revenir avec la caravane pour 400 capsules de plus.}
 {230}{}{Tu tombes bien parce qu'elles partent toutes aujourd'hui.}
 {231}{}{Elles partent toutes demain.}
 {232}{}{Elles ne partent que dans }
@@ -146,7 +146,7 @@
 {245}{}{Ug.}
 {246}{}{Quelle route tu voulais prendre ?}
 {247}{}{La Confrérie de l'Acier.}
-{248}{}{L.A. Boneyard.}
+{248}{}{le Cimetière de L.A..}
 {249}{}{Junktown.}
 {250}{}{Désolé, j'ai changé d'avis.}
 {251}{}{Bon, repasse le }

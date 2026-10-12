@@ -79,7 +79,7 @@
 {179}{}{On verra bien... }
 {180}{}{Personne ne prie pour mon âme. Mais quelqu'un ferait mieux de commencer à prier pour toi, parce que je te tue sur-le-champ ! }
 {181}{}{Tu t'es trompé d'endroit, mon ami. Ici c'est pas le pouvoir. Ici c'est la paix. }
-{182}{}{J'ai entendu dire que notre Croisade se passe bien. Bientôt nous apporterons la Paix et l'Unité à L.A. Boneyard et à toutes les communautés alentour. C'est pas génial ? }
+{182}{}{J'ai entendu dire que notre Croisade se passe bien. Bientôt nous apporterons la Paix et l'Unité à le Cimetière de L.A. et à toutes les communautés alentour. C'est pas génial ? }
 {183}{}{C'est qui le prochain sur la liste pour recevoir la Paix et l'Unité ? }
 {184}{}{C'est plutôt vague. T'as entendu autre chose ? }
 {185}{}{Bien. Il était temps que quelqu'un nettoie ce dépotoir. }
@@ -246,4 +246,4 @@
 {346}{}{Toute la sagesse du monde servira à rien contre une balle de .56 entre les deux yeux. }
 {347}{}{Nous forgeons un monde meilleur pour tout le monde. C'est tout. Désolé si tu comprends pas encore. Je prie pour que quelqu'un de plus sage que moi te fasse changer d'avis. Adieu, mon ami. Gloire au Maître ! Gloire à la paix et à l'Unité ! }
 {348}{}{Le monde réserve bien des surprises, mon ami, des agréables, des désagréables. Adieu, mon ami, et gloire au Maître ! }
-{349}{}{[Done] }
+{349}{}{[Terminé] }

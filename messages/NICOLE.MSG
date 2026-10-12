@@ -124,7 +124,7 @@
 {223}{Nic_41}{La rumeur dit qu'il y avait quelque chose de si important là-bas que la zone a été saturée de bombes pour être sûr que tout soit anéanti.}
 {224}{}{Intéressant. Pourquoi tu es ici maintenant ?}
 {225}{}{Au revoir, alors.}
-{226}{Nic_42}{Le Boneyard est plutôt clairsemé, comme tu vois. Adytum est à l'ouest. Les Enfants de la Cathédrale sont au nord. Je te déconseille d'aller trop au sud dans la ville, les Rippers et les Blades en ont fait un champ de bataille.}
+{226}{Nic_42}{Le le Cimetière est plutôt clairsemé, comme tu vois. Adytum est à l'ouest. Les Enfants de la Cathédrale sont au nord. Je te déconseille d'aller trop au sud dans la ville, les Rippers et les Blades en ont fait un champ de bataille.}
 {227}{Nic_43}{À quel sujet ?}
 {228}{}{Je sais ce qui se cache derrière les Enfants de la Cathédrale.}
 {229}{}{Combien tu es prête à me payer ?}
@@ -208,9 +208,9 @@
 {305}{Nic_90}{J'en ai très peu entendu parler.}
 {306}{Nic_91}{Ce sont les serviteurs personnels de Morpheus. Des créatures énormes et massives. Berk !}
 {307}{Nic_92}{Tu as probablement vu leurs hôpitaux. Ils prêchent la paix, mais quelque chose cloche sérieusement. On doit découvrir quoi.}
-{308}{Nic_93}{C'est une petite colonie. Tu la trouveras à l'ouest, dans le Boneyard.}
+{308}{Nic_93}{C'est une petite colonie. Tu la trouveras à l'ouest, dans le Cimetière.}
 {309}{Nic_94}{Avant la Grande Guerre, c'était une ville immense et florissante. Ma mère racontait des histoires, mais il n'en reste presque rien. Juste des ruines et la mort.}
-{310}{Nic_95}{Ils sont en guerre contre les Blades au sud. Les Rippers sont le gang le plus impitoyable du Boneyard. Quand on a envoyé des gens les convertir, on n'a récupéré que leurs têtes.}
+{310}{Nic_95}{Ils sont en guerre contre les Blades au sud. Les Rippers sont le gang le plus impitoyable du Cimetière. Quand on a envoyé des gens les convertir, on n'a récupéré que leurs têtes.}
 {311}{Nic_96}{Les Blades combattent les Rippers au sud. C'est le plus accommodant des deux gangs, même si ça ne veut pas dire grand-chose. On en a converti quelques-uns.}
 {312}{Nic_97}{Notre histoire est dans le dernier casier, étagère du haut.}
 {313}{Nic_98}{Tout a été brûlé, tout a été détruit. On essaie d'enseigner la paix aux gens, pour que ça n'arrive plus jamais.}
@@ -252,7 +252,7 @@
 {1013}{}{Hub}
 {1014}{}{Brotherhood}
 {1015}{}{Angels}
-{1016}{}{Boneyard}
+{1016}{}{le Cimetière}
 {1017}{}{Steel}
 
 {1100}{Nic_86}{Morpheus est le chef des Enfants de la Cathédrale. Il est mauvais, et ça doit être révélé.}
@@ -264,7 +264,7 @@
 {1106}{Nic_90}{J'en ai très peu entendu parler.}
 {1107}{Nic_91}{Ce sont les serviteurs personnels de Morpheus. Des créatures énormes et massives. Berk !}
 {1108}{Nic_92}{Tu as probablement vu leurs hôpitaux. Ils prêchent la paix, mais quelque chose cloche sérieusement. On doit découvrir quoi.}
-{1109}{Nic_93}{C'est une petite colonie. Tu la trouveras à l'ouest, dans le Boneyard.}
+{1109}{Nic_93}{C'est une petite colonie. Tu la trouveras à l'ouest, dans le Cimetière.}
 {1110}{Nic_94}{Avant la Grande Guerre, c'était une ville immense et florissante. Ma mère racontait des histoires, mais il n'en reste presque rien. Juste des ruines et la mort.}
 {1111}{Nic_97}{Notre histoire est dans le dernier casier, étagère du haut.}
 {1112}{Nic_98}{Tout a été brûlé, tout a été détruit. On essaie d'enseigner la paix aux gens, pour que ça n'arrive plus jamais.}

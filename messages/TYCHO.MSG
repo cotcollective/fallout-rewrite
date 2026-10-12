@@ -118,7 +118,7 @@
 {1020}{}{Abri13}
 {1021}{}{Killian}
 {1022}{}{Gizmo}
-{1023}{}{Boneyard}
+{1023}{}{le Cimetière}
 {1024}{}{Shady}
 {1025}{}{Sands}
 {1026}{}{Hub}
@@ -183,7 +183,7 @@
 {1120}{}{J'ai entendu parler des grands Abris souterrains. J'en sais pas grand-chose, par contre.}
 {1121}{}{Killian est un homme bien qui fait un boulot difficile.}
 {1122}{}{Gizmo est... enfin, il me fait l'effet d'un escroc. Il aura ce qu'il mérite à la fin.}
-{1123}{}{L.A. Boneyard ? On m'a dit que c'est un endroit de gangs et de vie dure, près de la côte.}
+{1123}{}{le Cimetière de L.A. ? On m'a dit que c'est un endroit de gangs et de vie dure, près de la côte.}
 {1124}{}{Désolé, je ne peux pas vous aider là-dessus.}
 {1125}{}{Désolé, je ne peux pas vous aider là-dessus.}
 {1126}{}{Le Hub est une communauté marchande géante, juste un peu au sud de Junktown.}
