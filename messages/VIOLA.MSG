@@ -100,7 +100,7 @@
 {199}{}{Peut-être que je serai assez intelligente pour que, quand le Maître prendra le pouvoir, je puisse faire quelque chose pour aider. Peut-être toi aussi ! Rejoins-nous ! Rejoins-nous et change le monde ! Réfléchis-y, c'est tout ce que je demande !}
 {200}{}{Il y a toujours eu des drones dans toute société. Oublie-les ! Il nous faut des drones, mais il nous faut aussi des soldats et des reines. Et tu as l'air d'un bon soldat, au moins. Réfléchis à ce que tu pourrais faire, tu pourrais nous être très utile. Aide-nous. Réfléchis à ce que j'ai dit, c'est tout ce que je demande !}
 {201}{}{Ou peut-être qu'on peut submerger leurs défenses avant qu'ils aient le temps de se reconstruire. Peut-être qu'on peut unir les autres Abris et les villes d'un seul coup rapide et net. Un monde uni ne sera pas parfait, mais il aura plus de chances de tenir ensemble. Réfléchis-y !}
-{202}{}{J'ai regardé les gens du coin. La Confrérie de l'Acier et les Enfants de l'Apocalypse veulent juste qu'on les laisse tranquilles. Le Hub croit pouvoir acheter le monde - quelle bande d'imbéciles ! Seul le Maître a la force de faire ce qui doit être fait. Réfléchis-y !}
+{202}{}{J'ai regardé les gens du coin. La Confrérie de l'Acier et les Disciples de l'Apocalypse veulent juste qu'on les laisse tranquilles. Le Hub croit pouvoir acheter le monde - quelle bande d'imbéciles ! Seul le Maître a la force de faire ce qui doit être fait. Réfléchis-y !}
 {203}{}{Je suis contente de l'entendre. J'espère que tu prendras la bonne décision.}
 {204}{}{Non. Ce n'est pas bien. Mais c'est la seule option qui a une chance de nous sauver sur le long terme, c'est pour ça que je suis avec ces gens. Il n'y a pas de meilleur moyen ! Réfléchis-y !}
 {205}{}{Ah oui ? Réfléchis-y. Réfléchis bien. Si tu continues à t'opposer à nous, tu mourras. Tu as vu nos forces, tu sais qu'il y en a d'autres d'où elles viennent. Beaucoup d'autres ! Tu ne peux pas nous arrêter ! Mais si tu nous rejoins, tu pourrais sauver des vies. Réfléchis-y, c'est tout !}
@@ -165,7 +165,7 @@
 {264}{}{Qui commande ici ?}
 {265}{}{Arrête tes salades, ma sœur ! Personne ne sert une autre personne sans un flingue sur la tempe !}
 {266}{}{Il est dangereux de laisser entrer un chien enragé chez soi, juste parce qu'on ne voit pas sa salive. Au revoir.}
-{267}{}{Alors on t'a calomnié, parce que tout Boneyard raconte des histoires d'horreur sur toi. Et je n'ai aucune envie de vérifier si elles sont vraies. Au revoir.}
+{267}{}{Alors on t'a calomnié, parce que tout le Cimetière raconte des histoires d'horreur sur toi. Et je n'ai aucune envie de vérifier si elles sont vraies. Au revoir.}
 {268}{}{Aucune lutte n'est sans prix, et la plus grande lutte exige inévitablement le plus grand coût. C'est le paradoxe de la paix, je le crains. De quoi réfléchir, en tout cas. Au revoir.}
 {269}{}{C'est un paradoxe. Bien sûr que oui, mais les plus grands maux peuvent mener au plus grand bien. Tout ce qu'il faut, c'est de l'intelligence et du courage de la part de ceux qui survivent. De quoi réfléchir, en tout cas. Au revoir.}
 {270}{}{On ne devrait pas juger les gens sur leur apparence physique. Le but du Maître est noble, et c'est tout ce que j'ai besoin de savoir. Pour ce que disent les autres, demande-leur.}

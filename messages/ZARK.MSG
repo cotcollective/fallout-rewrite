@@ -101,7 +101,7 @@
 {200}{}{[Rit] Moi, je préfère baiser plutôt que me faire baiser. Mais on devrait pas parler comme ça en plein air. Les zombies aiment pas ça.}
 {201}{}{Tu sais, y a plein d'autres gens par ici qui pensent comme ça. Va les emmerder.}
 {202}{}{Je te dirai rien, mon pote. Va en enfer.}
-{203}{}{Le gars s'habille en noir, il fait son numéro de prédicateur, puis il monte et compte ses billets du Hub. Mec, j'aimerais que ce soit aussi facile pour moi ! Mais je ferais mieux d'arrêter de dire du mal de lui dans son dos, sinon les Nocturnes pourraient entendre.}
+{203}{}{Le gars s'habille en noir, il fait son numéro de prédicateur, puis il monte et compte ses billets du Hub. Mec, j'aimerais que ce soit aussi facile pour moi ! Mais je ferais mieux d'arrêter de dire du mal de lui dans son dos, sinon les Nightkin pourraient entendre.}
 {204}{}{T'as peur de quoi ?}
 {205}{}{Je veux en savoir plus.}
 {206}{}{Où sont les capsules par ici ?}
@@ -124,9 +124,9 @@
 {223}{}{T'as été utile. Merci, mon ami.}
 {224}{}{Il a de la gnôle sur lui ? Y a de quoi se rincer le gosier dans ce boui-boui ?}
 {225}{}{Hmm, un bel endroit privé, personne pour me déranger quand je le tuerai.}
-{226}{}{Tu déconnes. Les Nocturnes sont des tueurs. Tu les regardes de travers, et ils te coupent des morceaux du corps, les cuisinent, et te les font manger un par un. On peut pas les tuer. Ce sont les hommes de main du Maître et ils vont déchirer le monde pour lui. Et je dirai rien de plus !}
+{226}{}{Tu déconnes. Les Nightkin sont des tueurs. Tu les regardes de travers, et ils te coupent des morceaux du corps, les cuisinent, et te les font manger un par un. On peut pas les tuer. Ce sont les hommes de main du Maître et ils vont déchirer le monde pour lui. Et je dirai rien de plus !}
 {227}{}{Y a rien d'autre à dire, et si t'es malin, tu veux pas savoir !}
-{228}{}{J'en sais rien. Je les ai cherchés moi-même ! J'ai entendu dire que Morpheus a une planque, mais les Nocturnes gardent la principale. J'ai connu des gars qui sont partis chercher des passages secrets et qu'on a jamais revus. J'ai arrêté de chercher après un moment, et si t'es malin, tu commenceras pas ! Ça vaut pas le coup !}
+{228}{}{J'en sais rien. Je les ai cherchés moi-même ! J'ai entendu dire que Morpheus a une planque, mais les Nightkin gardent la principale. J'ai connu des gars qui sont partis chercher des passages secrets et qu'on a jamais revus. J'ai arrêté de chercher après un moment, et si t'es malin, tu commenceras pas ! Ça vaut pas le coup !}
 {229}{}{Tu déconnes. Parle aux zombies, mec !}
 {230}{}{Peut-être que vous êtes faits l'un pour l'autre, après tout !}
 {231}{}{Y a pas de gnôle, mec ! La vie est une plus grosse garce que Lasher ! Maintenant pourquoi tu vas pas trouver quelqu'un d'autre à qui parler, petit morveux ? Dégage d'ici !}
@@ -167,7 +167,7 @@
 {266}{}{Attends une minute, c'est pas toi le gars qui... Oh merde, je me tire d'ici !}
 {267}{}{Attends une minute, c'est pas toi la nana qui... Oh merde, je me tire d'ici !}
 {268}{}{Je suis l'ami de personne. C'est pas mon genre. [longue pause] Je te suggère de te pousser de mon chemin, maintenant.}
-{269}{}{On essaie un truc ici, et les Nocturnes vont nous déchirer en morceaux. On peut peut-être se retrouver dehors plus tard.}
+{269}{}{On essaie un truc ici, et les Nightkin vont nous déchirer en morceaux. On peut peut-être se retrouver dehors plus tard.}
 {270}{}{Peut-être. Ou peut-être qu'on peut tous les deux mettre l'attitude de côté et juste parler de trucs. Comme ce qui se passe par ici.}
 {271}{}{Lâche !}
 {272}{}{Bien sûr. Ça pourrait être marrant.}

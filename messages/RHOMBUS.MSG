@@ -61,7 +61,7 @@
 {160}{Rhom22}{Je n'accorde aucun crédit aux rumeurs.}
 {161}{}{Oh allez, juste une ? S'il te plaît ?}
 {162}{}{Bien.}
-{163}{Rhom23}{Le Hub et le Boneyard sont au sud, les montagnes à l'est, et le désert désolé au nord. Qui s'y aventure ne revient jamais.}
+{163}{Rhom23}{Le Hub et le Cimetière sont au sud, les montagnes à l'est, et le désert désolé au nord. Qui s'y aventure ne revient jamais.}
 {164}{Rhom24}{Remets ça tout de suite !}
 {165}{Rhom25}{Voilà ce qu'on fait aux criminels...}
 {166}{Rhom26}{Arrête ça !}
@@ -90,7 +90,7 @@
 {189}{Rhom43}{Le Hub est au sud. On commerce avec eux.}
 {190}{Rhom44}{Demande à Vree. Elle saura.}
 {191}{Rhom45}{Je ne suis pas autorisé à en discuter. Parle au Haut Aîné.}
-{192}{Rhom46}{Le Boneyard est loin au sud. Tu n'y trouveras que de la violence.}
+{192}{Rhom46}{Le le Cimetière est loin au sud. Tu n'y trouveras que de la violence.}
 {193}{Rhom47}{Je ne connais pas ça.}
 {194}{Rhom48}{J'en ai jamais entendu parler.}
 {195}{Rhom49}{Je n'ai aucune connaissance d'une telle chose.}
@@ -126,7 +126,7 @@
 {1006}{}{Hub}
 {1007}{}{Disques}
 {1008}{}{Armée}
-{1009}{}{Boneyard}
+{1009}{}{le Cimetière}
 {1010}{}{Paladins}
 {1011}{}{Maître}
 {1012}{}{Guerre}
@@ -144,10 +144,10 @@
 {1103}{Rhom40}{Ah, le général Maxson était le meilleur Paladin en chef de tous les temps. Quand il est devenu Haut Aîné, je suis devenu Paladin en chef.}
 {1104}{Rhom41}{Ils recopient les documents d'armes et trouvent de nouvelles idées. Ce qu'ils étudient, les Chevaliers le fabriquent.}
 {1105}{Rhom42}{Ce sont les fabricants des armes.}
-{1106}{Rhom23}{Le Hub et le Boneyard sont au sud, les montagnes à l'est, et le désert désolé au nord. Qui s'y aventure ne revient jamais.}
+{1106}{Rhom23}{Le Hub et le Cimetière sont au sud, les montagnes à l'est, et le désert désolé au nord. Qui s'y aventure ne revient jamais.}
 {1107}{Rhom44}{Demande à Vree. Elle saura.}
 {1108}{Rhom45}{Je ne suis pas autorisé à en discuter. Parle au Haut Aîné.}
-{1109}{Rhom46}{Le Boneyard est loin au sud. Tu n'y trouveras que de la violence.}
+{1109}{Rhom46}{Le le Cimetière est loin au sud. Tu n'y trouveras que de la violence.}
 {1110}{Rhom13}{Tu comprends pas ce que c'est d'être un Paladin. Dommage.}
 {1111}{Rhom44}{Demande à Vree. Elle saura.}
 {1112}{Rhom21}{Parle à Vree à la bibliothèque principale.}
