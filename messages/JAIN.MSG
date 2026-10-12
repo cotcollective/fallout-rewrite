@@ -1,0 +1,119 @@
+{100}{}{Tu vois : Jain}
+{101}{JAIN00}{Pourquoi déranges-tu une aînée de la Cathédrale ?}
+{102}{}{Je viens chercher une bénédiction.}
+{103}{}{Votre église m'intéresse, et je veux des informations. Vous avez des brochures ?}
+{104}{}{Je regarde juste autour.}
+{105}{}{Maman ?}
+{106}{JAIN01}{Je suis difficilement ta mère.}
+{107}{}{Nan ?}
+{108}{}{Caca !}
+{109}{JAIN02}{Comment oses-tu me parler sur ce ton ? Tu seras puni pour ton insolence ! Gardes !}
+{110}{JAIN03}{Peut-être qu'un de nos prêtres discutera de ton éducation nécessaire. Pars maintenant.}
+{111}{JAIN04}{As-tu étudié les sacrements, enfant ?}
+{112}{}{Oui.}
+{113}{}{Non.}
+{114}{JAIN05}{Alors tu saurais que les Hauts Aînés de la Cathédrale ne « distribuent » pas les bénédictions comme ça. Tu vas partir maintenant.}
+{115}{JAIN07}{Continue à te moquer de moi et je te ferai jeter dehors.}
+{116}{}{Mais je me moque pas de toi, honnêtement.}
+{117}{}{Me moquer de toi ? Pourquoi je ferais une chose pareille ?!}
+{118}{}{Manifestement, la gentillesse et la bonne humeur font pas partie de cette religion.}
+{119}{}{Pardon, je crois que je vais partir maintenant.}
+{120}{JAIN08}{Tu paieras pour ces paroles hérétiques.}
+{121}{JAIN09}{Tes paroles ne correspondent pas à ta conviction. Elles brûlent de l'hérésie intérieure. Tu seras purifié, puis oublié.}
+{122}{JAIN10}{Alors pourquoi es-tu ici ? Qu'est-ce qui t'amène aux Enfants de la Cathédrale ?}
+{123}{}{Je suis un chercheur de connaissance. Je voudrais en apprendre plus.}
+{124}{}{J'ai besoin de savoir comment brûler cet endroit, alors je cherchais des faiblesses structurelles.}
+{125}{}{Je regarde juste.}
+{126}{JAIN11}{Es-tu un Enfant ?}
+{127}{}{Madame, j'ai vraiment l'air si jeune ?}
+{128}{}{Est-ce que je suis un des Enfants de la Cathédrale ? Non.}
+{129}{}{Je suis un croyant dévot.}
+{130}{JAIN12}{Alors tu devrais savoir qu'il vaut mieux pas être ici. Je te conseille de surveiller tes manières. Pars.}
+{131}{}{D'accord.}
+{132}{}{Va te faire voir.}
+{133}{JAIN13}{Tu veux te convertir à notre foi ? On peut t'offrir ce que personne d'autre ne peut...}
+{134}{}{Et c'est quoi ?}
+{135}{}{Non, pas intéressé. Je crois que vous êtes une bande de cinglés.}
+{136}{JAIN14}{Une vie de contentement. L'accomplissement dans la certitude de travailler à reconstruire la planète et à en faire un meilleur endroit pour ceux qui suivront.}
+{137}{}{Ça a l'air très intéressant, tu peux m'en dire plus ? Je cherche l'accomplissement.}
+{138}{}{Oh ouais, je parie qu'il y a beaucoup de reconstruction en cours et je suis sûr que vos coupes débordent d'accomplissement.}
+{139}{}{Je crois pas. Ça me semble un peu louche.}
+{140}{JAIN15}{Crois ce que tu veux. Mais fais-le ailleurs. Tu peux partir.}
+{141}{JAIN17}{Se moquer de notre sainte cause n'est pas apprécié. Tu seras puni si tu continues.}
+{142}{}{Et qui va s'occuper de la punition ? Oh, je voudrais demander le fouet extra-dur, si ça te dérange pas.}
+{143}{}{Pardon.}
+{144}{JAIN18}{Quand les Enfants marcheront sur la terre renaissante, les tiens disparaîtront, hérétique. Pars maintenant.}
+{145}{JAIN19}{Je ne suis pas complètement dépourvue d'humour, mais diriger les Enfants est quelque chose que je prends au sérieux. Souviens-toi de ça.}
+{146}{}{Pardon, je connais pas bien les Enfants.}
+{147}{}{D'accord. Salut.}
+{148}{JAIN20}{Tu es au bon endroit pour l'accomplissement spirituel. Les Enfants de la Cathédrale cherchent une résolution pacifique des problèmes de notre monde et pourraient utiliser ton aide.}
+{149}{}{Quels sont les plans des Enfants pour les mutants ?}
+{150}{}{Comment les Enfants peuvent trouver la paix dans ce désert ?}
+{151}{JAIN21}{Ceux qui peuvent être ramenés au bercail le seront. Ceux qui résistent souffriront.}
+{152}{}{Ça a l'air d'être un sacré boulot.}
+{153}{}{Maintenant c'est à ton tour de souffrir un peu.}
+{154}{}{Comme il se doit. Que tu réussisses dans ta croisade !}
+{155}{}{Euh, je dois y aller.}
+{156}{JAIN22}{Avec de la persévérance, les Enfants peuvent tout accomplir. Nous n'échouerons pas.}
+{157}{}{Bien. J'espère que non.}
+{158}{}{Ouais, c'est ça. Peu importe.}
+{159}{}{D'accord. Salut.}
+{160}{JAIN26}{Blasphémateur ! C'est une maison sainte ! Comment peux-tu penser une chose pareille ?}
+{161}{}{Du calme, je le pensais pas !}
+{162}{}{Doucement. Laisse-moi te montrer.}
+{163}{JAIN27}{Bénédictions de la Sainte Flamme à toi, mon Enfant.}
+{164}{}{C'est qui, la Sainte Flamme ?}
+{165}{}{Cet endroit est une farce.}
+{166}{}{Et à toi, Prêtresse Jain. Au revoir.}
+{167}{}{Oug louk tou rouk ?}
+{168}{}{Oooook !}
+{169}{JAIN28}{Autrefois, tu avais du potentiel. Tu n'es plus le bienvenu ici.}
+{170}{JAIN29}{Tu n'es pas le bienvenu ici. Pars, s'il te plaît.}
+{171}{JAIN30}{Qu'est-ce qui t'amène ici ?}
+{172}{}{J'ai tué le Maître, et je crois qu'il se faisait passer pour la Sainte Flamme.}
+{173}{}{Tu as été libérée de l'oppression du Maître.}
+{174}{}{Mou touk do toub ?}
+{175}{}{Petons.}
+{176}{JAIN31}{Tu as fait quoi ? Tu paieras pour ton péché contre la Sainte Flamme elle-même.}
+{177}{JAIN32}{Qui ça ?}
+{178}{}{Le Maître. Il allait unir les mutants et prendre le contrôle du monde.}
+{179}{}{T'inquiète pas pour ça.}
+{180}{JAIN33}{Tu sembles délirant. Je te suggère de voir un conseiller pour régler tes problèmes.}
+{181}{JAIN204}{Je t'ai dit de partir. T'es sourd ou sénile ?}
+{182}{JAIN200}{Quitte cette pièce immédiatement ou je te ferai purifier par la Sainte Flamme.}
+{183}{JAIN202}{Il n'y a personne de plus grand que la Sainte Flamme et nous sommes Ses serviteurs.}
+{184}{}{Vraiment ? Wow. Alors, pourquoi quelqu'un rejoindrait ton ordre ?}
+{185}{}{Euh, d'accord. Salut.}
+{186}{JAIN27}{Bénédictions de la Sainte Flamme à toi, mon Enfant.}
+{187}{JAIN22}{Avec de la persévérance, les Enfants peuvent tout accomplir. Nous n'échouerons pas.}
+{188}{JAIN201}{Ce n'est pas une question appropriée.}
+
+#Tell Me Abouts
+
+{1000}{}{Guerre}
+{1001}{}{Maître}
+{1002}{}{Cathédrale}
+{1003}{}{Mutants}
+{1004}{}{Hub}
+{1005}{}{Acier}
+{1006}{}{Cuves}
+{1007}{}{Sainte}
+{1008}{}{Unité}
+{1009}{}{Confrérie}
+{1010}{}{Flamme}
+{1011}{}{Enfants}
+
+
+{1100}{JAIN300}{Ce fut la purification de la planète. L'insouciance de ceux qui nous ont précédés a causé les feux sacrés. C'était justice.}
+{1101}{JAIN301}{Il n'y a de Maître que la Sainte Flamme. Il est notre Maître. Il est le Maître de tous.}
+{1102}{JAIN302}{La volonté du Saint apporte une renaissance à la planète. Nous sommes Ses Enfants et nous exécutons Son plan.}
+{1103}{JAIN303}{Ils sont saints car ils portent les marques des péchés passés pour les témoins du présent.}
+{1104}{JAIN304}{Comme beaucoup d'autres villes, elles embrasseront la direction morale de la Cathédrale.}
+{1105}{JAIN305}{Ils prétendent avoir un fondement religieux, mais il leur manque ce qui les rendrait vraiment justes. Leur zèle est rafraîchissant, ceci dit.}
+{1106}{JAIN306}{J'ai jamais entendu parler de telles choses.}
+{1107}{JAIN308}{Le Saint des Saints. Il est la lumière qui nous guide. Il purifiera les infidèles quand le Nexus de la Renaissance sera atteint.}
+{1108}{JAIN309}{C'est l'union, par la Sainte Flamme, de tous les peuples, de toutes les races, et la purification des infidèles de ce monde.}
+{1109}{JAIN305}{Ils prétendent avoir un fondement religieux, mais il leur manque ce qui les rendrait vraiment justes. Leur zèle est rafraîchissant, ceci dit.}
+{1110}{JAIN308}{Le Saint des Saints. Il est la lumière qui nous guide. Il purifiera les infidèles quand le Nexus de la Renaissance sera atteint.}
+{1111}{JAIN302}{La volonté du Saint apporte une renaissance à la planète. Nous sommes Ses Enfants et nous exécutons Son plan.}
+

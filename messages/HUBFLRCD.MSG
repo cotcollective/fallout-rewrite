@@ -1,0 +1,57 @@
+{100}{}{Tu vois un enfant-fleur.}
+{101}{}{Bonjour ! Tu voudrais... oh, pardon...}
+{102}{}{Toi ! J'ai entendu parler de toi ! Tu tues les enfants et tu les manges ! Mère Jain ! Mère Jain ! Au secours !}
+{103}{}{Tu veux une fleur, monsieur ?}
+{104}{}{Tu veux une fleur, madame ?}
+{105}{}{Vide}
+{106}{}{Y a quelque chose de spécial dans cet endroit ?}
+{107}{}{Elle a quoi de spécial, la fleur ?}
+{108}{}{Tu demandes combien, gamin ?}
+{109}{}{Bien sûr, gamin !}
+{110}{}{Non merci.}
+{111}{}{Bien sûr. Ça me botterait de la piétiner en morceaux !}
+{112}{}{*renifle renifle* Ça sent bon !}
+{113}{}{*renifle renifle* Ça sent mauvais !}
+{114}{}{Andouille ! T'as déjà une fleur !}
+{115}{}{Tu la veux ou tu la veux pas, la fleur !}
+{116}{}{Je prends la fleur si tu me parles un peu de cet endroit.}
+{117}{}{Elle a quoi de spécial, la fleur ?}
+{118}{}{Bien sûr, gamin !}
+{119}{}{Assez parlé de cette putain de fleur. Réponds juste à la question !}
+{120}{}{}
+{121}{}{C'est une Rose de l'Unité. Elle a la couleur de la Sainte Flamme, et elle représente la paix et l'harmonie qu'on aura quand les Enfants de la Cathédrale aideront tout le monde dans le monde entier à devenir gentils et forts ! Euh, t'en veux une ?}
+{122}{}{}
+{123}{}{Comment une rose va faire tout ça ?}
+{124}{}{Parle-moi de la Sainte Flamme...}
+{125}{}{C'est combien, gamin ?}
+{126}{}{Bien sûr, gamin !}
+{127}{}{}
+{128}{}{Écoute, je veux pas de ta putain de fleur.}
+{129}{}{C'est gratuit. On croit pas en l'argent. La Sainte Flamme s'occupe de tous nos besoins ! C'est merveilleux ! Tu devrais nous rejoindre dans notre Cathédrale du Bonheur ! Euh, t'en veux une ?}
+{130}{}{Parle-moi de la Cathédrale...}
+{131}{}{Parle-moi de la Sainte Flamme...}
+{132}{}{Bien sûr, gamin !}
+{133}{}{}
+{134}{}{}
+{135}{}{Merci, oh merci ! J'ai donné une fleur ! C'est pas génial ?}
+{136}{}{T'es méchant ! Je te déteste ! J'espère que la Sainte Flamme te mangera !}
+{137}{}{Bien sûr que oui ! Tiens ! J'ai donné une fleur ! C'est pas génial ?}
+{138}{}{T'es stupide ! J'espère que la Sainte Flamme te tuera avant que tu puisses dire d'autres bêtises. Mère Jain, méfie-toi de l'homme stupide !}
+{139}{}{On est les Enfants de la Cathédrale. La Sainte Flamme elle-même nous a commandé de nourrir les affamés et de soigner les malades. On va répandre la paix et l'unité partout, et tout sera troooop bien ! Tiens, prends une fleur !}
+{140}{}{Je crois pas que tu veuilles une fleur du tout. T'es méchant avec moi !}
+{141}{}{Les roses feront pas ça, andouille ! Seuls les gens peuvent changer le monde. Et avec la Sainte Flamme comme Maître, on est sûrs de rendre tout beau et spécial ! Alors, tu veux une fleur ?}
+{142}{}{Parle-moi de la Cathédrale...}
+{143}{}{Parle-moi de la Sainte Flamme...}
+{144}{}{Bien sûr, gamin !}
+{145}{}{Non merci.}
+{146}{}{Je vais te montrer, andouille, petit...}
+{147}{}{C'est le feu qui a purifié le monde, et si on lui obéit, il le refera jamais ! Il veut qu'on soit intelligents et paisibles et unis et tout ! Alors, tu veux une fleur ?}
+{148}{}{Parle-moi de cette unité...}
+{149}{}{Bien sûr, gamin !}
+{150}{}{Non merci.}
+{151}{}{Assez avec cette putain de fleur !}
+{152}{}{C'est un endroit merveilleux près de l'océan, où les gens passent tout leur temps à louer la Sainte Flamme et à être gentils. Et tout le monde là-bas est gentil, sauf peut-être le Frère Fouet. Euh... tu veux une fleur ?}
+{153}{}{Parle-moi du Frère Fouet...}
+{154}{}{Bien sûr, gamin !}
+{155}{}{Non merci.}
+{156}{}{Assez avec cette putain de fleur !}

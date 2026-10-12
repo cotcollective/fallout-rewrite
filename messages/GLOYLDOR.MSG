@@ -1,0 +1,115 @@
+{100}{}{Le cadre de cette porte de sécurité porte des traces de peinture bleue.}
+{101}{}{Tu reçois une légère décharge du champ électrique de la porte et tu perds un point de vie.}
+{102}{}{Tu reçois une forte décharge du champ électrique de la porte. Tu subis }
+{103}{}{ points de dégâts.}
+{104}{}{Tu forces la porte.}
+{105}{}{La porte est verrouillée.}
+{106}{}{Autorisation accordée. Désarmement du champ électrique en cours.}
+{107}{}{Tu n'es pas autorisé à entrer dans cette pièce.}
+{108}{}{Cet objet n'affecte pas les systèmes de sécurité.}
+{109}{}{Tu crochètes la serrure de la porte de sécurité.}
+{110}{}{Il semble y avoir une mesure de sécurité quelconque sur cette porte.}
+{111}{}{Tu n'arrives pas à crocheter la serrure de la porte.}
+{112}{}{Cette compétence n'a aucun effet sur la porte.}
+{113}{}{Tu désarmes le champ électrique de la porte.}
+{114}{}{Tu as intensifié la puissance du champ électrique.}
+{115}{}{Tu n'arrives pas à désarmer le champ électrique.}
+{116}{}{Tu crochètes la serrure de la porte sans déclencher le système de sécurité.}
+{117}{}{Tu n'arrives pas à crocheter la serrure et tu subis de graves dégâts du système de sécurité.}
+{118}{}{Tu n'arrives pas à crocheter la serrure et tu subis des dégâts du système de sécurité.}
+{119}{}{Tu es secoué par le système de sécurité et tu perds ta concentration pour crocheter la serrure.}
+{120}{}{Tu reçois une intense décharge du système de sécurité et tu perds ta concentration pour crocheter la serrure.}
+{121}{}{Tu échoues lamentablement à crocheter cette serrure et tu détruis tes crochets.}
+{122}{}{Tu n'arrives pas à crocheter cette serrure.}
+{123}{}{Tu vois une porte robuste et rouillée.}
+
+{124}{}{Tu vois une porte déverrouillée avec de la peinture verte dessus.}
+{125}{}{Tu vois une porte déverrouillée avec de la peinture verte dessus.}
+{126}{}{Tu vois une porte déverrouillée avec un champ vert mouvant devant.}
+{127}{}{Tu vois une porte déverrouillée avec un système de sécurité haute tension activé dessus.}
+{128}{}{Tu vois une porte avec de la peinture verte dessus.}
+{129}{}{Tu vois une porte avec de la peinture verte dessus.}
+{130}{}{Tu vois une porte avec un champ vert mouvant devant.}
+{131}{}{Tu vois une porte avec un système de sécurité haute tension activé dessus.}
+{132}{}{Tu vois une porte verrouillée avec de la peinture verte dessus.}
+{133}{}{Tu vois une porte verrouillée avec de la peinture verte dessus.}
+{134}{}{Tu vois une porte verrouillée avec un champ vert mouvant devant.}
+{135}{}{Tu vois une porte verrouillée avec un système de sécurité haute tension activé dessus.}
+{136}{}{La serrure de cette porte verte semble nécessiter un passe-partout spécial.}
+{137}{}{La serrure de cette porte verte semble nécessiter un passe-partout spécial.}
+{138}{}{La serrure de cette porte semble nécessiter un passe-partout spécial. De plus, tu remarques un champ vert chatoyant devant la porte.}
+{139}{}{La serrure de cette porte semble nécessiter un passe-partout vert spécial. De plus, tu remarques un système de sécurité haute tension activé dessus.}
+
+{140}{}{Tu vois une porte déverrouillée.}
+{141}{}{Tu vois une porte déverrouillée.}
+{142}{}{Tu vois une porte déverrouillée avec un champ mouvant devant.}
+{143}{}{Tu vois une porte déverrouillée avec un système de sécurité haute tension activé dessus.}
+{144}{}{Tu vois une porte.}
+{145}{}{Tu vois une porte.}
+{146}{}{Tu vois une porte avec un champ mouvant devant.}
+{147}{}{Tu vois une porte avec un système de sécurité haute tension activé dessus.}
+{148}{}{Tu vois une porte verrouillée.}
+{149}{}{Tu vois une porte verrouillée.}
+{150}{}{Tu vois une porte verrouillée avec un champ mouvant devant.}
+{151}{}{Tu vois une porte verrouillée avec un système de sécurité haute tension activé dessus.}
+{152}{}{La serrure de cette porte semble nécessiter un passe-partout spécial.}
+{153}{}{La serrure de cette porte semble nécessiter un passe-partout spécial.}
+{154}{}{La serrure de cette porte semble nécessiter un passe-partout spécial. De plus, tu remarques un champ chatoyant devant la porte.}
+{155}{}{La serrure de cette porte semble nécessiter un passe-partout spécial. De plus, tu remarques un système de sécurité haute tension activé dessus.}
+
+{156}{}{Tu vois une porte déverrouillée avec de la peinture jaune dessus.}
+{157}{}{Tu vois une porte déverrouillée avec de la peinture jaune dessus.}
+{158}{}{Tu vois une porte déverrouillée avec un champ jaune mouvant devant.}
+{159}{}{Tu vois une porte déverrouillée avec un système de sécurité haute tension activé dessus.}
+{160}{}{Tu vois une porte avec de la peinture jaune dessus.}
+{161}{}{Tu vois une porte avec de la peinture jaune dessus.}
+{162}{}{Tu vois une porte avec un champ jaune mouvant devant.}
+{163}{}{Tu vois une porte avec un système de sécurité haute tension activé dessus.}
+{164}{}{Tu vois une porte verrouillée avec de la peinture jaune dessus.}
+{165}{}{Tu vois une porte verrouillée avec de la peinture jaune dessus.}
+{166}{}{Tu vois une porte verrouillée avec un champ jaune mouvant devant.}
+{167}{}{Tu vois une porte verrouillée avec un système de sécurité haute tension activé dessus.}
+{168}{}{La serrure de cette porte jaune semble nécessiter un passe-partout spécial.}
+{169}{}{La serrure de cette porte jaune semble nécessiter un passe-partout spécial.}
+{170}{}{La serrure de cette porte semble nécessiter un passe-partout spécial. De plus, tu remarques un champ jaune chatoyant devant la porte.}
+{171}{}{La serrure de cette porte semble nécessiter un passe-partout spécial. De plus, tu remarques un système de sécurité haute tension activé dessus.}
+
+{172}{}{Tu vois une porte déverrouillée avec de la peinture jaune dessus.}
+{173}{}{Tu vois une porte déverrouillée avec de la peinture jaune dessus.}
+{174}{}{Tu vois une porte déverrouillée avec un champ jaune mouvant devant.}
+{175}{}{Tu vois une porte déverrouillée avec un système de sécurité haute tension activé dessus.}
+{176}{}{Tu vois une porte avec de la peinture jaune dessus.}
+{177}{}{Tu vois une porte avec de la peinture jaune dessus.}
+{178}{}{Tu vois une porte avec un champ jaune mouvant devant.}
+{179}{}{Tu vois une porte avec un système de sécurité haute tension activé dessus.}
+{180}{}{Tu vois une porte verrouillée avec de la peinture jaune dessus.}
+{181}{}{Tu vois une porte verrouillée avec de la peinture jaune dessus.}
+{182}{}{Tu vois une porte verrouillée avec un champ jaune mouvant devant.}
+{183}{}{Tu vois une porte verrouillée avec un système de sécurité haute tension activé dessus.}
+{184}{}{La serrure de cette porte jaune semble nécessiter un passe-partout spécial.}
+{185}{}{La serrure de cette porte jaune semble nécessiter un passe-partout spécial.}
+{186}{}{La serrure de cette porte semble nécessiter un passe-partout spécial. De plus, tu remarques un champ jaune chatoyant devant la porte.}
+{187}{}{La serrure de cette porte semble nécessiter un passe-partout jaune spécial. De plus, tu remarques un système de sécurité haute tension activé dessus.}
+
+{188}{}{Tu vois une porte avec de la peinture verte dessus.}
+{189}{}{Tu vois une porte avec un champ vert mouvant devant.}
+{190}{}{Tu vois un système de sécurité haute tension sur cette porte verte.}
+{191}{}{Tu vois un système de sécurité haute tension sur cette porte verte. Tu te demandes s'il y a un passe-partout pour le contourner.}
+
+{192}{}{Tu vois une porte.}
+{193}{}{Tu vois une porte avec un champ mouvant devant.}
+{194}{}{Tu vois un système de sécurité haute tension sur cette porte.}
+{195}{}{Tu vois un système de sécurité haute tension sur cette porte. Tu te demandes s'il y a un passe-partout pour le contourner.}
+
+{196}{}{Tu vois une porte avec de la peinture jaune dessus.}
+{197}{}{Tu vois une porte avec un champ jaune mouvant devant.}
+{198}{}{Tu vois un système de sécurité haute tension sur cette porte jaune.}
+{199}{}{Tu vois un système de sécurité haute tension sur cette porte jaune. Tu te demandes s'il y a un passe-partout pour le contourner.}
+
+{200}{}{Tu vois une porte avec de la peinture jaune dessus.}
+{201}{}{Tu vois une porte avec un champ jaune mouvant devant.}
+{202}{}{Tu vois un système de sécurité haute tension sur cette porte jaune.}
+{203}{}{Tu vois un système de sécurité haute tension sur cette porte jaune. Tu te demandes s'il y a un passe-partout pour le contourner.}
+
+{204}{}{Tu remarques qu'il y a un piège sur cette porte.}
+{205}{}{L'ascenseur est hors service. Il semble avoir besoin d'énergie.}

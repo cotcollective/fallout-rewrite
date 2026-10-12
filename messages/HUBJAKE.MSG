@@ -1,0 +1,75 @@
+{100}{}{Tu vois : Jacob, le marchand d'armes.}
+{101}{}{Salut ! Bienvenue chez Jake. J'ai de la super marchandise en stock. N'hésite pas à regarder autour.}
+{102}{}{Je voudrais faire affaire avec toi.}
+{103}{}{Tu vends quoi ici ?}
+{104}{}{Tu peux me parler d'une Puce d'eau ?}
+{105}{}{Parle-moi de toi.}
+{106}{}{Laisse tomber. Salut.}
+{107}{}{veux.}
+{108}{}{veux pas.}
+{109}{}{Je fais dans les armes haut de gamme. Le meilleur matos que tu peux trouver de ce côté-ci de la Confrérie, et vu que la Confrérie traite pas avec les étrangers, je dois dire que je suis le meilleur. J'ai un fusil de sniper, et tu aurais du mal à trouver du carburant de lance-flammes ailleurs dans le désert. Oh ouais... j'ai aussi un compteur Geiger. Très rare.}
+{110}{}{Montre-moi ce que t'as.}
+{111}{}{Parle-moi plus du fusil de sniper.}
+{112}{}{J'aurais besoin d'un compteur Geiger pour quoi ?}
+{113}{}{Je repasserai peut-être plus tard. Salut.}
+{114}{}{Hé, t'aimes les trucs rares ! T'étais où quand je vendais des balles à uranium appauvri y a quelques années ? Je fais pas dans les puces, par contre. Y a pas de marché pour ça. Autre chose ?}
+{115}{}{Montre-moi ce que t'as.}
+{116}{}{Alors dis-moi ce que t'AS.}
+{117}{}{Parle-moi de toi.}
+{118}{}{Eh bien, j'ai bourlingué. J'étais avec l'Union des Travailleurs Atomiques. Un peu comme la Confrérie, mais moins sympa. Ils voulaient rester entre eux, et moi... eh bien, je voulais voir le monde et être mon propre patron, alors je suis parti.}
+{119}{}{Voyons ce que t'as.}
+{120}{}{Dis-moi ce que t'as.}
+{121}{}{Tu peux me parler d'une Puce d'eau ?}
+{122}{}{Ravi de t'avoir rencontré, mon ami. Je repasserai peut-être plus tard. Salut.}
+{123}{}{Ahh, le DKS est une belle arme à longue portée. C'était du .308 à l'origine, mais on l'a rechambré pour la .223, plus commune. On a aussi réglé le canon. Et surtout, regarde cette détente. Douce, hein ? La détente casse parfaitement maintenant. Dans l'ensemble, c'est un bon choix pour chasser n'importe quel type d'animal...}
+{124}{}{Ça a l'air bien. Voyons si on peut faire affaire.}
+{125}{}{J'aurais besoin d'un compteur Geiger pour quoi ?}
+{126}{}{Je repasserai peut-être plus tard. Salut.}
+{127}{}{T'aurais besoin d'un compteur Geiger pour quoi ?! Haha ! Ça fait 80 ans que les bombes sont tombées, mais y a encore des radiations, espèce d'andouille. Tu peux pas les voir, t'as jamais pu, mais elles sont là. Et je parie que t'en as sur toi en ce moment. Tous ceux qui vivent dans le désert ont quelques rads.}
+{128}{}{Montre-moi ce que t'as à vendre.}
+{129}{}{Parle-moi plus des radiations.}
+{130}{}{Comment marche un compteur Geiger ?}
+{131}{}{Andouille ?! T'insultes toujours tes clients ? Si tu crois que je vais t'acheter quelque chose maintenant, tu te trompes lourdement.}
+{132}{}{Certains l'appellent la Mort Fantôme, parce que c'est ce que c'est. Tu peux pas la voir, tu peux pas l'entendre, tu peux même pas la sentir. Ça s'accumule dans ton système. Tu le sens jamais avant qu'il soit trop tard. Plus tu vas dans les points chauds, plus ça s'accumule et ça quittera jamais ton système. Jamais. Les rads continuent de s'accumuler. Eh bien... sauf si tu peux mettre la main sur du Rad-Away.}
+{133}{}{Voyons si on peut faire affaire.}
+{134}{}{Comment marche un compteur Geiger ?}
+{135}{}{Où je peux trouver du Rad-Away ? J'en ai pas vu en vente à beaucoup d'endroits.}
+{136}{}{Wow. T'en sais beaucoup. On dirait que t'as bourlingué.}
+{137}{}{Merci pour les infos. Salut.}
+{138}{}{C'est assez simple, en fait. Tu t'en sers et ça te dit combien de rads t'as. Tant que tu gardes ton compte de rads sous 100, ça devrait aller. Au-dessus de 100 et t'as des ennuis. Le pire, c'est que tu sauras même pas que t'as absorbé des rads avant quelques jours plus tard. Au-dessus de 1000 et t'es cuit — sauf si tu mets la main sur plein de Rad-Away.}
+{139}{}{Voyons si on peut faire affaire.}
+{140}{}{Tu peux me parler des radiations ?}
+{141}{}{J'aime pas cette vente forcée. À plus tard.}
+{142}{}{Laisse tomber.}
+{143}{}{}
+{144}{}{Prends.}
+{145}{}{Moi pars.}
+{146}{}{Oui.}
+{147}{}{Non, je regarde juste.}
+{148}{}{Je veux pas d'ennuis. Si tu veux faire affaire, faisons affaire. Sinon, dehors.}
+{149}{}{Prends.}
+{150}{}{Moi pars.}
+{151}{}{Voyons ce que t'as.}
+{152}{}{Va au diable. Je vais où je veux, quand je veux !}
+{153}{}{Je m'en vais.}
+{154}{}{Tu fous quoi ici, bordel ?!}
+{155}{}{J'en ai pas. Tout ce que je trouve, je le garde pour moi. Juste dans la rue d'ici, y a un type qui pourra peut-être t'aider. Il s'appelle Vance. Pose-lui pas trop de questions. Disons que c'est son domaine d'expertise. Dis-lui juste que Jacob t'envoie et il devrait bien s'occuper de toi.}
+{156}{}{Comment marche un compteur Geiger ?}
+{157}{}{Merci pour les infos. Salut.}
+{158}{}{Voilà ce que j'ai.}
+{159}{}{Salut.}
+{160}{}{Merci.}
+{161}{}{Ook.}
+{162}{}{Les mutants les ont éliminés y a une dizaine d'années, alors j'ai bien fait de partir, je suppose. Je me suis finalement installé ici. Les flics aiment pas mon commerce et je me suis fait secouer plus d'une fois, mais je suis bien plus honnête que la plupart des marchands d'ici.}
+
+#
+# TRANSLATION NOTE: The following three sets of lines are identical in English,
+# but they differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{163}{}{Hé, ça va, mon ami ? Tu cherches à acheter quelque chose ?}
+{164}{}{Hé, ça va, mon amie ? Tu cherches à acheter quelque chose ?}
+{165}{}{Ta sélection est bonne, mais je cherche quelque chose avec un peu plus de punch. T'aurais une idée d'où je pourrais aller ?}
+{166}{}{Eh bien, tu pourrais essayer les Trafiquants d'armes à L.A., au Cimetière. Ils auront probablement quelque chose pour toi. J'ai entendu dire que les types de la Confrérie de l'Acier ont du matos bien puissant aussi, tu pourrais les voir.}

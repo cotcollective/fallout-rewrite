@@ -1,0 +1,62 @@
+{100}{}{Désolé, pas de boxe aujourd'hui.}
+{101}{}{Hnn.}
+{102}{}{Ok, d'accord.}
+{103}{}{C'est quand le prochain match ?}
+{104}{}{Tu devrais t'inscrire chez Gizmo. J'ai entendu dire qu'il cherche toujours de la chair fraîche à jeter dans le ring.}
+{105}{}{Repasse demain. Saul boxera.}
+{106}{}{Tu viens de le rater. Repasse dans deux jours. Saul boxe tous les trois jours.}
+{107}{}{Merci.}
+{108}{}{C'est qui, Saul ?}
+{109}{}{Saul est le champion local. C'est le favori de Gizmo.}
+{110}{}{Hé, toi. Pas de boxe aujourd'hui.}
+{111}{}{ Repasse demain.}
+{112}{}{ Repasse après-demain.}
+{113}{}{Alors ! Ça te dit de parier sur le combat ?}
+{114}{}{J'ai mieux à faire de mon argent. Adieu.}
+{115}{}{C'est quoi, les cotes ?}
+{116}{}{Non merci. Je peux quand même te poser quelques questions ?}
+{117}{}{}
+{118}{}{Désolé, le match d'aujourd'hui est déjà fini.}
+{119}{}{Oh. Bon, laisse tomber alors.}
+{120}{}{Tu paries sur qui, Saul ou le challenger ? Saul est favori. La mise est de 25 capsules ; tu gagnes 50 si Saul l'emporte, 100 si c'est le challenger !}
+{121}{}{Je parie sur Saul.}
+{122}{}{Je parie sur le challenger.}
+{123}{}{Bon, d'accord, je suppose.}
+{124}{}{C'est qui, le boxeur ?}
+{125}{}{Qui organise ces matchs ?}
+{126}{}{Euh, laisse tomber.}
+{127}{}{Désolé, j'ai pas le temps. Peut-être plus tard.}
+{128}{}{Saul, le poing le plus rapide de Junktown ! Une merveille de musculature virile ! Un cogneur survolté !}
+{129}{}{C'est un chic type, en plus.}
+{130}{}{Euh, ouais. Alors, qui organise ces matchs ?}
+{131}{}{Merci. À plus.}
+{132}{}{Gizmo, le patron du casino, emploie Saul. Il aime regarder un match de temps en temps, mais c'est surtout une bonne affaire — les gens parient gros sur un combat. Et personne n'est obligé de mourir, contrairement aux combats à mort qu'ils auraient au Hub, paraît-il.}
+{133}{}{Des combats à mort ?}
+{134}{}{Merci.}
+{135}{}{C'est qu'une rumeur, mais il paraît qu'il y a une arène clandestine là-bas où on peut payer pour voir des gens s'entretuer. Pas mon genre de combat.}
+{136}{}{Hmm. Merci.}
+{137}{}{Hé, tu fais quoi, là ?}
+{138}{}{Euh, rien.}
+{139}{}{Tu cherches la bagarre, minable ?}
+{140}{}{Arrête, s'il te plaît.}
+{141}{}{Euh, non. Laisse tomber. Oublie ce que j'ai dit.}
+{142}{}{Eh ben, on dirait qu'on a un gagnant ! Voilà tes capsules.}
+{143}{}{Reviens quand t'auras assez de capsules pour parier !}
+{144}{}{Tu veux attendre ici que le combat commence à 14h00 ?}
+{145}{}{Bien sûr, pourquoi pas.}
+{146}{}{Nan, j'ai des trucs à faire. Je repasserai plus tard.}
+{147}{}{OK, mais si tu rates le combat, tu perds ta mise !}
+{148}{}{Que le combat commence !}
+{149}{}{Ne me dérange pas pendant le match, s'il te plaît.}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+
+{150}{}{On peut pas tous les gagner, mon ami. Plus de chance la prochaine fois.}
+{151}{}{On peut pas tous les gagner, mon amie. Plus de chance la prochaine fois.}
+
+{152}{}{Désolé, un seul pari par combat.}

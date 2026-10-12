@@ -1,0 +1,79 @@
+{100}{}{Tu vois un garde des Enfants.}
+{101}{}{Phillips ! On s'occupe de ce type !}
+{102}{}{Dégage de ma vue !}
+{103}{}{Tu veux quoi ?}
+{104}{}{Parle-moi de ton boulot.}
+{105}{}{C'est quoi, cet endroit ?}
+{106}{}{Tu saurais où je peux trouver une Puce d'eau ?}
+{107}{}{Tu peux me parler d'un type nommé Decker ?}
+{108}{}{Belle arme que t'as là...}
+{109}{}{Euh... du lait.}
+{110}{}{Je suis un mercenaire. Si quelqu'un embête ces illuminés, je le bute. T'as un problème avec ça ?}
+{111}{}{Alors t'es un garde du corps...}
+{112}{}{Qui t'a engagé ?}
+{113}{}{Quoi de neuf au Hub ?}
+{114}{}{Tu fabriques quoi ?}
+{115}{}{Ouais. Un gros problème.}
+{116}{}{Pas de problème, mon pote.}
+{117}{}{Un truc appelé la Sainte Flamme. Écoute pas ces conneries, ça te ramollit le cerveau !}
+{118}{}{T'en penses quoi, de cette Sainte Flamme ?}
+{119}{}{Ces gens sont vraiment cons, non ?}
+{120}{}{Quoi de neuf au Hub ?}
+{121}{}{Ils viennent d'où, ces types ?}
+{122}{}{Une puce d'eau ? Tu veux dire comme des glaçons ? Dans les montagnes, peut-être.}
+{123}{}{Non, je parle de la puce d'ordinateur qui contrôle un système de purification d'eau.}
+{124}{}{Pas ce genre de puce, crétin !}
+{125}{}{Euh, merci. Je crois.}
+{126}{}{T'es déjà allé dans les montagnes ?}
+{127}{}{Ouais, j'ai entendu parler de lui. C'est un vrai salaud, mais il paie ses factures. Phillips a bossé pour lui quelques fois.}
+{128}{}{Tu le trouves louche ?}
+{129}{}{Phillips ?}
+{130}{}{Tu prendrais un boulot de lui ?}
+{131}{}{Merci !}
+{132}{}{Ouais, c'est la seule que je voudrais dans un échange de tirs. Je peux faire quoi pour toi ?}
+{133}{}{Où un type peut trouver des armes de qualité par ici ?}
+{134}{}{C'est quoi leur délire, aux types de la Cathédrale ?}
+{135}{}{Où un type peut trouver de l'action par ici ?}
+{136}{}{Tu saurais où je peux trouver une Puce d'eau ?}
+{137}{}{Tu peux me parler d'un type nommé Decker ?}
+{138}{}{Désolé mon pote, mais je suis de service. Pas de causette.}
+{139}{}{Dégage de ma vue avant que je te bute.}
+{140}{}{Bien joué, génie ! Qui d'autre ça pourrait être, Doc Morbid ? Pfff !}
+{141}{}{La bonne femme du curé. Qui tu croyais ? Pfff !}
+{142}{}{Ça me fait mal de l'admettre, mon pote, mais je suis largué depuis des semaines. Demande à quelqu'un d'autre.}
+{143}{}{Le gîte et le couvert, et pas grand-chose d'autre. Ces types religieux sont radins !}
+{144}{}{Alors réglons ça !}
+{145}{}{Bien. Parce que personne aime les problèmes par ici.}
+{146}{}{C'est forcément une arnaque. Personne est assez con pour croire à toutes ces conneries religieuses. Hein ?}
+{147}{}{Ouais. Heureusement qu'on me paie pas pour être d'accord avec eux. La Sainte Flamme, mon cul !}
+{148}{}{Je sais pas. Mais je peux te dire un truc : quoi qu'on dise de la religion, ce sont pas des amateurs. Ils sont arrivés et ils ont organisé cet endroit comme une horloge. C'est pas juste une bande de zombies abrutis.}
+{149}{}{Pfff, je croyais que seuls les Abris utilisaient ce genre de merdes !}
+{150}{}{Surveille ton langage, connard. Ces gens croient peut-être en la paix et l'amour, mais pas moi !}
+{151}{}{Pas de problème.}
+{152}{}{Nan. Plus tu montes, pire c'est les radiations.}
+{153}{}{Euh, si t'aimes les salauds psychotiques, froids et impitoyables, alors c'est ton homme.}
+{154}{}{Mon partenaire. Le type qui garde Jain.}
+{155}{}{Ça dépend de ton goût du risque. Ma vie a été pas mal chargée ces derniers temps, alors je suis venu me mettre au vert ici. Mais si t'aimes l'action, bien sûr. Fais juste pas de conneries ou t'es mort, c'est tout.}
+{156}{}{J'ai entendu dire que les Marchands d'Eau ont toujours la meilleure came. Mais les gens racontent n'importe quoi sur les Marchands d'Eau. C'est pas ici parmi cette foule, ça c'est sûr.}
+{157}{}{J'essaie de cerner ces types depuis des semaines. Au début je les prenais pour des idiots, mais maintenant... je suis plus sûr. Ils sont organisés, et ils ont un plan. Je le sens !}
+{158}{}{J'ai entendu dire que Decker a de l'action, mais c'est du sale boulot et si tu foires, t'es aussi bon que mort.}
+{159}{}{Une puce de purification d'eau ? Vous utilisez pas l'eau des puits ? Bon sang ! J'ai entendu parler d'un Abri près de Shady Sands où tu pourrais en trouver une, mais cet endroit est complètement effondré. Je crois pas pouvoir t'aider.}
+{160}{}{Je peux pas parler. Le patron aime pas. Désolé.}
+{161}{}{Hé, toi !}
+{162}{}{Hé ! Tu crois faire quoi ?!}
+{163}{}{Pourquoi le verrou ?}
+{164}{}{Hé, je recule !}
+{165}{}{Tu peux me filer un coup avec cette porte ? Elle est coincée !}
+{166}{}{Tu m'as vu ! Tant pis pour toi...}
+{167}{}{Ça te regarde pas ! Dégage d'ici !}
+{168}{}{Bien ! Maintenant dégage d'ici !}
+{169}{}{Dégage ! Si tu refais ce genre de conneries, je te tue personnellement !}
+{170}{}{On est pas censés te parler. Circule, mon pote.}
+{171}{}{Hé ! Tu crois faire quoi ?!}
+{172}{}{Pourquoi le verrou ?}
+{173}{}{Hé, je recule !}
+{174}{}{Tu peux me filer un coup avec cette porte ? Elle est coincée !}
+{175}{}{Tu m'as vu ! Tant pis pour toi...}
+{176}{}{Ça te regarde pas ! Dégage d'ici !}
+{177}{}{Bien ! Maintenant dégage d'ici !}
+{178}{}{Dégage ! Si tu refais ce genre de conneries, je te tue personnellement !}

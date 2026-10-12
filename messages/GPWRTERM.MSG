@@ -1,0 +1,98 @@
+{100}{}{Système :                                                        Énergie principale :            HORS LIGNE                 Énergie secondaire :           EN LIGNE}
+{101}{}{Gestion de l'énergie}
+{102}{}{G*st**n d* l'*n*rg**}
+{103}{}{Sortie}
+{104}{}{Gestion des systèmes d'énergie}
+{105}{}{Énergie principale}
+{106}{}{Énergie de secours}
+{107}{}{RETOUR}
+{108}{}{Gestion énergie principale :    HORS LIGNE}
+{109}{}{Réinitialiser l'énergie principale}
+{110}{}{RETOUR}
+{111}{}{Gestion énergie principale :                                               ERREUR ! ERREUR ! ERREUR !                        Échec d'initialisation du système principal}
+{112}{}{Diagnostiquer}
+{113}{}{RETOUR}
+{114}{}{Panne :         Générateur niveau 6                            0 Retour alimentation : Inopérant               Maintenance requise}
+{115}{}{RETOUR}
+{116}{}{Gestion énergie de secours :    EN LIGNE}
+{117}{}{Couper l'énergie de secours}
+{118}{}{RETOUR}
+{119}{}{Système :                                                        Énergie principale :            EN LIGNE                   Énergie de secours :           EN ATTENTE}
+{120}{}{Gestion de l'énergie}
+{121}{}{Sortie}
+{122}{}{Gestion énergie principale :    EN LIGNE}
+{123}{}{Couper l'énergie principale}
+{124}{}{RETOUR}
+{125}{}{Système :                                                        Énergie principale : EN LIGNE}
+{126}{}{c**p*r l'*n*rg** pr*nc*p*l*}
+{127}{}{Couper l'énergie principale}
+{128}{}{Sortie}
+{129}{}{G*st**n d*s s*st*m*s d'*n*rg**}
+{130}{}{*n*rg** pr*nc*p*l*}
+{131}{}{*n*rg** d* s*c**rs}
+{132}{}{RETOUR}
+{133}{}{g*st**n *n*rg** pr*nc*p*l*}
+{134}{}{r**n*t**l*s*r l'*n*rg** pr*nc*p*l*}
+{135}{}{RETOUR}
+{136}{}{g*st**n *n*rg** pr*m**r* : *RR**R ! *RR**R ! *RR**R ! l* g*n*r*t**r d**t *tr* r*p*r*}
+{137}{}{RETOUR}
+{138}{}{g*st**n *n*rg** d* s*c**rs : *N L*GN*}
+{139}{}{Système :                                                        Énergie principale :            HORS LIGNE                 Énergie de secours :           HORS LIGNE}
+{140}{}{Activer l'énergie de secours}
+{141}{}{d**gn*st*q**r *n*rg** pr*m**r*}
+{142}{}{*v*l**t**n *n*rg** pr*m**r*}
+{143}{}{*ct*v*r *n*rg** d* s*c**rs}
+{144}{}{r*ch*rch* g*st**n *n*rg**}
+{145}{}{Sortie}
+{146}{}{*rr**r s*st*m* ! *t*l*s*t**r *nv*l*d*. N*t*f**z l'*dm*n*str*t**n. S*st*m* *nt*rr*mp*.}
+{147}{}{Sortie}
+{148}{}{c**p*r *n*rg** d* s*c**rs}
+
+{200}{}{Donnez-moi accès au Mainframe.}
+{201}{}{Accès refusé. Fin de la saisie.}
+{202}{}{Accès accordé.}
+{203}{}{Menu principal}
+{204}{}{Quitter le Mainframe}
+{205}{}{Terminer le programme}
+{206}{}{Choisir une option}
+{207}{}{Informations générales}
+{208}{}{Informations de sécurité}
+{209}{}{Informations de recherche}
+{210}{}{Terminus d'énergie}
+{211}{}{Centre de recherche West Tech : Fondé en 2002 comme sous-traitant privé du gouvernement des États-Unis, l'entreprise comportait initialement deux divisions -
+la Recherche en armement avancé et la division des Sciences biomédicales.}
+{241}{}{ En 2069, West Tech était le plus gros sous-traitant du gouvernement des États-Unis ; son plus gros contrat étant l'Armure d'infanterie motorisée T-51b. }
+{242}{}{Face aux avancées significatives réalisées en 2076 par la NBC sur le Projet Virion Pan-Immunitaire, le Département de la Défense des États-Unis, par crainte d'espionnage international,}
+{243}{}{ déplaça une équipe sur le site pour sécuriser et superviser le projet, désormais baptisé projet VEF (Vecteur d'Émergence Forcée).}
+{212}{}{Sécurité :                                                   Robots de sécurité : Actifs}
+{213}{}{Sécurité :                                                   Robots de sécurité : Inactifs}
+{214}{}{Désactiver les robots de sécurité}
+{215}{}{Activer les robots de sécurité}
+{216}{}{Recherche :                                                  Dossiers les plus récents au Centre de recherche West Tech}
+{217}{}{Dossiers des employés de la Division Recherche}
+{218}{}{Armure Assistée. Statut : Terminé}
+{219}{}{VEF (Vecteur d'Émergence Forcée). Statut : En attente}
+{220}{}{Dossiers du personnel de recherche}
+{221}{}{Robert Anderson                                               Assistant de recherche                                    Habilitation : Bleue                                   Affectation : Base militaire de Mariposa}
+{222}{}{Nick Davis                                                    Directeur de la division NBC de West Tech                 Habilitation : Bleue                                   Affectation : Centre de recherche West Tech}
+{223}{}{John Isaac                                                    Assistant de recherche                                    Habilitation : Rouge                                   Affectation : Centre de recherche West Tech}
+{224}{}{Steve Remco                                                   Assistant de recherche                                    Habilitation : Bleue                                   Affectation : Base militaire de Mariposa}
+{225}{}{Charles Rignhold                                              Chef de recherche, Développement laser                    Habilitation : Bleue                                   Affectation : Centre de recherche West Tech}
+{226}{}{Michele Santose                                               Technicienne de laboratoire                               Habilitation : Rouge                                   Affectation : Centre de recherche West Tech}
+{227}{}{Erin Shellman                                                 Technicien de laboratoire                                 Habilitation : Bleue                                   Affectation : Base militaire de Mariposa}
+{228}{}{Leon VonFelden                                                Chef de recherche VEF                                     Habilitation : Bleue                                   Affectation : Base militaire de Mariposa}
+{229}{}{Télécharger les dossiers vers le Pip-Boy 2000}
+{230}{}{RETOUR}
+{231}{}{Specs Armure Assistée : L'Armure d'infanterie motorisée T-51b est conçue avec les dernières protections passives contre les troubles civils comme militaires. }
+{250}{}{Le Pack à micro-fusion TX-28 dorsal génère 60 000 watts pour alimenter les systèmes hydrauliques HiFlo intégrés au châssis de l'armure. }
+{251}{}{Faite du dernier composite poly-laminé, la coque du T-51b est légère et capable d'absorber plus de 2500 joules d'impact cinétique. }
+{252}{}{Le revêtement ablatif argenté de 10 microns peut réfléchir les émissions laser et radiatives sans endommager le sous-composite.}
+{232}{}{Résumé du projet VEF : 2073. Alors que la Chine recourait de plus en plus aux armes biologiques, le gouvernement des États-Unis estima qu'une contre-mesure s'imposait. Le Projet Virion Pan-Immunitaire (PVP) fut officiellement créé le 15 septembre 2073. }
+{233}{}{2075. Il devint évident que le meilleur moyen de contrer ces nouvelles armes biologiques était de modifier l'ADN des sujets sains pour le rendre insensible aux infections virales standard.}
+{234}{}{2076. Des effets secondaires imprévus apparurent début 2076 avec le PVP. Les animaux testés montrèrent une croissance anormale accompagnée d'une activité cérébrale accrue. }
+{235}{}{Le gouvernement américain prit note de ces découvertes et, dans l'intérêt de la sécurité nationale, déplaça une équipe sur site pour sécuriser et superviser le projet, désormais baptisé projet VEF (Vecteur d'Émergence Forcée).}
+{236}{}{2077. Le VEF est presque au point. Les tests sur animaux de laboratoire atteignent près de 100 % de réussite. La taille et la densité musculaire augmentent d'environ 60 %, et l'augmentation potentielle de l'intelligence de 200 %. }
+{237}{}{Les effets sur sujets humains restent inconnus, bien que théoriquement prometteurs. }
+{238}{}{L'armée, souhaitant poursuivre les tests, construit une grande installation sur la base militaire de Mariposa, en Californie centrale. Les tests du VEF s'y poursuivent sur des volontaires militaires.}
+{239}{}{Commande reçue :                            Commande exécutée}
+{240}{}{Accès refusé}

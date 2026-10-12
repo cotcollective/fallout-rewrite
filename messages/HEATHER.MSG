@@ -1,0 +1,159 @@
+# Heather is a female. She has a sweet, yet discerning quality about her.
+# She acts as though she is trying to hide something and does a really good
+# job of confusing the matter for people. Elusive and evasive. She will play
+# on anything that you give her to work with.
+
+{100}{}{Tu vois : Heather, une éclaireuse des Disciples.}
+{101}{}{Tu fais quoi ici ?}
+{102}{}{Ça !}
+# moronic line for This
+
+{103}{}{Au r'voir.}
+# moronic line for "Goodbye".
+
+{104}{}{Je regarde juste autour de moi.}
+{105}{}{Je suis ici pour te tuer !}
+{106}{}{Juste curieux de savoir ce qui se passe par ici.}
+{107}{}{Vraiment ? Et tu chercherais quoi ?}
+{108}{}{Je crois que je l'ai déjà trouvée.}
+{109}{}{Je cherche un espion.}
+{110}{}{Rien vraiment. Je regarde juste autour.}
+{111}{}{Juste des informations.}
+{112}{}{Merci, mais je suis déjà prise. Je crois qu'il est temps pour toi de partir.}
+# "I am already spoken for" == "i am already dating someone else"
+
+{113}{}{Oui, l'espion. J'ai entendu parler de ce parasite enquiquinant. J'aimerais vraiment qu'on puisse l'attraper.}
+# Spy is considered male
+
+{114}{}{J'avais entendu dire que c'était une femme, l'espion.}
+# Spy is considered female
+
+{115}{}{T'as entendu quelque chose sur cet espion ?}
+# spy is considered male
+
+{116}{}{C'est toi, l'espionne !}
+# spy is considered female
+
+{117}{}{Bonne chance. Désolée de t'avoir dérangé.}
+{118}{}{Je parie que c'est le vantard de Neil qui a dit ça. Faudra que je lui parle plus tard.}
+# Neil is male
+
+{119}{}{Tu crois que Neil est l'espion ?}
+# spy is male. Neil is male.
+
+{120}{}{Alors tu crois que c'est qui, l'espion ?}
+# spy is male
+
+{121}{}{T'as l'air un peu sur la défensive. Y a une raison ?}
+{122}{}{J'en suis presque sûre. Il me faut juste une preuve.}
+{123}{}{Je t'apporterai une preuve.}
+{124}{}{Il a l'air sympa. Je sais pas.}
+{125}{}{Pourquoi tu crois que c'est lui ?}
+{126}{}{Merci. Tu sais pas ce que ça représente pour moi. Une fois que t'auras la preuve, tue-le.}
+{127}{}{Qu'est-ce qu'il y a à savoir ? Il a accès aux Enfants. Il travaille la nuit quand la plupart dorment. C'est forcément lui.}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in their way or acts against their wishes. They are really bad people.
+# consider Male.
+
+{128}{}{OK, je vais vérifier.}
+{129}{}{Laisse tomber. Je crois que tu essaies de me détourner !}
+{130}{}{Je suis vraiment désolée que tu penses ça. Je peux pas laisser quelqu'un croire que je suis une espionne. Je vais devoir te rayer du service.}
+# Spy is female. "I will remove you from service" == "i am going to have to kill you now"
+
+{131}{}{Il a accès aux Enfants pendant la nuit. On le voit jamais de service. C'est forcément lui.}
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{132}{}{OK, je vais vérifier.}
+{133}{}{Laisse tomber. Je crois que tu essaies de me détourner !}
+{134}{}{Je sais pas trop qui c'est. Je pense que c'est soit un garde, soit une érudite. Ils se faufilent dans la Cathédrale des Enfants la nuit.}
+# Guard is considered male. Scholar is considered female.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{135}{}{D'autres pistes auxquelles tu penses ?}
+# == is there any other information that you can think of?
+
+{136}{}{Mais j'ai entendu dire que seuls les éclaireurs font des raids contre les Enfants.}
+# scouts is male
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{137}{}{OK. Merci pour ton aide.}
+{138}{}{Pas vraiment. Juste que je pense que c'est un homme, probablement un érudit ou un garde.}
+# is is refering to a male spy. Scholar and guard are male.
+
+{139}{}{OK. Merci pour ton aide.}
+{140}{}{Vrai. Nous les éclaireurs, on fait beaucoup de raids contre les Enfants, avec beaucoup de pertes ces derniers temps. Cet espion nous coûte cher.}
+# scouts is male. spy is male.
+# Children is short for Children of the Cathedral. Religous cult who believe in destroying
+# anyone who gets in there way or acts against thier wishes. They are really bad people.
+# consider Male.
+
+{141}{}{T'as l'air vraiment secouée par tout ça. Je vais chercher l'espion et le tuer.}
+# "you seem really torn up about this." == "you seem emotionally distraught over this"
+# spy == male
+
+{142}{}{L'espion pourrait être un éclaireur ?}
+# spy and scout == male
+
+{143}{}{Merci pour ton aide.}
+{144}{}{Pourquoi l'un de nous ferait ça ?}
+#us referres to the scouts
+
+{145}{}{Si tu élimines les éclaireurs, tu arrêtes les raids.}
+{146}{}{Je sais pas. Pourquoi TU ferais ça ?}
+{147}{}{Je sais pas. Je me demandais.}
+{148}{}{Ça se tient. J'ai remarqué que Peter se fait jamais attaquer pendant les raids. Je crois que c'est lui.}
+# Peter is male. She thinks that Peter may be the male spy.
+
+{149}{}{OK, je vais vérifier.}
+{150}{}{Laisse tomber. Je crois que tu essaies de me détourner !}
+{151}{}{Tu crois que c'est moi ?}
+# it referring to the female spy.
+
+{152}{}{Pardon. Je suis juste un peu nerveuse.}
+# under a bit of stress.
+
+{153}{}{Oui ! Maintenant tu vas mourir !}
+{154}{}{Alors va te poser tes questions ailleurs. Je dois retourner bosser.}
+# then think about it somewhere else
+
+{155}{}{Je crois qu'il pense que je suis l'espionne, mais c'est faux.}
+# spy is female
+
+{156}{}{Peut-être qu'il a raison.}
+{157}{}{Pourquoi il croirait ça ?}
+{158}{}{Parce que je suis la nouvelle éclaireuse. Je suis là depuis un an à peine et les ennuis ont commencé il y a cinq mois.}
+# scout is female
+
+{159}{}{Je crois que Neil a peut-être raison.}
+# Neil is male. right == correct.
+
+{160}{}{Je crois que Neil est peut-être l'espion. Je vais vérifier.}
+# spy is male.
+
+{161}{}{Alors cherche ailleurs. T'as rien à faire ici.}
+{162}{}{Si tu veux des infos, vois Nicole. Elle croit tout savoir.}
+# Nicole is female. said in a snotty manner.
+
+{163}{}{Je peux me laisser convaincre de te dire ce qui se trame, pour un prix.}
+{164}{}{Combien ?}
+{165}{}{Tu vendrais des secrets ?}
+{166}{}{Laisse tomber. J'ai pas d'argent.}
+{167}{}{Trois cents capsules et l'info est à toi.}
+{168}{}{D'accord.}
+{169}{}{Pas question.}
+{170}{}{Il y aura un raid sur l'extrémité sud du bastion des Enfants. Maintenant file.}
+{171}{}{T'essaies de m'arnaquer ? Je vais te montrer !}
+{172}{}{Désolée que tu le prennes comme ça. Mais bonne journée.}
+{173}{}{Faut bien que je survive. Alors, tu en veux ou pas ?}
+# do you want me to give you the information?
+
+{174}{}{D'accord.}
+{175}{}{Pas question.}
+{176}{}{Rien. Maintenant pars.}
+{177}{}{Laisse-moi. J'essaie de me reposer.}

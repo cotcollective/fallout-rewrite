@@ -1,0 +1,101 @@
+# These are people who are running caravans. either gender, but majority Male
+# Tone of voice similar to truck drivers of California-- rough and partially
+# harsh.
+{100}{}{Tu vois un conducteur de caravane.}
+{101}{}{La journée va être longue !}
+{102}{}{J'ai vraiment pas envie de bosser aujourd'hui.}
+{103}{}{J'espère qu'on va pas se faire attaquer... ou pire.}
+{104}{}{Désolé, on n'a plus besoin de gardes... je crois.}
+{105}{}{Désolé, on est complets.}
+{106}{}{Tu devrais voir au Marché des marchands si tu veux un boulot.}
+{107}{}{J'espère qu'on va tout vendre.}
+{108}{}{J'ai hâte qu'on finisse.}
+# finish this job.
+
+{109}{}{En route !}
+{110}{}{Je suis prêt à botter des culs.}
+# i'm ready for some brawling
+
+{111}{}{On se tire d'ici !}
+{112}{}{Il a fait chaud aujourd'hui.}
+{113}{}{J'ai soif, moi.}
+# i am very thirsty
+
+{114}{}{On est quel jour ?}
+{115}{}{Je file au Falcon dès que j'ai fini !}
+# Falcon is short for Maltese Falcon--Drinking and gambling hall
+
+{116}{}{Désolé, on revient juste d'une route.}
+{117}{}{Tu devrais voir au Marché des marchands si tu veux un boulot.}
+# Merchant Market is a section of town in which people gather.
+
+{118}{}{C'est la paie aujourd'hui !}
+{119}{}{Je vais direct chez Bob !}
+# Bob's is short for Bob's Iguana Bits -- eating establishment
+
+{120}{}{Je dois rembourser le prêt aujourd'hui !}
+{121}{}{Je suis crevé.}
+{122}{}{C'était un long voyage !}
+{123}{}{Il est temps d'aller se coucher, je suppose.}
+{124}{}{À demain, les amis.}
+{125}{}{Oh là là, quelle nuit !}
+{126}{}{Je vieillis...}
+{200}{}{Tu vois : Mat.}
+{201}{}{Je vous verrai demain, les gars. Que les punaises vous piquent pas...}
+{202}{}{C'était un drôle de rêve.}
+{203}{}{Oui ? Je peux vous servir ?}
+{204}{}{Hein ?}
+{205}{}{C'est quoi, cet endroit ?}
+{206}{}{Tu saurais où je pourrais trouver une Puce d'eau ?}
+{207}{}{Elles font quoi ici, toutes ces charrettes ?}
+{208}{}{Oh. Pardon, je t'ai pris pour quelqu'un d'autre. Salut.}
+{209}{}{Ouais. Tu pourrais mourir.}
+{210}{}{Trop longtemps dans le désert, hein ? Dommage.}
+{211}{}{C'est le Hub. C'est un centre de commerce pour le désert. C'est la plus grande ville que je connaisse. Tu peux y trouver à peu près tout ce que tu veux. Et si tu cherches du boulot, c'est l'endroit. On dirait que tout le monde ici veut t'embaucher pour un truc, légal ou pas.}
+{212}{}{Tu saurais où je pourrais trouver une Puce d'eau ?}
+{213}{}{Elles font quoi ici, toutes ces charrettes ?}
+{214}{}{Du commerce ? Vous commercez quoi ?}
+{215}{}{J'irais où pour trouver un boulot ?}
+{216}{}{Au revoir.}
+{217}{}{Une Puce d'eau ? Wow. Tu me poses une colle. J'ai jamais entendu parler de ça. Tu devrais voir au magasin général du centre-ville, ils pourront peut-être t'aider.}
+{218}{}{Elles font quoi ici, toutes ces charrettes ?}
+{219}{}{Merci. Au revoir.}
+{220}{}{Ce sont les caravanes. On transporte des marchandises aux quatre coins du désert : Junktown, la Confrérie, Shady Sands, et plein d'autres endroits. Nécropolis et la Lueur sont les seuls endroits qu'on évite. Je dirige ce groupe et on part bientôt. Le groupe d'en face vient d'arriver.}
+{221}{}{On dirait la même caravane que j'ai vue tout à l'heure...}
+{222}{}{Vous commercez quoi ?}
+{223}{}{C'est quoi, cet endroit ?}
+{224}{}{J'irais où pour trouver un boulot ?}
+{225}{}{Merci. Au revoir.}
+{226}{}{Hum... Plein de trucs. Des trucs généraux dont les gens ont besoin pour vivre : de la bouffe, de l'eau, beaucoup d'eau. L'eau est probablement la denrée la plus rare du désert.}
+{227}{}{Tu saurais où je pourrais trouver une Puce d'eau ?}
+{228}{}{J'irais où pour trouver un boulot ?}
+{229}{}{Merci. Au revoir.}
+{230}{}{Tu peux demander à à peu près n'importe qui ici au Hub. Ou tu peux voir un des panneaux d'offres d'emploi. Y en a quelques-uns dans le Hub. Y a carrément plus de boulots que de gens ici.}
+{231}{}{C'est quoi, cet endroit ?}
+{232}{}{Tu saurais où je pourrais trouver une Puce d'eau ?}
+{233}{}{Elles font quoi ici, toutes ces charrettes ?}
+{234}{}{Merci. Au revoir.}
+{235}{}{Haha ! Ouais. On peut dire ça. Au bout d'un moment elles se ressemblent toutes, mais crois-moi, c'est pas le cas.}
+{236}{}{Tu vas mourir pour t'être moqué de moi !!!}
+{237}{}{J'irais où pour trouver un boulot ?}
+{238}{}{Au revoir.}
+{300}{}{Tu vois : Luke.}
+{301}{}{Ce sont les caravanes. On transporte des marchandises aux quatre coins du désert : Junktown, la Confrérie, Shady Sands, et plein d'autres endroits. On vient d'arriver et le voyage a été long. Le groupe d'en face se prépare à partir.}
+{400}{}{Tu vois : John.}
+{401}{}{Tu fais quoi dehors à cette heure ?}
+{402}{}{T'es un idiot. Dégage d'ici, clodo.}
+{403}{}{Une Puce d'eau ? J'en ai jamais entendu parler.}
+{404}{}{Ce sont les caravanes que je garde. Les marchands transportent des marchandises aux quatre coins du désert : Junktown, la Confrérie, Shady Sands, et plein d'autres endroits.}
+{405}{}{Ben... plein de trucs. Des trucs généraux dont les gens ont besoin pour vivre : de la bouffe, de l'eau, beaucoup d'eau. L'eau est probablement la denrée la plus rare du désert.}
+{406}{}{Tu peux demander à à peu près n'importe qui ici au Hub. Ou tu peux voir un des panneaux d'offres d'emploi. Y en a quelques-uns dans le Hub.}
+{407}{}{Je suis un garde de sécurité engagé par les marchands à qui appartiennent les marchandises de ces charrettes. Boulot dangereux, mais bien payé. L'autre nuit, un de mes collègues s'est fait tuer en surveillant les caravanes.}
+{408}{}{C'est quoi, les caravanes ?}
+{409}{}{Ahhhh. (Il prend un ton sarcastique.) Quelle triste histoire. Ça te dirait de rejoindre ton ami ?}
+{410}{}{Salut.}
+
+## Fallout Fixt:
+
+{501}{}{Tu vois un garde de caravane.}
+{502}{}{Tu vois un conducteur de caravane.}
+{503}{}{Tu vois un conducteur de caravane.}
+{504}{}{Tu vois un marchand de caravane.}

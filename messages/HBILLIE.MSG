@@ -1,0 +1,82 @@
+{100}{}{Tu vois : Billy.}
+{101}{}{Hé ! Touche pas à mes affaires !}
+{102}{}{Salut.}
+{103}{}{Salut, tu fais quoi ?}
+{104}{}{Je peux avoir une brahmine ?}
+{105}{}{Salut. Euh, salut.}
+{106}{}{Arg !}
+{107}{}{Merci.}
+{108}{}{Pourquoi tu voudrais une brahmine ? T'as une caravane ? Enfin, ça change rien. Je fais que m'en occuper. C'est Dan, le patron. Mais il les vendra pas.}
+{109}{}{Pourquoi ?}
+{110}{}{Je blaguais.}
+{111}{}{À cause des caravanes disparues. Il peut pas s'en passer, les caravanes en utilisent la plupart. Les autres sont vendues pour la bouffe. Bon, je ferais mieux de me taire ; Dan va râler s'il me voit parler à un étranger.}
+{112}{}{Oh, d'accord.}
+{113}{}{Rien... Enfin, je m'occupe des brahmines.}
+{114}{}{Elle sert à quoi, la lance ? Elles sont dangereuses ?}
+{115}{}{C'est quoi, une brahmine ?}
+{116}{}{"C'est quoi, une brahmine ?" Tu dois blaguer. Les brahmines sont une des principales sources de bouffe et un moyen de transport par ici. Elles tirent les caravanes. Dan dit que c'est un boulot super important, mais c'est nul. Oh, et au fait, on dit "brahmine" — "brahmines", c'est le pluriel. Andouille.}
+{117}{}{Oh, je savais !}
+{118}{}{Dan a raison. Tu fais du super boulot.}
+{119}{}{Ouais, on dirait. Amuse-toi bien.}
+{120}{}{Hé, t'es un de ces clodos, non ?}
+{121}{}{Vraiment ? Tu crois ? Oh, merci.}
+{122}{}{T'es pas d'ici, hein ? Je te donne un conseil : fais-toi pas choper à voler !}
+{123}{}{Bien sûr, merci.}
+{124}{}{J'y penserais même pas. Voler, c'est mal.}
+{125}{}{Ouais, je commence à être d'accord avec toi. Ce boulot est pas si mal, en fait. Ça me fait du bien, je sais pas pourquoi. Bon, je dois y aller avant d'avoir des ennuis.}
+{126}{}{Fais-moi pas de mal, ni à mes brahmines, s'il te plaît.}
+{127}{}{Me fais pas de mal !}
+{128}{}{Arrête !}
+{129}{}{Laisse-moi tranquille, s'il te plaît.}
+{130}{}{Tu me fais peur.}
+{131}{}{Hé, t'essaies de faire quoi ? J'ai rien qui t'intéresserait.}
+{132}{}{Arrête ça !}
+{133}{}{Dangereuses ? Non, pas vraiment. Elles peuvent te mordre salement, mais elles sont plutôt cool. Elles pètent et elles rotent beaucoup. Je sais pas pourquoi.}
+{134}{}{Alors elle sert à quoi, la lance ?}
+{135}{}{OK merci.}
+{136}{}{Oh, elles peuvent être super têtues quand je veux qu'elles fassent un truc. Je les pique doucement pour les faire bouger... et puis je veux pas trop m'approcher ; elles ruent, parfois.}
+{137}{}{Me parle pas, s'il te plaît, Dan va encore me crier dessus. Ça le rend vraiment fur— enfin... furieux, quand je fais pas attention à ce que je fais.}
+{138}{}{Il essaie juste de t'aider. Bosse dur et je suis sûr qu'il sera plus sympa.}
+{139}{}{Tiens, gamin, prends 50 capsules et éloigne-toi de ce crétin.}
+{140}{}{D'accord.}
+{141}{}{Aaaaaarg !}
+{142}{}{Rhu ?}
+{143}{}{Fais pas ça, s'il te plaît, j'ai déjà assez d'ennuis.}
+{144}{}{Je bosse dur, SI !}
+{145}{}{Pardon, je voulais pas dire ça. Il essaie juste de t'aider.}
+{146}{}{Non, c'est faux, espèce de petit fainéant !}
+{147}{}{D'accord.}
+{148}{}{Ouais, t'as peut-être raison... en fait, il a l'air plutôt cool, mais j'aimerais qu'il me crie pas tant dessus.}
+{149}{}{Ouais, c'est ça.}
+# said to male player
+{150}{}{Va te faire voir, vieux croûton !}
+# said to female player
+{151}{}{Va te faire voir, vieille bique !}
+{152}{}{WOW ! Je peux vivre là-dessus toute ma vie ! Merci beaucoup, monsieur !}
+{153}{}{WOW ! Je peux vivre là-dessus toute ma vie. Merci beaucoup, madame !}
+{154}{}{WOW ! Merci... Bon... ? T'essaies encore de m'attirer des ennuis !}
+{155}{}{Me parle pas, s'il te plaît, Dan est vraiment furieux.}
+{156}{}{T'inquiète. Je lui ai parlé ; il va essayer d'être plus sympa avec toi.}
+{157}{}{Et il ferait bien ! T'es un gamin terrible !}
+{158}{}{Wac.}
+{159}{}{Salut !}
+{160}{}{Les filles là-bas sont vraiment nulles.}
+{161}{}{Re-salut.}
+{162}{}{Les brahmines, c'est cool.}
+{163}{}{Dan m'emmène au Falcon si je fais du bon boulot.}
+{164}{}{Dan va m'emmener en caravane un jour !}
+{165}{}{Je serai aventurier quand je serai grand.}
+{166}{}{Vraiment ? Oh, d'accord. J'espère que tu lui as pas fait de mal. Il est vraiment pas si méchant. Il crie juste beaucoup.}
+{167}{}{Re-salut.}
+{168}{}{Tu fais quoi, déjà ?}
+{169}{}{Je peux avoir une brahmine ?}
+{170}{}{Je passais juste dire comment ça allait. Salut.}
+{171}{}{Arg !}
+{172}{}{Merci.}
+{173}{}{Je ferais mieux de retourner bosser.}
+{174}{}{Les filles là-bas sont vraiment nulles.}
+{175}{}{Re-salut.}
+{176}{}{Je serai aventurier quand je serai grand.}
+{177}{}{Les brahmines chient... euh, font beaucoup caca.}
+{178}{}{Je peux pas parler, là.}
+{179}{}{Je veux pas avoir d'ennuis.}
