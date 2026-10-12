@@ -1,0 +1,14 @@
+{100}{}{Tu vois Skizzer.}
+{101}{}{Tu vois un homme.}
+{102}{}{Camarade Crypte, tu vas bien.}
+{103}{}{T'es un sale Fou stupide.}
+{104}{}{Bienvenue à Scrapheap. Garde tes mains pour toi.}
+{105}{}{Ok.}
+{106}{}{Sois sage, et Rock n'aura pas à te tomber dessus.}
+{107}{}{Ok.}
+{108}{}{[Terminé]}
+{109}{}{Il refuse de te parler.}
+{110}{}{Tu vas te faire enterrer, Fou !}
+{111}{}{Je vais botter des culs sérieux ! Je suis prêt pour la baaagaaarre !}
+{112}{}{Les Cryptes règnent ! Et les Fous bavent !}
+{113}{}{Nous sommes les porteurs de mort !}

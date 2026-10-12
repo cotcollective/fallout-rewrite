@@ -1,0 +1,48 @@
+{100}{}{Tu vois : Romero.}
+{103}{}{Tu vois un membre des Lames.}
+{104}{}{Tu vois un membre des Lames.}
+{105}{}{Ça pourrait être Books.}
+{106}{}{Ça pourrait être Scars.}
+{107}{}{Ça pourrait être Gunner.}
+{108}{}{Ça pourrait être Twitch.}
+{109}{}{Ça pourrait être Hammer.}
+{110}{}{Ça pourrait être Razor.}
+{111}{}{Halte-là !}
+{112}{}{Quoi ? Tu veux dire quoi exactement ?}
+{113}{}{Jamais !}
+{114}{}{Je suis là pour parler de paix.}
+{115}{}{OK...}
+{116}{}{C'est moi qui pose les questions ici. Tu fais quoi ici ?}
+{117}{}{Je cherche un ami.}
+{118}{}{Je suis là pour parler de paix.}
+{119}{}{Je veux mettre fin à la guerre avec Adytum !}
+{120}{}{Je veux boire le sang des Lames !}
+{121}{}{Alors tu cherches au mauvais endroit. Dégage.}
+{122}{}{Tu dois être une de ces mauviettes en robe violette. Sors d'ici avant qu'on te pulvérise.}
+{123}{}{Attends ! Je sais pas de quoi tu parles. Je suis là pour Adytum. Ils veulent que je convainque tout le monde de les laisser tranquilles.}
+{124}{}{La paix, ÇA !}
+{125}{}{Désolé. Je m'en vais.}
+{126}{}{Hmm. Si tu viens vraiment d'Adytum, t'es quand même un loser. Y aura jamais de paix tant que ces Régulateurs seront là.}
+{127}{}{Tu veux dire quoi ?}
+{128}{}{Euh, bien sûr.}
+{129}{}{Demande à Razor. Elle t'expliquera pour ces consanguins sanguinaires.}
+{130}{}{Dégage !}
+{131}{}{Hé, maintenant que t'es une Lame, j'ai une faveur à te demander.}
+{132}{}{Bien sûr.}
+{133}{}{C'est quoi ?}
+{134}{}{Pas question.}
+{135}{}{Génial. Apporte ce médaillon à Julianna. Dis-lui que j'espère la voir bientôt.}
+{136}{}{On dirait que je suis tombé amoureux d'une fille d'Adytum. À cause des Régulateurs qui nous tirent dessus à vue, je peux pas l'approcher.}
+{137}{}{Comment je peux aider ?}
+{138}{}{Continue.}
+{139}{}{Pas de bol.}
+{140}{}{Si tu apportes ce médaillon à Julianna, je te serai redevable.}
+{141}{}{Pas de problème.}
+{142}{}{Trouve quelqu'un d'autre.}
+{143}{}{Avec des alliés comme toi, qui a besoin d'ennemis ? Adieu !}
+{144}{}{Je crois qu'elle m'aime aussi, mais je sais pas. Les Lames prendront pas le risque de me laisser essayer de m'infiltrer à Adytum.}
+{145}{}{Pas de bol.}
+{146}{}{OK, je vais aider.}
+{147}{}{Merci ! Elle m'a envoyé un mot. On va se rencontrer chez les Disciples et se marier.}
+{148}{}{Bon retour.}
+{149}{}{Merci infiniment. On va rester ici avec les Disciples maintenant, où on pourra se marier tranquillement.}

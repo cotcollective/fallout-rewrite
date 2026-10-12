@@ -1,0 +1,4 @@
+{100}{}{Tu vois l'approvisionnement en eau de Shady Sands. C'est trop peu d'eau pour alimenter ton Abri.}
+{101}{}{Tu n'as aucune raison de descendre dans le puits, mais la corde sera peut-être utile pour descendre dans des trous.}
+{102}{}{Tu n'apprends rien de plus du puits.}
+{103}{}{Tu fais un vœu en entendant la capsule de bouteille tomber dans l'eau.}

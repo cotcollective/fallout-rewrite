@@ -1,0 +1,32 @@
+{100}{}{Tu vois : Smitty.}
+{101}{}{Tu vois un homme large et musclé.}
+{102}{}{Bonjour. Que puis-je faire pour toi ?}
+{103}{}{Qu'est-ce que tu veux ?}
+{104}{}{Puis-je te demander ton nom ?}
+{105}{}{J'ai besoin que tu répares ces pièces pour moi, pour que je puisse réparer vos fermes hydroponiques.}
+{106}{}{Je voudrais acheter quelque chose.}
+{107}{}{Puis-je te poser quelques questions ?}
+{108}{}{Rien, merci. À la prochaine.}
+{109}{}{Euhhh... }
+{110}{}{Je te recommanderais d'aller voir le magasin de Tine, juste à côté des portes. Je ne vends rien ici en fait ; je l'échange à Tine ou aux marchands du Hub contre des marchandises.}
+{111}{}{Eh bien, tout le monde m'appelle 'Smitty'. Probablement parce que je suis le forgeron du coin.}
+{112}{}{Vas-y.}
+{113}{}{Où as-tu eu tout ton équipement d'atelier ?}
+{114}{}{Tu fabriques quoi ici, au juste ?}
+{115}{}{Tu peux fabriquer des armes et des balles ?}
+{116}{}{Rien d'autre, merci.}
+{117}{}{Je suis désolé, je ne crois pas pouvoir t'aider. Essaie Zimmerman.}
+{118}{}{Bien sûr.}
+{119}{}{Eh bien, tout forgeron compétent peut fabriquer sa propre enclume ! Bien sûr, j'ai surtout appris le métier sur le tas, mais j'ai fabriqué la plupart de mes outils moi-même.}
+{120}{}{Je fabrique et répare surtout des outils et des instruments ici. Je répare aussi des choses pour les marchands du Hub. Avec l'aide de Miles, le chimiste, je recharge des balles de temps en temps.}
+{121}{}{Eh bien, construire des armes et fabriquer des douilles demande de l'usinage, et je n'ai tout simplement pas les outils pour ça. Mais avec l'aide de Miles, le chimiste, je peux recharger de vieux laitons, puisque je peux couler des balles.}
+{122}{}{Oui, je peux réparer ça. Donne-moi un peu de temps.}
+{123}{}{Tiens. [Smitty te tend les pièces réparées.]}
+{124}{}{J'ai déjà réparé les pièces. Tu dois les donner à Miles maintenant.}
+{125}{}{Merci d'avoir réparé les fermes. Si jamais tu trouves un fusil à plasma, ramène-le ici. Je connais quelques astuces avec les injecteurs.}
+{126}{}{Eh bien, j'en ai un juste ici.}
+{127}{}{Alors tu as trouvé un fusil à plasma !}
+{128}{}{Donne-le-moi et je vais y jeter un œil. [Smitty prend ton fusil à plasma, sort ses outils et commence à bricoler.]}
+{129}{}{Voilà, je crois que ça le fait. [Smitty te rend ton fusil à plasma.] Essaie voir ce que ça donne.}
+{130}{}{Comme je disais, si tu te trouves un fusil à plasma et que tu me le ramènes, je peux le bidouiller un peu pour toi.}
+{131}{}{Content de te revoir. J'espère que tu vas bien.}

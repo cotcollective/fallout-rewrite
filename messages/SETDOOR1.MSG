@@ -1,0 +1,8 @@
+{100}{}{Tu crochètes la serrure.}
+{101}{}{Tu ne peux pas ouvrir cette serrure.}
+{102}{}{Tu as cassé tes crochets.}
+{103}{}{Tu ne sais pas crocheter la serrure.}
+{104}{}{La porte est verrouillée.}
+{105}{}{La porte est ouverte.}
+{106}{}{La porte est fermée et déverrouillée.}
+{107}{}{criiiik}

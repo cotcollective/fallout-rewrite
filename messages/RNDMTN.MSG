@@ -1,0 +1,109 @@
+# NORTH ENCOUNTERS
+
+{114}{}{Tu voyages à travers des falaises abruptes et un terrain accidenté.}
+
+{105}{}{Des radscorpions !!}
+
+{121}{}{Tu vois un voyageur solitaire au loin.}
+
+{106}{}{Un radscorpion particulièrement sournois semble essayer de te tendre une embuscade.}
+	{107}{}{Out of nowhere, a radscorpion suddenly strikes!}
+
+{108}{}{Tu tombes sur une famille de rats-taupes.}
+
+{100}{}{Tu échappes de peu à un gros rocher dans une avalanche.}
+	{102}{}{The displaced rock brings with it the remains of a long-dead traveler.}
+
+
+# SOUTH ENCOUNTERS
+
+#first
+#114 You are traveling through sheer cliffs and rugged terrain.
+#100 You are nearly crushed by a large boulder in an avalanche.
+
+{136}{}{Tu tombes sur une meute de radscorpions hostiles.}
+
+{120}{}{Tu trouves plusieurs rats qui fouillent par ici.}
+
+CHANGE THIS ONE		#patrick
+
+{122}{}{Le sol devant est jonché de débris et de corps. On dirait une vieille zone de bataille.}
+
+
+
+# VAULT ENCOUNTERS
+
+{128}{}{Tu vois un radscorpion solitaire qui trottine par-ci par-là.}
+
+{135}{}{Tu tombes sur les ossements d'un voyageur mort depuis longtemps.}
+
+{129}{}{D'énormes rats-taupes reniflent par ici.}
+
+{130}{}{Tu trouves plusieurs rats qui fouillent par ici.}
+
+#fall or slip
+
+{134}{}{Tu vois plusieurs rats qui courent vers toi.}
+
+
+#
+# TERRAIN ENCOUNTERS (NO MONSTERS)
+#
+{115}{}{ heureusement, tes talents d'escalade sont à la hauteur.}
+{117}{}{Tu tombes d'une corniche et tu atterris sur plusieurs pierres pointues.}
+{118}{}{Tu tombes d'une falaise sur le sol rocailleux en dessous.}
+{109}{}{Tu es emporté par un glissement de terrain.}
+{123}{}{Tu perds pied sur le terrain rocailleux.}
+{132}{}{Tu glisses sur le terrain inégal et tu te tords la cheville, douloureusement. Ça fait plusieurs bruits malsains.}
+{133}{}{Tu tombes sur le terrain accidenté et tu t'écorches.}
+#
+# No Damage
+#
+{101}{}{Tu t'en sors sans dégâts.}
+{110}{}{Étonnamment, tu t'en sors sans dégâts.}
+{124}{}{Tu t'en sors habilement sans dégâts.}
+{131}{}{Épuisé, tu manques de tomber sur un terrain accidenté. Ils pourraient vraiment utiliser un JERD par ici !}
+#
+# Small Damage
+#
+{104}{}{Des éclats de roche tailladent ton visage et tes mains, mais tu t'en sors avec des dégâts minimes.}
+{113}{}{Des éclats de roche tailladent ton visage et tes mains, mais tu t'en sors avec des dégâts minimes.}
+{127}{}{Des éclats de roche tailladent ton visage et tes mains, mais tu t'en sors avec des dégâts minimes.}
+#
+# Big Damage
+#
+{147}{}{Ta pitoyable tentative d'échapper aux rochers est un échec colossal. Tous tes membres sont écrasés et battus dans une spectaculaire gerbe de sang. Étonnamment, tu survis.}
+{148}{}{Tu ne trouves aucune prise pendant la chute, et tu atterris avec un fracas terrible, t'écrasant les deux jambes comme des radcafards.}
+#
+# Damage Numbers
+#
+{138}{}{Tu subis }
+{139}{}{ points de dégâts et une jambe gauche estropiée.}
+{140}{}{ points de dégâts et une jambe droite estropiée.}
+{141}{}{ points de dégâts.}
+{144}{}{ points de dégâts et un bras gauche estropié.}
+{145}{}{ points de dégâts et un bras droit estropié.}
+{146}{}{ points de dégâts et deux membres estropiés.}
+#
+# Cripples
+#
+{103}{}{Ta jambe est gravement endommagée par les chutes de pierres.}
+{112}{}{Ta jambe est gravement endommagée par les chutes de pierres.}
+{126}{}{Ta jambe est gravement endommagée par les chutes de pierres.}
+#
+# Critical Success
+#
+{116}{}{Tu trouves une grotte avec une petite source et tu réussis à passer ta première bonne nuit de sommeil depuis longtemps.}
+{125}{}{Tu t'en sors sans dégâts. La roche déplacée révèle un gisement d'or !}
+{111}{}{La roche déplacée révèle un gisement d'or !}
+{142}{}{Tu remplis ta gourde vide à la source.}
+{143}{}{Tu remplis tes gourdes vides à la source.}
+#
+#
+# MONSTERS - not used
+#
+{119}{}{Tu tombes sur une grosse meute de radscorpions.}
+#
+# Fallout Fixt (Sduibek)
+#
+{137}{}{Tu vois le camp d'une bande de pillards itinérants. On dirait que tu es arrivé au mauvais endroit au mauvais moment.}

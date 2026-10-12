@@ -1,0 +1,44 @@
+{100}{}{Tu vois un Paladin solitaire. Il semble à la fois effrayé et en colère.}
+
+{101}{}{Halte-là, étranger ! Identifie-toi !}
+
+# low IQ
+{102}{}{Moi }
+{103}{}{.}
+
+{104}{}{Je suis }
+{105}{}{. Que s'est-il passé ici ?}
+{106}{}{Mon nom n'a pas d'importance.}
+
+# low IQ
+{107}{}{Fais attention, }
+{108}{}{, tu pourrais te blesser. Une armée de méchants mutants est venue ici et a fait un gros boum. Tu vois ?}
+{109}{}{Hum-hum.}
+{110}{}{Tu vois. Alors, tu ferais mieux de trouver un autre endroit où aller. Ce n'est pas sûr ici.}
+{111}{}{Moi partir.}
+
+{112}{}{Des mutants. C'était une très grande armée. Ils sont venus, ont tué tout le monde, ont pris tout ce qu'ils pouvaient et ont fait sauter cet endroit.}
+{113}{}{Et comment as-tu réussi à survivre à tout ça ?}
+{114}{}{Je revenais d'une patrouille à longue distance. Quand je suis arrivé, la bataille était déjà finie. Je ne pouvais rien faire. Alors je me suis caché et je les ai regardés.}
+{115}{}{Tu veux dire que tu avais trop peur pour faire quoi que ce soit ?}
+{116}{}{Personne d'autre n'a survécu à cette invasion ?}
+{117}{}{Écoute, je ne suis peut-être pas l'homme le plus courageux de la Confrérie, mais je ne suis pas un idiot non plus. Il n'y avait vraiment rien que je puisse faire.}
+{118}{}{Lâche. Reste donc à garder un tas de ruines. Moi, je vais aller tuer quelques-uns de tes mutants.}
+{119}{}{Désolé. Est-ce que quelqu'un d'autre a survécu à ce massacre ?}
+{120}{}{Plusieurs équipes d'éclaireurs, des paladins en patrouille... trop peu pour faire quoi que ce soit. La Confrérie de l'Acier est pratiquement morte. Je vais rester ici pour l'instant, essayer de rassembler autant de survivants que possible et leur raconter ce qui s'est passé ici. Ensuite... je ne sais pas vraiment ce qui vient ensuite. Je n'ai même jamais eu l'occasion d'y penser.}
+{121}{}{Je comprends. Continue ton bon travail, Paladin, je dois y aller.}
+{122}{}{Au revoir, }
+{123}{}{. Si tu croises des survivants de la Confrérie pendant tes voyages, raconte-leur ce qui s'est passé ici.}
+
+{124}{}{Halte-là... Oh, c'est toi, }
+{125}{}{.}
+{126}{}{Hum-hum.}
+{127}{}{Oui, c'est moi. Que s'est-il passé ici ?}
+
+{130}{}{Au revoir, }
+{131}{}{. Si tu croises certains de nos Frères, raconte-leur ce qui s'est passé ici.}
+{132}{}{Bien sûr. Je dois vraiment y aller maintenant.}
+
+{133}{}{Alors tu ferais mieux d'y aller. Je n'ai rien à te dire.}
+
+{150}{}{Le Paladin t'ignore. Il semble perdu dans ses pensées.}

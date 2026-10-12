@@ -1,0 +1,9 @@
+{100}{}{Scribe}
+{101}{}{La recherche est une de mes activités préférées. J'ai l'impression d'essayer de résoudre un mystère.}
+{102}{}{Être Scribe, c'est le top. On étudie toutes les vieilles technologies et on essaie d'en développer de nouvelles.}
+{103}{}{Ces terminaux auraient besoin d'être améliorés. On devrait peut-être mettre l'écran par ici.}
+{104}{}{Désolé, je suis en plein milieu d'une percée possible. Je ne peux pas parler pour l'instant.}
+{105}{}{Hé, Initié. Tu devrais te former pour devenir Scribe, si tu n'as pas encore décidé.}
+{106}{}{Nous autres Scribes concevons tout l'équipement, les armes et les fournitures. C'est très excitant.}
+{107}{}{Ne me dérange pas, s'il te plaît. J'essaie de finir mes recherches.}
+{108}{}{C'est Vree, là-bas. Elle aussi est Scribe.}

@@ -1,0 +1,9 @@
+{100}{}{Tu vois : Rufus.}
+{101}{}{Me tue pas, s'il te plaît...}
+{102}{}{Chuuut ! J'essaie de jouer à mon jeu !}
+{103}{}{Silence ! J'essaie de jouer à mon jeu. Cyberhood, Prince de la Matrice, quel classique !}
+{104}{}{Merde ! Mon perso s'est encore fait tabasser. Roger est tellement une mauviette...}
+{105}{}{Où est la clé du Cyberespace ? J'ai fouillé tout le satané bâtiment Kruz...}
+{106}{}{Tu saurais pas le mot de passe pour entrer chez Malibu Stu ? Oh, laisse tomber...}
+{107}{}{Cette Kaira, quelle bombe !}
+{108}{}{Me dérange pas. J'essaie de résoudre ce satané puzzle de canard...}

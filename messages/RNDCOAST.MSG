@@ -1,0 +1,31 @@
+# Coast1  3 to 5 floaters or bloody floaters
+{100}{}{Tu vois plusieurs créatures flottantes à l'air bizarre...}
+#
+# Coast2  4 to 7 manti or great manti
+{111}{}{Tu es soudain attaqué par un essaim de mantis mutantes !}
+#
+# Coast3  8 to 12 rats
+{101}{}{Un essaim de rats approche rapidement !}
+#
+# Coast4  3 to 4 raiders, 3 to 5 peasants
+{102}{}{Tu vois un groupe de paysans attaqués par des pillards !}
+#
+# Coast5  4 to 6 manti
+# msg 111
+#
+# Coast6  fishermen
+{103}{}{Tu vois quelques personnes qui pêchent.}
+#
+# Coast7  free items
+{104}{}{Il y a un cadavre macabre à proximité, partiellement mangé. Tu viens de perdre l'appétit.}
+#
+
+#
+# NOT USED (from vanilla)
+#
+{105}{}{Tu tombes sur des mares d'eau.}
+{106}{}{Poussé par une soif terrible, tu bois de l'eau... Elle a pas très bon goût.}
+{107}{}{L'eau a l'air hautement radioactive et infecte.}
+{108}{}{Ahhh...}
+{109}{}{Arrgg...}
+{110}{}{Beurk !}

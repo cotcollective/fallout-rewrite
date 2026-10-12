@@ -1,0 +1,2 @@
+{100}{}{Tu remarques un bureau encombré de papiers.}
+{101}{}{Les papiers détaillent des rapports sur des attaques de pillards et de radscorpions, une liste des citoyens de Shady Sands et des informations agricoles.}

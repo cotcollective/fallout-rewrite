@@ -1,0 +1,36 @@
+{100}{}{Tu vois Rock.}
+{101}{}{Tu vois un homme.}
+{102}{}{Tu devrais peut-être penser à ranger ce flingue, mon gars. Les Cryptes aiment pas qu'on exhibe du matos comme ça.}
+{103}{}{Oh, vraiment. Je vais juste aller leur en parler. Ils sont où ?}
+{104}{}{Oh, OK. Où je peux boire un verre ?}
+{105}{}{C'est qui, les Cryptes ?}
+{106}{}{T'aurais bien besoin d'un verre frais.}
+{107}{}{[Terminé]}
+{108}{}{Ouais, va au grand bâtiment juste en ville, et dis-leur que Rock t'envoie.}
+{109}{}{OK.}
+{110}{}{Les Cryptes ? C'est le plus gros, le plus méchant des gangs du coin. Les cherche pas, si tu veux quitter Scrapheap en un morceau.}
+{111}{}{Ils sont où ?}
+{112}{}{Ils sont dans le grand bâtiment juste après la porte. Tu cherches du boulot stable ? Un endroit où utiliser ton flingue ?}
+{113}{}{Non.}
+{114}{}{Ouais, carrément.}
+{115}{}{Alors je te suggère de faire demi-tour et de partir. Scrapheap est pas un endroit pour ceux qui sont pas avec les Cryptes. Si tu veux entrer, tu peux — mais c'est ta vie.}
+{116}{}{OK.}
+{117}{}{Génial. Dis-leur que Rock t'envoie, là-haut à la grande baraque.}
+{118}{}{OK.}
+{119}{}{Content d'apprendre que t'es du bon côté à Scrapheap. Bienvenue dans le gang.}
+{120}{}{Merci.}
+{121}{}{T'as fait une erreur. Une terrible, terrible erreur.}
+{122}{}{Bienvenue à Scrapheap, mon gars. Sois pas un fou, et tout ira bien.}
+{123}{}{Merci, c'est quoi cet endroit ?}
+{124}{}{C'est qui le chef ici ?}
+{125}{}{Scrapheap est l'aisselle du désert. Y a pas meilleur endroit pour élever des enfants, à mon avis. [Rit] Cet endroit fait passer Junktown pour une cité vivante des anciens.}
+{126}{}{Merci.}
+{127}{}{Eh bien, y a une commune, dirigée par Lex. Mais le vrai pouvoir est toujours derrière le trône. Dans ce cas, les gens à pas embêter, c'est les Cryptes.}
+{128}{}{Merci.}
+{129}{}{Eh bien, tu poses vraiment beaucoup de questions. Je crois que tu devrais juste continuer ton chemin.}
+{130}{}{OK.}
+{131}{}{[Terminé]}
+{132}{}{Les Cryptes vont t'enterrer !}
+{133}{}{Les Fous ont aucune raison de vivre.}
+{134}{}{Les Insensés périront.}
+{135}{}{Regarde qui s'est pris le bâton de laideur.}

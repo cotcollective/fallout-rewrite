@@ -1,0 +1,33 @@
+{100}{}{Tu vois : Jerry, un jeune Initié.}
+{101}{}{Tu vois un Initié Chevalier.}
+{102}{}{Tu vois un Initié Scribe.}
+{103}{}{Salut ! Tu dois être Frère }
+{104}{}{, le nouvel Initié de l'extérieur. Je m'appelle Jerry, je suis ton nouveau coloc. Moi aussi je suis Initié ! J'ai tellement révisé. T'es Initié Chevalier ou Scribe ?}
+{105}{}{J'ai pas décidé.}
+{106}{}{Chevalier.}
+{107}{}{Scribe.}
+{108}{}{Eurk.}
+{109}{}{Ouais, être Chevalier ce serait génial, ils voient plein d'action et ils construisent plein de trucs. J'ai pas encore décidé, mais je penche pour Chevalier moi-même. Je t'ennuie ? Certains disent que je parle beaucoup mais je crois juste qu'ils comprennent pas. J'ai juste beaucoup de choses à dire.}
+{110}{}{Non, pas du tout.}
+{111}{}{Faut que j'y aille. Enchanté.}
+{112}{}{Ouais, les Scribes ont une position tellement créative. Ce serait génial d'inventer de nouvelles armes, de modifier les anciennes, et de consigner chaque détail de chaque objet de la Confrérie. Je t'ennuie ? Certains disent que je parle beaucoup mais je crois juste qu'ils comprennent pas. J'ai juste beaucoup de choses à dire.}
+{113}{}{Ouais, j'essaie toujours de décider. C'est tellement dur, les deux sont vraiment excitants. Au fait, si tu veux le lit du haut, dis-le-moi, ça me dérange pas.}
+{114}{}{Merci, salut.}
+{115}{}{Ça va ? T'as peut-être besoin de voir le docteur ou peut-être juste de dormir. Bon, je ferais mieux de retourner réviser. Salut.}
+{116}{}{Oh, au fait, je suis content que tu sois mon nouveau coloc. Le dernier portait toujours des bouchons d'oreilles, je sais pas pourquoi. Enfin, n'hésite pas à laisser ce que tu veux ici, je prends pas beaucoup de place. Tu veux le lit du haut ? Je change si tu veux... tu ronfles pas, hein ? Oh, peu importe. À plus.}
+{117}{}{Ouais, c'est ce que je pensais. Bon, je suis content que tu sois mon nouveau coloc. Le dernier portait toujours des bouchons d'oreilles, je sais pas pourquoi. Enfin, n'hésite pas à laisser ce que tu veux ici, je prends pas beaucoup de place. Tu veux le lit du haut ? Je change si tu veux... tu ronfles pas, hein ? Oh, peu importe. À plus.}
+{118}{}{Dis-le-moi si je ronfle.}
+{119}{}{Thomas dit que je parle trop.}
+{120}{}{Talus dit que je ferais un bon Chevalier si je parlais pas autant.}
+{121}{}{Content de te revoir, coloc !}
+{122}{}{J'ai mal dormi cette nuit.}
+{123}{}{Salut, encore.}
+{124}{}{Je pars en patrouille demain.}
+{125}{}{Je serai Initié Senior dans quelques années.}
+{126}{}{C'est pas ta chambre, sors s'il te plaît.}
+{127}{}{Je crois que t'es dans la chambre de Jerry.}
+{128}{}{Bonne chance, tu partages ta chambre avec Jerry la Grande Gueule.}
+{129}{}{Tu fais quoi ici ?}
+{130}{}{T'es Initié toi aussi ?}
+{131}{}{En visite ?}
+{132}{}{Ta chambre est la première à gauche en entrant.}

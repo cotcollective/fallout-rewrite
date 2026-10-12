@@ -1,0 +1,2 @@
+{100}{}{Tu ne trouves rien d'important.}
+{101}{}{Tu trouves une note de quelqu'un appelé le Lieutenant adressée à Set. Elle lui ordonne de surveiller les humains de souche pure.}

@@ -1,0 +1,5 @@
+{100}{}{C'est une sorte d'énorme créature Super-mutant ! Et elle a un très gros flingue !}
+{101}{}{Tu es sur le sol de l'Unité. Je ferais mieux de t'emmener.}
+{102}{}{D'accord.}
+{103}{}{Je ne crois pas, non.}
+{104}{}{Hein ?}

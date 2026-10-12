@@ -1,0 +1,7 @@
+{100}{}{Scribe}
+{101}{}{Salutations, Frère }
+{102}{}{. Pourquoi ne te joins-tu pas à nous pour méditer ?}
+{103}{}{Désolé, Frère }
+{104}{}{. Nous méditons.}
+{105}{}{La technologie doit être préservée.}
+{106}{}{La méditation apaise l'esprit et clarifie les pensées.}

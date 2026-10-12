@@ -1,0 +1,12 @@
+{100}{}{Tu remarques une caméra de sécurité qui semble active.}
+{101}{}{Tu remarques des canons dissimulés qui suivent tes mouvements.}
+{102}{}{Des meurtrières cachées ouvrent le feu ! En te tortillant et en zigzaguant, tu parviens à éviter toute blessure !}
+{103}{}{Des meurtrières cachées ouvrent le feu ! En te tortillant et en esquivant, tu es éraflé par les tirs.}
+{104}{}{Tu subis }
+{105}{}{ points de dégâts.}
+{106}{}{Des meurtrières cachées ouvrent le feu ! Surpris, tu trébuches et tombes, ne souffrant que de blessures mineures.}
+{107}{}{Tu subis }
+{108}{}{ points de dégâts.}
+{109}{}{Des meurtrières cachées ouvrent le feu ! Tu es touché !}
+{110}{}{Tu subis }
+{111}{}{ points de dégâts.}

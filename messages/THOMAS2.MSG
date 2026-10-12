@@ -1,0 +1,41 @@
+{100}{}{Tu vois : Frère Thomas.}
+{101}{}{Eh bien, bonjour. Tu dois être le nouvel Initié dont Talus m'a parlé. Il est terriblement tard pour une visite de courtoisie, que puis-je faire pour toi ?}
+{102}{}{J'ai besoin de fournitures.}
+{103}{}{J'ai besoin d'entraînement.}
+{104}{}{Je voulais une aide médicale.}
+{105}{}{Rien, désolé de te déranger.}
+{106}{}{Yuk Yuk ?}
+{107}{}{Ruh.}
+{108}{}{Que pourrais-tu bien vouloir à cette heure ?}
+{109}{}{Je n'ai pas le temps pour ça.}
+{110}{}{Quoi ? J'ai l'air de l'homme des réquisitions ? Si tu ne sais même pas qui je suis, pourquoi tu me déranges ? Sors d'ici !}
+{111}{}{Mince alors }
+{112}{}{, je suis un instructeur pas un médecin. Elle est au niveau deux.}
+{113}{}{Eh bien, pourquoi tu me déranges avec ça ? Michael dort probablement en ce moment, à moins que Talus l'ait mis de garde. Vérifie à la salle des fournitures le matin.}
+{114}{}{Eh bien, les Aînés ont dit pas de nouvel entraînement d'Initié mais... d'accord. Tu sembles être un gentil jeune homme. Je détesterais qu'il t'arrive quelque chose là-bas, alors que j'aurais pu aider. Tu veux t'entraîner en quoi ?}
+{115}{}{Eh bien, les Aînés ont dit pas de nouvel entraînement d'Initié mais... d'accord. Tu sembles être une gentille jeune femme. Je détesterais qu'il t'arrive quelque chose là-bas, alors que j'aurais pu aider. Tu veux t'entraîner en quoi ?}
+{118}{}{Armes légères.}
+{119}{}{Armes lourdes.}
+{120}{}{Armes à énergie.}
+{121}{}{Combat à mains nues.}
+{122}{}{Armes de mêlée.}
+{123}{}{Lancer.}
+{124}{}{Rien, désolé.}
+{125}{}{Je devrais te jeter dehors de ma chambre, mais je suis un gentil vieil homme. Les Aînés ont dit pas de nouvel entraînement d'Initié mais... je pourrais peut-être aider. Ils ne pensaient probablement pas à toi quand ils ont dit ça. Tu veux t'entraîner en quoi ?}
+{126}{}{Eh bien, bonjour encore. Content de te voir. Ne sois pas timide, je ne dors plus beaucoup. Tu cherches encore de l'entraînement ? Ce sera quoi aujourd'hui... je veux dire ce soir.}
+{127}{}{Je savais que tu reviendrais ! T'es d'humeur pour quoi ce soir ?}
+{128}{}{Tu vas encore me poser des questions idiotes ? J'ai vraiment pas le temps.}
+{129}{}{Eh bien, tu vois, les armes de différents calibres ont...}
+{130}{}{Après une journée d'entraînement intense, tu te sens plus compétent avec les armes légères.}
+{131}{}{Le...}
+{132}{}{Après deux jours d'entraînement intense, tu te sens plus compétent avec les armes lourdes.}
+{134}{}{Après quelques jours d'entraînement intense, tu te sens plus compétent avec les armes à énergie.}
+{135}{}{Après une journée d'entraînement intense, tu te sens plus compétent en combat à mains nues.}
+{136}{}{Après deux jours d'entraînement intense, tu te sens plus compétent avec les armes de mêlée.}
+{137}{}{Après une journée d'entraînement intense, tu te sens plus compétent pour lancer des objets.}
+{138}{}{Pas de problème. Dis-moi si tu changes d'avis.}
+{139}{}{Je ne sais pas pourquoi je perds mon temps avec toi.}
+{140}{}{Oui ? Oh, je suppose que tu cherches encore de l'entraînement. Eh bien, je ne dors plus beaucoup de toute façon, pourquoi pas. Ce sera quoi ?}
+{141}{}{Quoi encore ? D'autres questions stupides ?}
+{142}{}{Oh, c'est pas grave. Comme je disais, je dors presque jamais. Reviens quand tu veux.}
+{143}{}{Eh bien, arrête de me harceler alors. Je suis un vieil homme et j'ai besoin de mon sommeil réparateur.}

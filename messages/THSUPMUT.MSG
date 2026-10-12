@@ -1,0 +1,29 @@
+{100}{}{Tu vois : Therax, un Nightkin Penseur.}
+{101}{}{Tu vois : Justin, un Nightkin Penseur.}
+{102}{}{Tu vois : Sereine, un Nightkin Penseur.}
+{103}{}{Tu vois : Dolkarn, un Nightkin Penseur.}
+{104}{}{Tu vois : Hort, un Nightkin Penseur.}
+{105}{}{Tu vois : Chris, un Nightkin Penseur.}
+{106}{}{Tu vois : Jaunita, un Nightkin Penseur.}
+{107}{}{Tu vois : Lesley, un Nightkin Penseur.}
+{108}{}{Tu vois : Renfield, un Nightkin Penseur.}
+{109}{}{Tu vois : Timothy, un Nightkin Penseur.}
+{110}{}{Bienvenue Ô Unité de Chair. Tu arrives juste à temps pour nous aider.}
+{111}{}{Hein ?}
+{112}{}{Bien sûr. Pas de problème}
+{113}{}{Désolé. Beaucoup trop occupé.}
+{114}{}{Pourquoi voudrais-je vous aider ?}
+{115}{}{Peu importe, simple d'esprit. Viens avec moi, et je t'emmènerai au travail.}
+{116}{}{Ce n'était pas une requête. Ta présence sera assurée.}
+{117}{}{N'es-tu pas celui qui cherche à apporter la paix aux terres désolées ?}
+{118}{}{Oui, mais je ne vois pas en quoi vous aider y contribuera.}
+{119}{}{Non. Je préfère la destruction massive.}
+{120}{}{Nous croyons que si tout le monde, mutants et humains, pouvait apprendre à travailler ensemble, alors un grand nombre de problèmes pourraient être résolus.}
+{121}{}{Ça semble prometteur. Comptez sur moi.}
+{122}{}{Laisse tomber.}
+{123}{}{Quelque chose ne sonne pas juste là-dedans.}
+{124}{}{Tout est parfaitement bien. C'est peut-être la portée limitée de ton crâne qui freine ton avancement dans la pensée.}
+{125}{}{Tu as probablement raison. Comptez sur moi.}
+{126}{}{Peut-être. Laisse-moi inspecter ton crâne.}
+{127}{}{Si tel est ton désir, alors tu auras ta part.}
+{128}{}{Bon retour. Tu vas maintenant nous aider.}

@@ -1,0 +1,10 @@
+# This file is new for Fallout Fixt. Most entries moved here from ARTIFACT.MSG!
+#
+{100}{}{Tu vois l'holodisque que Sophia t'a donné.}
+{101}{}{Le Pip-Boy 2000 affiche : « Téléchargement... Abandon, données déjà existantes ! »}
+{102}{}{Le Pip-Boy 2000 affiche : « Téléchargement des données... ... ... Terminé. Bonne journée ! »}
+#
+# for Fallout Fixt:
+#
+{103}{}{Ce disque porte l'insigne de la Confrérie de l'Acier et est en excellent état. Il peut servir dans ton Pip-Boy.}
+{104}{}{Tu vois : Disque de Sophia.}

@@ -1,0 +1,13 @@
+{100}{}{Les poils de ta nuque se hérissent. Tu sens quelque chose dans le couloir devant toi. La bile monte quand tu reconnais la masse de chair devant — des morceaux humains dans le mur lui-même. Le pire, c'est que ça bouge, ça t'appelle.}
+{101}{}{Ton nez commence à saigner. Tu entends des voix dans ta tête. Elles appellent ton nom. Les ténèbres voilent tes yeux un moment, mais tu te reprends.}
+{102}{}{Une voix t'appelle. Tu tournes la tête et tu vois l'image d'un ami oublié, visiblement mort. Les vers tombent de sa mâchoire pourrie pendant que ton mal de tête empire.}
+{103}{}{Il devient de plus en plus dur d'avancer. Ton pied semble collé au sol. Tu baisses les yeux, et la chair du sol rampe le long de ta jambe. Des dents rongent tes genoux. Pourtant, ton mal de tête empire.}
+{104}{}{Quelque chose attire ton attention, un éclair de mouvement au plafond, puis un éclat d'os transperce ton œil ! Avec lui viennent les pensées des morts et des torturés !}
+{105}{}{La douleur dans ta tête est insensée. Tu sens les péchés des autres laver ton âme. Et ça empire, quand tes propres péchés leur répondent. Comme des fous, ils se battent dans ta psyché, et au passage déchirent ta personnalité en lambeaux.}
+{106}{}{Ta tête pulse des pensées intrusives des autres. La douleur grandit et grandit. Soudain, comme si elle n'avait jamais existé, la douleur disparaît. Tu tombes à genoux et tu pleures. Mais quelque chose ne va pas.}
+{107}{}{La douleur dans ta tête ne semble plus aussi forte qu'avant. Les effets de cet étrange couloir ne semblent plus aussi puissants.}
+
+#	Fallout Fixt -- Sduibek
+#
+{250}{}{Tu as définitivement perdu 1 point de Perception.}
+{251}{}{Tu as définitivement perdu 1 point d'Intelligence.}

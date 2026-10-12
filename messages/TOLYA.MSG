@@ -1,0 +1,32 @@
+{100}{}{Tu vois un bandit du désert avec un couteau de boucher. À voir comment les autres le regardent, il doit avoir un poste d'importance ou d'autorité.}
+{101}{}{Salut, moi c'est Tolya. On dirait que tu viens de débarquer du désert. T'es qui ?}
+{102}{}{Je suis }
+{103}{}{. Tu fais quoi ?}
+{104}{}{Tu peux me parler de ton camp ?}
+{105}{}{Urgh ?}
+{106}{}{En tant que pillard, j'explore les terres à la recherche de nouvelles provisions. Il y a des villes qui ont eu la grâce de notre présence.}
+{107}{}{Autrement dit, tu voles les gens que tu visites.}
+{108}{}{Hé, c'est vraiment sympa de ta part. Je suis sûr que Garl est content de toi.}
+{109}{}{T'es allé où ?}
+{110}{}{Allez, Garl me dit de jamais parler aux étrangers. Tu pourrais au moins me dire ton nom.}
+{111}{}{T'as raison. Je suis }
+{112}{}{. Tu me parles de ta bande ?}
+{113}{}{Écoute, l'idiot, j'ai rien à te dire.}
+{114}{}{Dégage, le moron.}
+{115}{}{Oh, non non non, on vole jamais. On prend juste le surplus que les autres ont et on le redistribue parmi nos affamés.}
+{116}{}{Donc, en gros, tu le voles.}
+{117}{}{Ça a l'air d'une super idée.}
+{118}{}{J'ai été dans plein d'endroits du désert. Les plus proches où je suis allé, c'est Shady Sands et Junktown. Ils sont très reconnaissants de nos visites.}
+{119}{}{Tu vas à Shady Sands ?}
+{120}{}{C'est où, Junktown ?}
+{121}{}{Tu commences à m'énerver. Je crois que je vais régler ce petit problème.}
+{122}{}{On est les Khans, et notre chef c'est Garl. On est le groupe le plus craint du désert, et pour de bonnes raisons. On prend ce qu'on veut, et ceux qui se mettent en travers paient le prix.}
+{123}{}{Oui, on va à Shady Sands de temps en temps. Ça met un peu de piment dans la vie de tout le monde.}
+{124}{}{Et Junktown ?}
+{125}{}{Eh, Junktown c'est juste un peu au sud d'ici. Va quelques kilomètres, tourne à droite au cactus mourant. Tu peux pas le rater !}
+{126}{}{Tu disais aussi que tu vas à Shady Sands.}
+{127}{}{Me dérange pas là. Je prépare le prochain raid.}
+#
+# Fallout Fixt:
+#
+{200}{}{Tu vois : Tolya, le cuistot attitré des Khans et assistant pillard.}

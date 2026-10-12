@@ -1,0 +1,33 @@
+{100}{}{Tu vois : Mitch, le gérant du Magasin-Tout-en-Un.}
+{101}{}{Tu cherches quelque chose ?}
+{102}{}{Tu cherches quoi aujourd'hui ?}
+{103}{}{Je peux t'aider ?}
+{104}{}{J'ai de tout, c'est quoi qu'il te faut ?}
+{105}{}{Besoin de fournitures ?}
+{106}{}{Tu veux acheter ?}
+{107}{}{Ce sera quoi ?}
+{108}{}{T'as quelque chose de bien à échanger ?}
+{109}{}{T'as quoi ?}
+{110}{}{Fais-moi une offre.}
+{111}{}{Je te fais un prix.}
+{112}{}{Reviens.}
+{113}{}{Merci, à bientôt.}
+{114}{}{Salut.}
+{115}{}{Surveille ton porte-monnaie.}
+{116}{}{Si t'as besoin de quoi que ce soit, dis-le-moi.}
+{117}{}{Regarde où tu mets les pieds.}
+{118}{}{Si tu trouves quelque chose de bien, ramène-le.}
+{119}{}{Sois pas un étranger.}
+{120}{}{J'ai que du bon matos.}
+{121}{}{Quoi ?}
+{122}{}{C'est Mitch qui tient la boutique, pas moi.}
+{123}{}{Je file au Faucon dès que j'ai fini !}
+{124}{}{Évite les ennuis.}
+{125}{}{Doucement.}
+{126}{}{Tu me regardes, là ?}
+{127}{}{Que je te prenne pas à voler.}
+{128}{}{Bienvenue au Magasin-Tout-en-Un.}
+{129}{}{Achète quelque chose, allez !}
+{130}{}{T'essaies de chercher des noises ?}
+{131}{}{On est fermés.}
+{132}{}{On est fermés.}

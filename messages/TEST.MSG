@@ -1,0 +1,13 @@
+{100}{}{Tu vois : Kyle.}
+{101}{}{Salut mec, comment ça va ? Tu voyages toujours à pied... T'es pas fatigué ? C'est peut-être le moment de penser à de belles roues pour tes voyages ? T'es prêt à dépenser de l'argent ?}
+{102}{}{Comment je vais ? Jamais mieux ! Et t'as vraiment un tel carrosse pour moi ? L'argent n'est pas un problème.}
+{103}{}{Si je te coupe un peu, tu me le donneras peut-être gratis ?}
+{104}{}{Bonne question. On dirait que je devrais te revoir plus tard.}
+{105}{}{Hmmm... Eh bien, je ne suis pas sûr. Un acheteur plus riche pourrait être plus utile. Écoute, pourquoi tu ne reviendrais pas un peu plus tard, quand tu auras plus de capsules ?}
+{106}{}{Crois-moi, un ami à moi a un VRAI commerce. On dirait que c'est la seule personne dans le désert qui pourrait te vendre une voiture. L'endroit n'est pas si loin d'ici. Ça devrait prendre environ un jour pour y arriver. Le gars utilise sa propre maison comme garage... 400 capsules suffiraient pour que je te montre le chemin.}
+{107}{}{Marché conclu. Emmène-moi juste voir ton ami et je m'occupe du reste.}
+{108}{}{Désolé, Kyle. J'ai des choses plus importantes à faire.}
+{109}{}{D'accord, je t'y emmène. Tout pour un beau client, tout ! Suis-moi. [accepte 400 capsules]}
+{110}{}{Je savais que tu te dégonflerais. Tout le monde a peur de voyager avec autant d'argent. Mais mes amis pillards vont t'aider avec ça ! [Tu comprends que quelque chose a mal tourné, mais soudain un violent coup de pied à la tête te fait perdre connaissance. La dernière chose que tu sens, c'est qu'on te traîne quelque part...]}
+{111}{}{Écoute, racaille. Dégage. Tes menaces sont vides.}
+{112}{}{Je devrais chercher un client plus commode.}

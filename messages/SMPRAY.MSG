@@ -1,0 +1,9 @@
+{100}{}{Tu vois des mutants et des enfants agenouillés devant un écran vidéo.}
+{101}{}{Prie avec nous pour la paix, enfant.}
+{102}{}{L'Unité prévaudra si nous sommes forts. Médite sur la qualité de la force.}
+{103}{}{Notre mission de sauver l'humanité exige la foi. Prie avec nous.}
+{104}{}{Incroyant ! Blasphémateur ! Tu seras puni !}
+{105}{}{Nous devons prier pour être forts. Le changement est presque là.}
+{106}{}{L'Unité est notre avenir, frère.}
+{107}{}{L'Unité est notre avenir, sœur.}
+{108}{}{Je crois au Maître. Sa volonté est notre salut.}

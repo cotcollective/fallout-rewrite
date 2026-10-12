@@ -1,0 +1,2 @@
+{100}{}{Tu vois : une Goule irradiée.}
+{101}{}{Tu t'aventures sans y être autorisé.}

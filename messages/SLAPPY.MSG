@@ -1,0 +1,37 @@
+{100}{}{Tu vois : Slappy.}
+{101}{}{Boogie, Boogie, Boogie.}
+{102}{}{C'est une p'tite araignée, écrabouille, écrabouille.}
+{103}{}{Jouons à la Guerre Thermo-Nucléaire Mondiale.}
+{104}{}{Où est ma doudou !?!}
+{105}{}{Da... Da... Da...}
+{106}{}{La Lune est là-bas.}
+{107}{}{Donne-moi le Sugar Baby.}
+{108}{}{Oooh, joli, joli truc. Pourquoi la lune ?}
+{109}{}{Euh, j'ai parlé avec Harold. L'Écorcheur a l'air assez méchant. Tu peux m'en dire quoi ?}
+{110}{}{Beth m'a dit de te parler de l'Écorcheur.}
+{111}{}{Tu fais quoi par ici ?}
+{112}{}{C'est quoi ton problème ?}
+{113}{}{Lune grosse, moi aimer Lune !}
+{114}{}{Tout brillant, c'est tout brillant, le brillant descend, et alors on est condamnés.}
+{115}{}{Ahh.}
+{116}{}{Écorcheur, Écorcheur, Da Da Écorcheur.}
+{117}{}{Allez, tu sais quoi sur l'Écorcheur ?}
+{118}{}{C'est quoi ton problème ?}
+{119}{}{Me force pas à te l'arracher !}
+{120}{}{Fais, je, fais, puis tu fais, puis on fait tous.}
+{121}{}{Non vraiment, tu fais quoi.}
+{122}{}{T'es un fou.}
+{123}{}{Les problèmes c'est comme les bols de soupe, larges et peu profonds.}
+{124}{}{C'est plutôt comme ton esprit.}
+{125}{}{Écorcheur effrayant, vraiment effrayant. Il a l'air chouette quand même. Tu veux le voir ?}
+{126}{}{Tu peux m'emmener voir l'Écorcheur ?}
+{127}{}{Sûrement pas !}
+{128}{}{Ouais, Écorcheur, Écorcheur, on va voir l'Écorcheur.}
+{129}{}{Tais-toi et emmène-moi là-bas.}
+{130}{}{Ah, laisse tomber. Prends soin de toi.}
+{131}{}{Je fais ça, puis je fais ça. Tu vois Harold ? Harold est rigolo, ses cheveux tombent, tombent dans le vent. Les voilà partis... vent, vent.}
+{132}{}{Peu importe.}
+{133}{}{Cogne et cogne, et cogne et cogne.}
+{134}{}{Pourquoi le vent ? Pourquoi pourquoi pourquoi pourquoi pourquoi.}
+{135}{}{Beth, Beth, chou sha Beth. Comme Harold, tu parles Harold. Harold te racontera l'histoire. Slappy aidera alors.}
+{136}{}{D'accord, je vais d'abord parler à Harold.}

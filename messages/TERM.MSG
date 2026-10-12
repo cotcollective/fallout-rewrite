@@ -1,0 +1,14 @@
+{100}{}{Tu vois un ordinateur très avancé de la Confrérie.}
+{101}{}{L'accès à ce terminal t'est refusé.}
+{102}{}{La leçon se termine dans six heures. Tu te sens épuisé.}
+{103}{}{Tu as déjà absorbé tout ce que tu pouvais.}
+#
+{200}{}{Tu vois un ordinateur. Il y a dessus des morceaux de quelque chose qui pourrait être de la chair humaine.}
+#
+{201}{}{Tu bricoles l'ordinateur un moment, mais tu ne parviens pas à passer le système de sécurité.}
+{202}{}{Cet ordinateur fonctionne parfaitement.}
+{203}{}{Tu trouves un fichier de données intéressant sur une base secrète au nord-ouest.}
+#
+# A number is inserted between 204 and 205
+{204}{}{Tu gagnes }
+{205}{}{ points d'expérience pour avoir piraté cet ordinateur.}

@@ -1,0 +1,21 @@
+{100}{}{C'est une disquette d'aspect étrange. Elle peut peut-être servir dans ton Pip-Boy 2000.}
+{101}{}{Le Pip-Boy 2000 affiche : « Téléchargement... Abandon, données déjà existantes ! »}
+{102}{}{Le Pip-Boy 2000 affiche : « Téléchargement des données... ... ... Terminé. Bonne journée ! »}
+#
+#
+# For Fallout Fixt:
+#
+#
+# NOTE: In 103, override is spelled improperly on purpose.
+#
+{103}{}{Cette disquette est en mauvais état. Elle n'a pas d'étiquette correcte mais on y a griffonné « overide ».}
+{104}{}{Tu vois : Disquette de contournement de sécurité.}
+#
+#TRANSLATION NOTE: In 105, admin is abbreviation for administrator, so use your language's equivalent of "administrator" if abbreviation doesn't exist.
+# "muerte" is "death" in Spanish, leave as-is, do not translate. (Wasteland reference)
+#
+{105}{}{Nom d'utilisateur : « admin ». Mot de passe : « muerte ». Protocole de contournement de sécurité : Gamma Omicron Delta.}
+{106}{}{**DÉBUT-DISQUETTE**}
+{107}{}{**FIN-DISQUETTE**}
+{108}{}{[Continuer]}
+{109}{}{Le Pip-Boy 2000 affiche : 'Nom d'utilisateur : « admin ». Mot de passe : « muerte ». Contournement de sécurité : Gamma Omicron Delta.'}

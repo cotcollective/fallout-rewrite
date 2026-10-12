@@ -1,0 +1,12 @@
+{100}{}{Tu vois : éclaireur Nightkin.}
+{101}{}{Qu'est-ce qu'on a là ? Un normal ! Je crois que tu vas venir avec moi.}
+{102}{}{Euh.}
+{103}{}{D'accord.}
+{104}{}{Et pourquoi je le ferais ?}
+{105}{}{Jamais de la vie ! (Attaque.)}
+{106}{}{C'est très simple : si tu viens avec moi, je t'aiderai.}
+{107}{}{D'accord. Alors je viens.}
+{108}{}{Indique-moi plutôt ton chef.}
+{109}{}{Pas question !}
+{110}{}{Bien sûr. Cherche Uthern ; il te remettra dans le droit chemin.}
+{111}{}{Uthern veut te voir. On dirait qu'il a déjà entendu parler de toi.}

@@ -1,0 +1,24 @@
+{100}{}{Oh, mon dieu ! Tu l'as tué !}
+{101}{}{Hng !}
+{102}{}{Pas de bol.}
+{103}{}{C'était mon ennemi. Je devais le tuer.}
+{104}{}{Pardon. Je savais pas qu'il comptait autant pour toi.}
+{105}{}{T'étais pas obligé de le tuer ! [Sarah sanglote.] Laisse-moi tranquille.}
+{106}{}{C'était mon amant. C'était mon meilleur ami. J'arrive pas à croire que tu lui as fait ça.}
+{107}{}{Encore une fois, je m'excuse. Comment j'aurais pu savoir qu'il comptait autant pour toi ? Regarde-le. C'est un mutant.}
+{108}{}{Je vais tuer tous ceux de son espèce.}
+{109}{}{C'était un être humain. La seule façon pour lui de survivre, c'était d'être trempé. Tu l'as tué.}
+{110}{}{Désolé.}
+{111}{}{Oh, eh bien. Au moins ça fait un de plus à mon compteur de victimes.}
+{112}{}{Connard.}
+{113}{}{Tu fais quoi hors de ta cellule de protection ?}
+{114}{}{Zug-zug !}
+{115}{}{Je me promène.}
+{116}{}{Je suis pas prisonnier ici.}
+{117}{}{Non merci, j'ai déjà un petit ami.}
+{118}{}{Tu devrais être dans ta cellule. Les gardes nous gardent ici pour notre protection. Les robots ont été programmés pour attaquer les normaux non escortés. Une fois que j'aurai été trempée, je pourrai passer du temps à aider l'Unité.}
+{119}{}{Ouais, OK. Peu importe. Amuse-toi bien.}
+{120}{}{Tu veux faire ça ?}
+{121}{}{Bien sûr, c'est la meilleure chance de l'humanité de survivre.}
+{122}{}{Wow ! Je crois que tu pourrais avoir de gros ennuis. Reste pas près de moi, s'il te plaît.}
+{123}{}{Tu peux nous excuser, on parle !}

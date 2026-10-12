@@ -1,0 +1,16 @@
+{100}{}{Je pourrais faire ça.}
+{101}{}{C'est facile.}
+{102}{}{Laisse-moi te montrer comment on fait.}
+{103}{}{Joli.}
+{104}{}{Ah, je vois.}
+{105}{}{Oh, pas un mauvais coup.}
+{106}{}{Alors c'est comme ça qu'on fait.}
+{107}{}{Je ne pourrais jamais faire ça.}
+{108}{}{Belle forme.}
+{109}{}{En effet.}
+{110}{}{Fais attention.}
+{111}{}{Ne sois pas impoli.}
+{112}{}{Écoute.}
+{113}{}{Chuuut !}
+{114}{}{Écarte-toi de mon chemin, s'il te plaît.}
+{115}{}{Merci.}

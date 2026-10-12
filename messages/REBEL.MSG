@@ -1,0 +1,49 @@
+{100}{}{Tu vois : Un habitant de l'Abri.}
+{101}{}{Tu vois : Un habitant de l'Abri contrarié.}
+{102}{}{}
+{103}{}{}
+{104}{}{}
+{105}{}{Merci de nous avoir sauvés.}
+{106}{}{J'étais pas sûr que tu pouvais le faire, mais maintenant je te fais confiance.}
+{107}{}{Merci ! Merci !}
+{108}{}{T'es un héros. Mon petit Bobby veut être comme toi quand il sera grand. Je sais pas si ça me plaît.}
+{109}{}{T'es une héroïne. Mon petit Bobby veut être comme toi quand il sera grand. Je sais pas si ça me plaît.}
+{110}{}{T'es un chic type !}
+{111}{}{T'es une chic fille !}
+{112}{}{T'es sûr que t'as besoin de ça ici ?}
+{113}{}{C'est une arme !}
+{114}{}{Tu t'en es déjà servi contre quelqu'un ?}
+{115}{}{Pourquoi tu crois nécessaire de porter une arme ici ?}
+{116}{}{Salut ! Comment va la recherche ?}
+{117}{}{Plutôt bien.}
+{118}{}{Pas terrible.}
+{119}{}{Pff.}
+{120}{}{Eh bien, ça fait plaisir à entendre. Continue ton bon travail, j'imagine.}
+{121}{}{Pas de problème.}
+{122}{}{On savait qu'il n'y avait aucun espoir. Je crois pas qu'on aura une nouvelle puce à temps. Je crois que certains d'entre nous devraient sortir avant qu'il soit trop tard.}
+{123}{}{Je crois pas que ce soit une bonne idée.}
+{124}{}{Hmm. C'est peut-être le mieux.}
+{125}{}{Dépêche-toi, s'il te plaît.}
+{126}{}{T'inquiète, je vais trouver la puce.}
+{127}{}{Tu devrais peut-être venir à une de nos réunions. Theresa a de bonnes idées. On se réunit dans sa chambre au deuxième niveau, à cinq heures chaque soir.}
+{128}{}{J'y penserai.}
+{129}{}{Non merci. J'ai du boulot.}
+{130}{}{C'est ce que Theresa pense. Elle a tout planifié. On pense quitter l'Abri bientôt.}
+{131}{}{Bonne chance.}
+{132}{}{Je crois pas que vous devriez partir tout de suite.}
+{133}{}{Pourquoi le Superviseur t'a choisi, toi ? C'est évident que tu trouverais pas tes lacets, encore moins une nouvelle Puce d'eau. Enfin bref.}
+{134}{}{Grrr.}
+{135}{}{T'as pas un boulot à faire ? Dépêche-toi de trouver la puce !}
+{136}{}{Me dis pas quoi faire, pauvre type !}
+{137}{}{Bon ! Y a des gens, je te jure.}
+{138}{}{Gdorf !}
+{139}{}{Tu as scellé le destin de tout le monde dans cet Abri, traître. J'espère que t'es satisfait de toi.}
+
+{1000}{}{Superviseur}
+{1001}{}{Abri13}
+{1002}{}{Abri 13}
+{1003}{}{Abri}
+{1100}{}{Le Superviseur veut juste garder tout le monde sous son contrôle ici. Faut qu'on sorte dans le monde par nous-mêmes.}
+{1101}{}{L'Abri a été notre maison, mais ça durera plus longtemps. Il est temps de se faire une nouvelle maison.}
+{1102}{}{L'Abri a été notre maison, mais ça durera plus longtemps. Il est temps de se faire une nouvelle maison.}
+{1103}{}{L'Abri a été notre maison, mais ça durera plus longtemps. Il est temps de se faire une nouvelle maison.}

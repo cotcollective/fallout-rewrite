@@ -1,0 +1,7 @@
+{100}{}{Tu vois un prisonnier malchanceux.}
+{101}{}{Les gens sont fous ici. Aide-moi à sortir d'ici !}
+{102}{}{Pas question !}
+{103}{}{Meurs !}
+{104}{}{OK.}
+{105}{}{Oh, merci. Merci. Adieu !}
+{106}{}{Mais... }

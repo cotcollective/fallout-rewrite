@@ -1,0 +1,46 @@
+{100}{}{Tu vois Rayze des Cryptes.}
+{101}{}{T'es un Fou de venir ici.}
+{102}{}{Pourquoi tu me déranges ?}
+{103}{}{Rock m'envoie.}
+{104}{}{Rien, je ne fais que passer.}
+{105}{}{Parle-moi des Fous.}
+{106}{}{Parle-moi du générateur.}
+{107}{}{Oh, ouais. Pourquoi ça ?}
+{108}{}{Il a dit que je pourrais avoir un verre d'eau fraîche.}
+{109}{}{Rock a dit que les Cryptes cherchaient des membres.}
+{110}{}{Ha-ha ! Bien essayé. Laisse-moi tranquille.}
+{111}{}{Ça se pourrait. On dirait que t'as du talent. Tu crois que tu pourrais être une Crypte ?}
+{112}{}{Oui.}
+{113}{}{Non.}
+{114}{}{Bon, alors. On va te mettre à l'essai. On va t'envoyer en petite mission. Va espionner les Fous au nord, et reviens me faire ton rapport.}
+{115}{}{OK.}
+{116}{}{Je crois pas.}
+{117}{}{Alors les petits garçons devraient partir avant de recevoir une fessée.}
+{118}{}{On n'aime pas les étrangers dans notre ville. Si tu veux rester, tu nous rejoins. Sinon, tu pourrais regretter de rester à Scrapheap.}
+{119}{}{Comment je vous rejoins ?}
+{120}{}{Je demande et tu dis oui. Tu prêtes serment en signant. Si tu brises ce serment, j'envoie quelques-uns de mes gars te briser.}
+{121}{}{OK, je rejoins.}
+{122}{}{Je crois pas que je veux jouer.}
+{123}{}{T'es pas le bienvenu ici. Pars avant de te faire enterrer.}
+{124}{}{Les Fous sont prêts pour notre attaque ?}
+{125}{}{Oui.}
+{126}{}{Non.}
+{127}{}{Faut que j'espionne encore.}
+{128}{}{Peu importe. Rien les empêchera de sentir le froid de la mort ! Ils meurent maintenant !}
+{129}{}{Excellent. On va les prendre au dépourvu. Ils meurent maintenant !}
+{130}{}{Dépêche-toi. Je veux le sang des Fous.}
+{131}{}{Ce sont mes ennemis. Ils vont mourir. Maintenant, pourquoi tu me déranges ?}
+{132}{}{Rock m'envoie.}
+{133}{}{Rien, je ne fais que passer.}
+{134}{}{Parle-moi du générateur.}
+{135}{}{Tu devrais pas poser de questions sur des trucs que tu connais pas. Le générateur est à nous, et il restera à nous. Tant qu'on l'a, c'est nous qui commandons. Tu poses trop de questions.}
+{136}{}{[Terminé]}
+{137}{}{[Suite]}
+{138}{}{Ha-ha ! Encore des fous à tuer !!}
+{139}{}{La seule chose que vous, les Fous, allez diriger, c'est une pierre tombale.}
+{140}{}{Les crottes de brahmines sentent meilleur que toi.}
+{141}{}{Même Lenny vise mieux que toi.}
+{142}{}{T'aurais pas dû me mentir. Je suis pas dupe. Va, espionne les Fous et reviens. Me tente pas.}
+{143}{}{On peut pas te faire confiance. C'est dommage. Tu vas mourir. Avec plaisir.}
+{144}{}{C'est nous qui dirigeons cette ville maintenant !}
+{145}{}{C'est pas le moment des questions. C'est le moment de se battre !}

@@ -1,0 +1,10 @@
+{100}{}{Cette compétence ne t'aidera pas ici.}
+{101}{}{Tu trouves un engin explosif rudimentaire relié au coffre.}
+{102}{}{Tu déclenches un piège explosif !}
+{103}{}{Tu désamorces le piège.}
+{104}{}{Tu n'as pas désamorcé le piège.}
+{105}{}{Tu déclenches accidentellement l'explosif !}
+{106}{}{Tu déclenches accidentellement l'explosif, parce que tu as été assez malin pour le trouver, mais pas assez pour le laisser tranquille.}
+{107}{}{Ouf !}
+{108}{}{Aaargh !}
+{109}{}{Tu vois : le coffre-fort de Set.}

@@ -1,0 +1,13 @@
+#
+# North, vanilla
+#
+{100}{}{Tu tombes dans une embuscade de Super-mutants !}
+{101}{}{On dirait que tu tombes en pleine guerre des gangs !}
+{102}{}{Un groupe de pillards hostiles surgit !}
+{103}{}{Un gros groupe de rats dévale les rues !}
+{104}{}{Un groupe de gangsters hostiles surgit !}
+{105}{}{Des rats t'attaquent soudain !}
+#
+# Cathedral
+#
+{106}{}{Tu rencontres un groupe de Super-mutants à l'air coriace en armure de cuir.}

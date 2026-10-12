@@ -1,0 +1,6 @@
+{100}{}{La porte de sécurité est verrouillée.}
+{101}{}{La porte de sécurité n'est pas verrouillée.}
+{102}{}{Tu parviens à déverrouiller la porte de sécurité.}
+{103}{}{Tu ne parviens pas à déverrouiller la porte de sécurité.}
+{104}{}{Tu parviens à déclencher l'alerte passive de la porte, qui bloque la serrure électronique. Bien joué, chromé.}
+{105}{}{Tu gagnes 25 points d'expérience pour avoir crocheté la serrure.}

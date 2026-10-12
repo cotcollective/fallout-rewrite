@@ -1,0 +1,27 @@
+{100}{}{Tu vois un des gardes de Shady Sands.}
+{101}{}{Hé, je crois que tu ferais mieux de partir. On ne veut pas des gens comme toi ici.}
+{102}{}{Je n'arrive pas à croire que Tandi a disparu. J'espère que tu vas la retrouver. Ça ferait vraiment de la peine à Aradesh s'il lui arrivait quelque chose de mal.}
+{103}{}{Merci d'avoir ramené Tandi. C'est bon signe pour l'avenir, tu ne crois pas ?}
+{104}{}{C'est vraiment dommage pour Tandi. J'espère qu'Aradesh ira bien.}
+{105}{}{Bienvenue, étranger. On ne voit pas souvent des gens comme toi.}
+{106}{}{Euh, merci. Salut.}
+{107}{}{Pourquoi pas ?}
+{108}{}{Hnnng !}
+{109}{}{Pas si vite ! C'est une petite communauté. On ne voit pas souvent d'étrangers, et on n'en a pas vraiment besoin si tu vois ce que je veux dire. Si tu n'as pas une bonne raison d'être ici, tu ferais mieux de continuer ton chemin.}
+{110}{}{Hé, je vais blesser personne.}
+{111}{}{Euh.}
+{112}{}{Je disais pas que t'allais le faire. Tu ferais juste mieux de nous laisser tranquilles.}
+{113}{}{J'essaierai de ne pas faire d'histoires.}
+{114}{}{J'en ai marre de tes conneries. Prépare-toi à rencontrer ton créateur.}
+{115}{}{Écoute, Shady Sands n'a pas besoin des gens comme toi du Hub, ou de Junktown, ou d'où que tu viennes. On se débrouille très bien tout seuls.}
+{116}{}{Le dernier marchand du Hub nous a vendu une pompe d'irrigation défectueuse. On en a marre de tes magouilles.}
+{117}{}{Tu te trompes complètement. Je suis pas comme ça.}
+{118}{}{Ouais, c'est ça. C'est ce que tu dis. Ne fais juste pas d'histoires, d'accord ?}
+{119}{}{Pas de problème.}
+{120}{}{Ouais, peu importe.}
+{121}{}{Eh bien, peut-être que non. Tu me sembles un peu différent. Je vais te dire quoi. Tu devrais aller parler à Aradesh. Il est au centre-ville.}
+{122}{}{On ne veut pas des gens comme toi ici. Retourne d'où tu viens.}
+{123}{}{Hé, pas besoin d'armes. On n'aime pas trop ça par ici.}
+{124}{}{Hé, t'es finalement pas si mauvaise personne. Bonne journée.}
+{125}{}{J'aimerais vraiment que tu quittes juste la ville.}
+{126}{}{[Suite]}

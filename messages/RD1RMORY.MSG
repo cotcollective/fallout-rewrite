@@ -1,0 +1,20 @@
+{100}{}{Tu vois : Kathy, la patronne de cette boutique.}
+{101}{}{Désolée, j'ai pas grand-chose aujourd'hui.}
+{102}{}{Tu cherches quoi aujourd'hui ?}
+{103}{}{Oui ? Je peux t'aider ?}
+{104}{}{Désolée, toujours pas de nouvel inventaire.}
+{105}{}{T'aurais de l'armure à vendre ?}
+{106}{}{Salutations.}
+{107}{}{Bonjour.}
+{108}{}{Tu vois quelque chose qui te plaît ?}
+{109}{}{Merci d'être passé.}
+{110}{}{Content de te voir.}
+{111}{}{Reviens.}
+{112}{}{À bientôt.}
+{113}{}{Salut.}
+{114}{}{Désolée, j'essaierai d'avoir plus d'inventaire bientôt.}
+{115}{}{Je crois que je devrais me diversifier.}
+{116}{}{Merci.}
+{117}{}{Merci d'être passé.}
+{118}{}{Désolée si j'avais pas ce qu'il te fallait.}
+{119}{}{Bonne journée.}

@@ -1,0 +1,11 @@
+{100}{}{Tu vois deux Super-mutants. L'un semble blessé, et l'autre s'occupe de lui.}
+{101}{}{Alors, comment tu te sens maintenant ?}
+{102}{}{[bouge son épaule] Ah, c'est encore un peu douloureux. Au moins le saignement s'est arrêté.}
+{103}{}{Bien, bien. Continue à prendre tes médicaments et tu seras comme neuf.}
+{104}{}{Excellent. Quand je mettrai la main sur ce petit humain, je vais l'écraser.}
+{105}{}{Excellent. Quand je mettrai la main sur cette petite humaine, je vais l'écraser.}
+{106}{}{Il a fait assez de dégâts la dernière fois. J'espère qu'ils l'attraperont bientôt.}
+{107}{}{Elle a fait assez de dégâts la dernière fois. J'espère qu'ils l'attraperont bientôt.}
+{108}{}{Imagine si tous nos plans étaient ruinés à cause d'un petit humain.}
+{109}{}{[rit] Ouais, ce serait dommage.}
+{110}{}{[glousse]}

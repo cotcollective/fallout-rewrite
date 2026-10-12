@@ -1,0 +1,12 @@
+{100}{}{Tu vois un ordinateur à la lueur tamisée.}
+{101}{}{Un filet de courant arrive. La plupart de l'énergie semble avoir été redirigée pour maintenir les quelques systèmes encore semi-fonctionnels.}
+{102}{}{Tu ne remarques rien d'inhabituel.}
+{103}{}{Cet ordinateur émet un étrange bourdonnement.}
+{104}{}{Un moniteur connecté à cet ordinateur affiche le mot 'Défaillance système.' en boucle.}
+{105}{}{Cet ordinateur semble avoir été attaqué par une goule.}
+{106}{}{Des voyants clignotent sur cet ordinateur mais ça te semble aléatoire.}
+{107}{}{Cet ordinateur te donne une décharge inoffensive quand tu le touches.}
+{108}{}{En l'inspectant, tu remarques que cet ordinateur a servi de foyer à des rats.}
+{109}{}{Des chiffres aléatoires défilent sur un écran connecté à ce système.}
+{110}{}{Cet ordinateur fait le pire bruit que tu aies jamais entendu. Le mot 'Jared' s'affiche sur le moniteur.}
+{111}{}{La moitié de cet ordinateur est noire et carbonisée par un vieil incendie.}

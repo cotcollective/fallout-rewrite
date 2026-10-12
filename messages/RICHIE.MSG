@@ -1,0 +1,28 @@
+{100}{}{Tu vois : Richie.}
+{101}{}{T'es pas censé faire ça. Je vais devoir t'arrêter !}
+{102}{}{T'es pas censé être ici. Tu réalises que je suis censé te tuer ?}
+{103}{}{Ton service est fini. Je suis ton remplaçant.}
+{104}{}{Inspecteur des coffres du Hub. Je suis là pour inspecter le coffre. Pousse-toi.}
+{105}{}{Gamin, bats-toi. Brise le cycle de la violence maintenant !}
+{106}{}{Qui t'a dit ça ! Monsieur, si tu m'attaques, ce sera la plus grosse erreur de ta vie !}
+{107}{}{Salut gamin ! Y a quoi dans le coffre en acier ?}
+{108}{}{Trop tard, minable. T'es mort.}
+{109}{}{Euh... ouais... runk...}
+{110}{}{Je suis pas censé te parler ! Dégage !}
+{111}{}{Il était temps ! Il fait chaud ici ! Et c'est ennuyeux aussi ! Si j'avais pas besoin de ce boulot pour nourrir ma famille, je dirais à Lorenzo d'aller se faire voir. À demain.}
+{112}{}{Je suis pas censé quitter cet endroit et t'es pas censé être ici. Sors !}
+{113}{}{Vous, les officiels du Hub, vous me dégoûtez ! Inspecter le coffre de mes patrons ! Et après, des taxes plus élevées ? Un homme peut plus gagner honnêtement sa vie sans que vous, les bureaucrates, essayiez de tout contrôler ? Un de ces jours on va se lever. Ouais, un de ces jours l'homme du peuple va mettre aux gros pleins de fric un genou dans les couilles comme ils le méritent. Un de ces jours on vous aura vraiment... J'ai hâte... Au fait, c'est pas personnel. Je sais que tu fais juste ton boulot. Je vais te laisser pendant ton inspection. Salut.}
+{114}{}{Me raconte pas ces conneries ! Sors d'ici tout de suite ou je vais devoir te tirer dessus !}
+{115}{}{Oh ouais. Eh bien personne ne bouscule Richie Glowsteader et s'en sort !}
+{116}{}{Oh, à peu près dix mille capsules. J'espère que tu pensais pas le voler. Je devrais te tuer. J'ai failli tuer quelqu'un une fois, alors vaut mieux pas me chercher !}
+{117}{}{Mec, t'es stupide. Oh, pardon, je voulais pas t'offenser. Bon, on recommence. « Oui » veut dire que je te fais sauter la tête. « Non » veut dire que tu sors tes fesses d'ici. Ce sera quoi ?}
+{118}{}{Ah... oui... }
+{119}{}{Euh... non...}
+{120}{}{Runk ! Runk !}
+{121}{}{Mec, je peux pas le faire ! Ce serait comme tirer sur un animal stupide. Sors juste d'ici, OK ?}
+{122}{}{C'est bien. Maintenant file. Je suis sûr que tu trouveras quelqu'un pour te nourrir...}
+{123}{}{Peut-être qu'un runk veut dire « oui » et deux runks veulent dire « non ». OK, « runk » veut dire que je te tue. « Runk, runk » veut dire que tu pars. OK ?}
+{124}{}{Runk}
+{125}{}{Runk, runk.}
+{126}{}{Runk, runk, runk !}
+{127}{}{Trois runks. Merde, ça marche pas. Je vais peut-être juste t'ignorer et tu partiras...}

@@ -1,0 +1,15 @@
+{100}{}{ détecte un piège.}
+{101}{}{Tu détectes un piège ici.}
+{102}{}{ déclenche un piège, alertant la base de ta présence !}
+{103}{}{Tu déclenches un piège, alertant la base de ta présence !}
+{104}{}{Tu gagnes }
+{105}{}{ points d'expérience pour ton utilisation réussie de la compétence Pièges.}
+{106}{}{ désamorce le piège.}
+{107}{}{Tu désamorces le piège.}
+{108}{}{ déclenche un piège !}
+{109}{}{Tu déclenches un piège !}
+{110}{}{Tu détectes un piège ici, mais tu échoues à le désamorcer.}
+{111}{}{Tu échoues à le désamorcer.}
+{112}{}{ échoue à le désamorcer.}
+{113}{}{ déclenche le piège !}
+{114}{}{Tu déclenches le piège !}

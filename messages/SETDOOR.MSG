@@ -1,0 +1,19 @@
+{100}{}{Tu vois un mur solide.}
+{101}{}{Quelque chose semble bizarre dans ce bout de mur.}
+{102}{}{Tu vois une porte coulissante.}
+{103}{}{La porte est verrouillée.}
+{104}{}{Tu déclenches le piège sur la porte.}
+{105}{}{ détecte un piège sur cette porte.}
+{106}{}{Tu détectes un piège sur cette porte.}
+{107}{}{Ça ne fait rien.}
+{108}{}{La porte est déjà déverrouillée.}
+{109}{}{Tu casses tes crochets sur cette serrure difficile.}
+{110}{}{Tu ne parviens pas à crocheter cette serrure.}
+{111}{}{Tu crochètes la serrure de la porte.}
+{112}{}{Cette serrure est trop difficile pour toi pour l'instant.}
+{113}{}{Tu remarques un piège hautement explosif sur cette porte verrouillée.}
+{114}{}{Tu remarques un piège hautement explosif sur cette porte.}
+{115}{}{Tu remarques un piège sur cette porte verrouillée.}
+{116}{}{Tu remarques un piège sur cette porte.}
+{117}{}{Tu ne vois rien de spécial dans cette porte verrouillée.}
+{118}{}{Tu ne vois rien de spécial dans cette porte.}

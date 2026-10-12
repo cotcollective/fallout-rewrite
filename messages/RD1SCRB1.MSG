@@ -1,0 +1,28 @@
+{100}{}{Tu vois un Chevalier.}
+{101}{}{Tu vois un Scribe.}
+{102}{}{Tu fais quoi ici ?}
+{103}{}{T'es qui ?}
+{104}{}{Je t'ai pas déjà vu ?}
+{105}{}{C'est ma chambre, sors s'il te plaît.}
+{106}{}{Sors de ma chambre, s'il te plaît.}
+{107}{}{C'est pas ta chambre.}
+{108}{}{Les chambres des Initiés sont au deuxième niveau.}
+{109}{}{T'es perdu ?}
+{110}{}{Je crois que tes quartiers sont au niveau deux.}
+{111}{}{J'apprécierais un peu d'intimité.}
+{112}{}{Salut, content de te voir.}
+{113}{}{Bonjour.}
+{200}{}{Salut.}
+{201}{}{Bonjour.}
+{202}{}{Bonjour.}
+{203}{}{Oui ?}
+{204}{}{Quoi ?}
+{205}{}{Quoi de neuf ?}
+{206}{}{Tu veux quoi ?}
+{207}{}{Tu veux quelque chose ?}
+{209}{}{Va-t'en.}
+{210}{}{Arrête de me déranger.}
+{211}{}{Laisse-moi tranquille.}
+{212}{}{Tu m'énerves.}
+{213}{}{Il t'ignore.}
+{214}{}{Elle t'ignore.}

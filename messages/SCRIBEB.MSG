@@ -1,0 +1,16 @@
+{100}{}{Scribe}
+{101}{}{Vree est mon idole.}
+{102}{}{Vree est tellement jolie.}
+{103}{}{Sophia est vraiment sympa.}
+{104}{}{Derek est formidable.}
+{105}{}{L'univers va-t-il continuer à s'étendre, ou finira-t-il par s'effondrer sur lui-même ?}
+{106}{}{J'adore ces vieux livres et magazines, mais ils sont si durs à trouver.}
+{107}{}{Le savoir, c'est le pouvoir.}
+{108}{}{La plume est plus forte que l'épée.}
+{109}{}{La technologie doit être préservée.}
+{110}{}{La science, c'est tellement amusant.}
+{111}{}{J'ai déjà vu un vaisseau spatial alien.}
+{112}{}{Tu savais que le soleil est en fait une grosse réaction nucléaire ? Comme celle qui a anéanti l'ancien monde, sauf que c'est de la fission, pas de la fusion.}
+{113}{}{Tu savais qu'un trou noir est en fait une ouverture vers un autre univers ? J'ai tout calculé sur papier. Dommage qu'il n'y aura plus de voyage spatial avant longtemps après ma mort.}
+{114}{}{Tu savais que l'atome d'hydrogène est composé à 99,9843425 % de vide ?}
+{115}{}{Le voyage dans le temps sera un jour possible et on pourrait empêcher le désastre qui a ruiné notre monde. Mais est-ce que ça... nous empêcherait d'y retourner si c'était réparé... oh, ma tête me fait mal.}

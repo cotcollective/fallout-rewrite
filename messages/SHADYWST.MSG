@@ -1,0 +1,72 @@
+#
+# Shady Sands:
+#
+{100}{}{Tu gagnes 400 points d'expérience pour avoir ramené Tandi à Shady Sands.}
+{101}{}{Au sud, tu vois un mur d'adobe entourant un village d'apparence paisible.}
+#
+# Vault 15:
+#
+{102}{}{Une petite cabane est tout ce qui reste de cet endroit. Heureusement, tes dossiers indiquent une entrée secondaire de l'Abri 15 ici.}
+#
+# Raiders:
+#
+{103}{}{Tu vois un bâtiment au nord-ouest, avec une série de tentes à proximité. Les habitants ont l'air sales et méchants.}
+#
+# Junktown:
+#
+{104}{}{Tu tombes sur une ville de taille moyenne. Un mur de voitures à la casse bloque l'entrée facile. Une brume de fumée flotte bas sur la ville.}
+#
+# The Hub:
+#
+{105}{}{Au sud, tu vois une grande ville. Des fermes périphériques entourent la ville. Il y a de la vie dans cette oasis du désert.}
+#
+# Necropolis:
+#
+{106}{}{Tu approches d'une ville sombre et brisée. On y voit peu de vie. Une puanteur de mort enveloppe la zone.}
+#
+# Brotherhood of Steel:
+#
+{107}{}{Une petite structure entourée d'une clôture grillagée se trouve au nord. Des gardes menaçants en armure lourde gardent la zone.}
+#
+# The Glow:
+#
+{108}{}{Un grand cratère s'étend au nord.}
+#
+# Military Base:
+#
+{109}{}{Des gardes mutants sont visibles au nord-est devant un endroit fortifié construit à flanc de montagne.}
+#
+# Cathedral:
+#
+{110}{}{Un grand bâtiment orné s'élève vers le ciel. Une foule de gens marche sans but devant lui.}
+#
+# Gun Runners/Adytum/Followers/Rippers:
+#
+{111}{}{Tu peux voir un entrepôt au nord, avec un fossé de boue incandescente qui l'entoure.}
+{112}{}{Une grande usine fortifiée, aux murs couverts de graffitis et aux meurtrières menaçantes, se dresse devant toi.}
+{113}{}{Les signes d'activité des gangs sont évidents dans la boîte de nuit partiellement reconstruite et les minuscules avant-postes d'ici.}
+{114}{}{Au cœur de la ville, une grande bibliothèque, fortifiée et restaurée, s'élève avec une présence redoutable mais gracieuse. Tu ressens un sentiment de paix.}
+{115}{}{Un village clôturé, patrouillé par des gardes, attend au sud dans un esprit de défi.}
+#
+# StealthBoy:
+#
+{116}{}{Tu vois une empreinte de pas géante dans le sol. Tu cherches mais ne trouves aucune autre trace dans la zone.}
+#
+# ???
+#
+{117}{}{Des marques de brûlure et des cendres couvrent la zone.}
+{118}{}{Cet endroit a l'air d'avoir été frappé par une bombe incendiaire à haute pression.}
+{119}{}{Tu vois le camp d'une bande de pillards itinérants. On dirait que tu es arrivé au mauvais endroit au mauvais moment.}
+#
+# WastelandGhost, Restoration Mod
+#
+{150}{}{Devant toi s'étend une ville silencieuse, remplie de cadavres et de carnage. Quelque chose d'horrible s'est passé ici.}
+{155}{}{Une structure entourée d'une clôture grillagée se trouve au nord. On dirait qu'elle a été endommagée par une explosion. La puanteur de mort ici est presque insupportable.}
+#
+# Sduibek, Fallout Fixt:
+#
+{151}{}{Cette ville est silencieuse et sinistre, jonchée de corps morts. Quelque chose de terrible s'est passé ici...}
+{152}{}{La puanteur de mort ici est presque accablante. Des Super-mutants patrouillent la zone.}
+{153}{}{Tu arrives à destination pour n'y trouver que la mort et le vent du désert.}
+{154}{}{Tu vois la scène d'un massacre. Il ne semble pas y avoir de survivants, bien que tu entendes un faible bruit de mouvement.}
+#

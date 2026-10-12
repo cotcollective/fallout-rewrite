@@ -1,0 +1,31 @@
+{100}{}{Tu vois : Sid, l'assistant de Beth.}
+{101}{}{Bonjour.}
+{102}{}{Bon après-midi, monsieur !}
+{103}{}{Bon après-midi, madame !}
+{104}{}{Bonsoir.}
+{105}{}{Je sais, je sais... [chuchote] elle parle beaucoup, hein.}
+{106}{}{Bienvenue au Magasin d'armes & Moulin à rumeurs de Beth.}
+{107}{}{Beth, quelqu'un est là pour te voir.}
+{108}{}{Bienvenue au Palais du plaisir de Beth.}
+{109}{}{Tu viens avec des cadeaux ?}
+{110}{}{[chuchote] Ne lui dis rien que tu ne veux pas que toute la ville sache.}
+{111}{}{Encore ?}
+{112}{}{Armes gratuites ! Venez les prendre !}
+{113}{}{Promo éclair au rayon trois.}
+{114}{}{Elle est à moi, n'y pense même pas !}
+{115}{}{Elle aime se faire désirer.}
+{116}{}{Pause petit-déj.}
+{117}{}{Pause déjeuner !}
+{118}{}{Bonsoir.}
+{119}{}{Joli costume bleu, hé. Le 13 te porte bonheur ?}
+{120}{}{Oh, c'est l'homme mystérieux !}
+{121}{}{Oh, c'est la femme mystérieuse !}
+{122}{}{Tu lis les lignes de la main ?}
+{123}{}{Oh, Beth adore le cuir !}
+{124}{}{Hé chérie, achète-lui sa veste en cuir pour moi.}
+{125}{}{Hé chérie, achète-lui sa veste en cuir pour moi.}
+{126}{}{Jolie armure à piques !}
+{127}{}{C'est du camouflage, tu te fonds si bien dans le décor. Attends ! Tu es allé où ?}
+{128}{}{Hé, c'est une tenue qui a de l'allure.}
+{129}{}{Pas du tout !}
+{130}{}{Hé ! C'est la boîte de conserve ! Comment ça va ?}

@@ -1,0 +1,27 @@
+{100}{}{Tu vois : Shark.}
+{101}{}{Tu vois un homme aux dents limées.}
+{102}{}{Espèce de salope !}
+{103}{}{Hé, de la chair fraîche ! Alors, qu'est-ce qui t'amène sur notre territoire, mon pote ? Tu viens pour t'amuser un peu ? À tes dépens, bien sûr.}
+{104}{}{En fait, je suis là pour botter des culs et mâcher du chewing-gum... tu peux deviner la suite.}
+{105}{}{Vous faites quoi pour vous amuser par ici ?}
+{106}{}{Euh, je partais justement. Salut.}
+{107}{}{Je me suis juste arrêté pour un verre et un peu de... divertissement.}
+{108}{}{Glopf !}
+{109}{}{On tabasse les poseurs comme toi !}
+{110}{}{Pas si vite ! Personne n'entre chez nous sans payer la taxe de la douleur. }
+{111}{}{Je crois que tu feras l'affaire. Les gars, attrapez-la.}
+{112}{}{Laisse-moi te présenter le percepteur. Il s'appelle M. Masse !}
+{113}{}{Je ne crois pas, non !}
+{114}{}{Eh bien, pour le divertissement de ce soir, on a décidé de tout casser ici ! Hé. Prends ce que tu peux porter et faisons couler un peu de sang, hein ?}
+{115}{}{Je crois que je vais juste prendre une bière.}
+{116}{}{Casser et piller ? J'en suis !}
+{117}{}{Pas ce soir, j'ai mal à la tête.}
+{118}{}{Non, je préférerais manger quelque chose... peut-être du requin grillé !}
+{119}{}{Ah, pauvre loser. Retourne voir ta môman en courant.}
+{120}{}{Toi encore ? Mince, certains n'apprennent jamais !}
+{121}{}{Je me suis juste arrêté pour un petit verre.}
+{122}{}{Je pars, laisse tomber.}
+{123}{}{Glorpf !}
+{124}{}{Pas une mauvaise idée. Je crois que je vais en prendre une moi-même. Bien sûr, il faut toujours faire descendre une bière avec un peu de bain de sang !}
+{125}{}{Je pensais que tu avais compris qu'il fallait dégager. Visiblement je me trompais. Eh bien, au moins ça va être amusant de te tabasser !}
+{126}{}{On reviendra, vieux. C'est pas fini.}

@@ -1,0 +1,2 @@
+{100}{}{Cet interrupteur a un petit émetteur radio et une minuscule pile. Il est probablement relié à un ordinateur de contrôle quelque part, comme un interrupteur marche/arrêt.}
+{101}{}{L'interrupteur à bascule ressemble à une sorte d'émetteur marche/arrêt.}

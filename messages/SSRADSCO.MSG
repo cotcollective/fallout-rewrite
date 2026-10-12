@@ -1,0 +1,8 @@
+# Now split to allow different exp reward amount:  (Sduibek)
+{100}{}{Tu gagnes }
+{101}{}{ points d'expérience pour avoir protégé Shady Sands en tuant tous les radscorpions.}
+{102}{}{Il semble descendre du scorpion Empereur nord-américain.}
+# From GENCHAT.MSG:  (Sduibek)
+{188}{}{Les radscorpions sont maintenant scellés dans leur grotte, ils ne menacent plus Shady Sands.}
+{189}{}{}
+{200}{}{L'entrée de la grotte t'invite à t'enfoncer plus profondément dans le repaire des radscorpions...}

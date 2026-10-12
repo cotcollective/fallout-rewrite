@@ -1,0 +1,6 @@
+{100}{}{[Clic] La paix soit avec toi. [Bip !]}
+{101}{}{Exterminer. Exterminer.}
+{102}{}{Tuez l'humain !}
+{103}{}{Tuez l'intrus !}
+{104}{}{[Brrzk !] Mort à la chair !}
+{105}{}{[Brip !] Pas de paix. Pas de paix.}

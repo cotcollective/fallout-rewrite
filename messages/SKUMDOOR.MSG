@@ -1,0 +1,5 @@
+{100}{}{La porte du Skum Pitt est verrouillée.}
+{101}{}{Tu parviens à crocheter la porte.}
+{102}{}{Tu tripotes la serrure, mais tu ne parviens pas à l'ouvrir.}
+{103}{}{Tu entends un déclic. On dirait que la serrure est coincée.}
+{104}{}{La porte n'est pas verrouillée.}

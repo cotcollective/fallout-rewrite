@@ -1,0 +1,17 @@
+# Lines for students being trained in Brotherhood by Thomas
+#
+# new for Fallout Fixt
+#
+#
+#floats
+#
+{100}{}{Tu ne vois pas que je m'entraîne ?}
+{101}{}{Thomas est un excellent instructeur.}
+{102}{}{Va-t'en s'il te plaît, je suis occupé.}
+{103}{}{Pas maintenant, j'écoute Thomas.}
+#
+#messagebox messages
+#
+{104}{}{Le stagiaire t'ignore.}
+{105}{}{L'étudiant te jette un coup d'œil puis retourne regarder Thomas.}
+{106}{}{L'étudiant fronce les sourcils un moment.}

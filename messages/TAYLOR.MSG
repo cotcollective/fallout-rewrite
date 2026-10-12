@@ -1,0 +1,21 @@
+{100}{}{Tu vois un homme jovial aux cheveux coupés court.}
+{101}{}{Tu vois Tine, le marchand de la ville.}
+{102}{}{On ne voit pas beaucoup d'étrangers par ici. Qu'est-ce que tu veux ?}
+{103}{}{Salut, étranger ! Que puis-je faire pour toi aujourd'hui ?}
+{104}{}{Je m'appelle }
+{105}{}{.}
+{106}{}{Je peux te poser des questions sur les marchands du Hub ?}
+{107}{}{Je voudrais faire du commerce.}
+{108}{}{Tu penses quoi d'Adytum ?}
+{109}{}{Rien.}
+{110}{}{Ouais, je commerce avec eux.}
+{111}{}{Je fais du commerce avec eux de temps en temps. Je vends surtout des balles contre de la nourriture.}
+{112}{}{C'est Tine. T'as des affaires à traiter ?}
+{113}{}{Enchanté. C'est Tine.}
+{114}{}{Un plaisir de faire affaire avec toi. Reviens.}
+{115}{}{Peu importe.}
+{116}{}{Reste en contact !}
+{117}{}{Quoi ?}
+{118}{}{Salut encore ! Je peux t'aider en quoi ?}
+{119}{}{C'est une bonne ville. Elle serait peut-être un peu plus joyeuse si les Régulateurs ne tenaient pas les choses d'une main aussi ferme. Mais hé, c'est leur style.}
+{120}{}{Pas une mauvaise petite ville. Zimmerman est un homme juste, peut-être pas le plus brillant. Et bien sûr on a Miles, probablement le seul homme à cent miles à la ronde qui s'y connaît en science.}

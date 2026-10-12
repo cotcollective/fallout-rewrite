@@ -1,0 +1,31 @@
+{100}{}{Tu vois Skippy.}
+{101}{}{Tu vois un membre de gang.}
+{102}{}{Il jongle avec ce qui ressemble à un couteau exotique.}
+{103}{}{[Suite]}
+{104}{}{[Terminé]}
+{105}{}{[Jonglant avec un jeu de lames près de ton visage] Attention, espèce de lourdaud. Tu pourrais te blesser, et alors je devrais rire.}
+{106}{}{Fais attention, ces trucs ont l'air tranchants.}
+{107}{}{Donne-moi ces trucs avant que quelqu'un se blesse !}
+{108}{}{C'est quoi, ces trucs que tu jongles, au fait ?}
+{109}{}{Ils sont tranchants, oui, plus tranchants que ton esprit.}
+{110}{}{Tu me défies ?}
+{111}{}{Aïe, mais je suppose que je l'ai mérité.}
+{112}{}{Moi ? Te défier ? Oh, rien que l'idée me fait glousser. Non, nous autres Fous ne pratiquons pas le code duello. Ce n'est pas notre style. Laisse-nous te montrer comment on traite les étrangers.}
+{113}{}{En effet, tu l'as mérité. Que puis-je faire pour toi ?}
+{114}{}{C'est quoi, ces trucs ?}
+{115}{}{Ce qu'ils sont, c'est à moi, ce qu'ils ne seront pas, c'est à toi. À part ça, ces coupeurs sont un héritage de mon pauvre défunt père. On pourrait dire qu'il s'y est un peu trop pris avant de mourir ! [Skippy rit.]}
+{116}{}{T'es bête. Je peux les emprunter ?}
+{117}{}{Eh bien, puisque tu demandes gentiment - d'accord. [Il te tend les coupeurs.] Maintenant, disparais, car je dois chercher un nouveau jouet pour passer le temps.}
+{118}{}{Je ne crois pas, du moins pas par le manche. Tu pleureras du sang, ou au moins tu riras et pleureras de douleur quand j'en aurai fini avec toi.}
+{119}{}{On n'aime pas les gens comme toi ici. Pars ou tu l'auras dans le baba.}
+{120}{}{Eh bien, si ce n'est pas le dernier des Fous. Un bon sens de l'humour, à tout le moins. Peut-être une bonne motricité fine. On verra. Tiens-toi bien.}
+{121}{}{Tu es un veinard, mon ami. Aujourd'hui est le jour où je te laisse vivre. Sauf, bien sûr, si tu m'énerves trop. Alors je devrai sortir mes meilleures blagues de cadavre.}
+{122}{}{Ne vole jamais un Fou, imbécile.}
+{123}{}{Tu as déjà eu les coupeurs de Skippy. Ne tente pas le diable.}
+{124}{}{Tu parviens à voler les coupeurs pendant qu'il ne regarde pas.}
+{125}{}{Tu nous insultes, nous et l'honneur de notre Reine. Certaines insultes ne se paient qu'avec du sang.}
+{126}{}{Tu vas mourir, racaille !}
+{127}{}{C'est ton visage, ou c'est ton cou qui a vomi ?}
+{128}{}{Ta mère devait t'attacher un steak autour du cou pour que le chien joue avec toi}
+{129}{}{La seule chose plus stupide que toi, c'est Rayze.}
+{130}{}{Je suppose que l'arrière-faix peut vivre un petit moment.}

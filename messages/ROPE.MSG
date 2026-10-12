@@ -1,0 +1,7 @@
+{100}{}{On ne peut pas descendre cette cage d'ascenseur sans corde.}
+{101}{}{Tu lances la corde avec succès dans et le long de la cage d'ascenseur.}
+{102}{}{Tu ne peux pas descendre dans le puits en utilisant juste la poutre métallique.}
+{103}{}{Tu attaches la corde à la poutre métallique avec succès.}
+{104}{}{On ne peut pas descendre cette cage d'ascenseur sans corde.}
+{105}{}{Tu lances la corde avec succès dans et le long de la cage d'ascenseur.}
+{106}{}{Pas besoin d'attacher une autre corde à la cage d'ascenseur.}

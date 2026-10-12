@@ -1,0 +1,8 @@
+#
+# Lines for the Mysterious Stranger.
+# These used to be in GENCHAT.MSG
+#
+{100}{}{On y va !}
+{101}{}{On dirait que tu aurais besoin d'aide.}
+{102}{}{Je t'aiderai.}
+{103}{}{Je ne parle pas beaucoup. Désolé.}
