@@ -1,0 +1,80 @@
+{100}{}{Tu vois le chef de caravane.}
+{101}{}{Bon, on y est. Voilà ton paiement de }
+{102}{}{ capsules. (Il sort un vieux sac usé et te donne les capsules) T'auras }
+{103}{}{ capsules de plus si tu reviens avec nous au Hub. On va se reposer ici un moment, mais t'éloigne pas trop ou la caravane partira sans toi.}
+{104}{}{Aaah... D'accord.}
+{105}{}{Dans combien de temps la caravane part ?}
+{106}{}{Tu peux me parler de Junktown ?}
+{107}{}{Tu peux me parler du Cimetière de L.A. ?}
+{108}{}{Tu peux me parler de la Confrérie de l'Acier ?}
+{109}{}{Je sais pas si tu vas comprendre, mais on part dans deux heures ou quand tu seras prêt.}
+{110}{}{Euh...}
+{111}{}{Hein ?}
+{112}{}{aller. Bien.}
+{113}{}{On embauche des idiots ces temps-ci.}
+{114}{}{On part d'habitude deux heures après l'arrivée. Y a rien ici qu'on ait pas déjà vu, ceci dit, alors si tu veux partir plus tôt on est prêts quand tu veux.}
+{115}{}{Je crois que je vais jeter un œil avant qu'on parte. À plus tard.}
+{116}{}{D'accord. Retournons au Hub. Rien que je veux voir ici non plus.}
+{117}{}{Tu peux me parler de Junktown ?}
+{118}{}{Tu peux me parler du Cimetière de L.A. ?}
+{119}{}{Tu peux me parler de la Confrérie de l'Acier ?}
+{120}{}{Eh bien, ça ressemble pas mal au Hub, en fait. Ça a son lot de problèmes : gangs, brutes, voleurs, tu sais... les trucs habituels. Dans l'ensemble, c'est mon genre de ville. [Rires]}
+{121}{}{Dans combien de temps la caravane part ?}
+{122}{}{Je crois que je vais jeter un œil avant qu'on parte. À plus tard.}
+{123}{}{Cette partie du Cimetière de L.A. s'appelle Adytum. Le Cimetière de L.A. est en gros dirigé par des gangs. C'est un quartier craignos, alors fais gaffe ici. Adytum est dirigé par les Régulateurs. Ils essaient de tenir cet endroit malgré toutes les guerres de gangs. Ils se méfient des étrangers, c'est compréhensible, alors si tu leur as pas encore parlé je te conseille de le faire avant de te balader.}
+{124}{}{Vide}
+{125}{}{Dans combien de temps la caravane part ?}
+{126}{}{Je crois que je vais jeter un œil avant qu'on parte. À plus tard.}
+{127}{}{Pas grand-chose à en dire. La Confrérie reste plutôt entre elle. Beaucoup de gens leur font une mauvaise réputation, mais d'après ce que je vois ce sont des gens bien. Un peu fanatiques, peut-être, mais des gens bien.}
+{128}{}{Dans combien de temps la caravane part ?}
+{129}{}{Je crois que je vais jeter un œil avant qu'on parte. À plus tard.}
+{130}{}{T'es prêt à partir ?}
+{131}{}{aller !}
+{132}{}{Non. Je regarde encore.}
+{133}{}{Ouais. On peut y aller.}
+{134}{}{Cette partie du Cimetière de L.A. s'appelle Adytum. Le Cimetière de L.A. est en gros dirigé par des gangs. C'est un quartier craignos, alors fais gaffe ici.}
+{135}{}{Dans combien de temps la caravane part ?}
+{136}{}{Je crois que je vais jeter un œil avant qu'on parte. À plus tard.}
+{137}{}{D'accord. T'as réussi. Voilà tes }
+{138}{}{ capsules. Si tu veux plus de boulot, va juste voir le patron. Je serais plus qu'heureux de bosser avec toi encore. Je glisserai un mot pour toi au patron. Prends soin de toi.}
+{139}{}{saLut.}
+{140}{}{À plus.}
+{141}{}{Hé, ça roule ?}
+{142}{}{Si tu veux plus de boulot, va voir le patron.}
+{143}{}{T'as un problème ?}
+{144}{}{T'es un putain de psychopathe !}
+{145}{}{Je bosse pas avec toi !}
+{146}{}{200}
+{147}{}{400}
+{148}{}{600}
+{149}{}{Tu peux me parler de Nécropolis ?}
+{150}{}{Endroit dégueulasse, mec !}
+{151}{}{La caravane est partie.}
+{200}{}{Hmmmpf...}
+{201}{}{Hmm... J'aimerais savoir lire.}
+{300}{}{Occupe-toi de tes affaires, tu veux ?}
+{400}{}{Je suis pas payé pour parler.}
+{501}{}{Tu peux me dire pourquoi t'as abandonné cette putain de caravane ?? J'arrive pas à y croire ! T'as du bol, ils ont fini sans ton cul ! Dégage ! Je te paie rien !}
+{502}{}{J'arrive pas à y croire ! On a perdu toute la caravane ! Dégage ! Je te paie rien !}
+{504}{}{Va voir le patron et essaie de trouver une histoire crédible pour expliquer pourquoi t'as abandonné cette putain de caravane. Peut-être que t'auras ton fric, mais j'en doute.}
+{505}{}{J'arrive pas à y croire ! On a perdu toute la caravane ! Je te paie rien. Dégage de devant ma face.}
+{600}{}{Bon, on y est. Je peux pas te payer le tarif normal, puisqu'on a perdu une partie de la caravane. Faut couvrir nos pertes, tu comprends. Voilà ton paiement de }
+{601}{}{ capsules. (Il sort un vieux sac usé et te donne les capsules) T'auras }
+{602}{}{Si tu veux plus de boulot, va juste voir le patron. Ça me dérangerait pas de bosser avec toi encore. Prends soin de toi.}
+{603}{}{ capsules. (Il sort un vieux sac usé et te donne les capsules) }
+{604}{}{D'accord. T'as réussi. Je peux rien te payer puisqu'on a perdu toute la caravane. Faut couvrir nos pertes, tu comprends. J'aimerais que ce soit différent mais c'est les règles.}
+{605}{}{D'accord. T'as réussi. Je peux rien te payer puisque tous les brahmines sont morts. Tu nous as coûté cher, mon gars. Pas de brahmines, pas de caravane, pas d'argent. J'espère qu'ils te laisseront plus bosser avec nous.}
+#
+# Unload caravan quest - WG@RestorationProject
+#
+{506}{}{Y a du boulot pour moi ici ?}
+{507}{}{Moi vouloir boulot !}
+{508}{}{On a besoin de bras pour décharger la caravane. Je te paierai }
+{509}{}{ capsules.}
+{510}{}{Beurk !}
+{511}{}{Nan.}
+{512}{}{Je m'en occupe.}
+{513}{}{J'aime pas ça.}
+{520}{}{T'as passé une heure à décharger la caravane.}
+{521}{}{Tu aides à finir de décharger la caravane et on te remet }
+{522}{}{ capsules.}

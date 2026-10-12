@@ -1,0 +1,97 @@
+{100}{}{Tu vois un garde bourru.}
+{101}{}{Qui va là ?}
+{102}{}{Moi. Moi.}
+{103}{}{Qui va où ?}
+{104}{}{Moi !}
+{105}{}{Deathslayer !}
+{106}{}{Sois en paix. Je suis un ami.}
+{107}{}{Moa ? C'est quoi comme nom, ça ? Bon, dégage ! C'est la propriété des Enfants de la Cathédrale.}
+{108}{}{Hein ? Moi rester !}
+{109}{}{Hein ? Toi mourir !}
+{110}{}{Moi pas vouloir partir.}
+{111}{}{Génial. De tous les gens que je devais arrêter, je suis tombé sur de la chair à canon. Qu'est-ce que je peux faire pour toi ?}
+{112}{}{Va faire dodo !}
+{113}{}{Nanah.}
+{114}{}{Heuheu.}
+{115}{}{D'accord. Je te conseille de dégager avant de te faire mal.}
+{116}{}{Tu veux m'aider ? J'en doute. T'as quoi ?}
+{117}{}{Nanah.}
+{118}{}{Ça !}
+{119}{}{Bri.}
+{120}{}{Je vois que tu me fais perdre mon temps. Dégage !}
+{121}{}{Bri. Bri ? C'est quoi, un bri ?}
+{122}{}{Miam-miam.}
+{123}{}{Nonah.}
+{124}{}{Bri ! Bri !}
+{125}{}{Oh, tu veux des bonbons. Désolé, j'en ai pas. Au revoir.}
+{126}{}{Oh, un Abri. Ça doit être très sympa. Peut-être que tu peux en parler à un de mes supérieurs. Je suis un peu occupé là.}
+{127}{}{C'est très dangereux ici. Des gros monstres méchants ont pris cet endroit. On essaie de sauver ce qu'on peut avant qu'ils reviennent.}
+{128}{}{Pas aller ! Pas aller !}
+{129}{}{Oh-oh.}
+{130}{}{Bye-bye.}
+{131}{}{D'accord. Comme tu veux. Quand ils reviendront, tu pourras être leur dîner.}
+{132}{}{Moi tuer ! Moi tuer !}
+{133}{}{Bye-bye.}
+{134}{}{Tu peux essayer. Je suis pas sûr que t'iras très loin, ceci dit. Bonne chance.}
+{135}{}{Oh-oh, c'est bien ça. Ils sont méchants. On essaie de leur faire comprendre que les gens et les monstres peuvent vivre ensemble.}
+{136}{}{Oh. D'accord. Bye-bye.}
+{137}{}{Dis-moi juste qui tu es avant que je te fasse sauter la tête.}
+{138}{}{Je suis un Disciple. Où est passé tout le monde ?}
+{139}{}{Je suis des vôtres. Maintenant laisse-moi passer.}
+{140}{}{Je suis }
+{141}{}{. Retiens-le !}
+{142}{}{J'ai pas à le faire.}
+{143}{}{MEURS !!!}
+{144}{}{Viens avec moi. Je vais te montrer où sont allés les autres.}
+{145}{}{Alors, t'es un Disciple ?}
+{146}{}{Bien sûr ! Qui d'autre je serais ?}
+{147}{}{Non, je suis un membre des Enfants.}
+{148}{}{Bête que je suis, je t'ai pris pour quelqu'un d'autre. Viens avec moi ; je vais te montrer le chemin.}
+{149}{}{Je me souviens pas de toi. C'est quoi ton nom ?}
+{150}{}{Je suis }
+{151}{}{. Comment tu as pu m'oublier ?}
+{152}{}{Ça te regarde pas.}
+{153}{}{Je suis ton pire cauchemar.}
+{154}{}{Désolé, je me souviens toujours pas de toi. Peut-être que quelqu'un d'autre se souviendra de qui tu es.}
+{155}{}{Oui, je me souviens de toi. On nous a dit de te chercher. La vengeance sera mienne !}
+{156}{}{T'es dans ma zone de patrouille. Ça me regarde. Parle ou meurs !}
+{157}{}{Bon. Je suis }
+{158}{}{. Ça te dit quelque chose ?}
+{159}{}{Hmmm. Je crois... TUE !}
+{160}{}{Laisse-moi réfléchir.}
+{161}{}{Voyons voir. C'est }
+{162}{}{. C'est ça ?}
+{163}{}{Oui, espèce de crétin.}
+{164}{}{Oui.}
+{165}{}{Non, idiot. C'est Deathstalker !}
+{166}{}{Bien. Je voulais juste vérifier, pour ta pierre tombale.}
+{167}{}{Alors j'ai pas à te laisser vivre. Bonne nuit.}
+{168}{}{Et t'es qui, toi ?}
+{169}{}{Je suis un Disciple. Où est passé tout le monde ?}
+{170}{}{Je suis des vôtres. Maintenant laisse-moi passer.}
+{171}{}{Je suis }
+{172}{}{. Retiens-le !}
+{173}{}{J'ai pas à le faire !}
+{174}{}{MEURS !!!}
+{175}{}{Deathslayer, hein ? T'as plutôt l'air d'un appât à vers, à mon avis.}
+{176}{}{Si t'es un ami, alors prouve-le.}
+{177}{}{J'ai aidé à tuer les Disciples.}
+{178}{}{J'ai aidé à tuer les Éventreurs.}
+{179}{}{J'ai aidé à tuer ces trucs mutants.}
+{180}{}{J'ai aidé à tuer les Enfants.}
+{181}{}{Vraiment ? Je crois que mon patron aimerait en entendre plus. Va voir Orfeo. Il pourra te récompenser pour ton aide.}
+{182}{}{Pour quelqu'un qui vient en paix, tu tues vachement. Mais ces Éventreurs causaient pas mal de problèmes. Orfeo peut te récompenser pour ton aide.}
+{183}{}{Tu tues des créatures inoffensives, qui sont le résultat final de la nature destructrice de l'homme, et ensuite tu parles de paix ?}
+{184}{}{Désolé. Ils étaient moches, alors je les ai descendus.}
+{185}{}{Ils faisaient du mal aux gens partout.}
+{186}{}{Maintenant je vais te tuer.}
+{187}{}{Je te laisse quand même vivre. Je crois que je ferais mieux de t'emmener pour te purger de ces pensées de destruction.}
+{188}{}{Rigolo. Je croyais en avoir vu quelques-uns dans la rue en train d'essayer de nettoyer les gangs.}
+{189}{}{Ils ont attaqué les Lames ?}
+{190}{}{Qu'est-il arrivé à Adytum ?}
+{191}{}{Meurs, racaille !}
+{192}{}{Ces losers n'existent plus.}
+{193}{}{C'est une bonne chose. Bon, au revoir.}
+{194}{}{Et toi non plus, bientôt.}
+{195}{}{C'est de là que je te connais. C'est l'heure de la revanche !}
+{196}{}{C'est encore toi. Je croyais que t'aurais appris depuis. Trop peu, trop tard, je suppose.}

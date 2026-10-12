@@ -1,0 +1,111 @@
+{100}{}{Tu vois : Bob.}
+{101}{}{Pas question que je te laisse me plumer !}
+{102}{}{Hé, je veux pas d'embrouilles !}
+{103}{}{File-moi un iguane sur un bâton.}
+{104}{}{Tu peux me parler d'une Puce d'eau ?}
+{105}{}{Tu peux me parler de Decker ?}
+{106}{}{Je crois qu'on doit parler de Doc Morbid et de certains de tes ingrédients secrets.}
+{107}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{108}{}{Quoi, moi des embrouilles ? Qu'est-ce qui te fait croire ça ?}
+{109}{}{Moi faim ! Grrr !}
+{110}{}{Salut ! Bienvenue au Bob's Iguana Bits, le restaurant familial. Je peux prendre votre commande ?}
+{111}{}{File-moi un iguane sur un bâton.}
+{112}{}{Tu peux me parler d'une Puce d'eau ?}
+{113}{}{Tu peux me parler de Decker ?}
+{114}{}{Je crois qu'on doit parler de Doc Morbid et de certains de tes ingrédients secrets.}
+{115}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{116}{}{Il se passe un truc intéressant au Hub ?}
+{117}{}{Moi faim ! Grrr !}
+{118}{}{Désolé, on n'a plus d'iguane.}
+{119}{}{On n'a que des iguanes entiers sur bâton. Vingt capsules pièce.}
+{120}{}{On n'a que du morceau de choix. C'est très bon, pourtant. Huit capsules pièce.}
+{121}{}{Bien sûr. On a des iguanes entiers sur bâton pour vingt capsules, et nos morceaux de choix pour huit capsules.}
+{122}{}{J'en prends un, entier.}
+{123}{}{Je prends ton morceau de choix.}
+{124}{}{Tu sais, on m'a dit que ton morceau de choix a un goût de poulet.}
+{125}{}{Pas de portions de mauviette ! Moi vouloir tout l'iguane ! Ough !}
+{126}{}{Hmm, ça sent bon ! Morceau de choix rend ventre content !}
+{127}{}{On sert pas ça ici. Autre chose ?}
+{128}{}{File-moi un iguane sur un bâton.}
+{129}{}{Tu peux me parler de Decker ?}
+{130}{}{Je crois qu'on doit parler de Doc Morbid et de certains de tes ingrédients secrets.}
+{131}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{132}{}{Il se passe un truc intéressant au Hub ?}
+{133}{}{Moi faim ! Grrr !}
+{134}{}{M. Decker est un homme d'affaires distingué dans un milieu peu distingué. Autre chose ?}
+{135}{}{Je veux des infos sur Doc Morbid.}
+{136}{}{File-moi un iguane sur un bâton.}
+{137}{}{Rien.}
+{138}{}{C'était un sale fils de pute et quiconque n'est pas content de sa mort est un sacré menteur. Je peux prendre votre commande ?}
+{139}{}{File-moi un iguane sur un bâton.}
+{140}{}{Raconte-moi un peu les Marchands d'Eau.}
+{141}{}{Je crois qu'on doit parler de Doc Morbid et de certains de tes ingrédients secrets.}
+{142}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{143}{}{Il se passe un truc intéressant au Hub ?}
+{144}{}{Moi faim ! Grrr !}
+{145}{}{Je sais pas de quoi tu parles. Bon. Je te paie cent capsules si tu la boucles. Prends et dégage.}
+{146}{}{J'en veux deux cents.}
+{147}{}{Je prends les cent.}
+{148}{}{Je vais voir la police.}
+{149}{}{Arrête de les vendre. Maintenant.}
+{150}{}{Terrible affaire. Ces pauvres gens. Oh, ces pauvres gens. Perdre la vie d'une façon si affreuse ! Je peux faire autre chose pour toi ? Te nourrir, peut-être ?}
+{151}{}{File-moi un iguane sur un bâton.}
+{152}{}{Tu peux me parler d'une Puce d'eau ?}
+{153}{}{Tu peux me parler de Decker ?}
+{154}{}{Je crois qu'on doit parler de Doc Morbid et de certains de tes ingrédients secrets.}
+{155}{}{Il se passe un truc intéressant au Hub ?}
+{156}{}{Rien. Désolé d'en avoir parlé. J'entends juste des histoires. Bon, je peux faire autre chose pour toi ?}
+{157}{}{File-moi un iguane sur un bâton.}
+{158}{}{Tu peux me parler d'une Puce d'eau ?}
+{159}{}{Tu peux me parler de Decker ?}
+{160}{}{Je crois qu'on doit parler de Doc Morbid et de certains de tes ingrédients secrets.}
+{161}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{162}{}{Il se passe un truc intéressant au Hub ?}
+{163}{}{Quelqu'un a tué Decker. On est en deuil, du moins jusqu'à ce que le Hub soit à sec.}
+{164}{}{Quelqu'un a tiré sur le shérif Greene. Pour l'adjoint, je sais pas.}
+{165}{}{Daren Hightower a été assassiné. Et tout son fric n'a pas pu le sauver. Ironique, non ?}
+{166}{}{Quelqu'un a vraiment énervé quelqu'un d'important, parce que j'ai entendu dire qu'il y a un gros contrat sur la tête d'un pauvre type.}
+{167}{}{Quelqu'un a volé un collier chez les Hightower. Ils ont fait une grosse erreur. Ils sont morts, c'est sûr.}
+{168}{}{Quelqu'un a buté Jain à la Cathédrale. Paraît que c'était une vraie garce !}
+{169}{}{Eh bien, la seule nouveauté, c'est que les Enfants de la Cathédrale ont pris l'hôpital. C'est plutôt calme par ici ces temps-ci. Remarque, c'est une drôle de bande.}
+{170}{}{Autre chose ?}
+{171}{}{File-moi un iguane sur un bâton.}
+{172}{}{Tu peux me parler d'une Puce d'eau ?}
+{173}{}{Tu peux me parler de Decker ?}
+{174}{}{Je crois qu'on doit parler de Doc Morbid et de certains de tes ingrédients secrets.}
+{175}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{176}{}{Désolé, t'as pas les moyens.}
+{177}{}{Un iguane entier, ça marche ! Autre chose ?}
+{178}{}{File-moi un autre iguane sur un bâton.}
+{179}{}{Tu peux me parler d'une Puce d'eau ?}
+{180}{}{Tu peux me parler de Decker ?}
+{181}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{182}{}{Il se passe un truc intéressant au Hub ?}
+{183}{}{Moi vouloir autre iguane !}
+{184}{}{Moi plein ! ROOOT !}
+{185}{}{Désolé, t'as pas les moyens.}
+{186}{}{Un morceau de choix, ça marche ! Autre chose ?}
+{187}{}{File-moi un autre iguane sur un bâton.}
+{188}{}{Tu peux me parler d'une Puce d'eau ?}
+{189}{}{Tu peux me parler de Decker ?}
+{190}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{191}{}{Il se passe un truc intéressant au Hub ?}
+{192}{}{Moi vouloir autre iguane !}
+{193}{}{Moi plein ! ROOOT !}
+{194}{}{Merci. Revenez !}
+{195}{}{Tu dois être nouveau en ville si tu me demandes qui sont les Marchands d'Eau. L'eau, c'est la vie. Et on ne fait pas plus puissant que la vie et la mort.}
+{196}{}{File-moi un iguane sur un bâton.}
+{197}{}{Je crois qu'on doit parler de Doc Morbid et de certains de tes ingrédients secrets.}
+{198}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{199}{}{Il se passe un truc intéressant au Hub ?}
+{200}{}{Moi faim ! Grrr !}
+{201}{}{Espèce de sale avare !}
+{202}{}{Espèce de sale garce !}
+{203}{}{D'accord, t'as gagné. Voilà ton fric. Prends et reviens plus !}
+{204}{}{À ta place je changerais d'avis, mon ami. Des gens sont morts pour moins que ça au Hub. Maintenant dégage et reviens plus !}
+{205}{}{J'ai peut-être utilisé des morceaux douteux, mais c'est pas comme si je commettais un meurtre. Les trucs de Morbid sont déjà morts, non ?}
+{206}{}{J'en suis sûr, Bob. Et je suis sûr que la police sera d'accord.}
+{207}{}{Le cannibalisme est un crime contre l'humanité, Bob. Je vais veiller à ce que tu paies pour ça.}
+{208}{}{Peut-être que si. Peut-être que non. Je m'en fous. C'est immoral. Arrête.}
+{209}{}{Pas question ! Je te laisserai pas me baiser ! Bouffe ça !}
+{210}{}{Je vais pas faire faillite à cause de tes scrupules, mais toi tu vas crever à cause d'eux ! Bouffe ça !}

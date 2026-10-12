@@ -1,0 +1,82 @@
+{100}{}{Tu vois Baka.}
+{101}{}{Tu vois une femme.}
+{102}{}{Les Cryptes ne devraient pas être ici, hein les garçons ? (Les autres Fous secouent la tête) Je crois que tu devrais partir.}
+{103}{}{J'ai fait une erreur en rejoignant les Cryptes. Je veux être de ton côté.}
+{104}{}{Je viens avec un message de Phrax.}
+{105}{}{Je m'en vais, merci.}
+{106}{}{Alors on devrait porter le manteau d'une traîtresse ? Une qui livrerait les siens ? Aucun chien n'est aussi bas que toi.}
+{107}{}{J'ai l'impression que ton manteau pourrait encore se retourner, mais tes paroles me convainquent.}
+{108}{}{Phrax n'est pas assez courageux pour dire ce message de sa propre voix ? Ce n'est pas un homme, ça je le sais. Et il envoie ce gamin dire ses paroles. Alors dis-les et finissons-en.}
+{109}{}{Meurs.}
+{110}{}{Il a dit de quitter la ville et tu ne seras pas tué.}
+{111}{}{Il a dit passe une bonne journée.}
+{112}{}{Hahaha ! J'aime l'homme qui a le sens de l'humour. Tu peux vivre. Désolée, je rigolais.}
+{113}{}{Je crois que tu ne comprends pas vraiment les ramifications de ce que tu viens de dire. J'espère que tu les apprendras avant que tes os sèchent au soleil du désert. Malheureusement, je ne crois pas que tu aies très longtemps.}
+{114}{}{Qu'est-ce qu'on a là ? On m'a dit qu'il y avait du nouveau en ville. Ce doit être toi ; tous les autres ont l'air tellement familiers. Permets-moi de me présenter. Je suis Baka, Reine des Fous.}
+{115}{}{Pourquoi vous appelez-vous les Fous ?}
+{116}{}{J'ai entendu dire qu'il y a des désaccords entre vous et les Cryptes.}
+{117}{}{Tu as l'air d'une folle, toi.}
+{118}{}{Après la Guerre, il ne reste que les Fous. Si j'avais été assez courageuse, je me serais donné la mort il y a des années. Au lieu de ça, je m'en remets aux dieux du hasard qui restent.}
+{119}{}{Compréhensible. Je suis plutôt d'accord. Je peux me joindre à vous ?}
+{120}{}{On pourrait utiliser une autre paire de bras. Laisse-moi y réfléchir. [Elle porte la main à son menton et parade dans la pièce de façon théâtrale.]}
+{121}{}{Fais attention aux mots que tu choisis. Tous ne sont pas aussi indulgents que moi. Je joue un rôle, ou le rôle me joue, mais il y a toujours de la place pour un autre cadavre pour égayer le drame.}
+{122}{}{J'étais pas sûre, c'était une menace ?}
+{123}{}{J'essaierai de me tenir tranquille.}
+{124}{}{C'en était une, et ce sont maintenant parmi les dernières paroles que tu entendras.}
+{125}{}{Bien, tâche de t'en souvenir.}
+{126}{}{Qu'est-ce que tu veux maintenant ?}
+{127}{}{Je veux rejoindre ton gang.}
+{128}{}{Pourquoi tu veux le générateur ?}
+{129}{}{Je sais pas si je peux te faire confiance. Prouve ta valeur.}
+{130}{}{C'est un poulet qui entre dans un bar...}
+{131}{}{Je suis le meilleur combattant du coin.}
+{132}{}{Tu pourrais utiliser un homme bien par ici.}
+{133}{}{(Des minutes passent pendant que tu termines ta blague. Avec un sourire nerveux, tu croises son regard. Elle rit.) Tu me plais. Tu as prouvé que tu comprends la Blague. Tu es maintenant un Fou. Trahis-nous et meurs.}
+{134}{}{On verra bien.}
+{135}{}{Skippy ? À toi.}
+{136}{}{Il n'y a qu'une chose qui sépare Scrapheap du désert : la puanteur de la bouse de brahmine. Mais sans cette bouse, il n'y aurait pas de générateur.}
+{137}{}{Pourquoi vous le contrôlez pas ?}
+{138}{}{Merci !}
+{139}{}{Parce que les Cryptes le font ! Ils sont plus nombreux pour le moment, mais si tu te joignais à nous, on pourrait les prendre.}
+{140}{}{D'accord. Je me joins à vous.}
+{141}{}{Non, merci.}
+{142}{}{Tu es un Fou... je rigole. Tu croyais que je te laisserais entrer si facilement ?}
+{143}{}{Oui.}
+{144}{}{Euh, non !}
+{145}{}{Oh, d'accord. T'es des nôtres. Tu es maintenant un Fou. Trahis-nous et meurs. Blablabla.}
+{146}{}{Tu mens !}
+{147}{}{Et alors, ça fait quoi d'être un Fou ?}
+{148}{}{Ça me plaît.}
+{149}{}{Génial ! Je fais quoi maintenant ?}
+{150}{}{Comment je peux avoir une de ces armures cool ?}
+{151}{}{Tu ferais mieux. Rares sont ceux qui peuvent sonder les profondeurs humoristiques de la Foolitude totale.}
+{152}{}{Euh, oui. Merci. Euh, et maintenant ?}
+{153}{}{Hmm, oui. Bonne question. Eh bien, je suppose qu'on devrait planifier notre attaque contre les Cryptes. Il faut prendre le contrôle de ce générateur, ou tout est perdu.}
+{154}{}{Tu veux que je fasse quoi ?}
+{155}{}{Eh bien, comme tu es le plus récent des Fous, et donc le plus sacrifiable, je veux que tu ailles repérer l'ennemi et que tu fasses ton rapport.}
+{156}{}{D'accord.}
+{157}{}{Bon, on attaque ?}
+{158}{}{Oui !}
+{159}{}{Non !}
+{160}{}{Alors pourquoi tu me déranges ? Fais ton boulot et reviens vite avec ton rapport !}
+{161}{}{Excellent ! Fous ! Au combat !}
+{162}{}{Tu es un Fou en probation double-secrète. T'auras pas d'armure de Fou tant que t'auras pas passé ta probation.}
+{163}{}{[Terminé]}
+{164}{}{[Suite]}
+{165}{}{Les Cryptes seront enterrées une fois de plus !}
+{166}{}{Crève, racaille !}
+{167}{}{Qui vous a permis de sortir de vos tombes ? Retournez-y !}
+{168}{}{Euh, rien.}
+{169}{}{Tu mens ! Au boulot avant que je te mette une raclée !}
+{170}{}{Je crois pas être prêt.}
+{171}{}{Euh, ouais. Au revoir.}
+{172}{}{Dieux de la fortune, dieux du destin. Peu m'importe tant que j'ai le dernier rire. On ne peut pas rejoindre la mort alors on rit d'elle.}
+{173}{}{Tu seras comme un Fou, mais écoute bien et grave mes paroles : si tu nous trahis comme tu as trahi tes anciens camarades, alors tu mourras — avec une grimace, pas un rire.}
+{174}{}{Et non, tu ne porteras pas le manteau d'un Fou. Tu porteras le manteau d'un traître, et mon garrot sera son compagnon.}
+{175}{}{Oui, tu peux être le prochain bouffon de la cour des Fous. Bienvenue chez les Fous. Trahis-nous et meurs.}
+{176}{}{Et sans ce générateur, il n'y a aucune raison d'être dans ce trou à merde. Le générateur fournit la lumière, la chaleur et même quelques expériences électrisantes.}
+{177}{}{Va ramasser des infos ou un truc comme ça, et reviens avec des nouvelles de l'ennemi. (Elle fait un geste dédaigneux de la main)}
+#
+# 178 was previously 172 (duplicate line number). Not making sure the script uses it correctly yet, because script isn't used.
+#
+{178}{}{Seuls les Fous subsistent ! Maintenant, moi, la Reine Baka, je règne sur Scrapheap.}

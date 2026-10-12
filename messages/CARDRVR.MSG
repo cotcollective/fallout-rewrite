@@ -1,0 +1,57 @@
+{100}{}{Tu vois le conducteur de caravane.}
+{101}{}{Tu voulais retourner au Hub ? Je te paierai 400 capsules de plus.}
+{102}{}{Rutger devrait être content ; on s'en est sortis sans pertes. Tu voulais revenir avec nous ? On est presque prêts à partir. La paie sera de 400 capsules de plus.}
+{103}{}{C'était plus facile que prévu. Tu reviens avec nous ? Je suis sûr que 400 capsules de plus te seraient utiles.}
+{104}{}{C'était pas si mal. Si tu veux revenir avec nous au Hub, t'es le bienvenu. On te paiera 400 capsules de plus.}
+{105}{}{C'est toujours triste de perdre quelqu'un. Rutger va pas bien le prendre, mais on pourrait utiliser ton aide pour revenir. Ça t'intéresse ? La paie est toujours de 400 capsules.}
+{106}{}{Merde ! Je déteste perdre de bons gardes. Faut être plus prudents sur le retour et se couvrir les uns les autres. Faut plus que ça arrive. Je te paierai 400 capsules de plus. Ça te tente ?}
+{107}{}{Tu peux revenir au Hub avec nous ? Je peux pas risquer de perdre un autre garde. La paie est de 400 capsules. Qu'est-ce que t'en dis ?}
+{108}{}{J'aurais vraiment besoin de ton aide pour revenir. Rutger va me tuer et je sais pas si je peux y arriver seul. Si ça t'intéresse, la paie est toujours de 400 capsules. Alors, qu'est-ce que t'en dis ?}
+{109}{}{Le retour va être dur en y allant seul. Tu reviendrais au Hub avec moi pour 400 capsules de plus ?}
+{110}{}{J'arrive pas à croire qu'on a perdu les deux autres gardes. Rutger et Butch vont me passer un savon.}
+{111}{}{Oui.}
+{112}{}{Non.}
+{113}{}{Beurk.}
+{114}{}{Génial. On y va.}
+{115}{}{Quoi, t'as peur ?}
+{116}{}{Ah, tu rates de l'action.}
+{117}{}{C'est bon. Je suis sûr qu'on s'en sortira sans problème. Merci de nous avoir aidés à arriver ici en un seul morceau.}
+{118}{}{C'est bon. Je comprends. Ça sera dur avec un seul garde, mais on s'en sortira.}
+{119}{}{Euh, d'accord. Je suis sûr que je peux y arriver seul.}
+{120}{}{Ça va ? Le voyage a dû être plus dur pour toi que je pensais.}
+{121}{}{T'es drogué ?}
+{122}{}{Peut-être que je te veux pas dans ma caravane.}
+{123}{}{Alors, t'as changé d'avis ? Tu veux le boulot ?}
+{124}{}{Oui.}
+{125}{}{Non.}
+{126}{}{Ru ?}
+{127}{}{De l'argent facile. Alors, tu veux revenir avec nous au Hub ? La paie est la même dans tous les cas ; mais le danger aussi, d'ailleurs.}
+{128}{}{Alors, ça te dit 600 capsules de plus ? Je dois retourner au Hub. J'espère que ce sera aussi facile cette fois.}
+{129}{}{Je savais que tu reviendrais avec nous. Ce sera encore 600 capsules. Ça t'intéresse ?}
+{130}{}{Je déteste perdre quelqu'un comme ça ; c'est pour ça qu'on paie grassement. C'est une route dangereuse. Bon, Demetre nous attend bientôt. La paie est la même. Tu veux revenir avec nous ?}
+{131}{}{Prêt pour encore de l'action ? Cette fois on s'en sortira sans une égratignure ! Je te donnerai 600 capsules pour le retour au Hub.}
+{132}{}{Je sais. C'est triste de perdre quelqu'un, mais au moins c'était au combat. Ça te dit de remettre ça ? On retourne au Hub. On te donnera encore 600 capsules.}
+{133}{}{Merde, j'arrive pas à croire qu'on a perdu ces deux gardes. Demetre va être furax. La paie sera la même, mais je repars bientôt. Alors qu'est-ce que t'en dis ? Toi et moi, on leur met la pâtée ?}
+{134}{}{Ça, c'était un combat ! Dommage pour les deux autres. Demetre aimera pas ces pertes, mais au moins on s'en est sortis. Tu m'accompagnes pour le retour au Hub ? Ça paiera bien sûr 600 capsules.}
+{135}{}{J'adore le goût du combat, mais je déteste perdre mes troupes. Tu crois qu'on peut les reprendre à nous deux ? Je pars bientôt. Le seul hic, c'est que la paie est la même. Désolé, pas de compensation.}
+{136}{}{Gru.}
+{137}{}{D'accord. Je suis sûr qu'on s'en sortira très bien.}
+{138}{}{J'ai de toute façon besoin que d'un garde.}
+{139}{}{Ah, je peux tous les affronter moi-même.}
+{140}{}{Ah, te revoilà ! Tu veux le boulot, alors, hein ?}
+{141}{}{Arg.}
+{142}{}{Oh, salut. Tu cherches du boulot ? On pourrait utiliser quelqu'un pour aider à garder nos caravanes sur le retour au Hub. La paie est de 400 capsules.}
+{143}{}{D'accord.}
+{144}{}{Non merci.}
+{145}{}{Zuk.}
+{146}{}{Oh, salut. Tu cherches du boulot ? On pourrait utiliser quelqu'un pour aider à garder nos caravanes sur le retour au Hub. La paie est de 600 capsules, mais attention, c'est normalement un voyage assez dangereux.}
+{147}{}{Bien sûr.}
+{148}{}{Yek.}
+{149}{}{Préviens-moi si tu changes d'avis. On part à 14h00.}
+{150}{}{Désolé, t'as pas l'air en état pour le service en caravane.}
+{151}{}{Si tu peux pas parler correctement, je peux pas t'embaucher.}
+{152}{}{Si tu veux un boulot, arrête la drogue.}
+{153}{}{T'as changé d'avis pour le boulot ?}
+{154}{}{Oui, je m'engage.}
+{155}{}{Lum ?}
+{156}{}{Voilà ta paie. Préviens-moi si tu reviens avec nous.}

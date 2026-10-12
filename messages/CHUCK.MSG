@@ -1,0 +1,83 @@
+{100}{}{Tu vois un homme à la peau sombre orné d'écharpes et de breloques aux couleurs vives.}
+{101}{}{Tu vois : Chuck, le diseur de bonne aventure gitan.}
+{102}{}{Bonjour, étranger. Puis-je t'être utile ?}
+{103}{}{Euh !}
+{104}{}{Je regarde juste, merci.}
+{105}{}{J'apprends à connaître les gens d'Adytum.}
+{106}{}{Pourquoi tu supposes que j'ai besoin de quelque chose ?}
+{107}{}{Hmm. T'inquiète, mon simple ami, de grandes choses t'attendent.}
+{108}{}{Et qu'est-ce que tu penses de notre ville ?}
+{109}{}{Ça va.}
+{110}{}{Je l'aime pas trop. Pas très accueillante.}
+{111}{}{Tu t'en es remarquablement bien sorti, vu les circonstances hostiles.}
+{112}{}{On m'appelle Chuck. Bienvenue à Adytum. J'ai peur que la plupart des gens ici soient pas très ouverts avec les étrangers, ceci dit.}
+{113}{}{Ouais, j'ai remarqué.}
+{114}{}{Alors, c'est quoi ton boulot, Chuck ?}
+{115}{}{À plus tard, Chuck.}
+{116}{}{Bonne route, voyageur.}
+{117}{}{On a tous besoin de quelque chose, non ? Et tu ne m'aurais pas parlé si tu ne voulais pas quelque chose, que ce soit des informations, une conversation, ou peut-être des conseils. Je vois que t'as traversé beaucoup d'épreuves. Qu'est-ce qu'il te faut ?}
+{118}{}{Euh, j'ai besoin de rien, merci.}
+{119}{}{Maintenant que tu le dis, tu pourrais peut-être me donner un conseil.}
+{120}{}{(Chuck sort un jeu de cartes de Tarot.) Laisse-moi consulter les cartes. (Il mélange les cartes.)}
+#
+# This is referring to The Glow
+#
+{121}{}{(Chuck tire une carte avec l'image d'un homme en blouse de labo avec un ordinateur dans une main, et une autre carte avec un homme en Armure Assistée.) Le Hiérophante et le Prince de Bâtons au sud-est... grande sagesse et noblesse t'attendent dans un lieu au sud-est.}
+#
+# This is referring to the Military Base
+#
+{122}{}{(Chuck tire une carte avec l'image d'un homme avec un couteau vibro et un drapeau.) Le Prince d'Épées au nord-ouest... tu dois affronter un puissant ennemi loin au nord-ouest.}
+#
+# This is referring to The Master
+#
+{123}{}{(Chuck tire une carte avec l'image d'une tour radio, et une autre carte avec l'image d'un homme en costume avec un sceptre.) La Tour et l'Empereur... un grand changement t'attend par les mains d'un puissant leader. Si ce changement est la mort, je ne peux le dire.}
+{124}{}{(Chuck tire une carte avec l'image d'un homme dansant sur une ogive nucléaire.) Le Fou. Je ne peux pas t'aider ; tu dois tracer ta propre voie dans ce monde.}
+{125}{}{[Suite]}
+{126}{}{Hmm. Merci pour le conseil.}
+{127}{}{Tu crois vraiment à ces trucs ?!}
+{128}{}{Ça marche pour moi. Si tu veux pas y croire, c'est pas pour toi.}
+{129}{}{Sans offense, mais ça ressemble à un tas de superstitions.}
+{130}{}{Bon, je suppose qu'on a chacun nos croyances.}
+{131}{}{Si c'est ce que tu ressens, alors je suppose qu'on n'a plus rien à se dire.}
+{132}{}{En effet. Et ton univers est façonné par tes croyances, tandis que mon univers est façonné par mes pensées. On partage peut-être pas les mêmes croyances, mais je te souhaite bonne chance dans ton univers.}
+{133}{}{C'est chez moi.}
+{134}{}{Euh, ouais. À plus tard.}
+{135}{}{Ça a l'air un peu calme par ici.}
+{136}{}{Je vois ce que tu veux dire. J'ai vu beaucoup de souffrance.}
+{137}{}{Les Régulateurs y veillent. Les gens d'Adytum souffrent parfois à cause de leurs règles strictes.}
+{138}{}{Je suppose. Bon, à plus tard.}
+{139}{}{Et ça te va ?}
+{140}{}{Comme je veux rester ici, j'accepte les Régulateurs comme une partie de ce qu'est Adytum. Ceci dit, je fais ce que je peux pour égayer leurs vies.}
+{141}{}{T'as pas l'air d'accord avec ce qu'ils font.}
+{142}{}{Y a autre chose que tu pourrais faire ?}
+{143}{}{Les Régulateurs protègent leurs propres intérêts, et je dois respecter ça.}
+{144}{}{Ouais, peu importe.}
+{145}{}{Je suis pas forcément d'accord avec ce point de vue, mais je peux le comprendre.}
+{146}{}{C'était sympa de parler. À plus tard.}
+{147}{}{Bon, je suis qu'une personne, mais j'aide comme je peux. Je te conseille de te battre pour ce en quoi tu crois, mais surtout, choisis les combats qui valent la peine, et trouve les moments où le compromis et l'espoir remporteront de plus grandes victoires.}
+{148}{}{T'as d'autres conseils ?}
+{149}{}{Les gens d'Adytum ont beaucoup à faire dans une journée normale. Ils veulent pas que leur travail soit inachevé à la fin du jour.}
+{150}{}{Ouais, bon, peu importe.}
+{151}{}{Ça a l'air un peu calme par ici.}
+{152}{}{Merci. Ça a été difficile. On perd parfois des gens à cause des Écorcheurs, et les hivers peuvent être durs, surtout quand les marchands du Hub viennent pas. Mais on survit.}
+{153}{}{Bonne chance.}
+{154}{}{Qu'est-ce qui se passe avec les Écorcheurs ?}
+{155}{}{Ils infestent une zone au nord-est d'ici, et ils prennent souvent la vie des gens chargés de commercer avec les Trafiquants d'armes.}
+{156}{}{J'espère que tu trouveras une solution.}
+{157}{}{Ouais. Peu importe.}
+{158}{}{Peut-être. Je crois qu'Adytum sera toujours là. Au lieu d'aller vers le monde, c'est le monde qui doit venir à nous, comme tu l'as fait.}
+{159}{}{Hmm. Je suppose.}
+{160}{}{Je suis fermier. J'aime aussi faire un peu de travail sur les bâtiments, les restaurer et les garder intacts, et parfois je donne des conseils.}
+{161}{}{C'est quoi comme conseils ?}
+{162}{}{Oui, malheureusement. Je crois... c'est une sorte de creuset, qu'en survivant à ces temps durs, on apprend à compter les uns sur les autres et à apprendre les compétences dont on a besoin pour survivre. Je crois, à terme, que l'humanité s'en portera mieux.}
+{163}{}{Je suis pas d'accord. J'ai croisé beaucoup de gangs et de pillards dans mes voyages. Ils sont devenus des petits tueurs et des voleurs. Je crois qu'on risque tous ça, à terme.}
+{164}{}{T'as peut-être raison. Ceux qui survivront seront certainement plus forts.}
+{165}{}{Ils finiront par se détruire eux-mêmes. Et les gens qui resteront seront ceux qui bossent ensemble pour survivre, comme nous.}
+{166}{}{Je suis content que certains étrangers, comme toi, pensent comme ça. Faut trouver des moyens de bosser ensemble pour construire quelque chose de nouveau. Ça commencera pas ici ; on est trop réglementés, mais ça doit commencer quelque part.}
+{167}{}{Bonjour. Qu'est-ce que je peux faire pour toi ?}
+{168}{}{Je peux t'aider ?}
+{169}{}{Oui ?}
+{170}{}{Je passais juste dire bonjour.}
+{171}{}{Je cherche un petit conseil.}
+{172}{}{Je peux demander ce que tu fais par ici ?}
+{173}{}{Bonjour, alors. J'espère que tu vas bien.}

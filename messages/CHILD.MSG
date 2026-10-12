@@ -1,0 +1,75 @@
+{100}{}{Tu vois un petit enfant.}
+{101}{}{Salut !}
+{102}{}{Bonjour.}
+{103}{}{Ils sont où, tes parents ?}
+{104}{}{Erf.}
+{105}{}{Je sais pas. Quelque part par ici.}
+{106}{}{T'es rigolo !}
+{107}{}{Hé, tu vas tuer quelqu'un ?}
+{108}{}{Oui.}
+{109}{}{Non !}
+{110}{}{Erf.}
+{111}{}{Je vais le dire à ma maman !}
+{112}{}{Alors tu devrais pas te balader avec une arme comme ça.}
+
+{980}{}{Hein ?}
+{981}{}{Je sais pas. Demande à maman.}
+{982}{}{Demande à papa.}
+
+{1000}{}{Écorcheur}
+{1001}{}{Pillards}
+{1002}{}{Junktown}
+{1003}{}{Brahmines}
+{1004}{}{Puce}
+{1005}{}{Marchands}
+{1006}{}{Khans}
+{1007}{}{Garl}
+{1008}{}{Shady Sands}
+{1009}{}{Hub}
+{1010}{}{Tandi}
+{1011}{}{Aradesh}
+{1012}{}{Seth}
+{1013}{}{Razlo}
+{1014}{}{Police}
+{1015}{}{Caravanes}
+{1016}{}{Marchands}
+{1017}{}{Enfants}
+{1018}{}{Nécropolis}
+{1019}{}{Coin}
+{1020}{}{Confrérie}
+{1021}{}{Cimetière}
+{1022}{}{Tours}
+{1023}{}{Ville}
+{1024}{}{Centre-ville}
+{1025}{}{Hauteurs}
+{1026}{}{Le Cimetière}
+{1027}{}{Le Cimetière de L.A.}
+
+{1100}{}{Bouh ! Monstre de cauchemar !}
+{1101}{}{Grands méchants !}
+{1102}{}{Je sais pas.}
+{1103}{}{Gros qui puent.}
+{1104}{}{Demande à maman.}
+{1105}{}{Drôles de chansons de marins.}
+{1106}{}{Grands méchants !}
+{1107}{}{Méchant monsieur.}
+{1108}{}{Je te dirai pas.}
+{1109}{}{Grande ville.}
+{1110}{}{Je dirai pas.}
+{1111}{}{Nan, je te dirai pas.}
+{1112}{}{Maman veut pas que je parle de lui.}
+{1113}{}{Papa le trouve rigolo.}
+{1114}{}{Grandes personnes.}
+{1115}{}{Ils ont ces trucs qui puent qui les tirent.}
+{1116}{}{Gens gentils. Ils me donnent des bonbons.}
+{1117}{}{Ils aiment pas jouer à cache-cache.}
+{1118}{}{Endroit qui fait peur.}
+{1119}{}{Endroit beurk.}
+{1120}{}{Endroit qui fait peur.}
+{1121}{}{Endroit qui fait peur.}
+{1122}{}{Maman veut pas qu'on joue là-bas.}
+{1123}{}{Papa nous dit tout le temps de jouer là-bas.}
+{1124}{}{Coin des grandes personnes.}
+{1125}{}{Coin des grandes personnes.}
+{1126}{}{Endroit qui fait peur.}
+{1127}{}{Endroit qui fait peur.}

@@ -1,0 +1,136 @@
+{100}{}{Tu vois : Ton.}
+{101}{}{Tu vois un énorme membre des Enfants.}
+{102}{}{mec}
+{103}{}{nana}
+{104}{}{[Terminé]}
+{105}{}{[Suite]}
+{106}{}{Désolé mec, mais t'as dépassé le point de non-retour avec nous. Il est temps de dégager !}
+{107}{}{Désolé, nana, mais t'as dépassé le point de non-retour avec nous. Il est temps de dégager !}
+{108}{}{Pourquoi je voudrais parler à quelqu'un qui tue des gosses ? Dégage de devant ma face !}
+{109}{}{J'ai entendu dire que t'es plutôt coriace. Mais la bagarre, ça impressionne pas Ton. T'as quelque chose à dire ou tu veux te battre ? On y va !}
+{110}{}{Paix, frère ! Je fais juste un tour du proprio.}
+{111}{}{M'impressionner m'intéresse pas. Si t'as quelque chose d'intelligent à dire, dis-le !}
+{112}{}{On se bat ? Monsieur, je sors pas avec les petits gringalets.}
+{113}{}{Tu veux quoi ?}
+{114}{}{Tu parles trop.}
+{115}{}{Tu veux mourir, et moi je veux tuer quelqu'un. Ça me va.}
+{116}{}{Bouhou !}
+{117}{}{Mec, je t'ai déjà parlé ! Va déverser ta merde ailleurs !}
+{118}{}{gamin}
+{119}{}{gamine}
+{120}{}{Hé, tu crois que ton arme va te valoir du respect ? Elle va te valoir une tombe, gamin. Range-la.}
+{121}{}{Hé, tu crois que ton arme va te valoir du respect ? Elle va te valoir une tombe, gamine. Range-la.}
+{122}{}{Tu veux quoi, espèce de zombie stupide ? Dégage de devant ma face avant que je te la casse.}
+{123}{}{Je cherchais quelqu'un d'assez intelligent pour me dire ce qui se passe vraiment dans ce bouge !}
+{124}{}{Qu'est-ce que les prêtres vont dire s'ils t'entendent parler comme ça ?}
+{125}{}{N'importe quand, mon pote. J'attendais une bonne bagarre !}
+{126}{}{Hé, c'est quoi le problème ? Quelques verres et on sera potes !}
+{127}{}{Tu savais que même un gosse peut appuyer assez fort au bon endroit sur ta rotule pour te bousiller à vie ? Je pensais que tu voudrais le savoir.}
+{128}{}{Tu veux parler à Ton ? Bon. Mais si j'entends le mot 'gloire', je te tue.}
+{129}{}{T'es pas fan des offices ?}
+{130}{}{C'est quoi ton problème, mon pote ?}
+{131}{}{Je veux parler à l'homme qui commande.}
+{132}{}{Bien sûr. La seule chose que j'ai envie de glorifier, c'est une bouteille de jus de radscorpion.}
+{133}{}{Bon. Le premier de nous deux qui dit ce mot meurt. Marché conclu ?}
+{134}{}{Bonjour, mademoiselle. Je suis Ton, 1000 kilos du combattant le plus coriace du Maître. J'ai aussi été transformé par le VEF en quelque chose que tu dois voir. On y va, bébé.}
+{135}{}{Pas question, putain.}
+{136}{}{C'est un peu rapide. Apprenons d'abord à nous connaître.}
+{137}{}{Bonjour. J'ai été transformé par le VEF pour que quiconque m'énerve meure. Arrête de m'énerver, petit homme.}
+{138}{}{Va voir ailleurs. Ton aime pas ta compagnie.}
+{139}{}{Bon. Tu veux jouer franc jeu ? Parfois tuer, c'est nécessaire. Parfois j'aime même ça. Mais j'ai entendu dire que TOI, t'ADORES tuer... tout le temps. Chaque fois que j'ai rencontré un psycho, soit il meurt, soit Ton meurt. Ton est toujours là. Alors pourquoi tu irais pas ailleurs.}
+{140}{}{Mec, je pourrais apprendre à t'aimer. Soit t'es un incroyable connard, soit t'as du cran. Dans les deux cas ça va pour Ton, tant que tu me mets pas dans la merde. Tu veux te joindre à nous ?}
+{141}{}{La paix et l'amour, c'est fini ?}
+{142}{}{Ça implique quoi ?}
+{143}{}{Pas question, putain, mon pote.}
+{144}{}{Je coincerai ce que je veux, où je veux. Alors que la fête commence !}
+{145}{}{Te voir souffrir. Allez, hombre, donne-moi ce que je veux.}
+{146}{}{Fais gaffe à ce que tu veux. Ça pourrait ne pas te plaire.}
+{147}{}{Je préférerais être ton ami.}
+{148}{}{Tu vaux pas mon temps.}
+{149}{}{Vas-y. Fais le premier pas. Le dernier sera le mien.}
+{150}{}{Bon. Fini de parler. Fais ton pas.}
+{151}{}{Je voulais juste parler.}
+{152}{}{T'es mort...}
+{153}{}{Merde ! T'es plus con que les zombies ! Dégage d'ici !}
+{154}{}{Le Maître veut la paix, et il veut qu'on l'obtienne pour lui, alors on va s'amuser. Capito ?}
+{155}{}{Ouais, mais il doit se passer plus que ça.}
+{156}{}{Est-ce que le Maître veut vraiment la paix ou il veut juste tuer ?}
+{157}{}{C'est qui, ce Maître ?}
+{158}{}{Ça me va.}
+{159}{}{Le Maître, je m'en fous ! Tuons-les tous !}
+{160}{}{C'est pas bon pour la santé de poser les mauvaises questions, compadre. Ils ont toutes les réponses qu'ils veulent que t'entendes. Les gens qui posent les mauvaises questions, ou les gens qui merdent, eh bien, ils restent pas longtemps par ici.}
+{161}{}{Je fais mon boulot. Ils aiment quand je fais mon boulot. Ils aiment quand la racaille des rues et les Disciples arrêtent de respirer. Ça laisse les Nightkin faire autre chose. Me cherche pas... c'est pas bon pour la santé.}
+{162}{}{Tu fais quoi déguisé en zombie ? Si t'as l'attitude, faut la montrer !}
+{163}{}{Je m'en fous des fringues, mec. Je veux juste savoir ce qui se passe ici !}
+{164}{}{Ils t'embêtent moins si t'as pas l'air de quelqu'un qu'ils voudraient convertir.}
+{165}{}{Ça te regarde pas, mon pote.}
+{166}{}{Je pensais me convertir.}
+{167}{}{C'est pas l'attitude. C'est une façon de mourir.}
+{168}{}{On boit pas ici. Les Nightkin aiment pas ça. Tu ferais mieux de trouver plus d'indices avant de reparler à Ton.}
+{169}{}{T'es fou ! Je pourrais presque t'aimer, sauf que j'ai l'impression que les gens qui traînent avec toi vivent pas longtemps. Dégage d'ici.}
+{170}{}{Tu restes planté là pendant des mois et tu finis aussi fou qu'eux. Qu'est-ce que tu veux de Ton ?}
+{171}{}{Comment ces gens sont devenus comme ça ?}
+{172}{}{Je veux du sexe et de la violence, sans le sexe. Tu sais où je peux en trouver ?}
+{173}{}{Je suis en train de perdre la tête dans cette fosse à zombies, et j'ai pas besoin de ton aide. Dégage loin de moi.}
+{174}{}{C'est Morpheus. Il reste en haut, sauf pour faire des sermons. Il fait même plus ça souvent. Il est intelligent et c'est un gagnant, et c'est tout ce qui compte. Va le voir toi-même.}
+{175}{}{Faut que t'ailles au Cimetière de L.A., mon pote. Y a pas une goutte ici, et j'ai cherché !}
+{176}{}{D'accord. Qu'est-ce que Ton peut faire pour toi ?}
+{177}{}{Salope ! Tu sais pas ce que tu rates ! Dégage !}
+{178}{}{La vie est trop courte pour ça. Laisse-moi te montrer pourquoi tu veux pas attendre.}
+{179}{}{Mais je veux quelqu'un qui sait ce qui se passe.}
+{180}{}{Non merci. Mais ça me dérangerait pas d'être amis.}
+{181}{}{Dégage, espèce de déchet.}
+{182}{}{Bien sûr.}
+{183}{}{La vie EST plus courte que tu crois. Meurs, connard !}
+{184}{}{Je suis pas PETIT, salope !}
+{185}{}{Qui croit à ces conneries ? Ils doivent bien programmer ces crétins pour qu'ils y croient, de toute façon.}
+{186}{}{Comment c'est arrivé ?}
+{187}{}{Vraiment ?}
+{188}{}{Quelle bande de losers.}
+{189}{}{Parle-moi plus de ta bande.}
+{190}{}{D'accord, je me joins à vous.}
+{191}{}{Quelqu'un devrait les achever. Comme moi...}
+{192}{}{Quand on reçoit l'ordre, on sort et on tue des gens. Des gens comme les Disciples ou certains des types de gangs les plus dangereux.}
+{193}{}{Alors les Disciples sont un problème ?}
+{194}{}{Ça m'a l'air assez malsain.}
+{195}{}{Qui a besoin d'un ordre ? Pourquoi pas juste les tuer ?}
+{196}{}{Bon. Fais ce que tu veux. Mais je dégagerais avant que ça devienne malsain par ici.}
+{197}{}{Espèce de petit emmerdeur. T'es pire qu'un habitant de Junktown, lâche. Dégage.}
+{198}{}{Quoi d'autre à savoir ? Je mange bien, je dors en paix et je tue certains des gens qui me baisaient avant. Tu veux autre chose de la vie ?}
+{199}{}{Qui sait ? Qui s'en soucie ? Je mange bien, je dors en paix et je tue certains des gens qui me baisaient avant. Tu veux autre chose de la vie ?}
+{200}{}{Hmmm, Ton y avait jamais pensé. Mais s'ils m'embêtent trop, je leur casse la figure. Alors ils arrêtent d'embêter Ton. Tu veux quoi ?}
+{201}{}{Se convertir ? Bon, bonne chance. T'en auras besoin.}
+{202}{}{Pourquoi j'aurais besoin de chance ?}
+{203}{}{Ça sonne pas bien.}
+{204}{}{Merci. T'es un vrai ami.}
+{205}{}{J'ai pas besoin de chance tant que j'ai des munitions.}
+{206}{}{Ces gens, ces zombies, ils ont pas toujours été comme ça. J'en supportais même quelques-uns. Ensuite ils ont été convertis. Certains en sont ressortis comme ça. Certains en sont pas ressortis du tout. Ton aime pas ça, mais ces gens paient bien Ton.}
+{207}{}{Pourquoi tu passes sans arrêt de la première à la troisième personne ?}
+{208}{}{Parle-moi plus du processus de conversion.}
+{209}{}{T'as subi le processus de conversion ?}
+{210}{}{Cet endroit est vraiment bas de gamme.}
+{211}{}{Vraiment, combien ?}
+{212}{}{Personne me fera ça !}
+{213}{}{Tu parles à Morpheus ou à Lasher, ou tu peux embêter Ton, et Ton te donnera plus de violence que tu peux en supporter.}
+{214}{}{Bon bébé, ce qui se passe, c'est qu'il y a plein de zombies qui chantent, plein de gens qui meurent et les Enfants vont tout prendre. Ensuite y a toi et moi et rien d'autre compte !}
+{215}{}{Mais Barracas, chéri, il doit bien se passer plus que ça...}
+{216}{}{Oh, Ton !}
+{217}{}{Oublie, creep. T'es pas mon type.}
+{218}{}{Rien d'autre compte ? Certainement pas ! Je veux entendre parler de la partie où on meurt !}
+{219}{}{Malheureusement, c'est le pire endroit sur terre pour voir ce que Ton fait de mieux. Trop de zombies gâchent mon style. Je te dirai quand je penserai à un endroit plus pratique...}
+{220}{}{Tu sauras bien assez tôt ce qui se passe en haut. Si t'es coriace, tu t'en sors bien. C'est arrivé à Ton, et Ton va très bien !}
+{221}{}{Euh... j'ai rien dit. T'oublies ce que Ton t'a dit ou Ton te fera oublier, définitivement !}
+{222}{}{Avant, c'étaient des pleurnichards. Mais Ton parle trop. Dégage de devant ma face.}
+{223}{}{Bon. Tu restes discret jusqu'à ce que je te donne le signal. Ensuite on s'amuse.}
+{224}{}{Ce sont des lâches. Ils tendent des embuscades à nos patrouilles. Ils envoient des espions et des saboteurs. Ils savent qu'ils peuvent pas gagner un vrai combat. Le Maître dit qu'on devrait les plaindre, mais Ton veut juste les tuer. Homme intelligent, Ton.}
+{225}{}{Faut de la discipline, idiot ! On est des soldats maintenant ! On obéit aux ordres. Les tueurs meurent, mais les soldats gagnent leurs batailles. On va battre les Disciples. On va battre TOUT LE MONDE !}
+{226}{}{Qui sait ? C'est peut-être juste Morpheus qui tire les ficelles. Les choses vont bien, et si ça se tarit, Ton va ailleurs.}
+{227}{}{Bon, sois pas trop pressé. Même avec les Nightkin, c'est dur de se battre. Mais si on joue intelligemment, on prend l'avantage. C'est la seule chose qui compte pour Ton.}
+{228}{}{La conversion, c'est pas facile. Tu vois ces gens, tous ces zombies ? Avant, ils étaient comme toi et moi. Ton a survécu. Eux non. Mais pourquoi Ton se soucierait de toi ?}
+{229}{}{T'aimes pas comme Ton parle ? Alors Ton te tue !}
+{230}{}{Ton l'a bien vécu. Je... euh... je... euh... Ton... Ton va très bien.}
+{231}{}{J'étais avec le gang des Dead Dog avant. Toujours faim, toujours fatigué. Cet endroit est bien mieux pour Ton. Pourquoi je me soucierais des autres ? Personne s'est jamais soucié de moi.}
+{232}{}{Espèce de connard avide ! Dégage avant que Ton te tue !}
+{233}{}{Alors dégage maintenant, avant qu'il soit trop tard.}
+{234}{}{Rien d'aussi important que toi et moi. Malheureusement, c'est le pire endroit sur terre pour voir ce que Ton fait de mieux. Trop de zombies gâchent mon style. Je te dirai quand je penserai à un endroit plus pratique...}
+{235}{}{Pourquoi, espèce de salope manipulatrice ! Personne baise Ton comme ça !}

@@ -1,0 +1,72 @@
+{100}{}{Tu vois un membre dévot des Enfants de la Cathédrale.}
+{101}{}{Nous offrons la guérison du corps pour guérir l'esprit. Je peux t'aider ?}
+{102}{}{Oui. Aide-moi.}
+{103}{}{Vous êtes qui ?}
+{104}{}{Heu.}
+{105}{}{C'est bien, mon enfant. Nous allons t'examiner maintenant.}
+{106}{}{Heureux les simples d'esprit. Tu n'as rien, mon enfant. Va jouer.}
+{107}{}{Tu as été guéri. Fais plus attention à l'avenir.}
+{108}{}{Tu es blessé.}
+{109}{}{Tu n'es pas blessé. C'est bien.}
+{110}{}{Je vois que tu es empoisonné.}
+{111}{}{Hmm, un empoisonnement aux radiations. Malheureusement, on ne peut pas guérir ça.}
+{113}{}{Nous exigeons un don de }
+{114}{}{ capsules avant de pouvoir te soigner. C'est acceptable ?}
+{115}{}{Oui.}
+{116}{}{Non.}
+{117}{}{Mais j'ai pas ce genre d'argent !}
+{118}{}{Vous prendriez }
+{119}{}{ capsules ?}
+{120}{}{Les Enfants ne marchandent pas. Alors, tu acceptes notre prix ?}
+{121}{}{Oui, bien sûr que oui.}
+{122}{}{Non, merci.}
+{123}{}{Merci, mon fils. Prions pour ta guérison.}
+{124}{}{Merci, ma fille. Prions pour ta guérison.}
+{125}{}{Voilà. Que la paix et les bénédictions des Enfants t'accompagnent.}
+{126}{}{Tu n'as pas assez d'argent. Si tu donnes tout ce que tu peux, nous te guérirons. C'est acceptable ?}
+{127}{}{Oui.}
+{128}{}{Non.}
+{129}{}{Si tu donnes tout ce que tu peux, nous te guérirons. C'est acceptable ?}
+{130}{}{Oui.}
+{131}{}{Non.}
+{132}{}{Tu as largement de quoi faire le don. Tu aurais besoin de cours de maths, mon enfant.}
+{133}{}{Nous sommes les Enfants de la Cathédrale. Nous vivons et travaillons parmi ces malheureux qui vivent dans le désert. Si jamais tu vas au Cimetière de L.A., passe à la Cathédrale.}
+{134}{}{Merci.}
+{135}{}{Vous faites quoi ?}
+{136}{}{Nous sommes les guérisseurs et les enseignants de la paix. Nous guérissons le corps pour guérir l'esprit. Tout ce qu'on demande, c'est un petit don pour payer nos fournitures de soins.}
+{137}{}{Ça m'a l'air d'une bonne idée.}
+{138}{}{Ça m'a l'air d'un tas de conneries, si tu veux mon avis.}
+{139}{}{On t'a pas demandé ton avis. Je vois que tu es fatigué d'écouter nos croyances. Si tu as besoin d'autre chose, nous serons là.}
+{140}{}{C'est la plus sainte des idées. Nous travaillons pour la paix ultime dans le désert. Toutes les créatures vivront comme une seule.}
+{141}{}{Merci. Bonne journée.}
+{142}{}{On n'a pas le temps de parler. On s'en va. Cet endroit est dangereux pour nous.}
+{143}{}{Pourquoi vous faites ça ? On vous fera aucun mal !}
+
+
+{1000}{}{Cathédrale}
+{1001}{}{Mutants}
+{1002}{}{Maître}
+{1003}{}{Cimetière}
+{1004}{}{Disciples}
+{1005}{}{Puce}
+{1006}{}{Apocalypse}
+{1007}{}{Nécropolis}
+{1008}{}{Set}
+{1009}{}{Bassin versant}
+{1010}{}{Hall}
+{1011}{}{Le Cimetière}
+{1012}{}{Le Cimetière de L.A.}
+
+{1100}{}{C'est nous.}
+{1101}{}{Ce sont des gens qui ont muté à cause des retombées nucléaires. Mais ce sont quand même des gens bien.}
+{1102}{}{On a tous des maîtres, non ?}
+{1103}{}{Le Cimetière de L.A. est un terreau de haine. Il y a les Disciples de l'Apocalypse, les gangs : les Éventreurs, les Lames et les Trafiquants d'armes, et une petite colonie appelée Adytum. }
+{1104}{}{Ce sont des gens qui cherchent à détruire la paix que le Maître essaie d'établir.}
+{1105}{}{J'ai aucune idée de quoi tu parles.}
+{1106}{}{Ce sont des gens qui cherchent à détruire la paix que le Maître essaie d'établir.}
+{1107}{}{C'est ici. Les tristes vestiges d'un monde ancien.}
+{1108}{}{Je crois que c'est une des goules.}
+{1109}{}{C'est juste là-bas, au nord-est.}
+{1110}{}{Je sais rien de tout ça.}
+{1111}{}{Le Cimetière de L.A. est un terreau de haine. Il y a les Disciples de l'Apocalypse, les gangs : les Éventreurs, les Lames et les Trafiquants d'armes, et une petite colonie appelée Adytum. }
+{1112}{}{Le Cimetière de L.A. est un terreau de haine. Il y a les Disciples de l'Apocalypse, les gangs : les Éventreurs, les Lames et les Trafiquants d'armes, et une petite colonie appelée Adytum. }

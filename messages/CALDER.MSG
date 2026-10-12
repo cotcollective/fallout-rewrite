@@ -1,0 +1,110 @@
+{100}{}{Tu vois un adolescent.}
+{101}{}{Toi ! C'est toi qui l'as fait ! Quand je serai grand, je vais te retrouver ! Je vais te traquer et te tuer ! Tu les as tous tués ! Touuuus ! (Il sanglote de façon incontrôlable)}
+{102}{}{C'était la seule solution. La seule façon de les arrêter.}
+{103}{}{Comment t'as survécu à la bombe, putain ?}
+{104}{}{C'est un mensonge, gamin. C'est pas moi !}
+{105}{}{Tu ferais mieux d'aller voir un docteur, gamin. T'as le mal des radiations.}
+{106}{}{Tu sais gamin, j'ai pas besoin d'un dur qui essaie de me descendre dans vingt ans. Dis bonne nuit, morveux.}
+{107}{}{J'ai entendu parler de toi. Tu te balades dans le désert en tuant des gosses ! Au secours ! Nightkin !}
+{108}{}{Tu te trompes, gamin. Je suis un homme bien.}
+{109}{}{Ouais, et si tu la fermes pas, tu vivras pas assez longtemps pour faire des cauchemars.}
+{110}{}{Je suis pas là pour t'embêter, gamin, alors tais-toi.}
+{111}{}{Je fais quoi ? Ce sont pas juste des petits gars ?}
+{112}{}{D'accord. Je me tairai. Mais j'espère que les Nightkin vont te choper !}
+{113}{}{Nightkin ! Nightkin !}
+{114}{}{C'était peut-être quelqu'un d'autre. Mais si c'était toi, je te retrouverai un jour quand je serai plus grand, et je te ferai payer !}
+{115}{}{Bonjour, monsieur. Vous voulez une fleur de méditation ?}
+{116}{}{Bonjour, madame. Vous voulez une fleur de méditation ?}
+{117}{}{Gamin, il s'est passé un truc intéressant ici dernièrement ?}
+{118}{}{Bien sûr, gamin.}
+{119}{}{Pas pour l'instant.}
+{120}{}{Fleur jolie ?}
+{121}{}{Enlève cette mauvaise herbe de devant ma face, petit morveux !}
+{122}{}{J'ai entendu dire que le Père Morpheus a reçu la visite du Maître en personne. Il est super content en ce moment.}
+{123}{}{Autre chose ?}
+{124}{}{J'en doute pas.}
+{125}{}{Pas pour l'instant.}
+{126}{}{Fleur jolie ?}
+{127}{}{Enlève cette mauvaise herbe de devant ma face, petit morveux !}
+{128}{}{Le Père Lasher dit que je dois la boucler. C'est pas drôle !}
+{129}{}{Allez, gamin. Tu dois bien avoir vu quelque chose !}
+{130}{}{Le Père Lasher ?}
+{131}{}{Rigolo bien.}
+{132}{}{On dirait qu'on a beaucoup en commun, lui et moi.}
+{133}{}{C'est génial ! Que le Maître te bénisse. (Il te tend une fleur)}
+{134}{}{Oh ! T'es pas drôle. Je devrais peut-être parler de toi aux Nightkin !}
+{135}{}{Les Nightkin sont mes amis.}
+{136}{}{T'es un peu jeune pour comprendre à quel point je peux être drôle.}
+{137}{}{Vas-y. Et je leur parlerai de toi.}
+{138}{}{Tu commences à parler de moi à qui que ce soit, gamin, et t'es mort !}
+{139}{}{C'est sûr. Je l'ai cueillie moi-même dans un bosquet de l'autre côté de la ville. Bon, c'était sympa de te rencontrer. Que le Maître te bénisse.}
+{140}{}{J'ai fait quoi ? J'ai fait quoi ?!}
+{141}{}{T'es sûr que tu veux pas une fleur ?}
+{142}{}{Je la prends si tu me dis ce qui se passe par ici.}
+{143}{}{Bon. Je la prends.}
+{144}{}{Désolé, gamin. Je suis pas un type à fleurs.}
+{145}{}{Désolé, gamin. T'es un peu jeune pour me donner des fleurs.}
+{146}{}{Je sais pas. Pourquoi tu demandes ?}
+{147}{}{Je peux pas te dire ça ! Les Nightkin me mangeraient !}
+{148}{}{C'est mon professeur. Il dit que chaque coup de fouet nous rapproche du Maître !}
+{149}{}{Quel homme charmant. Il faut vraiment qu'on parle.}
+{150}{}{Le crois pas, gamin.}
+{151}{}{Où est ce salaud ? Je vais le tuer.}
+{152}{}{Professeur ? Pourquoi besoin professeur ?}
+{153}{}{Et t'as toujours pas appris quand la fermer ? T'as de la merde dans le crâne, gamin.}
+{154}{}{Euh, salut !}
+{155}{}{Ouais, c'est ça. Bon, au revoir ! Que le Maître te bénisse !}
+{156}{}{Mais les Nightkin m'aiment bien ! Ils m'ont dit que si quelqu'un m'embêtait, ils le tueraient. Alors voilà !}
+{157}{}{J'ai entendu dire qu'il y a un passage secret par ici, mais je l'ai pas encore trouvé. C'est censé être vraiment dangereux. Seuls Morpheus et les Nightkin y ont droit. Bon, je ferais mieux d'y aller. Gloire au Maître !}
+{158}{}{C'est dommage. Que le Maître te bénisse quand même.}
+{159}{}{S'il te plaît, lui dis pas que je t'ai dit quoi que ce soit ! S'il te plaît !}
+{160}{}{T'inquiète. Quand j'en aurai fini avec lui, il se souviendra de rien.}
+{161}{}{Je le ferai pas. Promis.}
+{162}{}{Occupe-toi de tes affaires, gamin.}
+{163}{}{Rar ! Quoi tu dis ?}
+{164}{}{La vie est dure. Apprends à l'encaisser, gamin, et arrête de pleurnicher.}
+{165}{}{Mais il le faut ! Il le faut ! Ne pas croire, c'est souffrir !}
+{166}{}{S'il te plaît, non ! Il m'aime ! C'est le seul qui m'aime.}
+{167}{}{C'est bon, je suppose. Que le Maître te bénisse. Au revoir.}
+{168}{}{Merci ! Oh merci ! Que le Maître te bénisse. Au revoir.}
+{169}{}{D'accord, je vais le faire... *renifle* Peut-être que le Père Lasher sera plus gentil avec moi après que le Maître aura pris le contrôle du monde.}
+{171}{}{Et quand est-ce que le Maître va prendre le contrôle du monde ?}
+{172}{}{Raconte-m'en plus, gamin.}
+{173}{}{Il le fera pas. Il sera pire. Mais si t'es malin, deviens son préféré et il te laissera torturer les nouveaux gamins qui arrivent.}
+{174}{}{Beurk ! Moi aimer gentillesse.}
+{175}{}{Bientôt, à ce qu'on me dit. On va avoir la paix, et l'unité, et la Flamme Sacrée sera allumée. Et peut-être que le Père Morpheus sera pas aussi bruyant, non plus.}
+{176}{}{Autre chose ?}
+{177}{}{Le Père Morpheus ?}
+{178}{}{Bruyant nul !}
+{179}{}{Euh, je sais vraiment pas grand-chose. Juré. Que le Maître te bénisse ! Salut !}
+{180}{}{Salut. Ça va ?}
+{181}{}{Bien, gamin. C'est quoi la bonne nouvelle ?}
+{182}{}{Bon. T'as des ragots pour ton vieil ami ?}
+{183}{}{Plutôt bien. Et toi ?}
+{184}{}{Je sais pas. Je m'ennuie.}
+{185}{}{Je me sens mal. Tu sais depuis combien de temps j'ai rien tué ?}
+{186}{}{Euh, salut.}
+{187}{}{Salut, gamin. Tu peux me dire c'est quoi cet endroit ?}
+{188}{}{Salut, gamin. Tu fais quoi dans ce bouge ?}
+{189}{}{Salut, gamin. Ça roule ?}
+{190}{}{Dégage de devant ma face, morveux, ou je te transforme en ceinture !}
+{191}{}{Salut ? Ça rime avec ballot ! Rigolo !}
+{192}{}{C'est la cathédrale des Enfants de la Cathédrale. Je sais pas pourquoi ils disent cathédrale deux fois. On vénère le Maître, et on crie beaucoup sur la Paix et l'Unité. Ça a l'air un peu con, mais le Maître est vraiment intelligent, alors ça doit être bon.}
+{193}{}{Parle-moi plus du Maître.}
+{194}{}{Ça m'a l'air con, moi aussi. Tu fais quoi ici ?}
+{195}{}{Parle pas de tes aînés comme ça, d'accord ?}
+{196}{}{T'es quoi comme petit fou lavé du cerveau ? Tu vas grandir et devenir un de ces zombies ! Je devrais te tuer maintenant !}
+{197}{}{Je distribue des fleurs. Chaque pétale, c'est la paix, et la tige, c'est l'unité. Ou c'est les pétales l'unité et la tige la paix ? Oh non, je m'en souviens plus ! T'en veux une ?}
+{198}{}{J'en prends une si tu me dis ce qui se passe par ici.}
+{199}{}{Bien sûr.}
+{200}{}{Non, merci.}
+{201}{}{La paix, je m'en fous. L'unité, je m'en fous. Et enlève-moi cette fleur de devant la face !}
+{202}{}{Le Père Lasher dit que je devrais pas parler aux étrangers... jusqu'à ce qu'on ait l'Unité, bien sûr ; après, personne sera un étranger. Salut !}
+{203}{}{Ça va. Du moins jusqu'à la prochaine leçon du Père Lasher.}
+{204}{}{Si tu étudiais plus dur, les leçons seraient peut-être moins pires.}
+{205}{}{Parle-moi plus du Père Lasher.}
+{206}{}{C'est quoi comme leçon ?}
+{207}{}{Arrête de pleurnicher, petit morveux, et sois reconnaissant que quelqu'un prenne la peine de t'enseigner !}
+{208}{}{J'y arrive jamais assez bien ! Jamais !}
+{209}{}{[Terminé]}
+#

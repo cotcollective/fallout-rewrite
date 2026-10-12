@@ -1,0 +1,170 @@
+{100}{}{Tu vois une femme à l'air aimable en uniforme de docteur.}
+{101}{}{Tu vois : Lorri, la docteure en chef des installations médicales de la Confrérie.}
+{102}{}{Bonjour, comment puis-je t'aider ?}
+{103}{}{Je suis blessé.}
+{104}{}{Je suis irradié.}
+{105}{}{Vous faites des opérations ?}
+{106}{}{Reparlez-moi des opérations.}
+{107}{}{Toi réparer ?}
+{108}{}{T'es blessé ? Voyons voir...}
+{109}{}{C'était ça le problème. Voilà. Fais plus attention dehors.}
+{110}{}{Désolée, je peux pas t'aider si tu me dis pas ce qui va pas.}
+{111}{}{ T'as l'air en forme.}
+{112}{}{Voilà. J'espère que tu te sens mieux.}
+{113}{}{Voilà, mais arrête de te battre tout le temps !}
+{114}{}{Ça devrait aller, tout réparé.}
+{115}{}{Comme neuf.}
+{116}{}{Tout guéri !}
+{117}{}{Les radiations, c'est très dangereux ; tu devrais faire plus attention.}
+{118}{}{J'ai pas le temps pour les jeux.}
+{119}{}{Bien sûr, mais c'est très coûteux et ça prend du temps.}
+{120}{}{Détails ?}
+{121}{}{D'accord, laisse tomber.}
+#
+# 122 for Fallout Fixt if using Full install and/or Charimsa operation enabled:
+{122}{}{Eh bien, je peux te rendre plus fort, plus perceptif, augmenter ton endurance, améliorer ton apprentissage, et augmenter ta dextérité. J'ai aussi étudié les procédures de chirurgie plastique. Sur laquelle veux-tu plus d'infos ?}
+#
+# 222 is with "Bug Fixes Only" enabled, or Charisma operation disabled. Same message as VANILLA:
+{222}{}{Eh bien, je peux te rendre plus fort, plus perceptif, augmenter ton endurance, améliorer ton apprentissage, et augmenter ta dextérité. Sur laquelle veux-tu plus d'infos ?}
+#
+{124}{}{T'es qui ?}
+{125}{}{Je m'appelle Lorri. Je dirige le personnel médical et je pratique toutes les chirurgies et procédures médicales importantes. Je suis en fait la seule docteure ici, alors je préfère qu'on se tutoie. Et toi, t'es qui ?}
+{126}{}{D'accord, de quelle opération tu veux parler ?}
+{127}{}{Force.}
+{128}{}{Perception.}
+{129}{}{Endurance.}
+{123}{}{Charisme.}
+{130}{}{Intelligence.}
+{131}{}{Agilité.}
+{132}{}{Laisse tomber.}
+{133}{}{C'est facile à faire, mais la convalescence est longue. Ça coûte seulement }
+{134}{}{Je suis }
+{135}{}{Je le fais !}
+{136}{}{Je passe.}
+{137}{}{Alors ça, c'est une opération difficile. Ça coûte }
+#
+# TRANSLATION NOTE: Player's name will be inserted after line 138. Then appends 152 and 142.
+#                   Brotherhood of Steel calls everyone "Brother ____", even females.
+#
+{138}{}{Enchantée de te connaître, Frère }
+#
+{139}{}{Celle-là est pas si difficile. Ça prend environ une semaine et ça coûtera }
+{140}{}{J'ai été empoisonné !}
+{141}{}{C'est la plus complexe et la plus dangereuse ! Ça prendra 3 semaines et ça coûte }
+{142}{}{ Alors, que puis-je faire pour toi ?}
+{143}{}{C'est pas une opération si dure mais elle est très coûteuse et prend du temps. Ça prendra 3 semaines et ça coûtera }
+{144}{}{[Continuer]}
+{145}{}{Cette opération est moyennement difficile avec une longue convalescence. Ça coûtera }
+{146}{}{Bon, voilà. J'espère que la mousse t'a pas irrité la peau.}
+{147}{}{Désolée, mais je peux pas t'aider si t'as pas l'argent.}
+{148}{}{Désolée, mais t'es un étranger. Après une dizaine d'années dans la Confrérie, je pourrai te faire l'opération gratis, mais on a des dépenses et t'es pas encore un membre actif de la Confrérie.}
+{149}{}{Préviens-moi quand t'auras les fonds nécessaires pour cette opération.}
+{150}{}{Je peux pas évaluer ta force physique correctement tant que tu portes une Armure Assistée. Enlève-la et reviens me voir.}
+#
+#TRANSLATION NOTE: Player's name will be inserted between lines 151 and 152.
+#
+{151}{}{Je suis }
+{152}{}{.}
+#
+{153}{}{Tu voulais demander pour une autre ?}
+#
+# 155 and 157 are for stupid characters.
+#
+{155}{}{Ventre malade !}
+{157}{}{Hein ?}
+{158}{}{Rebonjour, comment je peux t'aider ?}
+#
+#STRENGTH
+{154}{}{Bon, on y va... Je rigole. On peut commencer tout de suite. (Tu respires l'anesthésique et tu t'endors lentement)}
+{156}{}{Alors, comment on se sent ? (Tu sens déjà la différence) T'es plutôt bavard dans ton sommeil. Tu peux y aller ! Bonne journée.}
+#
+#PERCEPTION
+{159}{}{Dehors le vieux, dedans le neuf... Où sont mes pinces ? (Tu tombes comme une pierre dans un abîme)}
+{161}{}{Hmmm. T'as exactement la même tête, mais comment tu te sens ? (Tes sens semblent bien plus affûtés) Bon, tu occupes un lit précieux. Allez, ouste !}
+#
+#ENDURANCE
+#Translation: "fall under" meaning fade into unconsciousness under the effect of the anesthetic
+{164}{}{J'espère que t'as un cœur... (Elle te fait un clin d'œil pendant que tu t'endors)}
+{166}{}{Bon, t'as l'air un peu plus costaud maintenant. (Tu te sens super bien !) Préviens-moi s'il y a un problème, et pas de baignade pendant au moins une heure.}
+#
+#CHARISMA
+{180}{}{J'espère que tu finiras pas avec un œil qui louche comme le dernier... (Tu luttes contre les drogues mais elles sont trop fortes)}
+{181}{}{Oh là là, t'es superbe. Je me suis vraiment surpassée. (Elle te regarde de haut en bas plusieurs fois puis semble se ressaisir) Oh, pardon, tu peux y aller maintenant.}
+#182 and 185 are said by player:
+{182}{}{Merci !}
+{185}{}{Pas aussi superbe que toi.}
+#
+#INTELLIGENCE
+{168}{}{Alors, il est où le cerveau, déjà ? C'est censé faire quoi, ce truc ? (Tu essaies de lutter contre les drogues mais c'est perdu d'avance)}
+{170}{}{Bon, on dirait que j'ai tout remis en place. Tout semble tourner très bien. (C'est comme si les chemins de tes pensées avaient des liens directs vers tout dans ta tête, et tes souvenirs sont bien plus nets)}
+#
+#AGILITY
+{174}{}{Bon, on essaie. Essaie de pas sursauter. (Les drogues sont si... amicales. Ton sommeil vient vite)}
+{176}{}{Bon, t'es prêt pour le service. (Tu bouges tes membres et tu sens la vitesse et le contrôle accrus) Tout ce que je te demande, c'est de ne pas abîmer mon chef-d'œuvre.}
+#
+# NOT Lorri
+#
+{200}{}{Tu vois l'assistante du docteur.}
+{233}{}{ billets mais il faut 3 semaines pour guérir.}
+{237}{}{ billets, mais la convalescence de cette opération n'est que d'une semaine.}
+{239}{}{ billets.}
+{241}{}{ billets.}
+{243}{}{ billets.}
+{245}{}{ billets et il faut 3 semaines pour guérir.}
+{279}{}{Tu devrais voir la docteure.}
+{280}{}{C'est elle la docteure, pas moi.}
+{281}{}{Je suis qu'en formation.}
+{282}{}{Je peux pas t'aider, officiellement.}
+{283}{}{Lorri, c'est la docteure.}
+{284}{}{Faut demander à la docteure.}
+{285}{}{T'inquiète, elle blague.}
+{286}{}{Elle aime juste taquiner, t'inquiète.}
+#
+# Stat is already maxxed:
+{500}{}{Désolée mais cette opération t'aidera pas.}
+#
+{400}{}{Hmmm. S'il y a quelqu'un ici qui aurait besoin d'une amélioration de l'intelligence, c'est bien toi. En fait, je te le ferai pour 3000 billets au lieu des 6000 qu'il faudrait normalement pour l'opération. Je peux pas garantir que ça aidera, mais je crois que ça vaut le coup d'essayer. Ça prendra aussi 3 semaines de convalescence. Tu comprends probablement pas tout ça, hein ?}
+{401}{}{Moi vouloir Intelligent.}
+{402}{}{Pas vouloir ! Docs fait peur...}
+{403}{}{Très bien alors. T'es irradié ou blessé ? Je t'aiderai si je peux.}
+{404}{}{moi Bobo.}
+{405}{}{cheveux tombent !}
+{406}{}{Nan-nan.}
+{407}{}{Bon. T'es réveillé. Voyons voir. Tu te sens plus intelligent ?}
+{408}{}{Hein ?}
+{409}{}{Oui !}
+{410}{}{Merde ! C'est un échec. Bon, j'avais pas grand-chose sous la main. Désolée, t'es juste un idiot et tu le resteras probablement. On peut faire l'opération qu'une fois, désolée.}
+{411}{}{Fantastique, c'est un succès ! J'ai réussi à monter ton QI à un niveau acceptable. Ça fait quoi d'avoir la moitié d'un cerveau ?}
+{412}{}{C'est génial. Merci, Doc. Salut.}
+{413}{}{Voilà. Tout guéri.}
+#
+# for Fallout Fixt:
+#
+#Bionic Man, UNUSED:
+{502}{}{Quelles autres opérations tu peux faire ?}
+{503}{}{Bon, techniquement je suis pas censée en parler, mais on a d'autres procédures disponibles. Je te préviens que certaines sont très dangereuses avec des risques d'effets secondaires, tandis que d'autres sont assez sûres, mais avec un temps de récupération extrêmement long. Tu veux plus d'infos ?}
+#Poison examine
+{504}{}{Ah oui, voyons voir...}
+#
+#Sex
+#
+{300}{}{Mignon, mais ça m'intéresse pas. Reviens si t'as besoin de soins.}
+{301}{}{Sans offense, chéri, mais t'es un peu en dessous de mes standards. Je suis flattée quand même.}
+{302}{}{Oh, merci beaucoup. (Elle rougit) On me fait rarement des compliments. Être docteure de la Confrérie, c'est surtout un boulot stressant et ingrat. J'aime bien blaguer, pour me divertir et garder le moral.}
+{303}{}{Je comprends. Ça aiderait pas de décompresser de temps en temps ?}
+{304}{}{De rien. Salut !}
+{305}{}{Bon... je me sens seule parfois, et on n'a pas de 'vacances' quand on est la seule docteure de la Confrérie. Oh, mais qu'est-ce que je raconte ? C'est tellement bête.}
+{306}{}{Tu devrais serrer les dents. Sois fière de ton travail et le reste suivra.}
+{307}{}{La vie est courte et après on meurt. T'as pas envie d'en profiter tant que ça dure ?}
+{308}{}{C'est pas bête du tout. (Tu lui touches légèrement le visage, puis tu te penches pour l'embrasser)}
+{309}{}{Oui, je suppose que t'as raison. (Elle secoue la tête et soupire, puis se ressaisit et sourit) Bon, au boulot ! Merci pour le compliment.}
+{310}{}{(Elle réfléchit un moment) T'as raison. Et oui. Donne-moi une dizaine de minutes — je dois préparer la table d'examen. (Elle sourit d'un air espiègle et se mord la lèvre inférieure)}
+{311}{}{(Elle te prend la main et t'emmène dans sa chambre...)}
+{312}{}{C'était magnifique. Je... je crois que je suis amoureuse de toi. (Elle glousse) Je rigole ! Bon, il est temps d'y aller. J'ai du travail.}
+{313}{}{Oh wow. Ça faisait des années que je m'étais pas fait baiser comme ça. Je crois que je vais avoir mal pendant une semaine, mais ça en valait la peine. (Elle te regarde avec envie) On remet ça bientôt !}
+{315}{}{Carrément. À plus tard.}
+{314}{}{Hé, beau gosse. Envie de s'amuser encore ?}
+{316}{}{Qu'est-ce que tu fa— ... (Elle est d'abord surprise, mais fond vite dans ton étreinte et t'embrasse tendrement en gémissant doucement. Alors que vos baisers deviennent plus passionnés, elle s'arrête et se retire) Viens avec moi. (Elle se lève et t'emmène dans ses quartiers...)}
+{317}{}{Oui ! Tu me fais me sentir si belle et désirée.}
+{318}{}{(Elle sourit et te prend la main...)}
+{319}{}{Bon, j'aurais bien besoin de réviser mes cours d'anatomie... (Elle fait un clin d'œil)}
