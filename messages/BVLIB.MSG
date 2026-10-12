@@ -1,0 +1,2 @@
+{100}{}{C'est la bibliothèque. Tu as déjà vu tout cet équipement dans la bibliothèque de ton Abri.}
+{101}{}{Il semble qu'il ne reste plus grand-chose de valeur dans cette pièce.}

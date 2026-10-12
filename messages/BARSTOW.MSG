@@ -1,0 +1,15 @@
+#
+# Translators: DO NOT NEED TO TRANSLATE THIS FILE.  -Sduibek
+#
+{100}{}{Tu vois Zack Barstow, un Initié des Enfants de la Cathédrale.}
+{101}{}{Bienvenue chez les Enfants de la Cathédrale. Comment puis-je t'aider aujourd'hui ?}
+{102}{}{Urrrooo ?}
+{103}{}{Quel est le sens de l'univers ?}
+{104}{}{Je suis assez mal en point. Tu crois que tu peux m'aider ?}
+{105}{}{Comment on répare la pompe à eau ?}
+{106}{}{Tu peux me dire quelque chose sur cet endroit ?}
+{107}{}{Je suis mal placé pour ça. Peut-être que si tu parles à Laura, elle acceptera de te donner les infos qu'il te faut.}
+{108}{}{Oh, réparer les pompes à eau c'est facile. C'est juste un flag.}  # "flag" in this case being a boolean or variable. Programmer joke :)  -Sduibek
+{109}{}{J'ai pas les outils pour t'aider avec ce problème. Parle à un de mes supérieurs, s'il te plaît.}
+{110}{}{Oh, ça. C'est juste un flag.}  # "flag" in this case being a boolean or variable. Programmer joke :)  -Sduibek
+{111}{}{Consulte Laura, s'il te plaît. Je t'ai dit tout ce que je sais.}

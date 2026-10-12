@@ -1,0 +1,6 @@
+{100}{}{Tu vois un panneau d'affichage.}
+{101}{}{BESOIN DE TRAVAIL ? Les Far Go Traders recrutent pour les postes suivants :}
+{102}{}{1. Gardes de caravane. Doivent être en bonne condition physique et fiables.}
+{103}{}{2. Poste spécial. Doivent être observateurs et prêts à voyager en territoire dangereux.}
+{104}{}{Armes et munitions requises pour tous les postes. Se renseigner auprès de Rutger au bureau des Far Go Traders.}
+{105}{}{[Suite]}

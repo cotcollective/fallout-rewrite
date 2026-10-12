@@ -1,0 +1,8 @@
+{100}{}{Cette bibliothèque est remplie de livres religieux et philosophiques. Elle est aussi très poussiéreuse.}
+{101}{}{Tu prends un livre, l'examines, et le remets sur l'étagère. L'étagère elle-même semble très solide.}
+{102}{}{Tu trouves un loquet caché.}
+{103}{}{Ça ne fait rien.}
+{104}{}{Le mur à côté de la bibliothèque glisse silencieusement.}
+{105}{}{Tu tripotes la bibliothèque un moment mais tu n'accomplis rien.}
+{200}{}{La bibliothèque est remplie de livres religieux et philosophiques.}
+{201}{}{Le loquet ne bouge pas.}

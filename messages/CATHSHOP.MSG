@@ -1,0 +1,38 @@
+{100}{}{Tu vois un boutiquier.}
+{101}{}{La Sainte Flamme n'apprécie pas les voleurs et les canailles dans sa maison de prière. Tu seras puni !}
+{102}{}{Hng !}
+{103}{}{Je te volais pas, promis !}
+{104}{}{Pourquoi tu racontes pas ça à la Sainte Flamme quand tu la verras après ta « punition ».}
+{105}{}{Je me fiche de tes mensonges, et le Maître non plus.}
+{106}{}{Je suis désolé, la boutique est fermée.}
+{107}{}{Nugga.}
+{108}{}{Merci pour rien.}
+{109}{}{Pourquoi ça ?}
+{110}{}{De rien.}
+{111}{}{Les Enfants n'ont pas à supporter ton espèce. Et tu nous as causé un sérieux problème. J'aimerais que tu t'en ailles avant que je doive appeler des renforts.}
+{112}{}{Tu n'as pas à faire ça. Je suis ton ami.}
+{113}{}{Peu importe.}
+{114}{}{Je refuse de traiter avec ceux qui utilisent des armes pour exiger. Nous, les Enfants, avons dépassé le simple usage des flingues et des armes.}
+{115}{}{Facho du contrôle des armes !}
+{116}{}{Laisse-moi rengainer et on pourra marchander en paix.}
+{117}{}{Bien, ça me plairait. Je serais ravi de faire affaire avec toi.}
+{118}{}{Salutations, mon frère Enfant. Comment puis-je t'aider ?}
+{119}{}{Lugga !?}
+{120}{}{Qu'est-ce que tu as à échanger ?}
+{121}{}{Merci. À plus tard, alligator.}
+{122}{}{Je suis désolé. Peut-être qu'on peut juste conclure un marché.}
+{123}{}{Brye !}
+{124}{}{À tout à l'heure, crocodile. Je n'arrive pas à croire que je viens de dire ça.}
+{125}{}{Salutations ! Comment puis-je t'aider ? J'espère que tu prendras un moment pour réaliser l'importance de tes futures décisions concernant ton âme...}
+{126}{}{Baarta !}
+{127}{}{Qu'est-ce que tu as à échanger ?}
+{128}{}{Où puis-je me procurer une de ces belles robes...}
+{129}{}{Seuls les membres de confiance de la Cathédrale ont le droit de porter le violet sacré.}
+{130}{}{J'imagine que ça répond à ma question, merci !}
+{131}{}{Pauvre idiot coincé. Je crois que je vais devoir prendre la tienne !}
+{132}{}{Oh, bon. Qu'est-ce que tu as à échanger ?}
+{133}{}{Oh, des trucs pour appâter les crédules qui franchissent la porte. Rien de bien spécial. Vas-y, jette un œil.}
+{134}{}{Merci, à plus tard.}
+{135}{}{Nous avons toutes sortes d'objets spéciaux pour te souvenir de ta visite à la Cathédrale. Ces souvenirs ne s'achètent pas à vil prix, tu comprends.}
+{136}{}{Merci...}
+{137}{}{De rien. Passe d'agréables journées pour le reste de ta vie.}

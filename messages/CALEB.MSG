@@ -1,0 +1,48 @@
+{100}{}{Tu vois : Caleb, chef des Régulateurs.}
+{101}{}{Tu vois un homme sévère dans la trentaine.}
+{102}{}{Tu dois savoir qu'on n'aime pas les étrangers ici. Qu'est-ce que tu veux ?}
+{103}{}{Bonjour. Puis-je t'être utile ?}
+{104}{}{Je suis}
+{105}{}{Tu as l'air de quelqu'un d'important.}
+{106}{}{Tu peux me parler un peu d'Adytum ?}
+{107}{}{Tu peux me dire ce qui se passe ici au Cimetière de L.A. ?}
+{108}{}{Quelle est l'histoire des Régulateurs ?}
+{109}{}{Parle-moi un peu plus des Enfants et des Disciples.}
+{110}{}{Où puis-je trouver Zimmerman ?}
+{111}{}{Bonne journée. Merci.}
+{112}{}{Pas mal comme ville. Moi et les Régulateurs on travaille dur pour que ça reste comme ça. Y a quelqu'un en particulier sur qui tu veux des infos ?}
+{113}{}{Qui dirige Adytum ?}
+{114}{}{Qui fait du commerce ici ?}
+{115}{}{Rien d'autre, merci.}
+{116}{}{Tiens-toi à carreau, compris ? Je suis Caleb, et c'est un nom à retenir, parce que c'est moi qui viendrai te chercher si tu fais des conneries.}
+{117}{}{Je suis Caleb. J'entraîne et j'organise les Régulateurs ici.}
+{118}{}{Ouais, j'imagine. T'as les Lames au nord, un troupeau assez pathétique, et les Trafiquants d'armes un peu au nord et vers l'est en passant par le terrain de jeu des Écorcheurs.}
+{119}{}{Aussi, un peu au sud d'ici t'as les Enfants de la Cathédrale, qui tiennent un hôpital et une grande église. Un peu au nord et à l'est t'as les Disciples de l'Apocalypse, des cinglés, tous des pacifistes.}
+{120}{}{Tiens-toi à carreau.}
+{121}{}{Bonne journée à toi aussi.}
+{122}{}{Te revoilà ?}
+{123}{}{Comment j'peux t'aider, fiston ?}
+{124}{}{Qu'est-ce que j'peux faire pour toi, mademoiselle ?}
+{125}{}{Tu ferais mieux de garder tes armes rangées tant que t'es en ville.}
+{126}{}{Guga gu.}
+{127}{}{Désolé, mais j'ai pas de temps pour toi. File.}
+{128}{}{Adytum ici est dirigée par Jon Zimmerman. C'est un gars droit, il prend bien soin de la ville. Tu devrais aller le voir. Autre chose ?}
+{129}{}{Tine tient une boutique près des portes. C'est en bas du petit bunker. Il fait tout le commerce avec le Hub et avec les étrangers comme toi. Autre chose ?}
+{130}{}{On est la police d'Adytum. La plupart des gens par ici savent qu'il vaut mieux pas faire d'histoires.}
+{131}{}{Je suis chargé d'entraîner les Régulateurs et de m'assurer que les clodos bossent assez dur, et que personne ne vient s'installer ici. Autre chose ?}
+{132}{}{Eh bien, les Enfants de la Cathédrale vivent tous dans ce grand bâtiment noir qui ressemble à une église. Ils ont une sorte de grand dieu, et ils essaient de convertir les gens à leur culte.}
+{133}{}{Tu le trouveras dans le grand bâtiment au sud-ouest. Il arrivera peut-être à aligner assez de phrases pour te dire qu'on cherche de l'aide avec les Lames.}
+{134}{}{Qu'est-ce qui se passe avec les Lames ?}
+{135}{}{Je peux te poser une autre question ?}
+{136}{}{Merci pour les infos. Au revoir.}
+{137}{}{Bien sûr. Qu'est-ce que tu veux savoir d'autre ?}
+{138}{}{Ils ont fait quelque chose au fils à moitié idiot de Zimmerman. Mais comme je disais, va parler à Zimmerman.}
+{139}{}{Je peux te poser une autre question ?}
+{140}{}{D'accord, j'ai compris. Je vais aller parler à Zimmerman.}
+{141}{}{Alors, Zimmerman t'a mis au parfum pour les Lames. Peu importe. Je suis sûr qu'il voudra savoir quand t'auras fait le boulot.}
+{142}{}{Où sont les Lames ?}
+{143}{}{Pourquoi vous vous en êtes pas occupés vous-mêmes ?}
+{144}{}{Ouais, je reviendrai quand le boulot sera fait.}
+{145}{}{Ils sont tous au nord d'ici. Tu pourras pas rater leur puanteur. Autre chose ?}
+{146}{}{Parce que c'est une perte de temps. J'ai mieux à faire que d'aller tuer quelques clodos. Ça prendrait plus de temps à se laver après qu'à s'en occuper. Autre chose ?}
+{147}{}{Alors, te revoilà. Va parler à Zimmerman.}

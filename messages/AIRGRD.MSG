@@ -1,0 +1,46 @@
+{100}{}{Tu vois un Super-mutant. Il garde la porte du sas.}
+{101}{}{Tu vois un garde Super-mutant.}
+{102}{}{Jeremiah, tu peux passer.}
+{103}{}{Circule.}
+{104}{}{Dépêche-toi, messager.}
+{105}{}{Les Normaux ne peuvent pas porter d'armes ici ! Halte et identifie-toi !}
+{106}{}{Grrr !}
+{107}{}{Euh, désolé. Je vais la ranger.}
+{108}{}{Je ne fais que passer. Pas besoin d'identités ici.}
+{109}{}{Meurs ! Meurs ! Meurs ! J'ai toujours voulu dire ça.}
+{110}{}{On ne me parle pas comme ça. Tu seras puni.}
+{111}{}{Halte ! C'est quoi tes affaires ici, « petit ».}
+{112}{}{Hng !}
+{113}{}{Je, euh, fais des trucs.}
+{114}{}{Je suis en mission importante. Tu n'as pas le droit de m'arrêter et de me questionner.}
+{115}{}{Ne me parle pas, grand costaud.}
+{116}{}{Ta réponse ne me rassure pas. Parle vite et clairement, ou je supposerai que tu es ici pour de mauvaises raisons. Je t'assure que ça ne va pas te plaire...}
+{117}{}{Euh, non, vraiment, honnêtement. Je fais des trucs.}
+{118}{}{J'apporte un message à notre chef.}
+{119}{}{Je sens le mensonge derrière tes mots. Tu n'entreras pas. Ça, je te le promets...}
+{120}{}{Tu peux passer, mais la prochaine fois, suis la procédure...}
+{121}{}{D'accord, merci. À plus.}
+{122}{}{Et c'est quoi ?}
+{123}{}{Bénédiction à toi, frère.}
+{124}{}{Un vrai disciple du Maître aurait cette connaissance. Tu es un intrus !}
+{125}{}{Circule. J'ai pas le temps pour tes questions.}
+{126}{}{Tu m'énerves.}
+{127}{}{J'ai du travail. Et toi ?}
+{128}{}{Tu fais une erreur en venant ici. Explique-toi ou péris...}
+{129}{}{Nuggie !}
+{130}{}{J'ai rien à dire.}
+{131}{}{Je suis ici pour protéger l'humanité des gens comme toi.}
+{132}{}{Oh, la ferme !}
+{133}{}{N'essaie pas de me rouler en jouant les idiots. Ça me fatigue...}
+{134}{}{C'est quoi cette bigoterie idiote ? Nous sommes « l'humanité ». On est aussi humains que toi.}
+{135}{}{C'est quoi ces conneries ?}
+{136}{}{C'est impossible que tu sois humain.}
+{137}{}{Je m'appelle Kyle. Je suis né d'une mère et d'un père, comme toi. Le Maître a juste supervisé ma renaissance. Ces muscles, cette peau, cette force ne me rendent pas moins humain que toi. Je n'aime pas tout ce que l'Unité représente, mais c'est notre meilleure chance de paix.}
+{138}{}{Pas sous ma surveillance. Je suis ici pour en finir avec toi et les tiens.}
+{139}{}{Tu es peut-être humain, mais ça ne rend pas ton Unité juste pour autant. On sera ennemis, j'imagine.}
+{140}{}{Dommage que tu agisses comme ça, mais tu n'iras pas plus loin...}
+{141}{}{Ce sera vraiment dommage de voir ta tête sur une pique.}
+{142}{}{Intrus !}
+{143}{}{Moi pas parler à toi.}
+{200}{}{Tu gagnes }
+{201}{}{ points d'expérience pour avoir bluffé devant les gardes.}

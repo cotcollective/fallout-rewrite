@@ -1,0 +1,6 @@
+{100}{}{Tu vois un Aîné de la Confrérie.}
+{101}{}{Salutations, Initié.}
+{102}{}{Maxson semble un peu stressé ces derniers temps.}
+{103}{}{Vree a fait des découvertes très troublantes.}
+{104}{}{Je me demande si Maxson a raison au sujet de cette armée dans le nord.}
+{105}{}{Bonne journée, Initié.}

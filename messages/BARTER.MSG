@@ -1,0 +1,17 @@
+{100}{}{Tu vois : le marchand résident de Shady Sands.}
+{101}{}{Salut voyageur ! Je vends des marchandises aux braves gens de Shady Sands. Tu veux voir mes articles ?}
+{102}{}{Oui.}
+{103}{}{Non.}
+{104}{}{Les radscorpions nous harcèlent depuis un moment. Tous ceux qu'on a envoyés détruire ces monstres ne sont pas revenus. Je te donnerai des armes et une armure si tu suis un guide jusqu'à leur antre et que tu les tues tous.}
+{105}{}{Ça me va.}
+{106}{}{Non merci.}
+{107}{}{C'est dommage. Pars, s'il te plaît.}
+{108}{}{Excellent. Parle à Seth alors ; il te guidera jusqu'à l'antre. Voici les objets promis. Ils te seront utiles dans l'antre.}
+{109}{}{Aide-nous dès que possible, s'il te plaît. Le temps presse.}
+{110}{}{Je parle pas à ton espèce, étranger.}
+{111}{}{Merci d'avoir détruit les radscorpions, étranger.}
+#
+# by Sduibek for Fallout Fixt:
+#
+{112}{}{Tu vois un marchand.}
+{113}{}{Je te parlerai pas tant que tu rangeras pas ton arme, étranger.}

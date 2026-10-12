@@ -1,0 +1,14 @@
+{100}{}{Débarrasse Scrapheap des gangs.}
+{101}{}{Si tu n'élimines pas tous les gangs, ils chercheront à se venger.}
+{102}{}{Les Cryptes et les Fous se battent pour le contrôle du générateur.}
+{200}{}{Éclaireur pour les Fous}
+{201}{}{Tu dois aller espionner les Cryptes pour les Fous.}
+{300}{}{Éclaireur pour les Cryptes}
+{301}{}{Tu dois aller espionner les Fous pour les Cryptes.}
+{400}{}{Le générateur}
+{401}{}{Sans le générateur, les paysans mèneront une vie plus pauvre.}
+{402}{}{Le générateur est la chose la plus importante de Scrapheap. Qui le contrôle contrôle Scrapheap.}
+{403}{}{Des fils dénudés partent du générateur.}
+{500}{}{Le problème de chien de Phil}
+{501}{}{Phil a un problème avec un chien.}
+{502}{}{Le chien a l'air assez affamé pour bouffer Phil.}

@@ -1,0 +1,32 @@
+{100}{}{Salut ! Bienvenue sur mon parc d'autos d'occasion. Laquelle de ces beautés t'intéresse aujourd'hui ?}
+{101}{}{Tu dois plaisanter. Ces voitures sont toutes des épaves.}
+{102}{}{Euh, rien, merci.}
+{103}{}{Lug !}
+{104}{}{Oh, désolé, vous avez pas l'air de pouvoir vous offrir nos taux de financement.}
+{105}{}{Mais, monsieur, ce sont de beaux spécimens d'automobiles.}
+{106}{}{Madame, ce sont d'excellents véhicules.}
+{107}{}{Elles peuvent pas être en état de marche.}
+{108}{}{Ouais, c'est ça. OK. Salut.}
+{109}{}{Ces voitures ont reçu un entretien complet en 100 points par notre atelier dévoué.}
+{110}{}{Et où est votre atelier ?}
+{111}{}{T'es un cinglé.}
+{112}{}{Au revoir.}
+{113}{}{Juste là-bas, monsieur. (Le vendeur pointe vers le vide.)}
+{114}{}{Juste là-bas, madame. (Le vendeur pointe vers le vide.)}
+{115}{}{Où ? Y a rien là-bas.}
+{116}{}{T'es fou.}
+{117}{}{Comment ça ? Ils travaillent sur une Corvega '56 nouvellement achetée. Un excellent achat, soit dit en passant.}
+{118}{}{OK, comme tu veux.}
+{119}{}{T'es juste cinglé.}
+{120}{}{Salut.}
+{121}{}{Et nous offrons une excellente garantie. Vous pouvez nous la ramener pour toutes les vidanges. La première est gratuite. Qu'en dites-vous ?}
+{122}{}{Ajoute un plein d'essence et c'est d'accord.}
+{123}{}{T'as besoin d'aide.}
+{124}{}{Je m'en vais.}
+{125}{}{Désolé, on n'a pas d'essence. Peut-être la prochaine fois. Au revoir.}
+{126}{}{Je suis insulté. J'ai pas à supporter ça d'un client. Bonne journée.}
+{127}{}{Je suis en pause-café ; reviens plus tard.}
+{128}{}{Allez-y, faites-en une pour un essai.}
+{129}{}{Tu devrais prendre la peinture antirouille avec.}
+{130}{}{Ça vous intéresserait, une alarme auto ?}
+{131}{}{Salut ! Moi c'est Bob.}

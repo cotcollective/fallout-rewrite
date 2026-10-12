@@ -1,0 +1,18 @@
+{100}{}{Tu vois un employé de la Caravane Cramoisie.}
+{101}{}{Tu vois un employé des Marchands d'Eau.}
+{102}{}{Tu vois un employé des Far Go Traders.}
+{103}{}{Bonjour. Tu cherches du travail ?}
+{104}{}{Oui.}
+{105}{}{Non.}
+{106}{}{Super. On a de la place pour un autre garde. Ça t'intéresse ?}
+{107}{}{D'accord. Si tu as besoin de travail, passe nous voir et on t'installera.}
+{108}{}{Désolé de l'entendre. Au revoir.}
+{109}{}{Excellent. Nous avons des caravanes qui partent pour le Cimetière de L.A., Junktown, Nécropolis et la Confrérie de l'Acier. Sur laquelle veux-tu travailler ?}
+{110}{}{Excellent. Nous avons des caravanes qui partent pour le Cimetière de L.A., Junktown et la Confrérie de l'Acier. Sur laquelle veux-tu travailler ?}
+{111}{}{Excellent. Nous avons des caravanes qui partent pour le Cimetière de L.A. et Junktown. Sur laquelle veux-tu travailler ?}
+{112}{}{Le Cimetière de L.A.}
+{113}{}{Junktown.}
+{114}{}{La Confrérie de l'Acier.}
+{115}{}{Nécropolis.}
+{116}{}{Aucune ; j'ai changé d'avis.}
+{117}{}{Super. On part maintenant.}

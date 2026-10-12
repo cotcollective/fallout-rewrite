@@ -1,0 +1,4 @@
+{100}{}{Tu es dans ta chambre. Veux-tu te reposer ici jusqu'à demain matin ?}
+{101}{}{Oui}
+{102}{}{Non}
+{103}{}{Tu te réveilles reposé.}

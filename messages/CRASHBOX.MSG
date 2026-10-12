@@ -1,0 +1,2 @@
+{100}{}{Il y a un écriteau sur le frigo.}
+{101}{}{L'écriteau dit : "Réservé aux locataires".}

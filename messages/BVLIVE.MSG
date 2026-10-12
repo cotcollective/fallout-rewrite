@@ -1,0 +1,2 @@
+{100}{}{Tu vois le bout d'une clé dans une fissure de la chaise.}
+{101}{}{Quelque chose attire ton regard quand tu examines la chaise.}

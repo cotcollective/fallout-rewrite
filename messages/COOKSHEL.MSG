@@ -1,0 +1,2 @@
+{100}{}{L'étagère contient des bouteilles de divers articles.}
+{101}{}{Les cuisiniers surveillent de très près leur réserve de nourriture et t'empêchent de rien prendre.}

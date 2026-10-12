@@ -1,0 +1,1 @@
+{100}{}{L'ascenseur est en panne. Tu peux peut-être utiliser l'échelle.}

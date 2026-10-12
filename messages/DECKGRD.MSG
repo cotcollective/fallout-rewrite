@@ -1,0 +1,11 @@
+{100}{}{Tu vois un des gardes de Decker.}
+{101}{}{Tu dois parler au chef.}
+{102}{}{Tu ferais mieux de rester de notre bon côté.}
+{103}{}{On te surveillera.}
+{104}{}{Touche même pas à tes armes.}
+{105}{}{Si tu le regardes de travers, t'es mort.}
+{106}{}{Fais gaffe.}
+{107}{}{Je me rends !}
+{108}{}{De toute façon, j'ai jamais aimé travailler pour ce gars, Decker.}
+{109}{}{Maintenant que Decker et Kane sont partis, je vais prendre la relève !}
+{110}{}{Tu ferais mieux de faire attention au Hub à partir de maintenant. Je te surveille.}

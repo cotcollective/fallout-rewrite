@@ -1,0 +1,6 @@
+{100}{}{Tu vois : la femme de Dan.}
+{101}{}{Je suis pas censée parler à qui que ce soit. Va voir mon mari, s'il te plaît.}
+{102}{}{Je suis désolée, tu dois parler avec mon mari.}
+{103}{}{Homme horrible, pourquoi as-tu fait ça ? Tu as tué mon Danny !}
+{104}{}{Femme horrible, pourquoi as-tu fait ça ? Tu as tué mon Danny !}
+{105}{}{Tu vois : la femme de Dan en pleurs.}

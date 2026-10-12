@@ -1,0 +1,17 @@
+{100}{}{Tu vois un jeune homme intense.}
+{101}{}{Tu vois : Michael.}
+{102}{}{Bonjour, je ne crois pas t'avoir déjà vu par ici. Je peux t'aider ?}
+{103}{}{Salut, que puis-je faire pour toi ?}
+{104}{}{Tu peux me parler un peu du Cimetière de L.A. ?}
+{105}{}{Qui es-tu ?}
+{106}{}{Pourquoi vivez-vous tous ici ?}
+{107}{}{Rien, merci.}
+{108}{}{Bien sûr. Au sud se trouve Adytum, au nord-est tu trouveras les Trafiquants d'armes, mais il te faudra passer les Écorcheurs pour les atteindre. À l'ouest se trouvent les Disciples de l'Apocalypse, et tout au sud j'ai entendu dire qu'il y a une sorte d'église.}
+{109}{}{Je suis Michael. Ma femme, Christine, et moi vivons ici comme Lames et aidons comme nous pouvons.}
+{110}{}{Ce n'est pas aussi terrible que ça en a l'air. Les Régulateurs et les Écorcheurs peuvent causer des problèmes, mais notre leader, Razor, nous a beaucoup aidés ces derniers mois. Et plus récemment, MacRae nous a montré comment mieux nous protéger.}
+{111}{}{Merci de nous avoir aidés à nettoyer Adytum des Régulateurs. Voici ce que nous pouvons te donner pour t'aider dans tes voyages.}
+{112}{}{Ce n'était pas un problème. Merci pour les provisions.}
+{113}{}{Tu es le bienvenu, et garde les provisions pour toi.}
+{114}{}{J'insiste.}
+{115}{}{(Il te tend des stimpaks et des capsules.)}
+{116}{}{Salut. Bonne chance dans tes voyages.}

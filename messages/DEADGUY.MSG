@@ -1,0 +1,24 @@
+{100}{}{Tu vois un Hubber.}
+{101}{}{J'arrive pas à croire que je suis vivant et J'ARRIVE PAS à croire que tu les as tous eus ! Attends, qu'est-ce que je raconte ? Je suis vivant, non ? Je croirai tout ce que tu me dis en ce moment.}
+{102}{}{Je vais te tuer maintenant.}
+{103}{}{Donne-moi tout ton fric !}
+{104}{}{Range ta vie et tire-toi d'ici, ou je te finis aussi !}
+{105}{}{Uk ?}
+{106}{}{Euh, quoi ? Toi ? *soupir* OK, fais vite s'il te plaît. Je déteste la douleur.}
+{107}{}{Me fais pas mal !}
+{108}{}{OK. (Il te donne 20 capsules.) Je peux y aller maintenant ?}
+{109}{}{Oui.}
+{110}{}{Non.}
+{111}{}{Euh, pourquoi ?}
+{112}{}{Parce que c'est moi qui le dis ! T'as un problème avec ça ?}
+{113}{}{OK, tu peux partir.}
+{114}{}{Non, pardon monsieur ! S'il te plaît, me fais pas mal — j'aime pas la douleur !}
+{115}{}{Non, pardon madame ! S'il te plaît, me fais pas mal — j'aime pas la douleur !}
+{118}{}{T'es stupide ou quoi ? Enfin, merci infiniment de m'avoir sauvé la vie, cher monsieur. Faut que j'y aille. Salut.}
+{119}{}{T'es stupide ou quoi ? Enfin, merci infiniment de m'avoir sauvé la vie, chère madame. Faut que j'y aille. Salut.}
+{122}{}{Oui... oui... oui monsieur. Je ferai plus jamais rien de mal, jamais ! Je... je tricherai pas. Je mentirai pas, je ferai pas de chantage, je volerai pas, je tuerai pas et j'enlèverai personne.}
+{123}{}{Oui... oui... oui madame. Je ferai plus jamais rien de mal, jamais ! Je... je tricherai pas. Je mentirai pas, je ferai pas de chantage, je volerai pas, je tuerai pas et j'enlèverai personne.}
+{126}{}{Tire-toi d'ici !}
+{127}{}{T'es un menteur !}
+{128}{}{Oui, monsieur !}
+{129}{}{Oui, madame !}

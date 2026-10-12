@@ -1,0 +1,35 @@
+# Junktown
+{100}{}{Ils n'ont jamais ce que je veux.}
+{101}{}{Je trouve que le choix empire.}
+{102}{}{Ces prix deviennent exorbitants.}
+{103}{}{Je ne trouve jamais ce que je veux.}
+{104}{}{Je préfère le choix de la Caravane Cramoisie.}
+# BOS
+{105}{}{Ils n'ont jamais ce que je veux.}
+{106}{}{Je trouve que le choix empire.}
+{107}{}{Ces prix deviennent exorbitants.}
+{108}{}{Désolé, je suis pas censé parler aux étrangers.}
+{109}{}{Tu devrais voir Cabbot ou Darrell si tu as des questions.}
+# Necropolis
+{110}{}{Allez, file.}
+{111}{}{J'veux pas te parler.}
+{112}{}{J'aime pas les normaux.}
+{113}{}{Arrrr !}
+{114}{}{Grrrrr !}
+# LABone
+{115}{}{Ils n'ont jamais ce que je veux.}
+{116}{}{Je trouve que le choix empire.}
+{117}{}{Ces prix deviennent exorbitants.}
+{118}{}{Je ne trouve jamais ce que je veux.}
+{119}{}{Je préfère le choix de la Caravane Cramoisie.}
+#
+# by Sduibek, for Fallout Fixt, from original entries:
+#
+{1100}{}{Tu vois un client de caravane.}
+{1103}{}{Désolé, je suis pas censé parler aux étrangers.}
+{1105}{}{Si tu vois des Redalek, fais-le-moi savoir.}
+{1107}{}{Je suis content que ces Marchands d'Eau ne viennent plus ici.}
+{1109}{}{Cabbot est notre hôte. Tu devrais lui parler ou à Darrell.}
+{1110}{}{Je préfère le choix de la Caravane Cramoisie.}
+{1111}{}{Les Far Go Traders ne sont-ils pas une bande agréable ?}
+{1112}{}{La Caravane Cramoisie est trop vulgaire pour moi.}

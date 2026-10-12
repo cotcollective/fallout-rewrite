@@ -1,0 +1,3 @@
+{100}{}{Tu vois : Bill.}
+{101}{}{T'es pas censé être ici ! Attrapez-le !}
+{102}{}{T'es pas censée être ici ! Attrapez-la !}

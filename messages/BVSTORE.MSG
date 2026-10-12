@@ -1,0 +1,2 @@
+{100}{}{À moins qu'elle ait déjà été pillée, tu penses qu'il devrait y avoir un uzi quelque part par ici.}
+{101}{}{Une vitrine au mur indique "Uzi 9mm - urgences uniquement". La vitre est brisée et la vitrine est vide.}

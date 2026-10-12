@@ -1,0 +1,8 @@
+{100}{}{Nom de dieu ! Tuez-le !}
+{101}{}{Tirez sur cette bête avant qu'elle le mange !}
+{102}{}{Des flingues !}
+{103}{}{Sortez-le de là !}
+{104}{}{Va pas dans le ring, clown.}
+{105}{}{Hé, tu crois que tu vas où ?}
+{106}{}{Parle à Gustofer si tu veux parier.}
+{107}{}{Matchs de boxe à 14h00 tous les trois jours.}

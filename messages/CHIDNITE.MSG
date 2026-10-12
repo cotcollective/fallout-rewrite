@@ -1,0 +1,26 @@
+{100}{}{Tu vois un Nightkin.}
+{101}{}{Meurs !}
+{102}{}{Laisse-moi ou meurs !}
+{103}{}{Je n'aime pas ton ton. Si mon message ne parvient pas au Maître, je veillerai à ce que ta mort soit lente et douloureuse.}
+{104}{}{Je voulais juste te complimenter sur la belle bosse dans ton dos. Ton haleine pourrait s'améliorer, par contre...}
+{105}{}{Pourrais-tu me diriger vers l'homme en charge ?}
+{106}{}{Mec, tu aurais plus besoin d'un verre que moi !}
+{107}{}{Je ne pars pas !}
+{108}{}{D'accord. Moi partir.}
+{109}{}{Il est imprudent de jouer avec les Nightkin. Dégage d'ici !}
+{110}{}{Je ne crois pas.}
+{111}{}{Je vais adorer te regarder mourir !}
+{112}{}{Tu n'écoutes pas ? Il est imprudent d'ignorer les Nightkin.}
+{113}{}{Je dois te parler. C'est urgent !}
+{114}{}{Personne ne m'a jamais accusé d'être sage !}
+{115}{}{Je veux juste parler à l'homme en charge !}
+{116}{}{Tu es censé être dur ou quoi ?}
+{117}{}{Je suis désolé ! Bonne journée.}
+{118}{}{Tu veux voir imprudent ? C'est imprudent de me répondre, connard !}
+{119}{}{Monte. D'autres de mon espèce jugeront la valeur de ton message.}
+{120}{}{Ceci est ton dernier avertissement !}
+{121}{}{Bien sûr ! Quelle importance...}
+{122}{}{J'ai VRAIMENT besoin de parler au gars en charge !}
+{123}{}{D'accord ! D'accord ! Je suis désolé ! Bonne journée.}
+{124}{}{Tu sais quelle est ton erreur ? Tu donnes des avertissements. Moi non. Meurs !}
+{125}{}{[Terminé]}

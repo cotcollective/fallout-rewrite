@@ -1,0 +1,11 @@
+{100}{}{Tu vois : Mitch, du magasin Tout-en-Un.}
+{101}{}{Comment puis-je t'aider aujourd'hui ?}
+{102}{}{Je voudrais acheter quelque chose.}
+{103}{}{Je voudrais vendre quelque chose.}
+{104}{}{Rien. Merci.}
+{105}{}{Runk.}
+{106}{}{Super. Voici ce que j'ai.}
+{107}{}{Super, je cherche toujours des nouveautés.}
+{108}{}{Désolé, je te comprends pas. Reviens quand tu auras plus de cervelle.}
+{109}{}{Merci. Reviens.}
+{110}{}{Tu vois : Jake, le marchand d'armes.}

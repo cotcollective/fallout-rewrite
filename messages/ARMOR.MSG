@@ -1,0 +1,9 @@
+{100}{}{Tu vois : Armure Assistée endommagée.}
+{101}{}{L'Armure Assistée est endommagée. Tu ne peux pas l'utiliser avant qu'elle soit réparée.}
+{102}{}{Il semble manquer une pièce que tu ne trouves pas.}
+{103}{}{C'est évident que tu n'as pas encore la compétence pour réparer ça.}
+{104}{}{Tu répares l'armure.}
+{105}{}{Ça ne fait rien.}
+{106}{}{Tu échoues à réparer l'armure.}
+{107}{}{Tu gagnes }
+{108}{}{ points d'expérience pour avoir réparé l'Armure Assistée.}

@@ -1,0 +1,4 @@
+{100}{}{L'explosion bloque le tunnel dans un fracas énorme !}
+{101}{}{Tu lâches les explosifs et ils explosent !}
+{102}{}{L'explosion ne fait qu'agrandir le trou. Impossible de le refermer maintenant.}
+{103}{}{Tu gagnes 10 points d'expérience pour usage réussi d'explosifs.}

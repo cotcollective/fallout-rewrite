@@ -1,0 +1,3 @@
+{100}{}{C'est cassé. Quel dommage.}
+{101}{}{Tu trouves de vieilles capsules de bouteille dans le plateau !}
+{102}{}{La publicité sur le côté de cette machine vante leur soda populaire.}

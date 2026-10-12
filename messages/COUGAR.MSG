@@ -1,0 +1,12 @@
+{100}{}{Tu vois : Cougar, l'assistant du Doc Morbid.}
+{101}{}{Comment ça va ?}
+{102}{}{Bien, et toi ?}
+{103}{}{J'ai besoin de voir le Doc.}
+{104}{}{Ung.}
+{105}{}{Le Cougar va toujours bien.}
+{106}{}{Hé, faut que je sache...}
+{107}{}{Tu dois parler à mon pote, Flash, ici. Il peut t'aider.}
+{108}{}{Aïe ! Parle pas trop vite mec. Tu donnes mal à la tête au Cougar. Parle à Flash plutôt.}
+{109}{}{C'est encore toi. Le Cougar n'a plus rien à dire.}
+{110}{}{Le Cougar te surveille, mec !}
+{111}{}{Belle tenue, tu l'as dénichée toi-même ?}

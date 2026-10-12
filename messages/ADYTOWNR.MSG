@@ -1,0 +1,20 @@
+{100}{}{Tu vois un habitant d'Adytum.}
+{101}{}{On dirait qu'il va pleuvoir... comme toujours.}
+{102}{}{Désolé, faut que j'y aille. J'ai du boulot.}
+{103}{}{On voit pas beaucoup d'étrangers ici.}
+{104}{}{Faut que je retourne bosser.}
+{105}{}{À ta place, je retournerais au Hub.}
+{106}{}{Bonjour... si on peut appeler ça comme ça.}
+{107}{}{Ouais... peu importe.}
+{108}{}{Pas le temps de parler.}
+{109}{}{Je peux pas parler là.}
+{110}{}{J'espère que la pluie brille pas comme hier.}
+{111}{}{On dirait qu'on va encore manquer de bouffe.}
+{112}{}{J'espère que les caravanes vont repasser bientôt.}
+{113}{}{On a une chance de s'en sortir, maintenant.}
+{114}{}{Adytum sera la ville qu'on veut qu'elle soit.}
+{115}{}{Merci pour ton aide.}
+{116}{}{Merci d'avoir viré les Régulateurs.}
+{117}{}{Merci pour notre liberté.}
+{118}{}{C'est bien que les Régulateurs soient partis.}
+{119}{}{Bienvenue dans la nouvelle Adytum.}

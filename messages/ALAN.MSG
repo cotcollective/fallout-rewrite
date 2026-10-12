@@ -1,0 +1,28 @@
+{100}{}{Tu vois un membre des Disciples.}
+{101}{}{Tu vois : Frère Alan, des Disciples.}
+{102}{}{Hé, salutations et bonne journée, mon pote. Quoi de neuf ?}
+{103}{}{Salut. Qu'est-ce que je peux faire pour toi ?}
+{104}{}{Bonjour.}
+{105}{}{Hé, salutations et bonne journée, mademoiselle. Quoi de neuf ?}
+{106}{}{Owoowngh !}
+{107}{}{Salut.}
+{108}{}{J'ai rencontré quelques Disciples. Vous faites quoi exactement ?}
+{109}{}{J'essaie de trouver un espion dans vos rangs, mais j'ai pas beaucoup de chance. Je peux te poser quelques questions ?}
+{110}{}{Oh, ben, j'étudie surtout la philo et des trucs comme ça. Je veux dire, si on veut amener la paix, faut de bonnes bases, non ?}
+{111}{}{Une cause qui en vaut la peine.}
+{112}{}{La seule philo dont t'as besoin, c'est un gros flingue !}
+{113}{}{Hmm. D'accord. Bon, je te parlerai plus tard, j'imagine.}
+{114}{}{Whoa ! Hé, je crois pas pouvoir t'aider.}
+{115}{}{Hé, c'est exactement ce genre d'attitude qui cause tous ces problèmes. Détends-toi, d'accord ?}
+{116}{}{Hé. Je blaguais.}
+{117}{}{Laisse-moi te donner un peu de paix... la paix éternelle.}
+{118}{}{Euh, sûr, vas-y.}
+{119}{}{Qu'est-ce que tu veux savoir d'autre ?}
+{120}{}{T'as eu des contacts avec les Enfants de la Cathédrale ?}
+{121}{}{Tu sors jamais de la bibliothèque ?}
+{122}{}{Tu connais quelqu'un qui sort régulièrement ?}
+{123}{}{Certainement pas. J'ai entendu dire que ce sont tous des tarés. Je voudrais pas leur parler.}
+{124}{}{Non, pourquoi je le ferais ? J'aime juste lire. Et de toute façon, seuls les éclaireurs vont vraiment quelque part.}
+{125}{}{Ben, juste les éclaireurs et les gardes. Les gardes vont patrouiller un peu de temps en temps. Je voulais être garde, mais... ben, je me suis fait botter le cul au corps à corps, alors j'ai pas pu y aller. Euh, les éclaireurs, eux, vont beaucoup plus loin, parfois jusqu'à la Cathédrale, je crois.}
+{126}{}{Plus de questions, merci.}
+{127}{}{[Suite]}

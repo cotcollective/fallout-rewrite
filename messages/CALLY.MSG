@@ -1,0 +1,2 @@
+{100}{}{Tu vois : Cally.}
+{101}{}{T'es assez bon pour te faufiler ici, mais assez bête pour te montrer ? Dommage !}

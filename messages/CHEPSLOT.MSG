@@ -1,0 +1,11 @@
+{100}{}{C'est une machine à sous mal réparée. Ça coûte 10 capsules pour jouer.}
+{101}{}{Tu mets 10 capsules dans la machine à sous et tu tires le levier.}
+{102}{}{DING ! DING ! DING !}
+# TRANSLATION NOTE: The space at the end of 103 is intentional. Do not remove it.
+{103}{}{Tu gagnes trois grenades. Excellent ! }
+# TRANSLATION NOTE: The space at the beginning of 104 is intentional. Do not remove it.
+{104}{}{ capsules tombent dans le plateau et tu les ramasses.}
+{105}{}{Ding ! Ding ! Ding !}
+{106}{}{Tu gagnes trois balles. Gagné ! 15 capsules tombent dans le plateau et tu les ramasses.}
+{107}{}{Ahh mince ! Tu perds.}
+{108}{}{Tu n'as pas assez d'argent pour jouer.}

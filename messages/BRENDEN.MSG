@@ -1,0 +1,28 @@
+{100}{}{Tu vois un jeune Initié sévère avec un livre.}
+{101}{}{Tu vois : l'Initié Brenden.}
+{102}{}{Bonjour. Comment puis-je t'aider ?}
+{103}{}{Je cherche la Scribe en chef Vree.}
+{104}{}{Je cherche le Général Maxson.}
+{105}{}{Je cherche le Paladin Rhombus.}
+{106}{}{Tu lis quoi ?}
+{107}{}{Gaahh.}
+{108}{}{Hmm. Apparemment je ne peux pas t'aider.}
+{109}{}{La Scribe en chef Vree est au niveau trois, dans le labo informatique.}
+{110}{}{Le Général Maxson est généralement au niveau quatre, dans la salle du Conseil.}
+{111}{}{Le Paladin Rhombus passe le plus clair de son temps au niveau un, dans la réserve.}
+{112}{}{Je peux t'aider pour autre chose ?}
+{113}{}{Merci. Bonne journée.}
+{114}{}{En fait, c'est un journal que je tiens. Je travaille sur un traité sur la dynamique sociale de la Confrérie.}
+{115}{}{Hmm. Ça a l'air intéressant.}
+{116}{}{Alors, c'est quoi le but ?}
+{117}{}{En effet. J'ai fait des recherches sur nos prédécesseurs d'avant la guerre et sur les sociétés du monde extérieur. Je pense que la Confrérie ressemble le plus, dans son organisation, aux Templiers du soi-disant « Moyen Âge ».}
+{118}{}{Pourquoi t'as décidé d'étudier ça ?}
+{119}{}{Les Templiers ?}
+{120}{}{Bien que la Confrérie mette l'accent sur les sciences dures et la technologie appliquée, il y a eu peu de recherche dans les sciences molles, comme la psychologie et la sociologie. Pour une éducation complète, nous devons appliquer la pensée scientifique à tous les domaines.}
+{121}{}{Alors qu'est-ce que t'as découvert ?}
+{122}{}{J'en suis arrivé à la conclusion que la Confrérie fonctionne surtout comme une organisation pseudo-religieuse. Nous avons une forte hiérarchie militaire, combinée à des codes d'honneur transmis par nos ancêtres. Ajoute à ça nos compétences techniques et je pense qu'il y a deux voies de développement pour la Confrérie : une dictature techno-religieuse ou une société de recherche bienveillante.}
+{123}{}{Qu'est-ce qui pourrait influencer le développement de la Confrérie ?}
+{124}{}{Au final nous avons une hiérarchie de commandement, avec les Aînés au sommet. Les positions les plus influentes sont donc les Aînés et le Haut Aîné. Un Haut Aîné charismatique pourrait diriger la Confrérie presque complètement. Nous devons veiller à avoir un leader à la fois fort et visionnaire. Heureusement, je pense que le Général Maxson correspond à cette description.}
+{125}{}{Selon mes recherches, les Templiers étaient une confrérie militaire axée sur l'acquisition de richesses et de connaissances. Bien qu'ils aient eu des accents religieux dans leur structure, leur quête de connaissances en a fait une organisation séculière. Je pense qu'ils auraient été une organisation plus théocratique s'ils s'étaient davantage intéressés à la richesse et au pouvoir, puisque l'église de cette époque s'occupait surtout de contrôler l'or et les terres.}
+{126}{}{Et quel rapport avec la Confrérie ?}
+{127}{}{Nous devons comprendre notre passé si nous voulons reconnaître nos directions futures... mais je suis sûr que tu ne comprendrais pas.}

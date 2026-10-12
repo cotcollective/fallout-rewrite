@@ -1,0 +1,31 @@
+{100}{}{Tu vois un technicien des Enfants de la Cathédrale.}
+{101}{}{Lâche tes armes et les Nightkin te laisseront vivre.}
+{102}{}{Nightkin, faites prisonnier cet idiot. Notre Maître sera satisfait.}
+{103}{}{Rejoins-nous, ne nous combats pas.}
+{104}{}{Tu deviendras un avec l'Unité !}
+{105}{}{Ne me tue pas, s'il te plaît. Je ne fais que travailler ici.}
+{106}{}{Tu ne tuerais pas un homme désarmé, n'est-ce pas ? N'est-ce pas ?!}
+{107}{}{Je me rends !}
+{108}{}{Tu n'as pas le droit d'être ici. Qu'est-ce que tu veux ?}
+{109}{}{Hne.}
+{110}{}{Qui es-tu ?}
+{111}{}{Chiens malades ! Je suis las de votre vie !}
+{112}{}{C'est quoi cet endroit ?}
+{113}{}{Tu es presque un Nightkin maintenant. J'espère que le trempage n'endommagera pas davantage ton intelligence.}
+{114}{}{Je fais partie de l'Unité. Je suis un glorieux serviteur de notre Maître. C'est moi qui te verrai devenir membre de l'Unité.}
+{115}{}{Tu le découvriras bien assez tôt.}
+{116}{}{C'est ici le berceau de la race supérieure ! C'est le ventre d'où frapperont les armées de dieu ! De la chair des faibles naîtra la prochaine race d'hommes. Ceux qui survivront au trempage deviendront les soldats de dieu, et de leurs mains nous façonnerons l'Unité.}
+{117}{}{Tu es fou ! Tu es complètement cinglé ! Meurs !}
+{118}{}{Comment ça marche ?}
+{119}{}{Tu seras attaché dans les saintes entraves. On te plongera dans une cuve du sang de dieu, le saint des saints. Le VEF te façonnera et te changera. Tu seras fort. Tu deviendras un Nightkin si tu as la chance et la dignité d'en recevoir l'honneur, sinon tu mourras de la mort la plus douloureuse possible. Bientôt, je serai honoré. Je deviendrai fort. Alors je ne craindrai aucun homme.}
+{120}{}{Tu as passé bien trop de temps avec les Nightkin. Adieu.}
+{121}{}{Et pourquoi tu me racontes tout ça ?}
+{122}{}{Où avez-vous trouvé le VEF ?}
+{123}{}{Tu ne partiras d'ici que comme membre de l'Unité, ou comme âme perdue en enfer ! (Le tech marque une pause.) En plus, je reste assis ici avec un tas de convertis. Ça fait du bien de vider mon sac.}
+{124}{}{Où avez-vous trouvé le VEF ?}
+{125}{}{Tu as tué la Main Droite de dieu. Le Maître sera très contrarié. Maintenant, il est temps pour nous de rejoindre la Sainte Flamme !}
+{126}{}{Tu as tué le Maître. La mort de l'Unité est ta faute. Tu as causé la mort de la race humaine. J'espère que tu te sens bien.}
+{127}{}{Hnnn.}
+{128}{}{En fait, oui.}
+{129}{}{Tu le rejoindras dans un instant. Prie le dieu qui a pris sa place.}
+{130}{}{Je vais le rejoindre maintenant, dans les Saintes Flammes !}

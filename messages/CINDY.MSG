@@ -1,0 +1,29 @@
+{100}{}{Tu vois : Cindy.}
+{101}{}{Elle pleure.}
+{102}{}{Bonjour, }
+{103}{}{. As-tu trouvé la Puce d'eau ?}
+{104}{}{Pas encore. Je n'ai pas eu beaucoup de chance.}
+{105}{}{Pas de chance pour l'instant, mais je sais que je la trouverai. Au fait, comment vas-tu ?}
+{106}{}{Urug !}
+{107}{}{Oh... tu ne me comprends pas. J'imagine qu'on n'a vraiment plus beaucoup d'espoir après tout. Excuse-moi pendant que je pleure.}
+{108}{}{Ugg !}
+{109}{}{Trouve-la avant qu'on meure de soif, s'il te plaît.}
+{110}{}{Tu dois la trouver ! Ne nous laisse pas mourir comme ça !}
+{111}{}{Continue d'essayer. Je crois en toi. Je sais que tu feras tout ce que tu peux pour nous sauver.}
+{112}{}{Qui crois-tu qui pourrait être impliqué ?}
+{113}{}{J'ai peur de ce qui se passe. Quelqu'un a volé de l'eau et maintenant tout le monde est sur les nerfs.}
+{114}{}{Qui ferait une chose pareille ?}
+{115}{}{Qu'est-ce qui s'est passé ?}
+{116}{}{Des gens ont été accusés et des bagarres ont éclaté à ce sujet, mais personne ne sait vraiment.}
+{117}{}{D'accord. Merci.}
+{118}{}{Des gens ont signalé que leur eau avait été volée. On ne leur a pas donné plus d'eau, mais des amis ont partagé avec eux. Après ça, tout le monde est devenu très parano et a commencé à garder son eau. Quelques jours plus tard, quelqu'un a assommé le garde de la zone des rations et a volé des rations d'eau dans les casiers.}
+{119}{}{C'est terrible ! Que puis-je faire ?}
+{120}{}{Peut-être que tu peux arrêter celui qui fait ça.}
+{121}{}{Je vais jeter un œil.}
+{122}{}{C'est toi le voleur d'eau ?! Comment as-tu pu ?}
+{123}{}{Merci infiniment de nous avoir tous sauvés.}
+{124}{}{Tu as bien fait d'attraper le voleur. Dépêche-toi de trouver la Puce d'eau, s'il te plaît.}
+{125}{}{Comment as-tu pu nous trahir ? Maintenant tout le monde ici va mourir ! Mais tu t'en fiches, n'est-ce pas ?}
+{126}{}{J'ai peur. Je ne sais pas ce qui va tous nous arriver. S'il te plaît, ne nous laisse pas tomber.}
+{127}{}{Ne t'inquiète pas, je ferai de mon mieux. Tout ira bien.}
+{128}{}{Ouais, c'est ça.}

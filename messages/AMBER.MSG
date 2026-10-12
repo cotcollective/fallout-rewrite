@@ -1,0 +1,45 @@
+{100}{}{Tu vois : Amber, une enseignante des Disciples.}
+{101}{}{C'est l'heure de mon repos. Reviens pendant la soirée, s'il te plaît.}
+{102}{}{Bienvenue, noble voyageur. Es-tu venu ici pour étudier ?}
+{103}{}{Non. Je suis vraiment venu ici juste pour tuer des trucs.}
+{104}{}{Ça dépend de ce que tu veux m'apprendre.}
+{105}{}{Oui, je suis prêt à apprendre.}
+{106}{}{Je suis vraiment désolée de l'apprendre. Les Disciples croient en la paix à tout prix. Pour cette raison, j'ai renoncé à la violence. Bonne soirée.}
+{107}{}{Je maîtrise beaucoup de langues et d'arts. Tu voudrais peut-être en apprendre un ?}
+{108}{}{Je suis désolé, mais j'ai besoin de savoir des choses qui m'aideront à survivre.}
+{109}{}{J'ai pas le temps pour ce genre de trucs. Je m'en vais.}
+{110}{}{Je peux peut-être écouter une chanson ou deux.}
+{111}{}{Tu peux m'apprendre autre chose ?}
+{112}{}{Ah, nous avons ici un étudiant de la vie. Dans ce cas, je peux t'apprendre un peu d'herboristerie, mais l'entraînement prend du temps pour peu de résultats.}
+{113}{}{Bien, apprends-moi, c'est tout.}
+{114}{}{S'il te plaît, apprends-moi ce que tu peux.}
+{115}{}{Désolé, j'ai vraiment pas le temps pour les plantes. Au revoir.}
+{116}{}{Pas besoin d'être impoli. Excuse-toi maintenant, ou je t'apprendrai rien.}
+{117}{}{Je suis désolé. Tu veux bien m'apprendre ?}
+{118}{}{Laisse tomber.}
+{119}{}{C'est mieux. Nous allons commencer tes études.}
+{120}{}{Tu apprends vite. Que tes épreuves soient légères. Va en paix.}
+{121}{}{Comme tu veux. Que l'avenir adoucisse ton cœur et élargisse ton esprit.}
+{122}{}{Très bien, je vais t'apprendre les voies de la survie.}
+{123}{}{Tu apprends vite. Que tes épreuves soient légères. Va en paix.}
+{124}{}{Tu ne me convaincs pas. Je crois que tu cherches à utiliser mes dons pour le mal. Bonne soirée.}
+{125}{}{Ah, un étudiant des arts est rare en ce monde. Il y a peut-être de l'espoir pour toi. Chaque chanson est longue. Laquelle veux-tu entendre ?}
+{126}{}{Dans le Sillage de l'Ombre.}
+{127}{}{La Ballade d'Aires.}
+{128}{}{En mémoire d'Artémis.}
+{129}{}{L'Avènement du Char de l'Aube.}
+{130}{}{Une œuvre étonnante. Je vais t'accorder une audience.}
+{131}{}{Je dois me reposer. Cet enseignement me vide beaucoup. Bonne chance.}
+{132}{}{Une œuvre étonnante. Je vais t'accorder une audience.}
+{133}{}{Je dois me reposer. Cet enseignement me vide beaucoup. Bonne chance.}
+{134}{}{Une œuvre étonnante. Je vais t'accorder une audience.}
+{135}{}{Je dois me reposer. Cet enseignement me vide beaucoup. Bonne chance.}
+{136}{}{Une œuvre étonnante. Je vais t'accorder une audience.}
+{137}{}{Je dois me reposer. Cet enseignement me vide beaucoup. Bonne chance.}
+{138}{}{J'ai peur de m'être trop dépensée. Je suis désolée.}
+{139}{}{La Paix et la Beauté sont tout ce que je peux enseigner. Je suis désolée que ça ne te plaise pas. Bonne journée.}
+{140}{}{Je peux t'apprendre les voies des vieux bardes et ménestrels.}
+{141}{}{Ce serait un honneur d'entendre une chanson.}
+{142}{}{Peut-être une autre fois. Merci.}
+{143}{}{J'espérais apprendre quelque chose qui m'aiderait davantage.}
+{144}{}{Tu n'as pas besoin de mes talents. Tu as appris à des gens pacifiques les voies de la guerre. Je les pleure maintenant.}

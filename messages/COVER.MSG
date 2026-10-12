@@ -1,0 +1,4 @@
+{100}{}{Tu remets le couvercle de fer sur la bouche d'égout.}
+{101}{}{Tu retires le couvercle de la bouche d'égout et tu regardes dans l'obscurité. Tu vois une échelle qui mène aux égouts.}
+{102}{}{Tu forces sur tes muscles, mais le lourd disque de fer est trop pour ton faible physique. Tu sens quelque chose craquer dans ton dos.}
+{103}{}{Le couvercle de la bouche d'égout est lourd et difficile à soulever.}

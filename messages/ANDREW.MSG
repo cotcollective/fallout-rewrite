@@ -1,0 +1,17 @@
+{100}{}{Tu vois : Andrew, le garde de la prison.}
+{101}{}{D'accord, tu peux y aller maintenant.}
+{102}{}{Hé ! Toi ! Halte !}
+{103}{}{Je peux t'aider ?}
+{104}{}{Qui es-tu ?}
+{105}{}{Qu'est-ce que tu fais ?}
+{106}{}{Non merci.}
+{107}{}{Je suis Andrew. Mon boulot, c'est de garder la prison.}
+{108}{}{Je garde la prison. Je m'assure que les crapules n'entrent ni ne sortent.}
+{109}{}{Pourquoi tu empêcherais les gens d'entrer en prison ?}
+{110}{}{Oh.}
+{111}{}{Bonne journée. Et reste en dehors des ennuis.}
+{112}{}{Quelqu'un pourrait laisser quelque chose pour aider un prisonnier à s'évader. Ou quelqu'un pourrait se retrouver enfermé dedans, coincé jusqu'à ce qu'on retrouve les clés.}
+{113}{}{Eergh !}
+{114}{}{Circule, mon pote.}
+{115}{}{Circule, mademoiselle.}
+{116}{}{Hé ! Arrête ça !}

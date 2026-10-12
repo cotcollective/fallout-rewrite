@@ -1,0 +1,28 @@
+# Alchemist: Warning! Achtung! Uwaga!
+# Beca's script is bound to the ol' black male at the Blades map, but this is
+# temporary measure. Actually Quatermistress IS a women! So she must be
+# referenced as 'SHE/HER' NOT 'he/his/him'. 'Jade' stands for nickname and
+# 'Bec'a stands for the real one.
+
+{100}{}{Tu vois : Jade.}
+{101}{}{Tu vois : Beca.}
+{102}{}{}
+{103}{}{}
+{104}{}{Tu vois un membre des Lames.}
+{105}{}{Tu vois un membre des Lames.}
+{106}{}{Tu penses que ça pourrait être Books.}
+{107}{}{Tu penses que ça pourrait être Scars.}
+{108}{}{Tu penses que ça pourrait être Gunner.}
+{109}{}{Tu penses que ça pourrait être Twitch.}
+{110}{}{Tu penses que ça pourrait être Hammer.}
+{111}{}{Tu penses que ça pourrait être Razor.}
+{112}{}{Ce sont des dortoirs. Maintenant dégage avant que je te botte le cul.}
+{113}{}{Fais comme chez toi.}
+{114}{}{Désolé pour ça. Au revoir.}
+{115}{}{Je peux crécher ici ?}
+{116}{}{Non. C'est pour les vrais Lames, pas pour les mauviettes.}
+{117}{}{Hé, mon pote ! Quoi de neuf ? Créche ici si t'as besoin d'un endroit sûr.}
+{118}{}{Alors, tu t'es porté volontaire pour aider. C'est mieux que rien, je suppose. Merci. Je vais faire passer le mot.}
+{119}{}{Ouais, je vais aller voir ce que je peux faire.}
+{120}{}{Hé, on m'a dit que tu nous as vraiment aidés. Tu mérites amplement notre respect. On est libres maintenant. (Tu es maintenant membre du gang des Lames.)}
+{121}{}{Je peux pas t'aider avec ça. Va parler à Razor.}

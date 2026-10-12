@@ -1,0 +1,14 @@
+{100}{}{Tu vois un étrange disque.}
+{101}{}{Pip-Boy 2000 affiche : « Téléchargement ... Abandon, données déjà existantes ! »}
+{102}{}{Pip-Boy 2000 affiche : « Téléchargement des données ... ... ... Terminé. Bonne journée ! »}
+#
+# for Fallout Fixt:
+#
+{103}{}{Cet objet est très vieux et porte un étrange insigne. Tu penses que c'est peut-être ce que la Confrérie de l'Acier t'a envoyé récupérer.}
+{104}{}{Tu vois : Disque ancestral de la Confrérie.}
+# 
+{125}{}{Tu vois un étrange disque de la Base militaire.}
+# 
+#
+# Received from MRS STAPLETON in The Hub
+{127}{}{Cet holodisque est en excellent état. L'étiquette brillante indique : « Emplacements des Abris v34.129 ».}

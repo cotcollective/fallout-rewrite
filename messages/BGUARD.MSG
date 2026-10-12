@@ -1,0 +1,8 @@
+{100}{}{Tu vois un garde.}
+{101}{}{Je bosse pour le marchand ici. Je m'assure que personne l'embête.}
+{102}{}{T'as des donuts ?}
+{103}{}{Si tu le casses, tu l'achètes !}
+{104}{}{Les voleurs à l'étalage seront tués !}
+{105}{}{Tu vas acheter quelque chose ? Peut-être ce siècle-ci ?}
+{106}{}{On peut pas combattre les radscorpions sans ce matos.}
+{107}{}{Je bosse pour le marchand ici. Je m'assure que personne l'embête.}

@@ -1,0 +1,6 @@
+{100}{}{C'est un holodisque détaillant le Code de Conduite de la Confrérie de l'Acier.}
+{101}{}{Pip-Boy 2000 affiche : "Téléchargement ... Abandon, données déjà existantes !"}
+{102}{}{Pip-Boy 2000 affiche : "Téléchargement des données ... ... ... Terminé. Bonne journée !"}
+{103}{}{Tu vois un disque décodeur de chiffrement.}
+{104}{}{Tu vois un holodisque.}
+{105}{}{On dirait qu'il est fait pour être inséré dans un terminal afin d'exécuter des algorithmes de déchiffrement.}

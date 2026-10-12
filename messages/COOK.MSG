@@ -1,0 +1,5 @@
+{100}{}{Tu vois un cuisinier occupé à préparer un repas.}
+{101}{}{Je suis trop occupé pour parler en ce moment. Je dois finir ce repas !}
+{102}{}{Hmmm ! Ça sent vraiment bon. Je parie que c'est délicieux !}
+{103}{}{Je suis trop occupé pour parler en ce moment. Je dois finir ce repas !}
+{104}{}{Eh bien, merci. Je suis sûr que tu vas te régaler. Merci pour le compliment. Je vais parler de toi à tous mes amis.}

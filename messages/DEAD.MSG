@@ -1,0 +1,5 @@
+{100}{}{Des corps morts...}
+{101}{}{Ils ont été tués récemment par une sorte d'animal.}
+{102}{}{Ils ont été tués récemment.}
+{103}{}{Ils dorment peut-être.}
+{104}{}{Ils sont morts.}

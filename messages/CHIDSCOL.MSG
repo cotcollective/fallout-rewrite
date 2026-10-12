@@ -1,0 +1,22 @@
+{100}{}{Tu vois : l'Érudit Theslin, des Enfants de la Cathédrale.}
+{101}{}{Tu vois : l'Érudit Slater, des Enfants de la Cathédrale.}
+{102}{}{Tu vois : l'Érudit Aunanut, des Enfants de la Cathédrale.}
+{103}{}{Tu vois : l'Érudit Eikenkoff, des Enfants de la Cathédrale.}
+{104}{}{Tu vois : l'Érudit Spikavar, des Enfants de la Cathédrale.}
+{105}{}{Tu vois : l'Érudit Varalone, des Enfants de la Cathédrale.}
+{106}{}{Tu vois : l'Érudit Quinonos, des Enfants de la Cathédrale.}
+{107}{}{Tu vois : l'Érudit Ziegliff, des Enfants de la Cathédrale.}
+{108}{}{Tu vois : l'Érudit Jones, des Enfants de la Cathédrale.}
+{109}{}{Tu vois : l'Érudit Smithe, des Enfants de la Cathédrale.}
+
+{110}{}{Quelque part par ici se trouvent les plans des Disciples.}
+{111}{}{Je suis certain que les Disciples avaient une liste de tous leurs alliés.}
+{112}{}{Ces imbéciles auraient dû savoir qu'il ne fallait pas se frotter à notre dieu !}
+{113}{}{Disparais, de peur de finir comme ces Disciples insensés.}
+{114}{}{Nul n'entravera la purification des terres désolées.}
+{115}{}{Nous leur avons offert la paix. Ils ont cherché la guerre.}
+{116}{}{D'où venait cette goule insensée ?}
+{117}{}{Quelque part il doit y avoir une liste de tous les Disciples.}
+{118}{}{Malheureusement, nous ne pouvons fouiller cet endroit que le jour.}
+{119}{}{Nous devons nous méfier des Nightkin, car ils cherchent pendant les heures sombres.}
+{120}{}{Puisses-tu vivre des temps intéressants !}

@@ -1,0 +1,9 @@
+{100}{}{Tu vois l'assistante du Docteur.}
+{179}{}{Tu devrais voir le Docteur.}
+{180}{}{C'est elle le Docteur, pas moi.}
+{181}{}{Je suis encore en formation.}
+{182}{}{Je peux pas t'aider, officiellement.}
+{183}{}{Lorri est le Docteur.}
+{184}{}{Faut demander au Docteur.}
+{185}{}{T'inquiète, elle blague.}
+{186}{}{Elle aime juste taquiner, t'inquiète.}

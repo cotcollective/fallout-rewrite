@@ -1,0 +1,7 @@
+{100}{}{Hé mon pote, t'aurais pas de la monnaie ?}
+{101}{}{J'essaie de boire ici !}
+{102}{}{Je me sens pas très bien.}
+{103}{}{Mec, faut que je trouve du boulot.}
+{104}{}{Tu pourrais me passer les cacahuètes ?}
+{105}{}{Pas assez bourré...}
+{106}{}{Jaeger... Jaeger...}

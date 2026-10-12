@@ -1,0 +1,16 @@
+{100}{}{Tu vois un Enfant avec une vraie attitude.}
+{101}{}{Dégage de ma vue, fils de pute !}
+{102}{}{Éloigne-toi de moi !}
+{103}{}{Qu'est-ce que tu veux, bordel ?}
+{104}{}{Où pourrais-je rencontrer ce Maître ?}
+{105}{}{Pour savoir ce qui se passe par ici.}
+{106}{}{Qui commande ici ?}
+{107}{}{Hé, détends-toi ! Prenons un verre !}
+{108}{}{Pour ajouter tes oreilles à ma collection.}
+{109}{}{Moi pas vouloir enfer ! Homme stupide !}
+{110}{}{En enfer, loser.}
+{111}{}{Tu poses toujours des questions stupides, loser ?}
+{112}{}{C'est sûrement pas toi, minable.}
+{113}{}{Qu'est-ce qui te fait croire que j'ai envie de boire avec toi, vomissure !}
+{114}{}{Dégage d'ici avant que je te tue !}
+{115}{}{[Terminé]}

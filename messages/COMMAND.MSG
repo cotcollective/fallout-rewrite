@@ -1,0 +1,19 @@
+{100}{}{On dirait l'ordinateur de contrôle du champ de force.}
+{101}{}{Il semble avoir un émetteur pour la signalisation de champ, un récepteur pour les commandes à distance, et un port standard de communication radio de données.}
+{102}{}{Quand tu actives l'ordinateur, tu entends un bourdonnement grave dans tout le complexe.}
+{103}{}{Tu n'utilises pas l'ordinateur correctement.}
+{104}{}{Tu ne peux pas désactiver l'ordinateur. Toutes les commandes sont verrouillées et chiffrées.}
+{105}{}{Tu ne comprends pas le système d'exploitation.}
+{106}{}{Les sous-systèmes du champ de force ne sont vraiment pas assez protégés contre un talent de ton calibre. Tu éteins tous les champs de force de ce niveau.}
+{107}{}{Les sous-systèmes du champ de force sont bien protégés, mais tu parviens à en éteindre la moitié. C'est le mieux que tu puisses faire.}
+{108}{}{Les sous-systèmes du champ de force sont protégés contre l'intrusion électronique. Tu passes un moment à travailler dessus, mais tu ne les as pas encore percés.}
+{109}{}{Tu fais sauter la banque à une partie de 21 et tu t'infiltres dans le système principal par l'écran de fin de partie.}
+{110}{}{Tu joues une partie de 21, mais tu n'es pas assez bon pour le percer.}
+{111}{}{Le seul dossier non protégé est le dossier Jeux Récréatifs, qui pourrait servir de porte dérobée.}
+{112}{}{Le seul dossier non protégé est le dossier Jeux Récréatifs.}
+{113}{}{Tu regardes l'ordinateur avec dégoût.}
+{114}{}{Tu penses que tous les dossiers sont protégés, mais tu n'as pas terminé ta recherche.}
+{115}{}{Tu as percé le système principal et tu dois maintenant reprogrammer les contrôles du champ de force.}
+{116}{}{Tu gagnes 800 points d'expérience pour tes procédures de piratage inhabituelles. Blackjack !}
+{117}{}{Tu relies la radio à l'ordinateur de contrôle du champ de force.}
+{118}{}{Ta tentative de brancher la radio sur l'ordinateur échoue.}

@@ -1,0 +1,48 @@
+{100}{}{Tu vois une femme âgée.}
+{101}{}{Tu vois : Agatha.}
+{102}{}{Cette femme est ridée et grise, mais elle a le pas alerte et une personnalité rayonnante.}
+{103}{}{Tu es une mauvaise personne. Je ne veux rien avoir à faire avec toi.}
+{104}{}{C'est terrible quand nos jeunes sont menacés. La perte de Tandi serait terrible.}
+{105}{}{Hnng.}
+{106}{}{D'accord.}
+{107}{}{Pourquoi ?}
+{108}{}{Qu'est-ce que tu veux dire ?}
+{109}{}{Je sais que tu feras de ton mieux, mon petit. Trouve Tandi, aide-la à échapper à ces bêtes et ramène-la à Aradesh. Tu rendras service à cette communauté et tu te feras du bon karma, en plus.}
+{110}{}{Aradesh aime énormément sa fille. C'est cet amour qui fait de lui l'homme qu'il est et un pilier de cette communauté. Sans cet amour il serait perdu, et Shady Sands suivrait sûrement...}
+{111}{}{Je ferai de mon mieux. Au revoir.}
+{112}{}{J'aurais besoin d'aide.}
+{113}{}{Hmmm. On verra.}
+{114}{}{Je sens qu'elle est emprisonnée. Elle était la cible de la haine. Cette haine est très forte vers le sud-est. Je suis sûre que tu la trouveras là-bas. Bonne chance.}
+{115}{}{Merci.}
+{116}{}{Tu n'as pas entendu ? Tandi a disparu. Je sens qu'elle a été kidnappée. Aradesh est très affecté. C'est terrible...}
+{117}{}{J'ai entendu dire que tu as sauvé Tandi. C'était la bonne chose à faire. Ton karma est fort. J'ai de grands espoirs pour ton avenir.}
+{118}{}{Je suis désolée d'apprendre pour Tandi. C'était une jeune femme si brillante. Elle aurait fait du bien dans sa vie.}
+{119}{}{Bonjour. Tu dois être l'étranger dont tout le monde parle. *soupir* Comment puis-je t'aider ?}
+{120}{}{Hngh.}
+{121}{}{Qui es-tu ?}
+{122}{}{Tu as l'air très fatigué. Il y a quelque chose qui ne va pas ?}
+{123}{}{Pourquoi as-tu l'air si fatigué ?}
+{124}{}{Ne me parle pas, vieille femme.}
+{125}{}{Tu as besoin de plus d'aide que je ne peux t'en donner, mon enfant. Que Dharma soit avec toi.}
+{126}{}{Je m'appelle Agatha. Je suis la conteuse de Shady Sands. C'est mon travail de garder l'histoire pour que nous nous souvenions et n'oubliions jamais.}
+{127}{}{Raconte-moi une histoire.}
+{128}{}{D'accord, peu importe.}
+{129}{}{C'est bien de ne pas oublier.}
+{130}{}{Je suis désolée, mon enfant, je suis fatiguée en ce moment. J'ai besoin de me reposer. Reviens plus tard, s'il te plaît.}
+{131}{}{Que c'est vrai. (Elle te fixe un moment) C'est bien que les jeunes se souviennent, mais c'est très dur d'agir dans le cours de l'histoire. Parfois, le chemin que nous prenons est déterminé par des événements d'il y a longtemps. Que Dharma soit avec toi. Je dois me reposer un peu. Reviens quand je serai plus forte, et nous parlerons à nouveau.}
+{132}{}{Merci de demander. Je suis juste vieille, c'est tout. Je ne dors pas la nuit. Je ferme les yeux... (Elle s'interrompt), mais je ne trouve pas le repos. S'il te plaît, ce ne sont que mes vieux os fatigués...}
+{133}{}{Je suis désolée, je suis très fatiguée. Tu pourrais revenir plus tard, s'il te plaît ?}
+{134}{}{Baba.}
+{135}{}{D'accord.}
+{136}{}{Pourquoi es-tu si fatiguée ?}
+{137}{}{Je ne dors pas bien la nuit, mon enfant. Ça doit être mon âge.}
+{138}{}{Bonjour, mon enfant. Tu as bonne mine. Tu me rappelles mon propre bébé.}
+{139}{}{Hng.}
+{140}{}{Je veux une histoire, alors.}
+{141}{}{Je suis content que tu te sentes mieux.}
+{142}{}{Merci. Au revoir.}
+{143}{}{Tu me rappelles vraiment mon bébé. Quand elle avait juste quelques mois, en fait.}
+{144}{}{Merci. Dharma disait toujours que le fermier qui sème la politesse marchera léger quand la saison sera finie.}
+{145}{}{Raconte-moi une histoire, s'il te plaît.}
+{146}{}{Ce Dharma a l'air d'un idiot.}
+{147}{}{Tu insultes tes aînés. Tu devrais avoir honte.}

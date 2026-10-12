@@ -1,0 +1,16 @@
+{100}{}{On retourne au Hub.}
+{101}{}{Tu reviens avec nous ?}
+{102}{}{Prêt à partir.}
+{103}{}{J'espère qu'il me reste assez de balles...}
+{104}{}{J'adore ce boulot !}
+{105}{}{Allons-y !}
+{106}{}{Bouge-toi !}
+{107}{}{On les a tous tués !}
+{108}{}{C'était facile !}
+{109}{}{Parle pas, bouge ton cul !}
+{110}{}{Tu es prêt à partir ?}
+{111}{}{Je suis pas payé pour parler.}
+{112}{}{Sale endroit de merde, mec !}
+{113}{}{Je suis pas payé pour parler.}
+{114}{}{Occupe-toi de tes affaires, tu veux ?}
+{115}{}{Occupe-toi de tes affaires, tu veux ?}

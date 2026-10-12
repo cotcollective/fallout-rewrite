@@ -1,0 +1,2 @@
+{100}{}{Les décombres se sont amoncelés dans l'entrée. C'est trop lourd à bouger. Tu te demandes si la Puce d'eau a pu s'y trouver un jour. Si oui, elle n'est plus disponible.}
+{101}{}{De gros rochers bloquent le passage vers la pièce. Tu t'échines à bouger un rocher, mais il ne bouge pas.}

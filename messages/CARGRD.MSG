@@ -1,0 +1,41 @@
+{100}{}{Tu vois un garde de caravane.}
+{101}{}{Je n'arrive pas à croire qu'on a perdu le patron. Tu veux revenir avec nous ? On peut encore te payer les 400 capsules.}
+{102}{}{C'est dommage qu'on ait perdu le conducteur ; Rutger n'aimera pas ça du tout. Si tu veux, on peut quand même te payer pareil pour revenir avec nous au Hub.}
+{103}{}{Tu reviens avec nous ? Je vais conduire cet engin. La paie sera la même.}
+{104}{}{Eh bien, je sais pas pour toi, mais je crois que je vais attendre une autre caravane. Je veux pas rentrer seul. Si tu veux rentrer je viens avec toi, mais si j'y arrive pas tu toucheras pas les 400 capsules.}
+{105}{}{C'était assez moche. Si tu veux vraiment, je peux te trouver 400 autres capsules si tu reviens au Hub avec moi. C'est dangereux pour une seule personne.}
+{106}{}{Tu auras 400 autres capsules si tu peux me ramener sain et sauf au Hub avec la caravane, mais seulement si j'y arrive. Tu devras me couvrir si on se bat.}
+{107}{}{D'accord, je viens avec toi.}
+{108}{}{Non merci. J'en ai assez eu du service de garde.}
+{109}{}{Tuk.}
+{110}{}{Super ! Sortons d'ici !}
+{111}{}{D'accord, je comprends.}
+{112}{}{Je me débrouillerai.}
+{113}{}{Très bien.}
+{114}{}{Ça va ?}
+{115}{}{Je crois que tu as besoin de repos.}
+{116}{}{Euh, tu devrais voir le toubib de la Confrérie.}
+{117}{}{On a perdu le patron. Tu peux revenir avec nous ? On peut encore te payer les 400 capsules.}
+{118}{}{Notre conducteur était quelqu'un de bien... une perte terrible. Je peux quand même te payer les 400 capsules si tu veux revenir avec nous au Hub.}
+{119}{}{Je nous ramènerai si tu veux venir avec nous. La paie sera la même.}
+{120}{}{Wow, je n'arrive pas à croire qu'on est les deux seuls survivants. Je viens avec toi, mais si j'y arrive pas tu toucheras pas les 400 capsules.}
+{121}{}{C'était assez moche. Si tu veux vraiment, je peux te trouver 400 autres capsules si tu reviens au Hub avec moi. C'est trop dangereux pour une seule personne.}
+{122}{}{Tu auras 400 autres capsules si tu peux me ramener sain et sauf au Hub avec la caravane, mais seulement si j'y arrive. Tu devras me couvrir si on se bat.}
+{123}{}{Alors, tu as changé d'avis ?}
+{124}{}{Oui, je prends le boulot.}
+{125}{}{Non.}
+{126}{}{Hra ?}
+{127}{}{Désolé, on ne retourne pas au Hub aujourd'hui.}
+{128}{}{Euh, désolé. Je crois qu'on n'a pas besoin de toi pour le voyage de retour.}
+{129}{}{Parle à notre conducteur si tu veux te faire embaucher.}
+{130}{}{Salut. Si tu cherches du boulot, vois notre conducteur de caravane.}
+{131}{}{Eh bien, bonjour.}
+{132}{}{Désolé, je peux pas parler.}
+{133}{}{Tu reviens au Hub avec nous ?}
+{134}{}{J'adore le service de caravane ; beaucoup d'action et des capsules. Mmmm.}
+{135}{}{Les Far Go Traders sont super pour qui bosser.}
+{136}{}{J'aime bosser pour les Far Go Traders ; ils prennent pas de risques idiots.}
+{137}{}{Les caravanes de la Caravane Cramoisie sont les meilleures.}
+{138}{}{La Caravane Cramoisie paie tellement bien que je prendrai ma retraite dans un an.}
+{139}{}{Parle à l'autre garde si tu veux revenir avec nous.}
+{140}{}{Voici tes capsules. On aurait besoin d'un coup de main pour rentrer si tu peux.}

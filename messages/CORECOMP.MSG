@@ -1,0 +1,5 @@
+{100}{}{Cet ordinateur surveille les machines qui entretiennent l'Abri.}
+{101}{}{La plupart de tes accès informatiques ont été révoqués sur ordre du système IA de l'Abri.}
+{102}{}{Ceci est le Noyau Informatique Central de l'Abri 13. Il contrôle la plupart des stations de travail que tu trouves dans l'Abri.}
+{103}{}{Tu tripotes l'ordinateur mais tu n'apprends rien d'autre à son sujet.}
+{104}{}{Il y a plein de voyants qui clignotent sur cet engin.}

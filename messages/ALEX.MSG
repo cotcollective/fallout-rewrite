@@ -1,0 +1,17 @@
+{100}{}{Tu vois : Alex, le Régulateur de garde de nuit.}
+# TRANSLATION NOTE
+# The player-character's name is inserted after line 101.
+{101}{}{Entre, }
+{102}{}{Désolé, je peux pas te laisser entrer. Reviens le matin.}
+{103}{}{Halte ! Qui va là ?}
+{104}{}{Je suis juste un voyageur. J'aimerais entrer.}
+{105}{}{Ça te regarde pas.}
+{106}{}{Euh, désolé. Je m'en vais.}
+{107}{}{Aucun étranger n'est autorisé dans les murs d'Adytum, par ordre du maire.}
+{108}{}{J'ai juste besoin d'un endroit pour dormir cette nuit.}
+{109}{}{Je suis désolé, mais je peux pas te laisser entrer. Fais demi-tour et pars ou je devrai tirer.}
+{110}{}{Écoute, c'est mon devoir et mon honneur de servir comme garde de nuit d'Adytum, alors ça me regarde. Tu fais demi-tour et tu pars, ou je vais devoir devenir sérieux.}
+{111}{}{Dégage de ma vue, shérif.}
+{112}{}{Essaie de revenir le matin.}
+{113}{}{Oh, c'est comme ça. Là, les gants sont enlevés !}
+{114}{}{Nghgh.}

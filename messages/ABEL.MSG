@@ -1,0 +1,56 @@
+{100}{}{Tu vois : Abel.}
+{101}{}{Tu vois un gros mutant.}
+{102}{}{Tu n'es pas censé être ici.}
+{103}{}{Hng.}
+{104}{}{Bien sûr que non. Je suis là pour te tuer !}
+{105}{}{Pourquoi tu dis ça ?}
+{106}{}{Oh ouais ? Ta mère !}
+{107}{}{Pik !}
+{108}{}{Je vais te botter le cul si tu redis ça !}
+{109}{}{Pik ! Pik !}
+{110}{}{Oh, tu vas voir ce que tu vas voir !}
+{111}{}{Toi humain. Moi mutant. Mutant tuer humain.}
+{112}{}{Comment tu peux faire ça ? Et le champ de force ?}
+{113}{}{Abel s'en occuper. Ensuite Abel botter ton cul !}
+{114}{}{Les enfants pas autorisés ici. Endroit des mutants. Va-t'en.}
+{115}{}{Hng !}
+{116}{}{Je dois passer ce champ de force. Baisse-le, s'il te plaît.}
+{117}{}{Non.}
+{118}{}{Toi encore. Abel botter ton cul !}
+#
+# Tell Me About name
+#
+# Duplicates are needed due to how engine processes the Tell-Me-Abouts.  -Sduibek
+{970}{}{Moi Abel.}
+{971}{}{Moi Abel.}
+{972}{}{Moi Abel.}
+{973}{}{Moi Abel.}
+{974}{}{Moi Abel.}
+{975}{}{Moi Abel.}
+{976}{}{Moi Abel.}
+{977}{}{Moi Abel.}
+{978}{}{Moi Abel.}
+{979}{}{Moi Abel.}
+#
+# Tell Me About, "don't know what that is"
+#
+{980}{}{Hng.}
+{981}{}{Pourquoi toi dire ça ?}
+{982}{}{Pik !}
+{983}{}{Ung... hein ?}
+{984}{}{Hmm ?}
+{985}{}{Toi dire quoi ?}
+{986}{}{Quoi, hmm ?}
+{987}{}{Euh... moi pas savoir.}
+{988}{}{Moi pas savoir.}
+{989}{}{C'est quoi ça ?}
+{990}{}{}
+{991}{}{}
+{992}{}{}
+{993}{}{}
+{994}{}{}
+{995}{}{}
+{996}{}{}
+{997}{}{}
+{998}{}{}
+{999}{}{}

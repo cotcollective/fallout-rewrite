@@ -1,0 +1,30 @@
+{100}{}{Tu vois une très belle jeune femme.}
+{101}{}{Tu vois : Christine, la femme de Michael.}
+{102}{}{Bonjour ? Je peux t'aider ?}
+{103}{}{Qui es-tu ?}
+{104}{}{Qui commande par ici ?}
+{105}{}{Tu peux me parler un peu de la région ?}
+{106}{}{Non merci.}
+{107}{}{Tu es ma maman ?}
+{108}{}{Je m'appelle Christine, je vis ici avec mon mari Michael.}
+{109}{}{Razor s'occupe de la plupart des choses avec les Lames, et nous aide à nous organiser.}
+{110}{}{Michael et moi venons d'emménager, alors je n'ai pas beaucoup vu la région. J'ai entendu parler d'une grande église au sud, mais ça ressemble surtout à des rumeurs.}
+{111}{}{Y a-t-il autre chose que je devrais savoir ?}
+
+#
+# TRANSLATION NOTE: Do NOT translate the next 4 lines.  They will NOT make any sense in any other language.
+#
+# The letters are crude phonetic spellings of words. To "decode" this message, simply read the lines out loud, and the message becomes:
+#
+#  Christine: See the itty-bitty ducks?
+#    Player: Them are not ducks. 
+#  Christine: Oh yes them are! / See the itty-bitty wings?
+#    Player: Why I'll be! Them are ducks! 
+#
+{112}{}{C D E D B D Ducks}
+{113}{}{M R Not Ducks}
+{114}{}{O S M R                                                                   C D E D B D Wings}
+{115}{}{Y I B M R Ducks}
+
+{116}{}{Que puis-je faire d'autre pour t'aider ?}
+{117}{}{Non, je ne suis pas ta maman. Maintenant va jouer.}

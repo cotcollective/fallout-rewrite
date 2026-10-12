@@ -1,0 +1,5 @@
+{100}{}{Cette personne devait être très près de l'explosion.}
+{101}{}{Ce corps est tellement carbonisé que tu ne peux même pas deviner ce qu'il était autrefois.}
+{102}{}{Les vents changeants ont fait s'envoler une partie des cendres.}
+{103}{}{L'explosion nucléaire a dû causer ces dégâts.}
+{104}{}{Les cendres glissent entre tes doigts.}

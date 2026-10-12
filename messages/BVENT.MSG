@@ -1,0 +1,2 @@
+{100}{}{C'est ici que devrait se trouver l'entrée principale de l'Abri.}
+{101}{}{L'effondrement semble naturel. Tu ne trouves aucune trace de sabotage ni d'explosifs.}

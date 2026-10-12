@@ -1,0 +1,28 @@
+{100}{}{Tu vois : l'Initié Ronald, des Enfants de la Cathédrale.}
+{101}{}{Tu vois : l'Initiée Caroline, des Enfants de la Cathédrale.}
+{102}{}{Tu vois : l'Initié Myles, des Enfants de la Cathédrale.}
+{103}{}{Tu vois : l'Initiée Alisha, des Enfants de la Cathédrale.}
+{104}{}{Tu vois : l'Initié Thomas, des Enfants de la Cathédrale.}
+{105}{}{Tu vois : l'Initié Gabriel, des Enfants de la Cathédrale.}
+{106}{}{Tu vois : l'Initiée Charlene, des Enfants de la Cathédrale.}
+{107}{}{Tu vois : l'Initié Ekdar, des Enfants de la Cathédrale.}
+{108}{}{Tu vois : l'Initié Hopper, des Enfants de la Cathédrale.}
+{109}{}{Tu vois : l'Initié Radek, des Enfants de la Cathédrale.}
+
+{110}{}{Ces Disciples losers étaient faciles à tuer.}
+{111}{}{Maintenant que les Disciples sont écartés, la reconstruction peut commencer.}
+{112}{}{À la fin de cette recherche, j'espère devenir Scribe ou Érudit.}
+{113}{}{Un jour je serai Érudit et j'irai prêcher l'Unité.}
+{114}{}{Orfeo est difficile à côtoyer.}
+{115}{}{Les Nightkin me font toujours peur.}
+{116}{}{Les Aînés ont dit que les Nightkin sont nos alliés.}
+
+{117}{}{Va-t'en.}
+{118}{}{J'aime pas ton espèce.}
+{119}{}{Si tu as un problème avec Set, tu as un problème avec moi.}
+
+{120}{}{Que la paix soit avec toi. Parle à Laura, s'il te plaît.}
+{121}{}{Laura m'a appris que nous sommes tous un seul peuple et qu'il faut voir le bon en eux. Elle est très sage.}
+{122}{}{Laura est une personne sage et merveilleuse.}
+
+{123}{}{Tu vois l'un des acolytes des Enfants de la Cathédrale.}

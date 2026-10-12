@@ -1,0 +1,5 @@
+{100}{}{Tu commences à grimper à l'échelle.}
+{101}{}{Tu glisses de l'échelle et tu plonges dans les ténèbres en dessous. Tu t'écrases au sol, mais sans dommage.}
+{102}{}{Tu glisses de l'échelle et tu plonges dans les ténèbres en dessous. Tu t'écrases au sol et tu perds }
+{103}{}{ points de vie.}
+{104}{}{Tu tombes de l'échelle près du bas.}

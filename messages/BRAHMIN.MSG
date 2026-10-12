@@ -1,0 +1,16 @@
+{100}{}{Une vache mutante à deux têtes. Celle-ci a été domestiquée.}
+{101}{}{Elle te semble normale.}
+
+{102}{}{Pourquoi tu parles à une brahmine ?}
+{103}{}{La brahma te fixe un moment, puis détourne le regard.}
+{104}{}{L'animal t'ignore.}
+{105}{}{L'animal grogne mais ne réagit pas autrement.}
+
+{106}{}{Une vache mutante à deux têtes. C'est un animal sauvage.}
+{107}{}{Elle te semble assez normale.}
+{108}{}{Il n'y a rien de naturel chez ces vaches. La deuxième tête ne peut être que le résultat d'une étrange mutation.}
+{109}{}{Meuh.}
+{110}{}{Meuh !}
+{111}{}{Meuh, je te dis.}
+# Is this used anywhere?
+{113}{}{Tu as énervé la vache en attaquant son amie.}

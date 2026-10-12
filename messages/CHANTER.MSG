@@ -1,0 +1,23 @@
+{100}{}{Tu vois un chantre des Enfants.}
+{101}{}{Le Maître pardonnera tes péchés ! Rejoins-nous et sois libre ! Gloire au Maître et à sa miséricorde !}
+{102}{}{Bonjour, ami ! La vision du Maître m'a vraiment rendu vivant pour la première fois. Puis-je partager ma merveilleuse histoire avec toi ?}
+{103}{}{Où pourrais-je rencontrer ce Maître ?}
+{104}{}{Vas-y.}
+{105}{}{Qui commande ici ?}
+{106}{}{La vision du Maître ? C'est mieux que du jus de radscorpion ?}
+{107}{}{Est-ce que ça finit dans la mort ? Sinon, je peux arranger ça !}
+{108}{}{Moi aimer histoire !}
+{109}{}{Le Maître regarde d'en haut ! Le Maître est assis en bas ! Regarde la Paix et l'Unité grandir !}
+{110}{}{Il était une fois un homme tellement plein de haine qu'il en est presque mort. Mais maintenant... Gloire au Maître ! Gloire à la Sainte Flamme ! Gloire à la Vigne de Vie ! Youpi !}
+{111}{}{C'est toi qui commandes, ami, mais le Maître est ton guide. Gloire au Maître ! Gloire à la Sainte Flamme qui éclaire notre chemin !}
+{112}{}{La vision du Maître est bien meilleure que n'importe quelle boisson, ou même le sexe ! Ohhh ! Il transcende à la fois le vice et la vertu ! Ahhh ! Le Maître est à la fois père et amant pour nous tous !}
+{113}{}{Aucune histoire ne finit dans la mort, tant que le Maître est là pour nous protéger !}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+{114}{}{Mais je dois louer le Maître ! Adieu, mon ami ! Je te raconterai l'histoire plus tard !}
+{115}{}{Mais je dois louer le Maître ! Adieu, mon amie ! Je te raconterai l'histoire plus tard !}

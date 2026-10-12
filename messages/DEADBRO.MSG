@@ -1,0 +1,7 @@
+{100}{}{Cette personne a peut-être fait partie de la Confrérie de l'Acier.}
+{101}{}{Tu te demandes ce qui a bien pu causer de tels dégâts à ce membre de la Confrérie.}
+{102}{}{Celui qui a fait ça ne semble plus être dans les parages.}
+{103}{}{Celui qui a fait ça rôde peut-être plus bas dans le complexe. Tu devrais peut-être être prudent en marchant par ici.}
+{104}{}{Tu te demandes ce qui a bien pu causer la mort de ce robot.}
+{105}{}{Tu te demandes si c'est l'explosion qui a causé la mort de ce robot.}
+{106}{}{On dirait que ça pourrait être quelque chose sur quoi les scientifiques travaillaient ici.}

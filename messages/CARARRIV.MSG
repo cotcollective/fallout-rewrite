@@ -1,0 +1,2 @@
+{100}{}{Tu aides à finir de décharger la caravane et on te remet }
+{101}{}{ capsules.}

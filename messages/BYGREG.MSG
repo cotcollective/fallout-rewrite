@@ -1,0 +1,20 @@
+{100}{}{Tu vois un homme. Il te fixe intensément dans les yeux, puis détourne vite le regard.}
+{101}{}{Tu vois : Greg.}
+{102}{}{Quoi ? Pourquoi tu me parles ? Ils vont t'entendre, tu sais.}
+{103}{}{Salut, te revoilà. Parle moins fort, ils sont là-dehors.}
+{104}{}{D'accord, mais baisse d'un ton, ils viendront nous chercher tous les deux si tu n'arrêtes pas de crier.}
+{105}{}{Qui es-tu ?}
+{106}{}{Pourquoi tu es si nerveux ?}
+{107}{}{Je crois qu'on devrait augmenter ton traitement.}
+{108}{}{Laisse tomber.}
+{109}{}{Je suis... Greg... mais ne le dis à personne, ou ils viendront me trouver.}
+{110}{}{Nerveux ? Je ne suis pas nerveux. Juste prudent. Ils disent tous que je suis parano, mais c'est moi qui serai encore là quand ils viendront nous chercher.}
+{111}{}{Venir te chercher ? Qui va venir te chercher ?}
+{112}{}{Tu es vraiment parano. Je te parlerai plus tard.}
+{113}{}{Eh bien, ils sont... Tu sais, n'est-ce pas ? La maladie n'était que le début. Maintenant ils vont venir nous prendre tous. Mais tu es comme tous les autres. Tu ne me croiras pas, et tu seras condamné. Retiens bien mes mots : JE SERAI ENCORE LÀ, et TOUT ÇA, Y COMPRIS TOI, SERA PRIS. PRIS ! (Il s'agrippe la tête et se recroqueville en boule, en couinant et en se débattant.)}
+{114}{}{Des médicaments... Oh, alors tu es l'un d'eux, tu essaies de me faire prendre mes médicaments... Eh bien, tu ne m'y obligeras pas. JE NE LES PRENDRAI PAS ! NON, JE NE LES PRENDRAI PAS ! LES VOIX. NON, JE NE LES PRENDRAI PAS ! TU NE PEUX PAS M'Y OBLIGER. (Il ferme les yeux très fort et s'agrippe la tête frénétiquement, en parlant avec les voix que lui seul entend.)}
+{115}{}{TU NE PEUX PAS M'Y OBLIGER !}
+{116}{}{RIEN DE CE QUE TU FERAS N'AIDERA !}
+{117}{}{TOUT EST FINI !}
+{118}{}{ILS VIENNENT, ET TU NE PEUX PAS LES ARRÊTER !}
+{119}{}{ÇA VOUS AURA TOUS !}

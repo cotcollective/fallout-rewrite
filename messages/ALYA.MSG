@@ -1,0 +1,30 @@
+{100}{}{Tu vois une pillarde du désert. À voir comment les autres la regardent, elle doit avoir une position d'importance ou d'autorité.}
+{101}{}{Je suis Alya des Khans. Comment puis-je t'aider aujourd'hui ?}
+{102}{}{Je cherche une femme nommée Tandi. Tu l'as vue ?}
+{103}{}{Et un petit baiser ?}
+{104}{}{Pourquoi ta bande de pillards a attaqué Shady Sands ?}
+{105}{}{Non, merci.}
+{106}{}{Hooroo !}
+{107}{}{Si c'est une de ces femmes de Shady Sands, tu devrais peut-être chercher là-bas. Maintenant va-t'en, je dois finir d'aiguiser mes couteaux.}
+{108}{}{Embrasse ça !}
+{109}{}{On n'attaque pas ceux de Shady Sands. On vient du même endroit qu'eux. C'est normal qu'ils partagent avec nous !}
+{110}{}{Mais vous blessez leur bétail et vous les terrorisez.}
+{111}{}{Ça me semble juste.}
+{112}{}{Euh, ouais. Je crois que je vais y aller.}
+{113}{}{Tu es aussi pleurnichard qu'eux. Écoute, s'ils risquaient vraiment de mourir de faim, ce serait leur faute de ne pas avoir prévu. Considère ce qu'on fait comme un échange de talents.}
+{114}{}{Un échange de talents ?!? Comment ça peut être un échange de talents ? Tu leur donnes rien.}
+{115}{}{Bien sûr, et les poules ont trois pattes.}
+{116}{}{Euh, ouais. Je crois que je vais y aller.}
+{117}{}{Je suis désolée, mais je te comprends pas. J'aiguise mes couteaux et j'aimerais pas être dérangée.}
+{118}{}{On leur donne la chose la plus importante qui soit : on donne de l'excitation à leurs vies mornes.}
+{119}{}{Je crois pas qu'ils veulent ton genre d'excitation.}
+{120}{}{Je crois que je vais rendre leurs vies ennuyeuses à nouveau. Je vais commencer par toi !}
+{121}{}{Euh, ouais. Je crois que je vais y aller.}
+{122}{}{J'ai pas demandé. Mais comme t'as visiblement aucune notion du plaisir, je crois que je vais mettre fin à ton existence.}
+{123}{}{Te moquer de moi ne t'apportera rien de bon. Je te suggère de quitter ma présence.}
+{124}{}{C'est bien vrai que c'est juste. Maintenant dégage de ma vue.}
+{125}{}{Je suis occupée à préparer notre prochain raid.}
+#
+# Fallout Fixt:
+#
+{200}{}{Tu vois : Alya, une des conseillères de Garl.}

@@ -1,0 +1,2 @@
+{100}{}{Cette portion de la grotte semble un peu plus fragile.}
+{101}{}{La roche ici semble très fragmentée, et s'effondrera très probablement dans des conditions extrêmes.}

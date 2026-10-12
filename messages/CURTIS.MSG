@@ -1,0 +1,21 @@
+{100}{}{Tu vois un fermier au visage buriné par le temps.}
+{101}{}{Bonjour.}
+{102}{}{Salut.}
+{103}{}{Hubip.}
+{104}{}{Salut.}
+{105}{}{Que puis-je faire pour toi ?}
+{106}{}{Comment tu t'appelles ?}
+{107}{}{Que peux-tu me dire sur ton village ?}
+{108}{}{Qu'est-ce que tu fais ?}
+{109}{}{Rien, merci.}
+{110}{}{On m'appelle Curtis.}
+{111}{}{Notre village est petit, mais on se débrouille. À part les attaques de pillards et les radscorpions occasionnels, on n'a pas de problèmes. Aradesh est un bon leader.}
+{112}{}{Je suis fermier. On a irrigué le désert il y a bien des années. Le désert est rude, mais on peut y faire pousser des choses avec de la patience et du temps.}
+{113}{}{Je vois. Vous avez l'air de plutôt bien vous en sortir.}
+{114}{}{Tous tes champs sont plantés en ce moment ? Tu pourrais probablement faire mieux avec la rotation des cultures.}
+{115}{}{La rotation des cultures ? C'est quoi ?}
+{116}{}{Laisse tomber.}
+{117}{}{Tu ne plantes qu'une partie de tes champs, en laissant les autres récupérer une partie des nutriments que les plantes ont épuisés. Tu laisses les autres champs redevenir fertiles en labourant simplement ce qui y pousse.}
+{118}{}{Huh. J'y avais jamais pensé. Ça a du sens, pourtant. Bonne idée.}
+{119}{}{Je peux te poser une autre question ?}
+{200}{}{Tu gagnes 500 points d'expérience pour avoir aidé à améliorer l'agriculture de Shady Sands.}

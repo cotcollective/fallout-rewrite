@@ -1,0 +1,16 @@
+{100}{}{Je suis venu pour botter des culs et mâcher du chewing-gum, mais je n'ai plus de chewing-gum.}
+{101}{}{La Confrérie prie pour notre succès, monsieur.}
+{102}{}{En avant.}
+{103}{}{Maintenez votre présence tactique, monsieur.}
+{104}{}{On ferait mieux d'y aller.}
+{105}{}{Pas le temps de discuter, monsieur.}
+{106}{}{Je suis venu pour botter des culs et mâcher du chewing-gum, mais je n'ai plus de chewing-gum.}
+{107}{}{La Confrérie prie pour notre succès, madame.}
+{108}{}{En avant.}
+{109}{}{Maintenez votre présence tactique, madame.}
+{110}{}{On ferait mieux d'y aller.}
+{111}{}{Pas le temps de discuter, madame.}
+{112}{}{Bien, tu es là. Crâmons cet endroit.}
+{113}{}{Il y a quelque chose qui cloche dans cette pièce.}
+{114}{}{Cet endroit commence à me donner la chair de poule.}
+{115}{}{Il est temps de retourner à la Confrérie.}

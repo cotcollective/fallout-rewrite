@@ -1,0 +1,4 @@
+{100}{}{Tu vois un Chevalier.}
+{101}{}{La salle d'apprentissage est juste là-bas si c'est ce que tu cherches.}
+{102}{}{Tu es perdu ? La salle d'apprentissage est juste là-bas.}
+{103}{}{Le labo médical est juste au coin.}
