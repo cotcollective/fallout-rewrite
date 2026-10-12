@@ -1,0 +1,124 @@
+{100}{}{Tu vois un homme grand, fort et costaud.}
+{101}{}{On s'est pas déjà vus ? Tu viens me tuer ?}
+{102}{}{Je sais que les pères sont pas censés serrer leurs fils dans leurs bras, mais je t'aime, papa !}
+{103}{}{Maître, c'était ça que j'étais censé devenir ?}
+{104}{}{Y a rien de tel qu'un Dane...}
+{105}{}{C'est quoi ta couleur préférée, l'ami ? La mienne c'est le lait !}
+{106}{}{T'es un idiot, Dane. Ils vont te tuer bientôt et tu le mérites ! Faible ! Faible !}
+{107}{}{Maman, tu croyais qu'ils largueraient une bombe ?}
+{108}{}{Ils l'ont fait avec grâce et tant d'aplomb !}
+{109}{}{Je m'appelle Dane, pas Tom !}
+{110}{}{Ta poésie craint, mec ! Elle craint ! Craint ! Craint !}
+{111}{}{J'aime M. Handy ! Je veux faire l'amour avec ses petites mains mignonnes...}
+{112}{}{Je suis fou. Je suis devenu fou. Oh mon dieu, je suis devenu complètement dingue ! Pense à la paix ! Pense à l'Unité !}
+{113}{}{Je veux un cheval ! Il me faut un cheval ! Amenez-moi un cheval, bon sang ! Un cheval !}
+{114}{}{Ils nous observent en ce moment même ! M. Nocturne ! Félix et Timothy ! Les chats ! Les chiens ! Les Nocturnes !}
+{115}{}{Tais-toi ! Ils vont croire que t'es un connard de fou ! Faut que tu te ressaisisses !}
+{116}{}{Lasher ! Faut tuer Lasher ! Sauve le gosse ! Pauvre petit Enfant-Fleur. Pauvre moi.}
+{117}{}{Tais-toi, fils de pute ! Ressaisis-toi !}
+{118}{}{[Chantant faux] Un jour, j'étais perdu, et maintenant je vois ! Plus de baptême pour moi !}
+{119}{}{Tu sais, j'ai un jour entendu Morpheus secouer son poing vers un Nocturne. Ou est-ce que je l'ai senti ?}
+{120}{}{Vous êtes des idiots de pleurer pour moi. Faut jamais pleurer sur le lait renversé... ou la marchandise abîmée.}
+{121}{}{Quelqu'un sait réparer un grille-pain ?}
+{122}{}{Bien sûr qu'ils savent, idiot ! C'est ta tête qu'ils peuvent pas réparer, fils de pute !}
+{123}{}{C'est les flingues, connard ! La poudre est intelligente et maléfique et contrôle ton cerveau ! Plus y a de poudre près de toi, plus tu deviens fou ! BOUM ! BOUM ! BOUM !}
+{124}{}{...je veux juste mettre le feu au mooooonde !!!}
+{125}{}{Tu veux lutter ? J'étais très bon avant... jusqu'à ce que les Nocturnes me battent. Ils étaient deux, ceci dit. Les Nocturnes sont vraiment forts !}
+{126}{}{Ce sont des mutants, imbécile ! Évidemment qu'ils sont forts !}
+{127}{}{Les pingouins aussi. Et les buffles gyros. On les tire avec de grands canons à bisons. Faut se méfier des femmes-buffles. Elles te larguent un bison dessus si vite que tu sauras pas ce qui t'a frappé ! Ha !}
+{128}{}{Je te connais pas de quelque part ? Ton cerveau te fait mal, aussi ?}
+{129}{}{Bien sûr que tu le connais, Dane, idiot ! C'est notre ennemi ! Faut le détruire !}
+{529}{}{Bien sûr que tu la connais, Dane, idiot ! C'est notre ennemie ! Faut la détruire !}
+{130}{}{Laisse-le, c'est un connard. Je t'aime. Tu m'aimes ?}
+{131}{}{J'habitais à Penticton, en Colombie-Britannique. Ou peut-être que je l'ai vu sur une carte du vieux temps. C'était le bon vieux temps. J'aurais aimé être vivant à l'époque...}
+{132}{}{T'es pas fatigué de parler avec moi ? Ça a pas été incroyablement ennuyeux ?}
+{133}{}{T'es pas fatigué de parler avec toi-même, espèce de schizo bâtard ?}
+{134}{}{Je me déteste. Je veux mourir, mais tu comptes sur moi. Tu comptes sur moi pour dire quelque chose qui donne un sens à toutes mes conneries ! Quelque chose d'important !}
+{135}{}{Pourquoi je peux pas être l'important, pour une fois ?}
+{136}{}{MEUUUUH ! MEUUUUUH ! MEUUUUUUH ! MEUUUUH !}
+{137}{}{MEUUUUH ! MEUUUUUH ! MEUUUUUUH ! MEUUUUH !}
+{138}{}{Je m'ennuie. Pire, je me suis fait avoir. C'est plus drôle. T'as déjà eu l'impression d'être juste des ficelles qu'on a même pas pris la peine de pendre ? Je suis étalé partout par terre !}
+{139}{}{MEUUUUH ! MEUUUUUH ! MEUUUUUUH ! MEUUUUH !}
+{140}{}{Assez avec les brahmines ! Tu vas finir par sentir comme eux ! Et tout le monde va juste gerber !}
+{141}{}{J'étais fou avant, tu sais, jusqu'à ce que je passe par le processus Serviteur. J'étais fou, mais maintenant je suis juste en morceaux. En morceaux ! En morceaux !}
+{142}{}{Fils de pute, je suis un puzzle ! Tu veux m'aider à me recoller ?}
+{143}{}{J'arrive pas à croire que quelqu'un me parle encore...}
+{144}{}{C'est tout un jeu, tu vois. Un jeu, et je suis une des pièces. Et un gosse s'est vraiment énervé, alors il a commencé à me piétiner. Piétine et piétine et piétine et piétine, et finalement j'ai juste cassé !}
+{145}{}{Peut-être qu'ils vont me vider le cerveau ! Me vider le cerveau et faire de moi leur animal de compagnie ! Ici, Dane ! Attrape la balle, Dane ! Attaque, Dane ! Attaque, Dane ! Attaque, Dane ! Exécute-les, chien sans cervelle !}
+{146}{}{Pourquoi tu crois qu'on l'appelle le Maître ?}
+{147}{}{La vie craint, mais la mort craint pire, et on peut pas remonter le temps pour empêcher notre naissance, alors à quoi bon ?}
+{148}{}{Je crois qu'ils ont compris, connard ! Ils savent que le processus Serviteur te bousille ! Ils savent que cette 'machine à baptême' détraque juste...}
+{149}{}{Je m'appelle Dane. Je suis un Viking. J'aime les canards. Je viole et je pille ! Tu veux violer et piller avec moi ?}
+{150}{}{Oh mon Dieu ! Maître, pas Dieu ! Au moins je me souviens de mon nom. Au moins j'ai encore ça. La plupart des autres ratés s'en souvenaient pas. Ils les fusillaient. Pas de beaux cadavres non plus. Entraînement au tir pour Nocturnes !}
+{151}{}{Et puis y avait ceux qui perdaient complètement la tête. J'aimerais qu'ils soient morts.}
+{152}{}{Je crois que j'appellerai mon premier enfant Fallout. J'ai eu un fils une fois, mais les radiations l'ont bouffé dans le ventre de sa mère.}
+{153}{}{Connard ! T'as ri ! Tu t'en foutais de lui ou de sa mère avant !}
+{154}{}{Les mutants peuvent pas se reproduire. Et on va tous devenir des mutants ! Tu sais ce que ça veut dire ? Le monde va se dégrader ! Dégradé ! Dégradé ! On se reproduira plus ! On va tous crever !}
+{155}{}{Arrêtez-le ! Arrêtez-le ! Arrêtez-le ! Quelqu'un le fait taire !}
+{156}{}{Maître ! J'aurais pas dû parler. J'ai entendu les Nocturnes pleurer et j'ai eu pitié de lui.}
+{157}{}{C'est quoi le mal ? Le mal c'est quand le bien est complètement bousillé ! Le mal c'est quand les braves peuvent plus être braves ! Le mal c'est l'anagramme de... euh... Y doit bien y avoir une norme morale quelque part !}
+{158}{}{Tais-toi, connard ! Les normes morales ! C'est sûr que c'est pas ici !}
+{159}{}{Tu sais, je pensais que la religion était une noble vocation, et peut-être que c'est le cas ; mais tu peux pas y entrer à l'aveugle, sinon ils prennent le contrôle de ton cerveau.}
+{160}{}{...les zombies sont une honte pour Dieu, tu sais.}
+{161}{}{Mais pourquoi Dieu fait des gens qui cassent si facilement ?}
+{162}{}{Je crois que je peux enfin répondre à des questions maintenant. Désolé d'avoir pris si longtemps.}
+{163}{}{Cet endroit servait à quoi ?}
+{164}{}{Parle-moi des Nocturnes.}
+{165}{}{Qu'est-ce qui se passe par ici ?}
+{166}{}{Qu'est-ce qu'ils t'ont fait ?}
+{167}{}{C'est qui le Maître ?}
+{168}{}{Tu veux mourir ? Je peux abréger tes souffrances.}
+{169}{}{T'as l'air bête !}
+{170}{}{C'est le Baptistère. C'est ici qu'on fabrique les Serviteurs. Quand les acolytes ont été endoctrinés, on les amène ici et ils passent par le processus. Quelques-uns survivent...}
+{171}{}{La plupart perdent la tête, mais ils restent utiles. On les jette en bas, ils délirent sur le Maître et marchent comme des zombies. T'as vu les zombies. Super main-d'œuvre esclave - et des soldats...}
+{172}{}{Le corps de John Brown pourrit dans sa tombe. Le corps de John Brown pourrit dans sa tombe, le corps de John Brown pour-rit dans sa tombe, et le Maître nous bai-se bien pro-fond...}
+{173}{}{Arrête ça. Ça devient vraiment difficile de me tenir en un seul morceau.}
+{174}{}{Parle-moi des Nocturnes.}
+{175}{}{Qu'est-ce qui se passe par ici ?}
+{176}{}{Qu'est-ce qu'ils t'ont fait ?}
+{177}{}{C'est qui le Maître ?}
+{178}{}{Tu veux mourir ? Je peux abréger tes souffrances.}
+{179}{}{Oups ! J'arrive plus à me tenir en un seul morceau ! Youhou ! Youhou ! Youhou !}
+{180}{}{Ce sont des mutants. Je les ai entendus parler. Je suis très discret. Je connais tous leurs secrets. Ils me détestent. Ils me détestent très fort.}
+{181}{}{Je suis foutu, mais c'est que la Phase 1 du Plan d'Entubage de la Cathédrale. Quand les Serviteurs sont complètement lavés du cerveau, ils passent à la Phase 2. C'est là que le Maître les baptise dans le VEF-2 !}
+{182}{}{La plupart meurent sur place. Mais ceux qui survivent deviennent des mutants. De GROS mutants. Des Nocturnes ! Le Maître pense que seuls les Nocturnes peuvent survivre. Il veut faire de tout le monde des Nocturnes parce qu'ils sont coriaces !}
+{183}{}{Tu connais toutes ces conneries de paix et d'unité ? C'est vraiment pas des conneries pour le Maître. Il croit vraiment qu'il sauve le monde !}
+{184}{}{Dégradé ! On va tous devenir d'horribles monstres dégradés ! Dégradé ! Dégradé ! Dégradé ! Je m'appelle pas Errol ! Dégradé !}
+{185}{}{Parle-moi des Nocturnes.}
+{186}{}{Qu'est-ce qui se passe par ici ?}
+{187}{}{Qu'est-ce qu'ils t'ont fait ?}
+{188}{}{C'est qui le Maître ?}
+{189}{}{Tu veux mourir ? Je peux abréger tes souffrances.}
+{190}{}{MEUH ! MEUH ! MEUH ! Nocturnes-brahmines, dégagez ! Voilà du lait dégradé !}
+{191}{}{La fin du monde tel qu'on le connaît. Des armées de mutants dans l'Abri. Me blâme pas, c'est la faute du Maître. Quand on aura l'Unité, c'est là que le fun du Maître va VRAIMENT commencer.}
+{192}{}{Parle-moi des Nocturnes.}
+{193}{}{Quel genre de fun ?}
+{194}{}{Qu'est-ce qu'ils t'ont fait ?}
+{195}{}{C'est qui le Maître ?}
+{196}{}{Tu veux mourir ? Je peux abréger tes souffrances.}
+{197}{}{Oups ! J'arrive plus à me tenir en un seul morceau ! Youhou ! Youhou ! Youhou !}
+{198}{}{Ils m'ont trempé dans des produits chimiques, troué de partout, passé des bruits assourdissants. Ce genre de trucs. Ils ont essayé de faire de moi quelque chose que je suis pas. Les parents font ça tout le temps.}
+{199}{}{J'ai vraiment mal.}
+{200}{}{Cet endroit servait à quoi ?}
+{201}{}{Parle-moi des Nocturnes.}
+{202}{}{Qu'est-ce qui se passe par ici ?}
+{203}{}{C'est qui le Maître ?}
+{204}{}{Tu veux mourir ? Je peux abréger tes souffrances.}
+{205}{}{T'as l'air bête !}
+{206}{}{Je faisais mal aux gens aussi, avant. J'étais un étalon ! Bon sang, j'étais un dieu ! Un dur à cuire ! Mais c'était pas assez ! J'étais une machine de guerre au pas de l'oie ! Mais maintenant je suis... je suis... aide-moi...}
+{207}{}{Tu sais, les Nocturnes disent qu'il est plus laid qu'eux. Ça veut dire que ça doit être un sacré fils de pute hideux.}
+{208}{}{C'est l'Homme ! L'Homme avec un Plan ! Il planifie parce qu'il nous aime ! Et si le monde se met en travers, qu'il aille se faire voir ! Parce que c'est ça l'amour !}
+{209}{}{Cet endroit servait à quoi ?}
+{210}{}{Parle-moi des Nocturnes.}
+{211}{}{Qu'est-ce qui se passe par ici ?}
+{212}{}{Qu'est-ce qu'ils t'ont fait ?}
+{213}{}{Tu veux mourir ? Je peux abréger tes souffrances.}
+{214}{}{T'as l'air bête !}
+{215}{}{L'amour c'est ce qui fait pousser le cactus ! L'amour c'est ce qui fait meugler la brahmine ! L'amour c'est baiser, c'est baiser ta vie ! Je déteste l'amour ! J'aime la haine ! Si le Maître nous détestait, on irait bien !}
+{216}{}{Elle est où ta conscience, mec ? Tu crois que la vie est censée être une jolie image sans misère ? La vie C'EST la misère ! La misère, et ce qu'on décide d'en faire !}
+{217}{}{Faire face ! Aimer ! Baiser ! Haïr ! Prendre des risques ! Les gens chiants ! Tabasser les connards ! Se faire des amis parmi les connards ! Fuir ses erreurs ! Affronter ses erreurs ! Les radiations !}
+{218}{}{Avoir des gosses et recommencer la même chose, parfois en mieux, parfois en pire !}
+{219}{}{C'est ça la vie, mec ! C'est comme être bourré ; regarde ça d'un côté, et c'est une putain d'humiliation ! Regarde ça d'un autre côté, et c'est génial ! Mais c'est la même chose ! C'est la vie !}
+{220}{}{Ah ha ! Ha ! Ha ! Ha ! Ha ! T'as raison ! On est tous bêtes ! Tu comprends pas ? Ha ! Ha ! Ha !}
+{221}{}{Je suis un peu amer en ce moment. Comme du thé Orange Pekoe oublié sous la pluie. Ha ! J'aime bien cette phrase ! Je crois que je vais la répéter ! Je suis un peu amer en ce moment. Comme du thé Orange Pekoe oublié sous la pluie...}
+{222}{}{[Suite]}

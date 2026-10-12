@@ -1,0 +1,109 @@
+{100}{}{Ceci est un comptoir d'accueil très usé avec un ordinateur poussiéreux et fissuré posé précairement dessus.}
+{101}{}{Tu rebranches une puce lâche et, surprise, le moniteur s'allume !}
+{102}{}{Les dégâts semblent physiques plutôt qu'électriques. Ça pourrait encore démarrer avec un peu de travail.}
+{103}{}{Cet équipement semble non fonctionnel.}
+{104}{}{Tu tâtonnes et te tranches les mains sur le boîtier. Aïe !}
+{105}{}{Macro$oft (tm) Wyndoze 99 (c) démarrage...   Terminé.
+            U:\ > }
+{106}{}{DIR}
+{107}{}{EXIT}
+{108}{}{FALLOUT    <DIR>          10-20-99   1:04p
+                          0 octets dans 0 fichiers, 0 octets alloués, 4 379 255 octets libres}
+{109}{}{CD FALLOUT}
+{110}{}{Wow ! C'est un super jeu !}
+{111}{}{ U:\ > }
+{112}{}{Après plusieurs minutes de recherche, tu trouves un cavalier de Mode Debug et tu le règles sur 01.}
+{113}{}{FALLOUTW.EXE}
+{114}{}{U:\Fallout\ > }
+{115}{}{FALLOUTW.EXE     1384432   10-20-99   1:04p
+                      FALLDEMO.EXE     995328    04-22-97   2:13p
+                   2 379 760 octets dans 2 fichiers, 2 436 874 octets alloués}
+{116}{}{[Continuer]}
+{117}{}{> CHARGEMENT...  }
+{118}{}{[Terminé]}
+{119}{}{Tu gagnes 100 points d'expérience pour avoir joué à Fallout.}
+{120}{}{    U:\Fallout\ > }
+{121}{}{Je me lasse pas de ce jeu Fallout. Ils en font plus comme avant la Guerre.}
+{122}{}{Hmmm... Je me demande ce que ce réglage change ?}
+{123}{}{> Lancer la séquence de debug}
+{124}{}{*clic* ............. Veuillez patienter ... ... ... ... ... ... 
+               %s  Terminé.}
+{125}{}{> Lancer le protocole de vidage mémoire}
+{126}{}{FALLDEMO.EXE}
+{127}{}{Tu gagnes 25 points d'expérience.}
+{128}{}{[Terminé]}
+{129}{}{VIDAGE MÉMOIRE LANCÉ >>> N'ÉTEIGNEZ PAS ET NE RÉINITIALISEZ PAS CE TERMINAL
+...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  
+...  ...  ...  ...  ...  ...  ...  ...  ...  ...  ...  }}
+{130}{}{J'y comprends rien. Je suis pas un crack en tech !}
+{131}{}{Tu vois : Bureau d'ordinateur.}
+{132}{}{> VEUILLEZ INSÉRER UN SUPPORT D'EXTRACTION <}
+{133}{}{Euh... J'ai rien de tel.}
+{134}{}{[Vérifier s'il y a quelque chose dans les lecteurs externes de l'ordinateur]}
+{135}{}{
+
+Succès ! Tu trouves une disquette 5 pouces sous le clavier. Elle est très poussiéreuse mais semble fonctionner.}
+{136}{}{
+
+Tu ne trouves rien qui ressemble à un disque ou une cartouche...}
+{137}{}{[Continuer à chercher]}
+{138}{}{
+
+Il y a un vieil holodisque dans le lecteur de cartouches qui devrait marcher dans ton Pip-Boy 2000 !}
+{139}{}{[Installer les disques]}
+{140}{}{rrrggg... In-doh ?}
+{141}{}{
+
+Tu enfonces l'holodisque à fond dans la fente du lecteur après avoir soufflé dessus et vérifié que la bande est bien alignée dans les bobines. Après avoir dépoussiéré la disquette 5 pouces, tu l'insères dans le lecteur et tu tournes le levier de verrouillage.}
+{142}{}{> 12:50 [Appuie sur Entrée]}
+{143}{}{[Pendant quelques instants les voyants du port disquette clignotent et le lecteur de bande émet un sifflement aigu. Ça s'arrête, suivi d'un grincement régulier du lecteur de disquette.]}
+{144}{}{>>> N'ÉTEIGNEZ PAS ET NE RÉINITIALISEZ PAS CE TERMINAL >>> :: CORRUPTION DE DONNÉES ::
+
+VÉRIFICATION DES DONNÉES : 0% ### ### ### 32% ### ### ### 59% ### ### ### 82% ### ### ### 99% ### ### ### ... Terminé.
+ÉCRITURE DE 512KO DANS LE TAMPON MÉMOIRE : 0% ### ### ### 28% ### ### ### 62% ### ### ### 77% ### ### ### 95% ### ### ### ... Terminé.
+VÉRIFICATION DE LA MÉMOIRE : 0% ### ### ### 17% ### ### ### 50% ### ### ### 79% ### ### ### 97% ### ### ### ... Terminé.}
+{145}{}{:::TRANSFERT DE SUPPORT EN COURS:::
+.
+...
+.....
+Transfert de 6 759 015 octets vers le lecteur de sauvegarde sur bande................................
+.......
+.........
+...........}
+{146}{}{TRANSFERT DE SUPPORT TERMINÉ. VEUILLEZ RETIRER LE SUPPORT EXTERNE. BONNE JOURNÉE.
+[Le système s'éteint, court-circuite et devient complètement silencieux]}
+{147}{}{Merci !}
+{148}{}{L'ordinateur a l'air bien endommagé et irréparable.}
+{149}{}{Beaucoup de circuits sont grillés par une salve IEM.}
+{150}{}{Ça marche pas.}
+{151}{}{01100110011000010110110001101100011011110111010101110100011101110010111001100101011110000110010100100000001000000010000000100000001000000011000100110011001110000011010000110100001100110011001000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000110011001100001011011000110110001100100011001010110110101101111001011100110010101111000011001010010000000100000001000000010000000100000001110010011100100110101001100110011001000111000}
+{152}{}{Tu gagnes 25 points d'expérience pour avoir joué à Fallout.}
+{153}{}{Intéressant. Je parie que la version complète sera un super jeu !}
+{154}{}{Hmm. La version complète de Fallout est meilleure, mais cette démo a quand même un charme unique.}
+{155}{}{Tu gagnes 25 points d'expérience pour avoir joué à la Démo Interactive Fallout.}
+{156}{}{}
+{157}{}{}
+{158}{}{}
+{159}{}{}
+
+
+# 400 and 401 are picked randomly when playing falldemo.exe, and represent the different playtype paths
+
+{400}{}{Avec le générateur en panne, les gangs n'ont plus de raison de se battre pour Scrapheap. Les gens de Scrapheap mèneront une vie plus pauvre sans leur électricité ; mais avec les gangs partis, au moins ils auront une vie. Ton boulot ici est terminé, mais ta mission pour trouver la puce de purification d'eau continue.}
+{401}{}{Après une longue bataille et beaucoup de sang versé, tu l'emportes. Les gangs défaits, Scrapheap est de nouveau un havre de paix. Les habitants sont reconnaissants - Ils te donnent des infos précieuses, et ta tâche à Scrapheap est maintenant terminée. Cependant, la mission pour trouver la puce de purification d'eau continue.}
+
+
+# 500 onward are picked randomly when playing falloutw.exe, and represent the different playtype paths
+
+#standard
+{500}{}{Après avoir arrêté le Maître et son labo avec lequel il créait son armée de Super-mutants, tu rentres chez toi, pour découvrir qu'on te jette hors de ton Abri pour avoir été trop destructeur. Merci d'avoir joué à Fallout.}
+
+#dialog/'good'
+{501}{}{Après avoir convaincu le Maître d'abandonner sa domination mal conçue et détruit les Cuves, tu rentres chez toi, pour découvrir que tu es exilé, soi-disant pour empêcher les autres de quitter l'Abri. Merci d'avoir joué à Fallout.}
+
+#combat/'evil'
+{502}{}{Après avoir détruit les Cuves, le Maître et son armée de Super-mutants, tu rentres chez toi, mais on t'interdit d'entrer. Tu ripostes, laissant derrière toi le cadavre déchiqueté du Superviseur. Merci d'avoir joué à Fallout.}
+
+#traitor/dipped
+{503}{}{On te trempe dans le VEF et tu rejoins l'Unité du Maître, révélant l'emplacement de l'Abri 13. Ta récompense : mener l'assaut contre ton Abri, tuant le Superviseur à mains nues. Merci d'avoir joué à Fallout.}
+

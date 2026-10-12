@@ -1,0 +1,122 @@
+{100}{}{Tu vois le barman.}
+{101}{}{Ouais, tu veux quoi ?}
+{102}{}{De l'eau.}
+{103}{}{Une bière.}
+{104}{}{De l'alcool.}
+{105}{}{Ce qui me défoncera le plus vite.}
+{106}{}{Rien.}
+{107}{}{Tuh ?}
+{108}{}{Si t'as pas les capsules, dégage !}
+{109}{}{Comme tu veux.}
+{110}{}{Je crois que t'en as eu assez, mon pote.}
+{111}{}{Je crois que t'en as eu assez, ma belle.}
+{112}{}{Ouais... bon dégage.}
+{113}{}{Ça fera deux capsules.}
+{114}{}{OK.}
+{115}{}{Non, merci.}
+{116}{}{Ça fera cinq capsules.}
+{117}{}{Bien sûr.}
+{118}{}{Ça fera dix capsules.}
+{119}{}{Hmmm, pour quelqu'un de ta taille...}
+{120}{}{ }
+{121}{}{ dix}
+{122}{}{ vingt}
+{123}{}{ trente}
+{124}{}{ quarante}
+{125}{}{ cinquante}
+{126}{}{ soixante}
+{127}{}{ soixante-dix}
+{128}{}{ quatre-vingts}
+{129}{}{ quatre-vingt-dix}
+{130}{}{ cent}
+{131}{}{ capsules devraient faire l'affaire.}
+{132}{}{Super ! Ça fera }
+{133}{}{ capsules encore.}
+{134}{}{Fais-les venir.}
+{135}{}{Laisse tomber.}
+{136}{}{Tiens. (Le barman te glisse une tasse en étain sale pleine d'une}
+{137}{}{ eau trouble. Après avoir bu l'eau, tu as un drôle de}
+{138}{}{ goût dans la bouche.)}
+{139}{}{Tiens. (Le barman te glisse une autre tasse pleine de la même}
+{140}{}{ eau trouble, et après l'avoir bue, tu te rappelles comme}
+{141}{}{ c'était bizarre la dernière fois...)}
+{142}{}{Ça devrait être amusant... (Le barman continue et}
+{143}{}{ tu perds le compte. Après un moment tu entends un bruit sourd, puis}
+{144}{}{ tu réalises que tu es allongé sur le sol, face contre terre...)}
+{145}{}{C'est reparti... (Le barman les aligne pendant que tout le monde}
+{146}{}{ autour du bar scande...)}
+{147}{}{ ...}
+{148}{}{ ...}
+{149}{}{ ...}
+{150}{}{ (Bientôt tout commence à s'estomper...)}
+{151}{}{Je pensais pas que t'avais l'air de quelqu'un qui tient}
+{152}{}{ l'alcool.}
+{153}{}{Dommage. On avait tous hâte de te voir}
+{154}{}{ 'performer' encore.}
+{155}{}{Aww... tu vas pas nous montrer ton 'truc' encore ? Bon}
+{156}{}{ d'accord, voilà ta bière. Autre chose ?}
+{157}{}{T'es sûr de pouvoir résister à la tentation ? T'étais tout un}
+{158}{}{ numéro la dernière fois. Bon, voilà. (Le barman te tend}
+{159}{}{ une bouteille d'alcool.) Autre chose ?}
+{160}{}{Voilà. (Le barman te tend une bouteille de bière.) Autre}
+{161}{}{ chose ?}
+{162}{}{Défonce-moi encore !}
+{163}{}{Voilà. (Le barman te tend une bouteille d'alcool.)}
+{164}{}{ Autre chose ?}
+{165}{}{T'as un très mauvais goût dans la bouche.}
+{166}{}{Tu crois que ta tête va exploser.}
+##
+##
+##
+{167}{}{Tu vois un croupier de craps.}
+{168}{}{Tu vois un croupier de roulette.}
+{169}{}{Tu vois une machine à sous.}
+{170}{}{Tu remarques que les cotes semblent pas très justes.}
+{171}{}{Tu crois que les dés sont pipés.}
+{172}{}{Tu crois que la table est truquée.}
+{173}{}{Faites vos jeux. }
+{174}{}{5 capsules.}
+{175}{}{15 capsules.}
+{176}{}{25 capsules.}
+{177}{}{50 capsules.}
+{178}{}{Non merci.}
+{179}{}{Rurh.}
+##
+## SLOT MACHINES
+##
+{180}{}{Désolé, mais t'es pas en état de parier. (Tu regardes}
+{181}{}{ le jeu et tu es complètement perdu.)}
+{182}{}{Désolé, meilleure chance la prochaine fois.}
+{183}{}{Gagné ! Tu récupères ta mise.}
+{184}{}{Ding Ding Ding ! Tu doubles ta mise.}
+{185}{}{JACKPOT ! Tu triples ta mise !}
+{186}{}{Faut avoir l'argent pour jouer, mon pote.}
+{187}{}{Faut avoir l'argent pour jouer, ma belle.}
+{188}{}{Tu remarques que les cotes semblent à peu près justes.}
+{189}{}{Combien d'argent tu mets ?}
+{190}{}{1 capsule.}
+{191}{}{2 capsules.}
+{192}{}{3 capsules.}
+{193}{}{4 capsules.}
+{194}{}{5 capsules.}
+{195}{}{Rien.}
+{196}{}{Tu sais pas quoi en faire, mais c'est bien joli.}
+{197}{}{T'as perdu.}
+{198}{}{Tu récupères ta mise.}
+{199}{}{Tu doubles ton argent.}
+{200}{}{Tu triples ton argent !}
+{201}{}{T'as pas assez d'argent.}
+{202}{}{Tu as actuellement }
+{203}{}{ capsules. Combien tu veux parier ?}
+{204}{}{ Tu veux rejouer ?}
+##
+## Sduibek, Fallout Fixt
+##
+{205}{}{Tu perds tout ton argent au premier tour, mais tu regagnes }
+{206}{}{ capsules dans la Manche Radioactive !}
+{207}{}{Gagné ! Tu récupères ta mise, et tu gagnes }
+{208}{}{Ding Ding Ding ! Tu doubles ta mise, et tu obtiens aussi }
+{209}{}{JACKPOT ! Tu triples ta mise, et tu obtiens aussi }
+{210}{}{ capsules dans la Manche Radioactive !}
+{211}{}{ capsule dans la Manche Radioactive.}
+{212}{}{ capsule dans la Manche Radioactive.}

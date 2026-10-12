@@ -1,0 +1,93 @@
+{100}{}{Tu vois : Cleo.}
+{101}{}{Pas de retraite, pas de reddition, mon pote.}
+{102}{}{Pas de retraite, pas de reddition, ma belle.}
+{103}{}{Tu t'en allais pas, toi ? Dégage.}
+{104}{}{Qu'est-ce que tu veux ?}
+{105}{}{Parle-moi de Loxley.}
+{106}{}{Parle-moi de Jasmine.}
+{107}{}{Parle-moi du Cercle.}
+{108}{}{Parle-moi de Decker.}
+{109}{}{Parle-moi des caravanes disparues.}
+{110}{}{Salut.}
+{111}{}{Euh, beurk !}
+{112}{}{Hé ! Quoi de neuf ?}
+{113}{}{Parle-moi de Loxley.}
+{114}{}{Parle-moi de Jasmine.}
+{115}{}{Parle-moi du Cercle.}
+{116}{}{Parle-moi de Decker.}
+{117}{}{Parle-moi des caravanes disparues.}
+{118}{}{Parle-moi des caravanes disparues.}
+{119}{}{Salut.}
+{120}{}{Euh, beurk !}
+{121}{}{C'est le chef. Quoi d'autre à savoir ?}
+{122}{}{Parle-moi de Jasmine.}
+{123}{}{Parle-moi du Cercle.}
+{124}{}{Parle-moi de Decker.}
+{125}{}{Parle-moi des caravanes disparues.}
+{126}{}{Salut.}
+{127}{}{Euh, beurk !}
+{128}{}{C'est l'assistante du chef. Pas une mauvaise fille.}
+{129}{}{Parle-moi de Loxley.}
+{130}{}{Parle-moi de Jasmine.}
+{131}{}{Parle-moi du Cercle.}
+{132}{}{Parle-moi de Decker.}
+{133}{}{Parle-moi des caravanes disparues.}
+{134}{}{Salut.}
+{135}{}{Euh, beurk !}
+{136}{}{Avec un peu de chance, tu te considéreras des nôtres d'ici ce soir. Comme chez toi, tu vois ?}
+{137}{}{Parle-moi de Loxley.}
+{138}{}{Parle-moi de Jasmine.}
+{139}{}{Parle-moi de Decker.}
+{140}{}{Parle-moi des caravanes disparues.}
+{141}{}{Salut.}
+{142}{}{Euh, beurk !}
+{143}{}{On ne parle pas de M. Decker en bonne compagnie.}
+{144}{}{Parle-moi de Loxley.}
+{145}{}{Parle-moi de Jasmine.}
+{146}{}{Parle-moi du Cercle.}
+{147}{}{Parle-moi des caravanes disparues.}
+{148}{}{Salut.}
+{149}{}{Euh, beurk !}
+{150}{}{On n'a rien à voir avec ça !}
+{151}{}{Parle-moi de Loxley.}
+{152}{}{Parle-moi de Jasmine.}
+{153}{}{Parle-moi du Cercle.}
+{154}{}{Parle-moi de Decker.}
+{155}{}{Salut.}
+{156}{}{Euh, beurk !}
+{157}{}{Salut à toi aussi.}
+{158}{}{Pourquoi tu te donnes la peine de parler aux gens, crétin ?}
+{159}{}{Un grand leader. Il fait tout ce qu'il peut pour arnaquer les bonnes personnes et garder le Hub en un seul morceau — pour une petite commission, bien sûr.}
+{160}{}{Parle-moi de Jasmine.}
+{161}{}{Parle-moi du Cercle.}
+{162}{}{Parle-moi de Decker.}
+{163}{}{Parle-moi des caravanes disparues.}
+{164}{}{Parle-moi des caravanes disparues.}
+{165}{}{Salut.}
+{166}{}{Euh, beurk !}
+{167}{}{C'est à la fois un boulot et une aventure ; aider les pauvres, risquer sa vie, rencontrer des types nouveaux et intéressants. C'est nous, les gentils !}
+{168}{}{Parle-moi de Loxley.}
+{169}{}{Parle-moi de Jasmine.}
+{170}{}{Parle-moi de Decker.}
+{171}{}{Parle-moi des caravanes disparues.}
+{172}{}{Parle-moi des caravanes disparues.}
+{173}{}{Salut.}
+{174}{}{Euh, beurk !}
+{175}{}{J'avais un ami qui bossait pour lui, une fois. Quand la mission a foiré, il est revenu voir Decker pour des renforts. Decker l'a traité d'imbécile et l'a fait lobotomiser pour l'exemple. On n'aime pas beaucoup Decker par ici.}
+{176}{}{Quelles rumeurs tu veux entendre ? Les Marchands d'Eau jouent à des jeux. Decker presse les marchands pour plus de protection. Les Enfants de la Cathédrale l'ont sacrifiée à leur dieu. L'Écorcheur l'a bouffée. Les rumeurs valent rien. Le monde est plein de rumeurs et de soupçons, et vide de vérité. Cherche les faits, pas la fiction. Mais pourquoi tu demandes ? T'avais des amis dans la caravane ?}
+{177}{}{Je peux pas parler de mes raisons.}
+{178}{}{J'ai promis à un ami de creuser ça.}
+{179}{}{J'ai besoin d'eau pour ma ville et je peux pas me permettre que des caravanes disparaissent.}
+{180}{}{Ouais, j'avais un ami.}
+{181}{}{Bien. J'ai mes secrets aussi. Bonne chance, l'ami.}
+{182}{}{Désolé de pas pouvoir être plus utile. Oh, et puis y a la rumeur du vaisseau venu de l'espace. Je crois que quelqu'un a trop joué aux jeux débiles de Rufus.}
+{183}{}{Ah ouais ? T'es d'où ?}
+{184}{}{Shady Sands.}
+{185}{}{Un endroit juste au nord de Shady Sands.}
+{186}{}{L'Abri 13.}
+{187}{}{Ici et là. Je fais des petits boulots pour les endroits qui me laissent traîner.}
+{188}{}{Désolé d'entendre ça. J'ai perdu quelques bons amis à mon époque, et l'un d'eux je l'ai retrouvé dans un état pire que mort, mais je préfère pas en parler.}
+{189}{}{On en a pas déjà parlé ? T'as une idée fixe, mon pote.}
+{190}{}{Pas un mauvais endroit si t'aimes le sable. Un peu trop sec et sauvage pour moi. Au moins au Hub t'as pas à t'inquiéter des radscorpions qui traînent. On a bien assez de nos propres prédateurs, je suppose.}
+{191}{}{Tu viens d'un Abri ? Hors de question ! Me raconte pas de conneries.}
+{192}{}{Je t'envie pas. Bien sûr si tu te fais un nom, tu peux devenir une de ces légendes du désert comme Magnum Tom Goddard ou Scorpion Joe Cornelius. Mec, ça doit être quelque chose !}

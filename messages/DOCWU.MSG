@@ -1,0 +1,84 @@
+{100}{}{[Suite]}
+{101}{}{[Terminé]}
+{102}{}{Tête de con ! Tu t'es encore fait blesser, espèce de stupide bâtard ?!}
+{103}{}{Tête de con ! Tu t'es encore fait blesser, espèce de stupide garce ?!}
+{105}{}{Connard ! T'écoutes pas les messages de paix ?!}
+{106}{}{Hé, j'essayais juste d'aider la cause !}
+{107}{}{Je veux poser quelques questions.}
+{108}{}{Recouds-moi, OK, doc ?}
+{109}{}{Ton tact avec les patients craint.}
+{110}{}{Doc, j'ai besoin d'un verre, vite ! T'as de l'alcool à friction ?}
+{111}{}{Tu continues, et t'auras besoin d'un docteur.}
+{112}{}{Aïe ! Oooo ! Hnnh !}
+{113}{}{Tu veux quoi ?! Vous apprendrez jamais, les connards ? J'en ai marre d'utiliser mes talents sur des losers. Vise droit la prochaine fois ! Te fais pas tirer dessus.}
+{114}{}{J'étais en sous-nombre !}
+{115}{}{T'es quoi, un docteur des connards ?}
+{116}{}{Je vais peut-être t'utiliser COMME cible d'entraînement.}
+{117}{}{Fils de pute incompétent ! T'as encore besoin de soins ! J'espère qu'ils te tueront la prochaine fois !}
+{118}{}{Merci pour le soutien moral, doc.}
+{119}{}{J'espère qu'ils t'auront, toi aussi...}
+{120}{}{Si c'est le cas, tu tomberas le premier.}
+{121}{}{C'est quoi ton problème, connard ? Peut-être que je vais t'endormir, tête de con !}
+{122}{}{T'endors beaucoup de gens, doc ?}
+{123}{}{T'as intérêt à pas essayer.}
+{124}{}{Je roupille, tu perds, connard !}
+{125}{}{La Cause est pas aidée par les crétins ! Pourquoi tu me déranges ? Je suis un docteur très occupé, connard ! T'as besoin de moi ou pas ?}
+{126}{}{Qu'est-ce qui te tient occupé ?}
+{127}{}{Bien sûr, doc.}
+{128}{}{Pas maintenant.}
+{129}{}{C'est quoi ton diagnostic, doc ?}
+{130}{}{Je suis pas une bibliothèque ! Tu vas dehors pour les réponses ! Dégage maintenant !}
+{131}{}{Bien ! C'est toujours rapièce-moi ! Recouds-moi ! Connard !}
+{132}{}{J'entends qu'on dit des choses très méchantes sur toi...}
+{133}{}{Les ennemis du Maître reculeront devant rien pour discréditer les Fidèles.}
+{134}{}{T'as prêté serment, docteur. Fais ton boulot.}
+{135}{}{Oublie ça. Je peux pas te faire confiance.}
+{136}{}{Soigne-moi ou meurs, docteur !}
+{137}{}{Ça devrait le faire...}
+{138}{}{Owww !!}
+{139}{}{Ha ha ha !}
+{140}{}{T'as crié comme une femme ! Ha ha ha !}
+{141}{}{Les garces devraient pas jouer dans un monde d'hommes ! Ha ha ha !}
+{142}{}{Va en enfer ! Tu veux te faire réparer ou tu veux juste être un connard ?}
+{143}{}{Espèce de loser ! Pourquoi tu rampes pas jusqu'à la Lueur pour lécher des flaques ? Stupide connard de drogué ivre !}
+{144}{}{Et peut-être qu'un jour t'auras besoin d'un docteur et le docteur sera pas là. Connard de psycho ! Tu veux te faire réparer ? Je vais peut-être faire quelque chose pour la merde dans ton cerveau, aussi !}
+{145}{}{Bien. Fais-le et tais-toi !}
+{146}{}{Va en enfer.}
+{147}{}{Tais-toi et donne-moi un diagnostic.}
+{148}{}{Espèce de stupide bourrin ! T'es trop con pour sentir la douleur. Tu me rappelles une forme de vie inférieure !}
+{149}{}{J'entends que t'es aussi fou que con !}
+{150}{}{Ha ha ! T'es vraiment con ! Je viens de te donner un poison mortel ! Ha ha ha !}
+{151}{}{Ça va faire très mal !}
+{152}{}{Aaaaagh !}
+{153}{}{T'as crié comme un cochon castré ! Ha ha ha !}
+{154}{}{T'es un idiot ! La qualité, pas la quantité ! Tu crois que les Nocturnes s'en foutent quand ils sont en sous-nombre ? Va pleurer chez ta mère, petit bébé ! Bon, tu veux guérir ou pas ?}
+{155}{}{Tais-toi ou je t'arrache les cordes vocales ! Je te désaboie comme un chien ! Ha ha ha ! Bon tu veux guérir ou pas ?}
+{156}{}{Je suis docteur, pas pom-pom girl ! T'as besoin de soins ou pas ?}
+{157}{}{Je tremble, connard ! Bon, tu veux guérir ou pas ?}
+{158}{}{Fais-le. Mais me fais pas de coups foireux !}
+{159}{}{Bien sûr que si. Y doit bien y avoir un vrai docteur dans le coin.}
+{160}{}{Jette juste un œil et vois ce qui est cassé d'abord.}
+{161}{}{Les Nocturnes préfèrent faire ça. Je leur donne des drogues parfois. Personne fait attention au Docteur Wu. C'est tous des connards ! Bon, tu veux te faire réparer ?}
+{162}{}{Rapièce, doc !}
+{163}{}{Si les Nocturnes te font pas confiance, moi non plus. Je me casse.}
+{164}{}{Idiot ! Cathédrale très occupée ! L'Unité garde Docteur Wu très occupé ! Bon, tu veux te faire réparer ?}
+{165}{}{Maintenant vient la partie amusante !}
+{166}{}{Ça devrait le faire...}
+{167}{}{Quel ringard ! J'ai entendu moins de cris chez les enfants ! Ha ha ha !}
+{168}{}{J'ai fait crier la garce ! Ha ha ha !}
+{169}{}{Connard ! Tête de con ! Je suis très occupé, et faut que tu me déranges ! Va te faire voir ! Dégage, espèce de gerbe ! Maintenant !}
+{170}{}{T'es en santé comme une brahmine, mais pas aussi brillant ! Dégage, espèce d'hypocondriaque connard !}
+{171}{}{T'as des blessures. Je peux arranger ça, tête de bite, si tu restes bien immobile !}
+{172}{}{Tu traites ton corps comme de la merde. Tu dois être un vrai idiot. Je pourrais abréger tes souffrances, ou je pourrais te réparer.}
+{173}{}{Pas maintenant.}
+{174}{}{Bien. Mais j'espère pratiquer une autopsie sur toi d'ici la fin de la journée !}
+{175}{}{Aïe ! Petit...}
+{176}{}{Maintenant dégage, et reviens pas !}
+{177}{}{Bien, je te soigne !}
+{178}{}{Ça devrait bien te réparer !}
+{179}{}{Alors pars, connard ! Je rirai bientôt sur ton cadavre.}
+{180}{}{Petit connard ! Tu te prends pour qui pour déranger le Docteur Wu ? Stupide tête de con !}
+{181}{}{T'as des blessures. Je peux arranger ça, tête de bite, si tu restes bien immobile !}
+{182}{}{Au moins cinq os cassés, et t'as perdu beaucoup de sang. Être un idiot c'est dangereux pour la santé ! Tu veux te faire réparer ?}
+{183}{}{Ça dépend de la définition de 'réparer'. Tu peux me soigner, doc.}
+{184}{}{Moi partir.}

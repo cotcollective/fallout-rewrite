@@ -1,0 +1,65 @@
+{100}{}{Tu vois un pêcheur fatigué.}
+{101}{}{Monsieur, j'ai entendu parler de vous, et j'apprécierais que vous me laissiez tranquille, mon garçon et moi.}
+{102}{}{Madame, j'ai entendu parler de vous, et j'apprécierais que vous me laissiez tranquille, mon garçon et moi.}
+{103}{}{Salut monsieur. Je vois pas souvent des étrangers dans le coin. Je peux faire quelque chose pour vous ?}
+{104}{}{Salut madame. Je vois pas souvent des étrangères dans le coin. Je peux faire quelque chose pour vous ?}
+{105}{}{Vous sauriez pas où je pourrais trouver une Puce d'eau, par hasard ?}
+{106}{}{Vous sauriez rien sur des armées de mutants, par hasard ?}
+{107}{}{Tu viens d'où ?}
+{108}{}{La pêche, ça mord ?}
+{109}{}{Donne-moi tout ce que t'as ou je te tue !}
+{110}{}{Runk !}
+{111}{}{Attends une minute, t'es pas ce gars qui erre dans le désert et botte les fesses des monstres ? Je peux t'aider ?}
+{112}{}{Attends une minute, t'es pas cette fille qui erre dans le désert et botte les fesses des monstres ? Je peux t'aider ?}
+{113}{}{Je commence à manquer de provisions...}
+{114}{}{Aucun homme m'a jamais traité d'inhospitalier, et je veux pas répéter ce que les femmes m'appellent, mais j'essaie de pêcher et j'ai besoin d'un calme absolu pour attraper ces saletés. Alors essaie de te taire, s'il te plaît.}
+{115}{}{On t'a jamais dit que tu radotes ?}
+{116}{}{OK.}
+{117}{}{Je cherche des informations.}
+{118}{}{J'ai l'air d'un charognard, pour toi ? Bon, peut-être que oui, mais c'est parce que je passe beaucoup de temps dans le désert à apprendre à mon garçon à pêcher et à être un homme.}
+{119}{}{J'ai pas fait de charognage depuis six ans. Trop de radscorpions. Un gars pourrait se faire tuer là-dehors avec toutes ces bestioles qui courent.}
+{120}{}{Y a environ huit ans, j'ai vendu des puces à Junktown. Je sais pas ce qu'elles faisaient. L'une d'elles aurait pu être une Puce d'eau, mais je parierais pas dessus.}
+{121}{}{Bref, j'ai besoin de calme pour pêcher, alors j'apprécierais que tu te taises et que tu me laisses retourner au boulot avant que mon garçon et moi crevions de faim.}
+{122}{}{Des armées de mutants ? Pas dans le coin. De simples armées régulières seraient déjà bien assez graves, hé hé.}
+{123}{}{Tu sais, y a trop de politique dans le monde. Je dis toujours à mon garçon que ces politiciens ont hâte de refaire sauter le monde. C'est pour ça que je vis de la terre, pour éviter les politiciens ! La seule façon de vivre.}
+{124}{}{Bon, c'est plutôt personnel comme info. J'ai tué des hommes pour moins que ça, demande au garçon. Mais t'as l'air d'une personne honnête, alors je vais laisser passer cette fois.}
+{125}{}{Eh bien, je pêche ici depuis cinq ans et c'est de pire en pire. Je crois que c'est Moufette, le silure géant à trois yeux, qui fait fuir tout le monde de mon coin.}
+{126}{}{Mais je vais l'avoir, ce poisson, attends un peu. C'est devenu personnel entre nous, et un seul de nous deux va s'en sortir, crois-moi. Je suis plus sérieux que la Confrérie de l'Acier là-dessus.}
+{127}{}{Maintenant tu vas probablement me tuer, mais si je me défends pas, je donnerai un mauvais exemple au garçon. Tu vois mon dilemme ? Pourquoi tu t'en vas pas, ce serait plus facile pour nous deux !}
+{128}{}{Je m'en vais pas, et tu marcheras plus du tout si tu fais pas ce que je dis.}
+{129}{}{Tais-toi et meurs !}
+{130}{}{Bien. Je vais te laisser tranquille.}
+{131}{}{Fiston, je crois que t'as erré dans le désert un peu trop longtemps.}
+{132}{}{Mademoiselle, je crois que t'as erré dans le désert un peu trop longtemps.}
+{133}{}{Goûte un peu ça.}
+{134}{}{Goûte un peu de... oh bon sang, où j'ai mis ça...}
+{135}{}{Eh bien, j'ai entendu parler d'un grand Abri, loin à l'est, et de rapports sur un Abri secret quelque part au sud. Et y a peut-être des puces à Junktown et au Hub. J'espère que ça aide.}
+{136}{}{Je déteste être inhospitalier, mais j'ai besoin de calme pour pêcher, alors j'apprécierais que tu te taises et que tu me laisses retourner au boulot avant que mon garçon et moi crevions de faim. Et bonne chance pour tuer ces bestioles.}
+{137}{}{Des armées de mutants ? De simples armées seraient déjà bien assez. J'ai entendu dire que quelqu'un harcelait les goules à Nécropolis, mais c'était il y a un moment.}
+{138}{}{Bon, c'est une question personnelle. Le ventre de ma mère, bien sûr, mais c'est un peu trop désinvolte. J'ai plus de chez-moi. Mon garçon et moi on erre et on essaie de survivre.}
+{139}{}{Je sais où sont stockées des caches, mais c'est mon secret.}
+{140}{}{Eh bien, c'est tuer ou être tué - la Loi du Désert ici - mais je vais te dire, tu continues à tuer des monstres et je te donnerai des provisions.}
+{141}{}{Ouais c'est ça. Mais c'est quoi 'runk', bordel ? Quoi que ce soit, j'espère que c'est amical.}
+{142}{}{Là tu me blesses. Me voilà, je me mets en quatre pour être bon voisin, et tu m'accuses de radoter ! Bon ! Je m'offense pas facilement, mais tu viens de m'énerver assez pour atomiser quelqu'un.}
+{143}{}{Bref, pourquoi tu dégages pas d'ici. Dégage !}
+{144}{}{Merci bien.}
+{145}{}{De quoi tu veux parler ?}
+{146}{}{J'essaie de trouver une Puce d'eau.}
+{147}{}{J'essaie d'en savoir plus sur des armées de mutants.}
+{148}{}{Tu peux me parler de la Confrérie ?}
+{149}{}{Tu peux me parler du Cimetière de L.A. ?}
+{150}{}{Je suis désolé l'ami, je crois pas pouvoir t'aider.}
+{151}{}{'Runk' c'est pas pareil que rester tranquille. Maintenant ferme ton clapet et dégage.}
+{152}{}{Bien. Prends ce que tu veux et dégage.}
+{153}{}{T'es vraiment pas très amical, hein ?}
+{154}{}{Tu me pardonneras si je suis pas plus reconnaissant, mais je crois que tu devrais juste partir.}
+{155}{}{J'essaie de les éviter si je peux. Leurs patrouilles peuvent être assez méchantes si elles décident de pas t'aimer.}
+{156}{}{C'est sur la côte. J'entends des histoires de gangs qui sèment la pagaille et toutes sortes de trucs que je veux pas que le garçon voie, alors je reste loin de cet endroit !}
+{157}{}{Maintenant range ce truc avant de blesser quelqu'un. Un homme peut pas avoir une conversation civilisée quand y a des armes dégainées.}
+{158}{}{Fiston, y a rien de tel qu'une bataille entre un poisson et un homme.}
+{159}{}{Fiston, je t'ai déjà raconté la fois où j'ai attrapé l'anguille géante... ?}
+{160}{}{Fiston, réponds pas à ton père !}
+{161}{}{Peut-être que cette fois j'attraperai ce silure à trois yeux.}
+{162}{}{Le dîner arrive tout de suite !}
+{163}{}{Y a rien de tel que le goût d'un poisson juteux sur un feu ouvert.}
+{164}{}{Chut fiston, tu fais fuir les poissons.}

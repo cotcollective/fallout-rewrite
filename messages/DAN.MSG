@@ -1,0 +1,109 @@
+{100}{}{Tu vois : Dan.}
+{101}{}{À l'aide !}
+# Appends line 103 or 104 or 105 depending on character's age and gender.
+{102}{}{Eh bien bonjour, mon ami, et bienvenue au Hub. Permets-moi de me présenter, on m'appelle 'Dan l'Homme-Brahmine !' Je fais des affaires avec tous les marchands du coin, j'offre mes humbles services pour un prix dérisoire. Alors, qu'est-ce que je peux faire pour toi, }
+{103}{}{jeune homme ?}
+{104}{}{mon pote ?}
+{105}{}{ma petite dame ?}
+{106}{}{Je veux rejoindre une caravane.}
+{107}{}{Euh, quels services tu proposes, exactement ?}
+{108}{}{Pourquoi tu cries comme ça sur ce pauvre gosse ?!}
+{109}{}{Beurk.}
+{110}{}{Eh bien, je m'occupe à peu près de tous les chariots et brahmines des caravanes du coin. S'ils ont besoin de quoi que ce soit pour leurs caravanes, c'est à moi qu'ils parlent. Et même les Trois Grands ne traitent qu'avec moi.}
+{111}{}{C'est qui, les Trois Grands ?}
+{112}{}{Eh ben, t'es quelqu'un d'important.}
+{113}{}{Vraiment ? C'est chouette. Je veux rejoindre une caravane.}
+{114}{}{Bon, faut que j'y aille. Salut.}
+{115}{}{What? Get the hell out of here, ya' damn skag! Ta think I was about to waste m'time on a low-life like yerself.}
+{118}{}{Bon sang, mon gars. T'as été enfermé toute ta vie dans une grotte ou quoi ? Les Trois Grands sont les trois plus gros groupes de marchands du monde. Bon, d'accord, peut-être pas du monde, mais ils couvrent une sacrée portion ; à peu près aussi loin que portent tes yeux.}
+{119}{}{Bon sang, ma belle. T'as été enfermée toute ta vie dans une grotte ou quoi ? Les Trois Grands sont les trois plus gros groupes de marchands du monde. Bon, d'accord, peut-être pas du monde, mais ils couvrent une sacrée portion ; à peu près aussi loin que portent tes yeux.}
+{120}{}{Va te faire voir, espèce de monstre à brahmine.}
+{121}{}{Oh, eux. Je croyais que tu parlais d'autre chose. Alors comment je rejoins une caravane ?}
+{122}{}{OK, merci. Salut.}
+{123}{}{Monstre à brahmine ? C'est censé être une insulte ? Tu ferais mieux d'être un peu plus poli avec les gens que tu rencontres, l'étranger. Moi je m'en fous, mais cette ville est pleine de coupe-gorges qui n'hésiteraient pas à te trancher la gorge si tu les regardes de travers.}
+{124}{}{Bon sang, t'es vraiment moche, fils de pute !}
+{125}{}{J'ai peur. Salut.}
+{126}{}{Spécial, non ; chanceux, oui. Et sauf si tu veux devenir malchanceux, tu seras un peu plus poli avec les gens que tu rencontres. Moi je m'en fous, mais cette ville est pleine de coupe-gorges qui n'hésiteraient pas à te trancher la gorge si tu les regardes de travers.}
+{127}{}{Bon sang, t'es vraiment moche, fils de pute !}
+{128}{}{Si tu le dis.}
+{129}{}{Au moins j'ai pas un cul de mutant à la place du visage. Ta mère devait être une brahmine et ton père un rat ; c'est la seule façon d'expliquer que tu sois aussi moche. Bon sang, t'es plus moche que moi !}
+{130}{}{Personne parle de ma mère comme ça ! Prépare-toi à mourir !}
+{131}{}{Ouais, pas mal. Bon, j'ai des endroits où aller et des gens à rosser. Salut, Dan.}
+{132}{}{Ouais c'est ça, c'est une réplique correcte, mais tout le monde l'utilise. Tu rigoles, non ? Tu lèverais pas la main sur le pauvre vieux Dan.}
+{133}{}{Réplique ? Main ? Tu rêves. Je poserai bien plus que ma main sur ta carcasse bientôt morte.}
+{134}{}{Ha ! Je t'ai bien eu, hein ?}
+{135}{}{Ouais, un peu peut-être. T'es pas trop mal, gamin. Mais souviens-toi de tenir ta langue. Ça me ferait mal de voir une belle langue gâchée.}
+{136}{}{Bien sûr, c'est ça. Salut, Dan.}
+{137}{}{Alors, comment je rejoins une caravane ?}
+{138}{}{Salut. Et reste loin de mes brahmines, sale petit bâtard.}
+{139}{}{Salut. Et reste loin de mes brahmines, sale petite garce.}
+{141}{}{Au secours ! Police ! Y a un fou qui essaie de me tuer !}
+{142}{}{Eh bien, j'ai pas de place libre mais tu devrais aller voir les Trois Grands. Y a une offre d'emploi au Marché des Marchands qui pourrait t'aider. C'est là qu'eux, et d'autres, recrutent leurs hommes.}
+{143}{}{Oh, pardon... et les femmes bien sûr.}
+{144}{}{T'as pas de place libre ? T'es marchand, toi aussi ?}
+{145}{}{C'est par où, le Marché des Marchands ?}
+{146}{}{OK, merci.}
+{147}{}{Eh bien non, pas exactement. Je travaille en étroite collaboration avec la plupart des petits groupes de marchands, ceci dit, et je sais qu'on n'embauche pas.}
+{148}{}{Tant pis pour toi.}
+{149}{}{OK, à plus tard, Dan.}
+{150}{}{Alors il est où, ce Marché des Marchands ?}
+{151}{}{Va tout droit par cette route. C'est en plein centre du Hub — tu peux pas le rater.}
+{152}{}{Ça te regarde pas, l'étranger.}
+{153}{}{Je vais en faire mon affaire, 'l'étranger' !}
+{154}{}{Désolé de déranger.}
+{155}{}{Eh bien, rebonjour ! Comment ça va ?}
+{156}{}{Je veux rejoindre une caravane.}
+{157}{}{Euh, quels services tu proposes, exactement ?}
+{158}{}{Pourquoi tu criais comme ça sur ce pauvre gosse ?!}
+{159}{}{Bien. Salut.}
+{160}{}{Beurk.}
+{161}{}{Quoi encore ?}
+{162}{}{Pourquoi tu criais comme ça sur ce pauvre gosse ?!}
+{163}{}{Rien.}
+{164}{}{Beurk.}
+{168}{}{Écoute, ce gosse s'est fait prendre à voler. La police me l'a confié pour le remettre dans le droit chemin.}
+{169}{}{C'est pas une raison pour être aussi méchant avec lui.}
+{170}{}{C'est quoi le problème avec le vol ?}
+{171}{}{Oh, c'est différent ! Fais-lui passer un sale quart d'heure !}
+{172}{}{T'es bête ou quoi ? C'est le meilleur moyen de pourrir en cellule ou de se faire exiler sans bouffe, sans fringues ni armes.}
+{173}{}{Ça justifie toujours pas la façon dont tu le traites !}
+{174}{}{Oh, d'accord.}
+{175}{}{Je suis peut-être pas le meilleur modèle de cette putain de ville, mais je suis le seul qui s'en soucie et qui essaie d'aider. Qu'est-ce que t'as fait, toi, pour améliorer la société ?}
+{176}{}{J'ai tué plein de trucs !}
+{177}{}{Désolé, je t'ai mal jugé.}
+{178}{}{T'aurais dû buter le morveux !}
+{179}{}{Eh bien, tu pourrais peut-être être un peu plus gentil avec lui. Je crois qu'il essaie.}
+{180}{}{Tu devrais lui donner une bonne raclée !}
+{181}{}{Tu crois que tuer les gens règle le vrai problème ?}
+{182}{}{Ouais !}
+{183}{}{Ça a marché pour moi jusqu'ici !}
+{184}{}{Hmmm, peut-être pas.}
+{185}{}{Je sais pas.}
+{186}{}{Tu me déçois. T'avais l'air d'avoir la tête sur les épaules. Le tuer réglerait peut-être le problème temporairement, mais faut s'attaquer à la racine du problème pour vraiment faire la différence.}
+{187}{}{Ouais, c'est ça.}
+{188}{}{Euh, OK. Salut.}
+{189}{}{T'es un idiot.}
+{190}{}{Eh bien... (Il s'interrompt, le regard dans le vague.) T'as peut-être raison, partenaire. Je garderai ça en tête, mais je promets rien.}
+{191}{}{Tu rigoles ? Ça le rendrait juste plus rebelle ! Mes méthodes sont peut-être pas parfaites, mais au moins je sais que ça le rendra plus fort et plus responsable.}
+{192}{}{Tout à fait. Tuer la personne qui a la maladie c'est pas la meilleure solution. Faut trouver le remède parce que ça va forcément ressurgir.}
+{193}{}{Sans blague, Einstein.}
+{194}{}{Arrête ton baratin ! Tu me files mal à la tête !}
+{195}{}{Euh, ouais, bien sûr mon pote. Faut que j'y aille.}
+{196}{}{Eh bien, essaie de pas régler tous tes problèmes avec un flingue. Salut.}
+{197}{}{Bon sang, il fait chaud aujourd'hui !}
+{198}{}{Billy ! T'as intérêt à pas faire l'imbécile, petit merdeux !}
+{199}{}{Billy ! Assure-toi que les brahmines restent au chaud cette nuit ou c'est ta peau qui va chauffer !}
+{200}{}{Bon sang, petit morveux ! Arrête de jacasser et mets-toi au boulot !}
+{201}{}{Je t'ai dit d'arrêter de faire l'imbécile !}
+{202}{}{Je te préviens, Billy !}
+{203}{}{Tu veux pas la manière forte, hein ?}
+{204}{}{Désolé gamin, je peux pas parler. J'ai une affaire à faire tourner.}
+{208}{}{Désolé, je peux pas parler. J'ai une affaire à faire tourner.}
+{209}{}{T'as intérêt à pas embêter Billy ; il a un boulot monstre aujourd'hui.}
+{210}{}{Dégage, je suis occupé.}
+{211}{}{Pourquoi on me dérange tout le temps ? Tu vois pas que je bosse ?}
+{212}{}{Parle aux marchands si tu veux un boulot. J'embauche pas.}
+{213}{}{Pourquoi tu vas pas jouer au Maltese Falcon ? Je suis occupé.}
+{214}{}{Qu'est-ce que tu fous ici ? Dégage !}
+{215}{}{J'ai dit dégage ! Je rigole pas ! Je vais te faire sauter ta putain de tête !}
+{216}{}{Vous apprendrez jamais, les jeunes ?}

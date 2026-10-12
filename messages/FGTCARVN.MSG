@@ -1,0 +1,122 @@
+{100}{}{Tu vois le conducteur de caravane des Far Go Traders.}
+{101}{}{Salut, si tu veux un boulot sur une caravane, tu devrais parler à Rutger. Il est juste là-bas.}
+{102}{}{Faudra que tu parles à Rutger.}
+{103}{}{Alors t'as signé. Ravi de l'entendre. Alors tu sais, on part à peu près tous les dix jours. C'est les 8, 18 et 28 de chaque mois. En ce moment on fait des trajets vers la Confrérie, Junktown et le Cimetière de L.A.}
+{104}{}{Alors ça paie combien ?}
+{105}{}{Euh.}
+{106}{}{T'auras 400 billets du Hub. Tu vas peut-être dire que c'est pas grand-chose, mais on sort souvent et tu perdras pas ta vie si facilement. Mais t'es payé à chaque trajet, t'es pas obligé de faire l'aller-retour, mais t'auras 800 en tout si tu le fais.}
+{107}{}{ On part aujourd'hui. Ça t'intéresse ?}
+{108}{}{ On décolle le }
+{109}{}{Vide}
+{110}{}{}
+{111}{}{. Ça t'intéresse ?}
+{112}{}{Je te donnerai quand même un boulot, même si... laisse tomber. Ça t'intéresse ?}
+{113}{}{Bien sûr.}
+{114}{}{Non.}
+{115}{}{Peut-être.}
+{116}{}{Yaya.}
+{117}{}{Tae ?}
+{118}{}{D'accord. Pas de problème. Fais-moi savoir si tu changes d'avis.}
+{119}{}{Tu veux pas te décider ?}
+{120}{}{Repasse si tu cherches quelque chose à faire. C'est les 8, 18 et 28. Salut.}
+{121}{}{Euh, ça marchera pas si tu sais pas distinguer ton pied droit de ton pied gauche. Désolé mon grand.}
+{122}{}{Reviens quand tu te sentiras mieux.}
+{123}{}{Mec, t'as pas l'air d'aller bien. Tu devrais te mettre quelque chose dans l'estomac, mais reste loin de chez Bob.}
+{124}{}{Dégage !}
+{125}{}{Tu pouvais pas laisser mes affaires tranquilles, hein ? Pourquoi t'as fait ça ?}
+{126}{}{Parce que je suis un méchant alien vert de l'espace, et je suis... 'méchant' !}
+{127}{}{Je voulais pas, mais je crève de faim et j'ai des gosses à nourrir.}
+{128}{}{Je vais te tailler le cœur avec une cuillère !}
+{129}{}{[Rends-toi]}
+{130}{}{[Attaque]}
+{131}{}{Alors tu me craches à la gueule, hein ? Je suppose que la seule façon de te faire comprendre c'est de te l'enlever de ce cou.}
+{132}{}{Bien, mais ça rend pas ça juste. Tu vas quand même devoir partir.}
+{133}{}{Tu crois que je vais gober ces conneries ? Gardes !}
+{134}{}{Te mettre dans le tank te donnera peut-être de meilleures manières. Tu viens gentiment, ou on va devoir le faire à la dure ?}
+{135}{}{On se verra en enfer !}
+{136}{}{Oui. Désolé.}
+{137}{}{Alors t'es un dur, hein ? Tu cherches encore la bagarre ?}
+{138}{}{Si tu dégages pas d'ici, j'appelle les flics !}
+{139}{}{Gardes ! Police !}
+{140}{}{Je crois que tu devrais partir...}
+{141}{}{Désolé, mais je vais pas t'offrir de boulot.}
+{142}{}{J'aimerais bien te donner un boulot, mais ça arrivera juste pas.}
+{143}{}{Pars.}
+{144}{}{Plutôt mignon, mais je suis pas trop ton genre.}
+{145}{}{Bon ben d'accord ! Ça paiera 400 billets du Hub. Quelle route tu préfères ?}
+{146}{}{Ravi de l'entendre. Repasse le }
+{147}{}{8}
+{148}{}{18}
+{149}{}{28}
+{150}{}{}
+{151}{}{}
+{152}{}{Confrérie de l'Acier }
+{153}{}{. Tu partiras à ce moment-là. Comme toujours ça paiera 400 billets du Hub.}
+{154}{}{OK.}
+{155}{}{Désolé, je peux pas attendre.}
+{156}{}{Je sais pas ce qui s'est passé, mais toute la caravane a été perdue. Drôle que quelque chose comme ça arrive, et que tu sois le seul encore debout ? Les choses se passent généralement pas comme ça. Je crois juste que je peux plus t'embaucher à cause de ça. Je suis sûr que tu comprends pourquoi.}
+{157}{}{Junktown}
+{158}{}{le Cimetière de L.A.}
+{159}{}{Euh, pas maintenant. Peut-être une autre fois.}
+{160}{}{Ravi de l'entendre, je vais rassembler le reste de l'équipage.}
+{161}{}{Super.}
+{162}{}{Dégage. Bonne chance !}
+{163}{}{Essaie d'éviter les ennuis, va pas les chercher.}
+{164}{}{Fais gaffe là-bas, le Cimetière de L.A. c'est pas l'endroit le plus sûr...}
+{165}{}{C'est bien. Ces passerelles noires sont vraiment étranges, mais elles sont super pour voyager.}
+{166}{}{Y a définitivement une mauvaise bande par là. Je surveillerais avec qui tu traites pendant que t'y es.}
+{167}{}{Super. Junktown c'est pas un mauvais endroit.}
+{168}{}{Oh, et passe voir Killian ; dis-lui 'Salut' de ma part. Mec, les moments qu'on a eus sur ces caravanes...}
+{169}{}{J'ai entendu dire qu'un drôle de docteur traîne par là. Il fait commerce des morts, à ce qu'on dit.}
+{170}{}{T'as pensé à quoi en quittant cette caravane ? Elle est revenue saine et sauve, mais c'était de la pure chance.}
+{171}{}{Je peux avoir une autre chance ?}
+{172}{}{Rien.}
+{173}{}{J'en ai rien à foutre !}
+{174}{}{Ig wa neeka rooola ?}
+{175}{}{Lig.}
+{176}{}{Tu l'as encore foiré. T'as juste pas l'air de pouvoir gérer ce genre de boulot.}
+{177}{}{Pourquoi je devrais ?}
+{178}{}{Tu devrais pas.}
+{179}{}{Parce que je vais te faire un trou dans la tête si tu le fais pas.}
+{180}{}{J'avais mieux à faire que traîner autour d'une stupide caravane.}
+{181}{}{Je savais pas que j'avais pas le droit de partir. Tout semblait OK.}
+{182}{}{Je vois... t'étais drogué. Bon, vis cette vie si tu veux.}
+{183}{}{Désolé que tu le prennes comme ça.}
+{184}{}{Surprenant que tu l'aies pas déjà fait avant. Puisque c'est le cas, ça fera de mal à personne si je te donne une autre chance.}
+{185}{}{T'as fait du bon boulot. Tu veux signer pour une autre ?}
+{186}{}{Bien sûr.}
+{187}{}{Non.}
+{188}{}{Peut-être.}
+{189}{}{Eeek !}
+{190}{}{Lub.}
+{191}{}{T'as tout ton équipement ? On sort aujourd'hui.}
+{192}{}{Oui.}
+{193}{}{Non !}
+{194}{}{Ack !}
+{195}{}{Sinon je le donnerai juste à quelqu'un d'autre, t'inquiète pas. T'es pas obligé... jusqu'à ce que tu partes avec la caravane, hein ?}
+{196}{}{La prochaine caravane part pas avant le }
+{197}{}{8}
+{198}{}{18}
+{199}{}{28}
+{200}{}{}
+{201}{}{}
+{202}{}{}
+{203}{}{. Repasse ici si tu veux toujours le boulot. }
+{204}{}{Janvier }
+{205}{}{Février }
+{206}{}{Mars }
+{207}{}{Avril }
+{208}{}{Mai }
+{209}{}{Juin }
+{210}{}{Juillet }
+{211}{}{Août }
+{212}{}{Septembre }
+{213}{}{Octobre }
+{214}{}{Novembre }
+{215}{}{Décembre }
+{216}{}{Confrérie de l'Acier, on arrive ! Bon... je viens pas avec toi, mais tu vois ce que je veux dire.}
+{217}{}{OK, dégage de ma vue. Ces fanatiques de la Confrérie t'attendent.}
+{218}{}{J'espère que t'aimes les montagnes ! Tu vas droit dedans. Tu devrais voir pas mal d'action là-bas.}
+{219}{}{Prêt à partir, et tu vas droit à travers les montagnes ! Ça devrait être grandiose !}
+# invasion- WastelandGhost@RestorationMOD
+{300}{}{Alors t'as signé ; ravi de l'entendre. Alors tu sais, on part à peu près tous les dix jours. C'est les 8, 18 et 28 de chaque mois. En ce moment on fait des trajets vers la Confrérie et Junktown. Y a des rumeurs d'invasion de mutants au Cimetière de L.A., alors on y va plus.}

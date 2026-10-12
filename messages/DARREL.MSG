@@ -1,0 +1,107 @@
+{100}{}{Tu vois : Darrel.}
+{101}{}{Tu vois un Paladin.}
+{102}{}{Salutations, et bienvenue à la Confrérie de l'Acier.}
+{103}{}{Euh...}
+{104}{}{C'est quoi, la Confrérie de l'Acier ?}
+{105}{}{Tu sais où je peux trouver une Puce d'eau ?}
+{106}{}{Tu sais quelque chose sur les caravanes disparues ?}
+{107}{}{Laisse tomber.}
+{108}{}{(Il rit de toi.) L'ami, je crois pas que t'aies la moindre chance d'entrer ici. Les Aînés exigent un QI minimum pour les nouveaux Initiés.}
+{109}{}{Oui... euh... enfin... euh... Non. C'est juste que les gens essaient même pas de comprendre ce qu'on représente.}
+{110}{}{La Confrérie est un collectif d'hommes et de femmes qui ont dédié leurs vies à la préservation de la technologie.}
+{111}{}{J'ai entendu dire que vous sacrifiez des chiots.}
+{112}{}{C'est quoi comme armure que tu portes ?}
+{113}{}{Comment j'en apprends plus sur votre technologie ?}
+{114}{}{Adieu.}
+{115}{}{Non... J'ai même jamais entendu parler d'un truc pareil. Un de nos Scribes en chef saura peut-être. Tu peux leur demander. Enfin si tu nous rejoins.}
+{116}{}{Rejoindre ? Comment je rejoins ?}
+{118}{}{Vous y connaissez que dalle.}
+{119}{}{Sacrifier des chiots ?! T'as entendu ça où ? Crois pas tout ce qu'on raconte dans le désert ; c'est tous une bande de pauvres dingues.}
+{120}{}{En fait, j'aurais trouvé ça plutôt cool.}
+{121}{}{Désolé de t'avoir énervé.}
+{122}{}{Tout le monde est dingue en dehors de la Confrérie de l'Acier ?}
+{123}{}{La seule façon d'en savoir plus sur nous, c'est de nous rejoindre. Mon ami Cabbot peut t'aider pour ça.}
+{125}{}{Vous avez une Puce d'eau, à la Confrérie ?}
+{126}{}{Faudra que tu voies ça avec Cabbot.}
+{127}{}{C'est quoi au juste, la Confrérie de l'Acier ?}
+{128}{}{C'est bon... C'est juste que les gens essaient même pas de comprendre ce qu'on représente.}
+{129}{}{Y a quoi à comprendre ?}
+{130}{}{Eh bien... Je crois que vous êtes peut-être un peu timbrés, vous-mêmes.}
+{131}{}{La technologie. C'est tout ce que quiconque a besoin de comprendre. Rejoins-nous et tu sauras.}
+{132}{}{Comment on rejoint la Confrérie ?}
+{133}{}{Vous êtes trop bizarres pour moi.}
+{134}{}{Désolé que tu le prennes comme ça.}
+{135}{}{Ceci est l'Armure de Combat d'Infanterie Motorisée modèle T-51b, plus communément appelée Armure Assistée.}
+{136}{}{J'ai erré dans le désert pendant des semaines et j'ai jamais vu une armure pareille.}
+{137}{}{Ça doit être encombrant à porter.}
+{139}{}{La Confrérie est la seule à porter l'Armure Assistée dans le désert. Seuls les honorés, et les Chevaliers du plus haut rang, ont le privilège de porter l'armure ultime.}
+{140}{}{Ça répond toujours pas à pourquoi j'en ai jamais vu avant.}
+{141}{}{Comment on rejoint la Confrérie ?}
+{143}{}{Des hérétiques ont essayé et échoué à nous prendre notre Armure Assistée. Il leur faudrait tuer un Frère pour posséder son droit de naissance, et dans ce cas l'armure serait dans un si mauvais état qu'elle serait inutilisable.}
+{144}{}{Je crois que je vais essayer de te la prendre sur ton cadavre encore chaud.}
+{145}{}{Salut.}
+{146}{}{Je dois sacrifier un chiot pour rejoindre ?}
+{147}{}{Encombrant ? Pas du tout. L'armure sacrée est construite avec des spécifications si exigeantes qu'on dirait une extension du corps du bienheureux. Elle multiplie la force de nombreuses fois et aide à résister aux effets des radiations pour mieux servir la Confrérie. Je me sentirais diminué sans ma sainte armure.}
+{148}{}{Comment ça se fait que personne d'autre dans le désert a cette armure ?}
+{149}{}{J'en veux une comme ça. Inscris-moi.}
+{151}{}{Faut que tu parles à Cabbot si tu veux rejoindre.}
+{152}{}{J'y crois pas. Ils l'envoient là-bas, lui ?}
+{153}{}{J'y crois pas. Ils l'envoient là-bas, elle ?}
+{154}{}{Alors t'as fait la fameuse quête de la Lueur, hein ? *petit rire*}
+{155}{}{Non... Je vais à l'Ordre Ancien.}
+{156}{}{La Lueur, c'est quoi ?}
+{157}{}{Ça te regarde pas, ce que je fais.}
+{158}{}{Ouais, je l'ai faite. Salut.}
+{159}{}{Lueur, Ordre Ancien - c'est la même chose. C'est quand même pas un endroit à visiter.}
+{160}{}{Pourquoi tu dis ça ?}
+{161}{}{Ça peut pas être si dur ? J'ai juste à aller chercher un truc et le ramener. C'est le vieux coup d'envoyer le nouveau en quête.}
+{162}{}{Pourquoi les deux noms ?}
+{163}{}{C'est quoi de si spécial, cet endroit ?}
+{164}{}{La Lueur, comme l'appellent les gens de la surface, était soi-disant un endroit où on développait certaines des armes les plus avancées de l'époque. Du moins c'est ce que disent les écrits anciens. Maintenant, pour ce qu'on en sait, c'est un gros cratère plein de rads. Je crois que les Aînés envoient les wannabes de la Confrérie là-bas juste pour s'en débarrasser.}
+{165}{}{D'autres ? Y en a eu d'autres avant moi ?}
+{166}{}{Je vais à l'Ordre Ancien. C'est où ?}
+{167}{}{T'as raison. Ça me regarde pas.}
+{168}{}{Eh bien ? Pour commencer c'est à 10 jours de voyage au sud-est d'ici. Et puis y a les radiations. Y a une raison pour laquelle aucun de nous est jamais allé à 'l'Ordre Ancien'. Si t'as pas de Rad-X, tu seras cuit avant même de savoir ce qui t'a frappé.}
+{170}{}{Laisse-moi résumer...}
+{171}{}{La plupart des gens de la surface pensent que c'est juste un gros trou radioactif. D'où le nom de Lueur, ou même de Point Chaud pour certains. Nous à la Confrérie on connaît la vérité. Selon les écrits anciens, cet endroit était la source de toute notre technologie... et qui sait ce qui peut encore s'y trouver.}
+{173}{}{Laisse-moi résumer...}
+{174}{}{D'autres ont essayé. On n'a plus jamais entendu parler d'eux.}
+{175}{}{Bon sang, tu m'as presque dégoûté de vouloir rejoindre la Confrérie.}
+{176}{}{Ils étaient faibles. On se revoit.}
+{177}{}{Je dois faire gaffe à quoi, là-bas ?}
+{179}{}{La Lueur et l'Ordre Ancien ne font qu'un.}
+{180}{}{C'est quoi, la Lueur ?}
+{181}{}{Ne te méprends pas, la Confrérie c'est un super endroit à rejoindre. C'est de loin l'endroit le plus sûr où vivre dans le désert. Nulle part ailleurs tu trouveras de meilleures armes et armures. Nous servons la technologie et la technologie nous sert.}
+{182}{}{Ça a l'air bien, je vais continuer ma route.}
+{183}{}{Tu peux m'en dire plus sur la Lueur ?}
+{184}{}{Ça a pas l'air de valoir le coup.}
+{185}{}{Quoi... ?}
+{186}{}{Pourquoi l'Ordre Ancien a deux noms ?}
+{187}{}{Où est l'Ordre Ancien ? Et les dangers c'est... ?}
+{188}{}{Je peux te poser quelques questions ?}
+{189}{}{La plupart des gens de la surface pensent que c'est juste un gros trou radioactif. D'où le nom de Lueur, ou même de Point Chaud pour certains. Nous à la Confrérie on connaît la vérité. Selon les écrits anciens, cet endroit était la source de toute notre technologie... et qui sait ce qui peut encore s'y trouver.}
+{190}{}{J'ai une autre question.}
+{191}{}{Je peux t'aider ?}
+{192}{}{Laisse tomber. Salut.}
+{193}{}{Bien sûr, demande.}
+{194}{}{Bonjour.}
+{195}{}{Oui, Rutger est venu ici en personne il y a pas longtemps, et c'est pas son genre. Il essayait de savoir ce qui arrivait à ses caravanes. J'ai aucune idée de ce que ça peut être. Quelques autres disent avoir vu quelque chose près du Hub, mais ça a disparu avant qu'ils puissent s'approcher. C'est très troublant. J'espère que ça se réglera vite.}
+{196}{}{J'ai entendu dire que vous faites des sacrifices d'animaux ! C'est peut-être vous qui prenez ces caravanes pour vos sombres rituels !}
+{197}{}{Des soupçons ?}
+{198}{}{Eh bien, si tu vois quelque chose, dis-le-moi. J'aimerais bien aller au fond des choses moi-même.}
+{199}{}{Pas vraiment. Je soupçonne un mauvais coup... mais bon, y a plein de créatures étranges et dangereuses là-dehors dans le désert. Ça pourrait simplement être une créature, ou plus probablement, un troupeau ou une bande. J'espère que ça aide. Bonne journée.}
+
+{201}{}{Merci pour ton temps. Salut.}
+{202}{}{OK, merci. Salut.}
+{203}{}{Merci pour les infos. Salut.}
+{204}{}{Merci, salut.}
+{205}{}{OK... Merci pour les infos.}
+{206}{}{Merci pour l'avertissement. Salut.}
+{207}{}{Merci. Salut.}
+{208}{}{Merci pour ton temps.}
+
+{209}{}{Si tu cherchais à mettre la main sur de meilleures armes, tu devrais essayer la Lueur au sud. [Darrel pointe vers le sud]}
+{210}{}{Tiens, prends du Rad-X. [Darrel te donne des pilules]}
+{211}{}{Avalez-les comme ça. [Darrel mime la prise des pilules et se frotte le ventre] Mmmmm, miam.}
+{212}{}{Attends, attends, pas encore ! [Darrel t'empêche de prendre les pilules] Attends d'être à la Lueur.}
+{300}{}{[Suite]}

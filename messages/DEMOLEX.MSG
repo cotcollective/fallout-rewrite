@@ -1,0 +1,53 @@
+{100}{}{Tu vois Lex.}
+{101}{}{Tu vois un loser.}
+{102}{}{[Suite]}
+{103}{}{[Terminé]}
+{104}{}{[Lex chuchote.] Fais gaffe. Rock dit pas toujours la vérité.}
+{105}{}{Pourquoi tu dis ça ?}
+{106}{}{Pourquoi je devrais te croire ?}
+{107}{}{Rock est membre des Cryptes, un gang. Il essaie d'attirer les étrangers, comme toi, dans des ennuis. Si tu l'écoutes, tu pourrais finir mort et enterré.}
+{108}{}{T'es qui ?}
+{109}{}{Merci pour l'info. Bonne journée.}
+{110}{}{Moi c'est Lex. Scrapheap c'est chez moi, et je crois que je parle pour ses gens.}
+{111}{}{Y a quelqu'un d'autre que je devrais connaître ?}
+{112}{}{Eh bien, y a aussi les Fous. Ils contrôleraient Scrapheap, si les Cryptes étaient partis. Les deux gangs se battent pour le contrôle de cet endroit. Pour l'instant, les Cryptes sont au top. Maintenant que t'es là, les choses pourraient changer.}
+{113}{}{Qu'est-ce qui te fait dire ça ?}
+{114}{}{Si tu pouvais te débarrasser des gangs, on te serait reconnaissants. On n'a ni les nombres ni la force pour les chasser, et peu de gens se soucient de cet endroit. Si ça t'importe, alors on pourra peut-être t'aider.}
+{115}{}{Tu veux dire quoi ?}
+{116}{}{J'ai entendu parler de toi. Tu veux trouver la cité perdue de Nécropolis. Des gens reconnaissants pourraient te renseigner sur où aller.}
+{117}{}{Je vais y réfléchir.}
+{118}{}{On pourrait rien demander de plus.}
+{119}{}{Salut.}
+{120}{}{J'ai des questions.}
+{121}{}{Pourquoi je devrais pas ? J'ai les meilleurs intérêts de mon peuple à cœur, et j'aimerais te voir sans encombre.}
+{122}{}{Tu veux dire quoi ?}
+{123}{}{Des forces sont à l'œuvre ici à Scrapheap qui aimeraient t'utiliser, et si c'est pas possible, te voir mort et enterré. Choisis bien tes amis, et tes ennemis avec encore plus de soin. Bonne journée.}
+{124}{}{Ouais, bonne journée.}
+{125}{}{On te remercie de t'être débarrassé des Cryptes et des Fous. Sans le générateur, mon peuple aura une vie pauvre. Tu crois que tu pourrais le réparer ?}
+{126}{}{Bien sûr.}
+{127}{}{Répare-le toi-même. Je veux ma récompense.}
+{128}{}{Merci.}
+{129}{}{Très bien, tu l'auras. Tu as plongé mon peuple dans une nuit froide puis tu nous as abandonnés aux loups - mais je comprends que ta quête est plus importante.}
+{130}{}{La violence que t'as commencée pourrait retomber droit sur mon peuple. Finis-en, s'il te plaît.}
+{131}{}{Bien typique des lâches de refiler le boulot de la mort sur les épaules des autres.}
+{132}{}{J'y travaille.}
+{133}{}{Si t'as besoin d'aide, je la fournirai, mais demande pas à mon peuple. Ils en ont marre de la mort et de la douleur. Je te rejoindrai, si c'est ce que tu veux.}
+{134}{}{Oui, suis-moi, et attaque quand j'attaque.}
+{135}{}{Non. Je fais juste un commentaire social.}
+{136}{}{Comme je le soupçonnais, tu te fous de tout sauf de tes propres besoins. Rejoins nos ennemis, apporte la peur à mon peuple, et trahis tes propres origines.}
+{137}{}{Je vais te tuer pour avoir dit ça.}
+{138}{}{C'est un plan. J'infiltre ce gang.}
+{139}{}{Tais-toi.}
+{140}{}{Je m'en doutais, vermine.}
+{141}{}{Peut-être, mais les actes parlent plus fort que les mots.}
+{142}{}{Tu verras.}
+{143}{}{Je peux t'aider en quoi ?}
+{144}{}{Parle-moi du générateur.}
+{145}{}{Parle-moi des Cryptes.}
+{146}{}{Parle-moi des Fous.}
+{147}{}{Parle-moi de Scrapheap.}
+{148}{}{Rien d'autre, merci.}
+{149}{}{Scrapheap c'est notre ville. C'était notre chez-nous. Et ça le sera de nouveau, on l'espère.}
+{150}{}{Le générateur fournit toute l'électricité de la ville. Sans lui, on mourrait sûrement. C'est la chose la plus importante de la ville. Qui le contrôle, contrôle Scrapheap.}
+{151}{}{Les Cryptes sont un gang dirigé par Rayze. C'est un animal et il a un des plus gros flingues que j'aie jamais vus. Il laisse Lenny en vie, parce qu'il s'occupe des brahmines, qui fournissent le carburant du générateur. Les Cryptes sont dans la grande maison.}
+{152}{}{Baka dirige les Fous. Si elle avait plus d'hommes, elle attaquerait sûrement les Cryptes et essaierait de reprendre le générateur. On distingue les Cryptes des Fous à leur armure. Les Fous portent du métal, les Cryptes du cuir.}

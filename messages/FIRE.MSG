@@ -1,0 +1,55 @@
+{100}{}{Tu vois Fire, un membre des Lames.}
+{101}{}{}
+{102}{}{}
+{103}{}{Tu vois un membre des Lames.}
+{104}{}{Tu vois un membre des Lames.}
+{105}{}{Tu crois que ça pourrait être Livres.}
+{106}{}{Tu crois que ça pourrait être Cicatrices.}
+{107}{}{Tu crois que ça pourrait être Tireur.}
+{108}{}{Tu crois que ça pourrait être Twitch.}
+{109}{}{Tu crois que ça pourrait être Marteau.}
+{110}{}{Tu crois que ça pourrait être Razor.}
+{111}{}{Tu veux quoi, loser ?}
+{112}{}{Euh.}
+{113}{}{Je veux devenir une Lame.}
+{114}{}{Qu'est-ce qu'il faudrait pour que je fasse la paix entre vous et Adytum ?}
+{115}{}{Ça ! [tu le gifles]}
+{116}{}{Rien. Désolé de t'avoir dérangé.}
+{117}{}{J'inspecte juste votre coin.}
+{118}{}{Super, un autre idiot. T'as l'air d'un Éventreur.}
+{119}{}{Rrrrr.}
+{120}{}{Arrrr.}
+{121}{}{Arrooo ?}
+{122}{}{Tu les aimes pas beaucoup non plus ? On pourrait t'utiliser pour un petit 'boulot'.}
+{123}{}{Urroo.}
+{124}{}{Un nah.}
+{125}{}{OK, parle à la cheftaine. Razor te dira quoi faire.}
+{126}{}{Stupide et poule mouillée. Je vais abréger tes souffrances maintenant.}
+{127}{}{Alors t'es un Éventreur ! Ça me ferait mal de l'entendre, mais bon je savais déjà qu'ils étaient stupides. Bonne nuit !}
+{128}{}{Les Éventreurs. Ces consanguins de l'autre côté de la ville. Laisse tomber. T'es trop stupide pour savoir quoi que ce soit.}
+{129}{}{Tu veux être une Lame ? Bonne chance. Mais si tu trouves Razor, parle-lui en. Peut-être qu'elle te laissera faire ton bizutage.}
+{130}{}{OK, merci.}
+{131}{}{Alors je veux pas entrer !}
+{132}{}{Tu veux dire quoi, 'bizutage' ?}
+{133}{}{Tu peux pas juste faire de moi une Lame ?}
+{134}{}{Ta mère t'a jamais voulu, et nous non plus.}
+{135}{}{Simple. Faudra que tu tues quelqu'un pour entrer ici. Elle te dira qui tu devras tuer.}
+{136}{}{OK, merci.}
+{137}{}{Laisse tomber. Je veux pas faire partie de ton stupide gang.}
+{138}{}{Non. Je peux pas. Je dirige pas. Je garde juste Razor dans le droit chemin.}
+{139}{}{Simple. Massacre nos ennemis, et ensuite on laissera Adytum tranquille.}
+{140}{}{C'est qui vos ennemis ?}
+{141}{}{Très bien. Tu me donneras une preuve de ça ?}
+{142}{}{Se battre c'est mal ! Je le ferai pas !}
+{143}{}{Les Régulateurs. Ils dirigent Adytum. Ils sont pas stupides et très dangereux.}
+{144}{}{OK, je tuerai les Régulateurs.}
+{145}{}{Laisse tomber.}
+{146}{}{Si tu comptes faire ça, tu devrais prévenir Razor. Sinon, elle t'aura la tête avant que tu sortes d'ici.}
+{147}{}{Comme tu veux. Adieu.}
+{148}{}{Je fais pas de deals. Je fais que des suggestions. Parle à Razor si tu veux dealer.}
+{149}{}{Alors te tuer maintenant t'épargnerait bien des années de souffrance.}
+{150}{}{Alors inspecte ça !}
+{151}{}{Perds-toi si tu veux vivre.}
+{152}{}{Chut. On essaie de se faufiler vers les Éventreurs.}
+{153}{}{Si t'as la tête, apporte-la à Razor. Elle veut toujours jouer au foot. Sinon, dégage !}
+{154}{}{Yo, mon pote !}
