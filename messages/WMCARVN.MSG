@@ -1,0 +1,120 @@
+{100}{}{Tu vois un conducteur de caravane.}
+{101}{}{Salut, si tu cherches du boulot sur une de nos caravanes, tu devrais parler à la Grande Marchande. Elle est dans le bâtiment à l'est.}
+{102}{}{Désolée, mais tu dois parler à la Grande Marchande.}
+{103}{}{Bien, t'as eu le feu vert. Je savais que ce serait pas un problème. Elle est tellement débordée ces temps-ci, depuis que Daren Hightower a commencé à se terrer dans son bureau. Drôle de type. On part à peu près tous les cinq jours. C'est le 1er, le 5, le 10, le 15, le 20 et le 25. Pour l'instant on va seulement à Junktown et à Boneyard.}
+{104}{}{Alors, c'est payé combien ?}
+{105}{}{Euh.}
+{106}{}{Notre paie, c'est 200 capsules. C'est pas terrible, mais on part souvent et nos routes sont pas trop dangereuses et oui, comme tout le monde, c'est pour chaque trajet, mais bien sûr t'es pas obligé de faire l'aller-retour. }
+{107}{}{On part aujourd'hui. Ça t'intéresse ?}
+{108}{}{On part le }
+{109}{}{Vide}
+{110}{}{ }
+{111}{}{. Ça t'intéresse ?}
+{112}{}{Je te donne quand même un boulot, même si... peu importe. Ça t'intéresse ?}
+{113}{}{Bien sûr. }
+{114}{}{Non.}
+{115}{}{Peut-être.}
+{116}{}{Yaya.}
+{117}{}{Tae ?}
+{118}{}{Oh, d'accord. Pas de problème. Fais-moi signe si tu changes d'avis.}
+{119}{}{J'aimerais bien que tu te décides.}
+{120}{}{Bon, repasse si tu décides de travailler pour nous. C'est le 1er, le 5, et ainsi de suite. Salut.}
+{121}{}{Désolée, mais je peux pas t'embaucher si tu peux pas communiquer clairement avec le reste de l'équipage.}
+{122}{}{Reviens quand tu te sentiras mieux.}
+{123}{}{Euh, ça va ? Je crois que tu devrais manger un truc, mais va pas chez Bob.}
+{124}{}{Je t'ai dit de dégager !}
+{125}{}{Je suis bien déçue de toi... voler ! Mais pourquoi t'as fait ça ?}
+{126}{}{Parce que je suis un vilain bonhomme vert de l'espace, et je suis... « méchant » !}
+{127}{}{Je voulais pas, mais je meurs de faim et j'ai des gosses à nourrir.}
+{128}{}{Je vais te sculpter le cœur avec une cuillère ! }
+{129}{}{[Se rendre]}
+{130}{}{[Attaquer]}
+{131}{}{J'ai essayé de t'aider, mais je suppose que certains sont irrécupérables. Désolée de dire ça, mais on va devoir régler ça par la violence.}
+{132}{}{Je comprends, mais ça justifie rien. Je vais quand même devoir te demander de partir. On peut pas embaucher des gens qui contrôlent pas leurs tentations.}
+{133}{}{Tu crois vraiment que je vais gober ces conneries ? Gardes !}
+{134}{}{Désolée, mais parfois un petit séjour en cellule peut guérir quelqu'un. Gardes ! Essayez de « pas » la tuer. Tu te rends à mes gardes ?}
+{135}{}{On se reverra en enfer !}
+{136}{}{Oui. Je suis désolée.}
+{137}{}{Quoi ? Tu vas encore te battre ?}
+{138}{}{Désolée, mais tu dois partir immédiatement ou je serai forcée d'appeler la police !}
+{139}{}{Gardes ! Police !}
+{140}{}{Je crois que tu devrais partir...}
+{141}{}{Désolée, mais j'ai pas le droit de t'embaucher.}
+{142}{}{S'il te plaît, tu me rends les choses difficiles.}
+{143}{}{Pars, s'il te plaît.}
+{144}{}{Intrigant, mais t'es pas mon genre.}
+{145}{}{Formidable ! La paie sera de 200 capsules. Quelle route tu préfères ?}
+{146}{}{Fabuleux. Passe le }
+{147}{}{1er}
+{148}{}{5}
+{149}{}{10}
+{150}{}{15}
+{151}{}{20}
+{152}{}{25}
+{153}{}{. Tu partiras ce jour-là. Comme toujours, ce sera 200 capsules.}
+{154}{}{D'accord.}
+{155}{}{Désolée, je peux pas attendre.}
+{156}{}{C'est une tragédie. On a perdu toute la caravane, mais t'as survécu ? Ça aurait pas dû arriver. Je sais pas ce qui s'est passé là-bas, mais on peut plus t'embaucher. Désolée.}
+{157}{}{Junktown}
+{158}{}{Boneyard}
+{159}{}{Euh, pas maintenant. Peut-être une autre fois.}
+{160}{}{Formidable, je vais chercher le reste de l'équipage.}
+{161}{}{Super.}
+{162}{}{En route. Bonne chance !}
+{163}{}{Essaie d'éviter les ennuis, va pas les chercher.}
+{164}{}{Fais attention, j'aime pas l'air de Boneyard. C'est glauque.}
+{165}{}{C'est bien. Ces passerelles noires sont vraiment étranges, mais elles sont super pour voyager.}
+{166}{}{Je crois qu'il y a des gangs là-bas. Je ferais bien attention à qui tu parles.}
+{167}{}{Super. Junktown, c'est un endroit correct.}
+{168}{}{Oh, dis « salut » à ce... Kill... encore ? J'oublie son nom, mais c'est un chic type. Je me demande comment il va.}
+{169}{}{Endroit intéressant. Paraît qu'ils ont un docteur maléfique qui anime les morts, ou un truc comme ça.}
+{170}{}{Pourquoi diable t'as quitté cette dernière caravane ? Rien de terrible lui est arrivé, mais ça aurait pu.}
+{171}{}{Je peux avoir une autre chance ?}
+{172}{}{Rien.}
+{173}{}{J'en ai rien à foutre !}
+{174}{}{Ig wa neeka rooola ?}
+{175}{}{Lig.}
+{176}{}{Désolée, tu m'as encore déçue. T'as pas l'air très responsable, et c'est pas une bonne combinaison pour notre métier.}
+{177}{}{Pourquoi je devrais ?}
+{178}{}{Tu devrais pas.}
+{179}{}{Parce que je vais te trouer la tête si tu le fais pas.}
+{180}{}{J'avais mieux à faire que de traîner avec une stupide caravane.}
+{181}{}{Je savais pas que j'avais pas le droit de partir. Tout avait l'air normal.}
+{182}{}{Je vois... t'étais drogué. Bon, vis cette vie si tu veux.}
+{183}{}{Désolée que tu le prennes comme ça.}
+{184}{}{Je suis surprise que t'aies jamais fait de caravane avant, mais je suppose que ça a pas fait de mal... alors, d'accord. Je te donne une autre chance.}
+{185}{}{T'as fait du bon boulot ! Tu veux une autre caravane ?}
+{186}{}{Bien sûr.}
+{187}{}{Non.}
+{188}{}{Peut-être.}
+{189}{}{Eeek !}
+{190}{}{Lub.}
+{191}{}{Prêt à partir ? On part aujourd'hui.}
+{192}{}{Oui.}
+{193}{}{Non !}
+{194}{}{Ack !}
+{195}{}{Sinon je le donnerai juste à quelqu'un d'autre, t'inquiète pas. T'es pas obligé... jusqu'à ce que tu partes avec la caravane, d'accord ?}
+{196}{}{T'es un peu en avance. La prochaine caravane part pas avant le }
+{197}{}{1er}
+{198}{}{5}
+{199}{}{10}
+{200}{}{15}
+{201}{}{20}
+{202}{}{25}
+{203}{}{. Repasse ce jour-là si tu veux toujours le boulot. }
+{204}{}{Janvier }
+{205}{}{Février }
+{206}{}{Mars }
+{207}{}{Avril }
+{208}{}{Mai }
+{209}{}{Juin }
+{210}{}{Juillet }
+{211}{}{Août }
+{212}{}{Septembre }
+{213}{}{Octobre }
+{214}{}{Novembre }
+{215}{}{Décembre }
+
+# invasion - WastelandGhost@RestorationMOD
+{300}{}{Bien, t'as eu le feu vert. Je savais que ce serait pas un problème. Elle est tellement débordée ces temps-ci, depuis que Daren Hightower a commencé à se terrer dans son bureau. Drôle de type. On part à peu près tous les cinq jours. C'est le 1er, le 5, le 10, le 15, le 20 et le 25. On va seulement à Junktown pour l'instant. Y avait des rumeurs d'invasion de mutants à Boneyard, alors on y va plus.}
+

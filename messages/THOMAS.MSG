@@ -1,0 +1,70 @@
+{100}{}{Tu vois : Frère Thomas.}
+{101}{}{Bon, les enfants. Aujourd'hui, on va revoir les arts martiaux.}
+{102}{}{En combat rapproché, la technique dépend de la taille, de l'allonge et de la rapidité de l'adversaire.}
+{103}{}{Si l'occasion se présente, testez votre adversaire.}
+{104}{}{Ne vous précipitez pas à l'attaque.}
+{105}{}{Allez, mon petit, essaie de faire mal au pauvre vieux pépé.}
+{106}{}{Ah !}
+{107}{}{Euh.}
+{108}{}{Bon, c'est tout pour l'instant, récapitulons.}
+{109}{}{Vous avez vu comme il a perdu l'équilibre ?}
+{110}{}{Trop s'étendre, ça vous expose à une contre-attaque.}
+{111}{}{Quand vous attaquez, ne vous étendez pas trop.}
+{112}{}{Pourquoi c'est si mal de trop s'étendre ?}
+{113}{}{Si on a l'occasion de tuer, on ne devrait pas en profiter ?}
+{114}{}{C'est beaucoup risquer sa vie pour ça.}
+{115}{}{Trop s'étendre expose vos flancs à une contre-attaque et vous déséquilibre.}
+{116}{}{Une petite poussée suffit à vous mettre sur le cul.}
+{117}{}{Bon, on va donner sa chance à un autre jeune voyou contre pépé.}
+{118}{}{Voyons si vous avez retenu la leçon de l'exemple précédent.}
+{119}{}{Pas mal, ce dernier mouvement a failli m'avoir.}
+{120}{}{Tu es sûr de vouloir être Scribe, Initié ?}
+{121}{}{Ce serait dommage de gâcher de tels talents.}
+{122}{}{On te gardera en réserve. D'accord ?}
+{123}{}{Je te taquine, c'est tout.}
+{124}{}{Tu devrais peut-être envisager une carrière de Chevalier.}
+{125}{}{Réfléchis-y.}
+{126}{}{Merci, Frère Thomas.}
+{127}{}{J'espère que vous avez tous remarqué que Frère Anthony ne s'est pas trop étendu.}
+{128}{}{Il a aussi essayé d'utiliser mon poids et ma masse contre moi.}
+{129}{}{Les arts martiaux ont leurs bons et leurs mauvais côtés.}
+{130}{}{On apprendra plein de styles différents pour mieux comprendre leurs forces et leurs faiblesses.}
+{131}{}{Bon. Montre-moi ce que tu sais faire.}
+{132}{}{Très bien. Tu as tenu bien plus longtemps que je ne pensais.}
+{133}{}{Tu peux retourner dans le rang.}
+{134}{}{Bon, j'espère que les enfants ont bien suivi ce qui se passait.}
+{135}{}{C'est un combattant né.}
+{136}{}{Allez, encore un.}
+{137}{}{Regardez bien...}
+{138}{}{et n'oubliez jamais de frapper À TRAVERS vos cibles.}
+{139}{}{Imaginez que votre cible est quelques centimètres au-delà du point d'impact.}
+{140}{}{Euh, Frère Thomas ?}
+{141}{}{Oui, mon petit morceau d'argile.}
+{142}{}{On devrait pas faire pareil pour les coups de pied ?}
+{143}{}{Bien sûr.}
+{144}{}{Très bien. Je crois qu'on va te laisser vivre.}
+{145}{}{Je rigole, essaie de sourire de temps en temps.}
+{146}{}{C'est pas une question de vie ou de mort.}
+{147}{}{On aura tout le temps pour ça plus tard.}
+{200}{}{Pas mal.}
+{201}{}{C'était plutôt bien.}
+{202}{}{Bon, tu apprends.}
+{203}{}{Reste concentré.}
+{204}{}{Garde les yeux sur moi.}
+{205}{}{Ne t'étends pas trop.}
+{206}{}{Ne quitte jamais ton adversaire des yeux.}
+{207}{}{Travaille tes blocages.}
+{208}{}{Garde ton centre de gravité bas.}
+{209}{}{Excellent !}
+{210}{}{Posture parfaite.}
+{211}{}{Je suis impressionné.}
+
+{300}{}{Tu gagnes 500 points d'expérience à regarder l'entraînement au combat. Tu as l'impression d'avoir appris deux ou trois trucs !}
+
+#
+# new for Fallout Fixt:
+#
+
+{400}{}{Thomas t'ignore.}
+
+

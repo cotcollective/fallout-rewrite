@@ -1,0 +1,76 @@
+{100}{}{Tu vois : Trish, serveuse au Skum Pitt.}
+{101}{}{Tu fous quoi dans ma chambre, bordel ?}
+{102}{}{Gug !}
+{103}{}{Oups, désolée. Je croyais que c'était ma chambre.}
+{104}{}{Désolée. Salut.}
+{105}{}{Pas question ! Ça m'intéresse pas ! Va voir Sinthia au bout du couloir. Elle est peut-être dispo, mais elle est jamais gratuite.}
+{106}{}{Ouais, c'est ça. Peu importe. C'est ma chambre. Dégage.}
+{107}{}{Tu fous quoi dans ma chambre, bordel ?}
+{108}{}{Grub !}
+{109}{}{Oups, désolée. Je croyais que c'était ma chambre.}
+{110}{}{Tu connais un gars qui s'appelle Saul ?}
+{111}{}{Je croyais, avant. Maintenant, j'en suis plus si sûre.}
+{112}{}{Il tient vraiment à toi.}
+{113}{}{Je crois que tu devrais le larguer.}
+{114}{}{C'est ce qu'il dit. S'il tenait à moi, il ferait pas ce qu'il fait.}
+{115}{}{C'est-à-dire ?}
+{116}{}{Sa boxe, c'est ça ?}
+{117}{}{Tu dirais ça, toi. Tu veux prendre sa place, c'est ça ?}
+{118}{}{Nan. T'es trop vulgaire.}
+{119}{}{Bien sûr.}
+{120}{}{Laisse-moi tranquille.}
+{121}{}{T'as peut-être raison. Je devrais peut-être comprendre ce qu'il fait et en rester là.}
+{122}{}{Ses combats, évidemment. Je comprends pas.}
+{123}{}{C'est un truc de mecs.}
+{124}{}{Bien sûr que non, ma belle.}
+{125}{}{Bien sûr que c'est sa boxe. C'est un mec vraiment bien, mais il faut qu'il arrête avant que ça le tue.}
+{126}{}{C'est peut-être ce qu'il cherche.}
+{127}{}{Hé, on s'est vus au Skum Pitt. Tu fous quoi dans ma chambre, bordel ?}
+{128}{}{Plato}
+{129}{}{Je voulais te regarder de plus près.}
+{130}{}{Je voulais te soutirer des infos, et pas devant ce barman.}
+{131}{}{Fous-moi la paix, minable. Sinthia est peut-être ton genre de femme, mais moi sûrement pas.}
+{132}{}{Laisse-moi tranquille. J'ai vraiment pas envie de parler.}
+{133}{}{Désolée de te déranger.}
+{134}{}{Sors de ma chambre !}
+{135}{}{Je vais chercher Marcelles, elle va te régler ton compte.}
+{136}{}{Mon copain pourrait te casser la gueule.}
+{137}{}{Écoute, c'est ma chambre. Pars, s'il te plaît.}
+{138}{}{Merci d'avoir aidé pour Saul. C'est vraiment un chic type.}
+{139}{}{C'est toi qui as fait tuer mon copain. Je devrais te haïr, mais je savais que ça finirait comme ça un jour ou l'autre. Laisse-moi tranquille, s'il te plaît.}
+{140}{}{Hé, merci de m'avoir aidée quand ces Skulz m'ont sauté dessus. Y a pas grand monde pour faire ce genre de truc de nos jours.}
+{141}{}{Hnnn.}
+{142}{}{De rien. À plus.}
+{143}{}{De rien. Je peux te poser quelques questions ?}
+{144}{}{Je suppose.}
+{145}{}{À qui appartient le bar ?}
+{146}{}{C'est qui, Gizmo ?}
+{147}{}{Pourquoi tu as hurlé à propos de Saul ?}
+{148}{}{Merci, salut.}
+{149}{}{Neal possède le bar. C'est un bon gars, il m'a toujours bien traitée. On est sortis ensemble, mais il devenait un peu trop sérieux à mon goût. Je veux pas devenir veuve.}
+{150}{}{Oh ! Saul, où es-tu ?!?}
+{151}{}{Zzzz}
+{152}{}{Désolée, c'est fermé. Repasse plus tard.}
+{153}{}{Rien, merci.}
+{154}{}{Gizmo dirige le Casino. Il aimerait bien racheter le bar de Neal, mais Neal veut pas vendre.}
+{155}{}{Killian et Gizmo s'aiment pas. L'un des deux devra quitter la ville ou finir enterré dessous.}
+{156}{}{Bienvenue au Skum Pitt. Je peux te servir quelque chose ?}
+{157}{}{Oui, qu'est-ce que vous avez ?}
+{158}{}{Saul, c'est mon copain. Il est vraiment adorable avec moi.}
+{159}{}{En fait, je peux te poser quelques questions ?}
+{160}{}{Non, en fait, tu peux pas. Si tu commandes pas un verre, t'es pas au bon endroit.}
+{161}{}{Ce sera quoi ?}
+{162}{}{Gizmo, eh bien, Gizmo veut racheter le bar. Et si Neal veut pas vendre, je parie qu'il va arriver des bricoles.}
+{163}{}{Un jour, un connard va tuer Neal pour un verre d'eau ou une connerie du genre. Au cas où t'aurais pas remarqué, tenir un bar, c'est du boulot, ces temps-ci.}
+{164}{}{Nuka-Cola, 3 capsules.}
+{165}{}{Bière, 5 capsules.}
+{166}{}{Les trucs forts, 20 capsules.}
+{167}{}{Tu vois une serveuse.}
+{168}{}{Travailler pour Gizmo, ça va quand même le tuer.}
+{169}{}{Non, mais tu peux pas le changer, et il peut pas te changer. Si t'aimes pas ce qu'il fait, va voir ailleurs.}
+{170}{}{Hnnngh ! Hoo !}
+{171}{}{Désolée, on dirait que t'es déjà un peu parti.}
+{172}{}{Tu gagnes 300 points d'expérience pour avoir aidé à battre les Skulz dans la bagarre du bar.}
+{173}{}{Tu gagnes 250 points d'expérience pour avoir sauvé la relation de Saul et Trish.}
+{174}{}{Voilà. Santé.}
+

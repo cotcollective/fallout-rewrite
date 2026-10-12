@@ -1,0 +1,116 @@
+{100}{}{Tu vois : Thorndyke.}
+{101}{}{Je n'utilise pas mes dons pour soigner mes ennemis. Sors d'ici.}
+{102}{}{J'ai entendu parler de toi. Tu es un tueur sans pitié. Je ne soignerai pas quelqu'un qui a fait tant de mal. Sors d'ici.}
+{103}{}{Monsieur, je suis un guérisseur. Vous n'avez nul besoin de mes services.}
+{104}{}{Madame, je suis un guérisseur. Vous n'avez nul besoin de mes services.}
+{105}{}{Parle-moi de ton travail.}
+{106}{}{C'est quoi, cet endroit ?}
+{107}{}{Tu prends combien pour tes services ?}
+{108}{}{Peut-être plus tard...}
+{109}{}{Tu sais, je pourrais t'apporter des clients. Je suis très doué pour blesser les gens !}
+{110}{}{Hein ?}
+{111}{}{Monsieur, je vous ai déjà donné un médicament. Je n'ose pas administrer une seconde dose maintenant.}
+{112}{}{Madame, je vous ai déjà donné un médicament. Je n'ose pas administrer une seconde dose maintenant.}
+{113}{}{Parle-moi de ton travail.}
+{114}{}{C'est quoi, cet endroit ?}
+{115}{}{C'est bien triste, comme médicament. Tu devrais trouver quelque chose de plus fort ?}
+{116}{}{Désolé de te déranger, Doc.}
+{117}{}{Tu sais, je pourrais t'apporter des clients. Je suis très doué pour blesser les gens !}
+{118}{}{Hein ?}
+{119}{}{Monsieur, vous êtes blessé. Je peux vous soigner si vous voulez. Je suis un guérisseur.}
+{120}{}{Madame, vous êtes blessée. Je peux vous soigner si vous voulez. Je suis un guérisseur.}
+{121}{}{Parle-moi de ton travail.}
+{122}{}{C'est quoi, cet endroit ?}
+{123}{}{Combien ?}
+{124}{}{Vas-y.}
+{125}{}{Non merci.}
+{126}{}{Je déteste les docteurs !}
+{127}{}{Oooo ! Ouwww !}
+{128}{}{Rarrrr !!!}
+{129}{}{Monsieur, vous êtes gravement blessé. Je vous recommande fortement de me laisser vous soigner. Je suis un guérisseur.}
+{130}{}{Madame, vous êtes gravement blessée. Je vous recommande fortement de me laisser vous soigner. Je suis un guérisseur.}
+{131}{}{Parle-moi de ton travail.}
+{132}{}{C'est quoi, cet endroit ?}
+{133}{}{Combien ?}
+{134}{}{Non merci.}
+{135}{}{Je déteste les docteurs !}
+{136}{}{Oooo ! Ouwww !}
+{137}{}{Rarrrr !!!}
+{138}{}{La Sainte Flamme m'ordonne de soigner les gens. Sa sagesse est incontrovertible, alors j'obéis. J'ai déjà beaucoup appris sur le monde au-delà de la Cathédrale.}
+{139}{}{Parle-moi de la Cathédrale.}
+{140}{}{Qu'est-ce que tu as appris ?}
+{141}{}{C'est quoi, cet endroit ?}
+{142}{}{Désolé de te déranger, Doc.}
+{143}{}{Ça doit être quelque chose, cette flamme !}
+{144}{}{Monsieur, pardonnez-moi, mais je n'ai pas de patience pour les longues conversations. D'autres pourront vous instruire mieux que moi. Veuillez m'excuser.}
+{145}{}{Madame, pardonnez-moi, mais je n'ai pas de patience pour les longues conversations. D'autres pourront vous instruire mieux que moi. Veuillez m'excuser.}
+{146}{}{Pour moi, monsieur, c'est un lieu pour pratiquer le don de guérison. Pour d'autres, c'est un lieu où les âmes égarées peuvent être rassemblées et mises sur une voie productive. Pardonnez-moi, mais je n'ai pas de patience pour les longues conversations. D'autres pourront vous instruire mieux que moi. Veuillez m'excuser.}
+{147}{}{Pour moi, madame, c'est un lieu pour pratiquer le don de guérison. Pour d'autres, c'est un lieu où les âmes égarées peuvent être rassemblées et mises sur une voie productive. Pardonnez-moi, mais je n'ai pas de patience pour les longues conversations. D'autres pourront vous instruire mieux que moi. Veuillez m'excuser.}
+{148}{}{Il y avait quelques sages parmi les anciens qui croyaient que la vertu est sa propre récompense. C'est aussi ma croyance. Si plus de gens partageaient cet avis, la Sainte Flamme n'aurait peut-être pas été nécessaire... Pardonnez-moi, mais je n'ai pas de patience pour les longues conversations. D'autres pourront vous instruire mieux que moi. Veuillez m'excuser.}
+{149}{}{Adieu. Si tu as besoin de moi, je serai ici. J'espère sincèrement que tu n'auras plus jamais besoin de me revoir.}
+{150}{}{Ceci est un service, pas un commerce. Et ton talent n'est pas de ceux dont je me vanterais. Maintenant, excuse-moi.}
+{151}{}{Hélas, tes blessures dépassent peut-être mes capacités de guérison. On dit que la Sainte Flamme peut guider ceux qui sont maudits d'idiotie et les mener à la rédemption ; je prierai pour toi.}
+{152}{}{Tu es blessé. Garde la conversation pour plus tard... Laisse-moi te soigner...}
+{153}{}{Pas très doué pour le contact avec les patients, hein, Doc ?}
+{154}{}{J'aimerais vraiment en savoir plus.}
+{155}{}{Tu prends combien ?}
+{156}{}{Vas-y.}
+{157}{}{Non merci.}
+{158}{}{Je déteste les docteurs !}
+{159}{}{Je suis un guérisseur, pas un usurier. La Cathédrale pourvoit à mes besoins, alors je pourvois à ceux des autres. Maintenant, voyons ta blessure, veux-tu ?}
+{160}{}{Vas-y.}
+{161}{}{Très bien.}
+{162}{}{Oublie ça. Si t'étais plus charlatan que ça, tu nagerais dans une mare.}
+{163}{}{Je déteste les docteurs !}
+{164}{}{Je recommande quelques jours de repos au lit, même si personne suit jamais mes conseils. Maintenant, sors d'ici.}
+{165}{}{Comme tu veux. Je serai ici si tu changes d'avis.}
+{166}{}{[Sourire] Ces gens terribles. Je compatis entièrement. [Le sourire s'efface] Je serai ici si tu changes d'avis. Tu es excusé.}
+{167}{}{Je prends ça pour un oui. S'il te plaît, me tue pas... }
+{168}{}{OUWWWW !! [GROGNEMENT !]}
+{169}{}{Pauvre créature. Une bête à l'intellect aussi bas serait un défi même pour les pouvoirs de guérison de la Sainte Flamme. Sors d'ici...}
+{170}{}{Je prends ça pour un « non ». Tu es excus... euh... Tu t'en vas maintenant. Va !}
+{171}{}{C'est un très bel endroit, bien qu'un peu surpeuplé ces temps-ci. C'est loin au sud d'ici. Nous, les fidèles, nous rassemblons pour louer notre Maître, la Sainte Flamme, et prier pour la paix et l'Unité. Maintenant, si ce sera tout...}
+{172}{}{Parle-moi de la paix et de l'Unité...}
+{173}{}{C'est où exactement, cet endroit ?}
+{174}{}{Alors, qu'est-ce qui cause cette surpopulation ?}
+{175}{}{Je déteste les docteurs !}
+{176}{}{J'ai appris que nous sommes une espèce rancunière, violente et stupide, indigne de la Sainte Flamme. J'ai vu la cupidité et le mal partout. Et si on fait rien de radical, la Sainte Flamme nous brûlera à nouveau...}
+{177}{}{Parle-moi de la Sainte Flamme... }
+{178}{}{Ta religion craint les os, mon pote !}
+{179}{}{Combien de religions ont promis que les gens brûleraient ?}
+{180}{}{Définis « radical » pour moi.}
+{181}{}{Je déteste les docteurs !}
+{182}{}{En effet, mais d'autres ici peuvent exposer ses gloires bien plus éloquemment que moi. Adieu.}
+{183}{}{Tu brises ma concentration ! Tu veux être soigné ou pas ?}
+{184}{}{Pourquoi tu t'énerves comme ça ?}
+{185}{}{On dirait pas que t'as beaucoup de concentration pour commencer !}
+{186}{}{Vas-y.}
+{187}{}{Non merci.}
+{188}{}{Je déteste les docteurs !}
+{189}{}{La paix, comme toujours, se forge dans la guerre et l'épreuve, comme l'unité. Hélas, mes dons seront nécessaires dans les jours à venir.}
+{190}{}{Parle-moi de la guerre ?}
+{191}{}{L'Unité vaut-elle ce prix ?}
+{192}{}{Pourquoi tout le monde croit que la guerre est la réponse pour la paix ?}
+{193}{}{Laisse-moi bien comprendre. Tu sers une religion qui planifie la mort et la destruction, et ça te pose pas de problème ? T'es un idiot !}
+{194}{}{L'ancien monde était rempli de mal et de décadence. La Sainte Flamme l'a détruit. On peut soit craindre la Sainte Flamme, soit l'adorer et tenter de la comprendre. Les Enfants ont choisi la compréhension. Même si on souhaite pas revoir la Sainte Flamme déchaînée.}
+{195}{}{Comment tu sais à quoi ressemblait l'ancien monde ?}
+{196}{}{Adorer ? La Bombe ? Qu'est-ce qu'elle a de si génial, une bombe ?}
+{197}{}{Si la Sainte Flamme est si géniale, pourquoi tu veux pas la voir tout le temps ?}
+{198}{}{Laisse-moi bien comprendre. Pour comprendre quelque chose, faut l'adorer ?}
+{199}{}{Vous êtes cinglés !}
+{200}{}{Quand je demande à quelqu'un de faire quelque chose, je m'attends pas à être ignoré. Si tu choisis d'ignorer mes souhaits, je peux ignorer tes blessures. Adieu.}
+{201}{}{Pour qui tu te prends, bordel ? Sors de ma vue, petite brute !}
+{202}{}{Tu m'as soutiré assez d'informations pour aujourd'hui. Adieu, monsieur.}
+{203}{}{Tu m'as soutiré assez d'informations pour aujourd'hui. Adieu, madame.}
+{204}{}{La Sainte Flamme est une métaphore de la mort de l'ancien monde et de la naissance du nouveau. C'est le pouvoir de vie et de mort. Quoi de plus digne d'adoration que ça ?}
+{205}{}{Mon flingue a le pouvoir de vie et de mort, mais tu vois pas une secte de cinglés l'adorer !}
+{206}{}{T'as peut-être raison. Faudra que j'y réfléchisse.}
+{207}{}{Euh, y a la bouffe, le sexe, et un gros flingue... Je peux penser à plein de trucs que je préfère adorer !}
+{208}{}{Tu sors pas beaucoup, hein ?}
+{209}{}{T'es pas très convaincant, Doc.}
+{210}{}{Ce débat devient lassant. Pars, je te prie.}
+{211}{}{Je me souviens encore de tes insultes, monsieur. Tu peux croupir dans la Lueur avant que je te soigne.}
+{212}{}{Je me souviens encore de tes insultes, madame. Tu peux croupir dans la Lueur avant que je te soigne.}
+{213}{}{Mère Jain souhaite que personne ne te parle. Adieu.}
+{214}{}{Idiot. Tu vois pas qu'il a besoin de repos ?}
+

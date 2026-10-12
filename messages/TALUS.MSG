@@ -1,0 +1,139 @@
+{100}{}{Tu vois : Talus.}
+{101}{}{Salut, tu dois être l'Initié de l'extérieur. Enchanté. Qu'est-ce que je peux faire pour toi ?}
+{102}{}{Qui dirige votre organisation ?}
+{103}{}{Alors, c'est toi le chef ici ?}
+{104}{}{Comment j'obtiens de meilleures armes et de l'équipement ?}
+{105}{}{Chagga !}
+{106}{}{Ce serait le Conseil des Aînés. Plus précisément, le Haut Aîné, Maxson. Les Aînés prennent toutes les décisions importantes ici. Si tu dois leur parler, tu les trouveras au quatrième étage.}
+{107}{}{Alors tu fais quoi, toi ?}
+{108}{}{Non, nous sommes dirigés par le Conseil des Aînés. Maxson, le Haut Aîné, serait la personne en charge. Si tu dois lui parler, tu le trouveras au quatrième étage.}
+{109}{}{J'ai vraiment besoin d'une meilleure puissance de feu.}
+{110}{}{Je suis le Paladin vétéran, le bras droit de Rhombus. On est en charge des Paladins et des Chevaliers. En ce moment, je supervise les exercices d'entraînement. On se prépare... à tout.}
+{111}{}{Vous vous préparez à quoi ?}
+{112}{}{Comment je peux avoir des armes et de l'équipement ?}
+{113}{}{Y a des rumeurs d'une grande force qui se déplace dans les montagnes et le désert. Avec les caravanes disparues et ces rumeurs, on joue la prudence.}
+{115}{}{Vraiment ? Bon, merci.}
+{116}{}{Pressé, hein ? En tant qu'Initié, tu as droit à deux ou trois trucs. Je vais te faire une autorisation pour une armure de combat et trois bons de munitions, les balles de ton choix. Va juste voir Michael dans la pièce d'à côté pour les fournitures.}
+{117}{}{Je suis très reconnaissant, mais tu aurais pas une arme à me dépanner qui m'aiderait à survivre là-bas ?}
+{118}{}{Merci, et pour des armes high-tech ?}
+{119}{}{C'est tout ? Tu plaisantes !}
+{120}{}{Je comprends, mais je suis vraiment pressé et j'ai vraiment besoin d'une meilleure puissance de feu.}
+{121}{}{Super ! Qu'est-ce que je dois faire maintenant ? Escalader la plus haute montagne ?}
+{122}{}{Ça a l'air super. Pourquoi tu commences pas maintenant ?}
+{123}{}{Bon, je pourrais peut-être faire une exception. T'as visiblement un bon entraînement. Sinon t'aurais pas réussi cette quête dingue que le Haut Aîné t'a confiée.}
+{124}{}{Des fois je sais pas s'il essaie d'avoir de l'aide de l'extérieur, ou de tuer les idiots. Sans offense. Je vais te dire. Je suis un peu dans la merde parce que les éclaireurs que j'ai envoyés y a un moment sont jamais revenus.}
+{125}{}{C'était mon idée, et je prends un peu cher pour ça. Si tu peux découvrir ce qui leur est arrivé, je saurai m'en souvenir.}
+{126}{}{Je vais y réfléchir.}
+{127}{}{Excuse-moi, Initié. Ne brandis pas ton arme comme ça. Range-la, sauf si tu comptes t'en servir.}
+{128}{}{Rengaine ton arme, Initié. T'es pas à l'exercice, range-la.}
+{129}{}{Tu veux bien arrêter d'agiter ton arme comme ça ? Tu devrais... oh, laisse tomber.}
+{130}{}{Te revoilà, Frère }
+{131}{}{. Comment je peux t'aider ?}
+{132}{}{C'est qui, les gens importants ici ?}
+{133}{}{Tu peux me reparler de ces gens importants ?}
+{134}{}{Comment je peux avoir du meilleur équipement et des armes ?}
+{135}{}{Je peux avoir plus de munitions ?}
+{136}{}{Rien, merci.}
+{137}{}{Je peux t'aider pour ça. En tant qu'Initié, tu as droit à deux ou trois trucs. Je vais te faire une autorisation pour une armure de combat et trois bons de munitions, les balles de ton choix.}
+{138}{}{Va juste voir Michael dans la pièce d'à côté pour les fournitures.}
+{139}{}{Et cette armure de métal que tu portes ?}
+{140}{}{Merci, et pour des armes high-tech ?}
+{141}{}{Bon, on est tous importants, mais je vois à qui tu penses.}
+{142}{}{Pas de problème. Tu devrais apprendre à connaître tes Frères. Je sais qu'on est nombreux, et que c'est dur pour certains de tous nous retenir.}
+{143}{}{Y a Rhombus. C'est notre Paladin en chef, aussi appelé le Maître Chevalier. Puis y a Vree ; c'est la Scribe en chef. Et bien sûr, on peut pas oublier notre distingué Haut Aîné, Maxson.}
+{144}{}{Parle-moi de Rhombus.}
+{145}{}{Parle-moi de Vree.}
+{146}{}{Parle-moi de Maxson.}
+{147}{}{Rhombus, c'est mon meilleur ami, mon mentor, mon idole et ma figure paternelle, tout ça à la fois. Il est un peu rude, mais il le faut, à son poste.}
+{148}{}{Si jamais tu dois lui parler, il est normalement dans son bureau... je veux dire sa chambre. C'est de l'autre côté de cet étage, en face de la salle de garde.}
+{149}{}{Bien sûr que si. Elle est au deuxième niveau. À côté de la salle d'apprentissage.}
+{150}{}{Merci, salut.}
+{151}{}{Merci. C'est tout ce que je voulais savoir.}
+{152}{}{Vree est une des personnes les plus intelligentes que j'aie jamais connues. Je crois qu'elle est née avec une compréhension naturelle de la physique et de la chimie.}
+{153}{}{Elle passe chaque instant éveillé à faire des recherches ou à analyser et réanalyser tout ce qui lui tombe sous la main. Si jamais tu dois lui parler, on la trouve normalement dans sa chambre, au troisième étage.}
+{154}{}{Elle est au deuxième niveau. Descends juste au deuxième étage, prends à gauche. Tu verras, c'est juste après la salle d'apprentissage. Je dois retourner bosser. Si t'as d'autres questions, demande.}
+{155}{}{Comme je disais, elle est au deuxième niveau. Tu peux pas la rater. C'est la seule autre grande pièce du deuxième étage à part la salle d'apprentissage.}
+{156}{}{Bon, à plus.}
+{157}{}{Maxson, c'est un vieux dur à cuire. C'est l'arrière-arrière-petit-fils... ou c'était arrière-arrière-arrière-petit-fils ? Enfin bref. C'est le descendant d'un de nos pères fondateurs. C'est, bien sûr, le Haut Aîné.}
+{158}{}{Tu t'es bâti une sacrée réputation. Les gens que j'ai consultés te tiennent en haute estime. Je crois pas que t'aies besoin d'aide, t'as l'air plutôt capable. Mais si tu m'aides avec un petit problème, je pourrais peut-être te récompenser.}
+{159}{}{Merci beaucoup, salut.}
+{160}{}{C'est tout, merci.}
+{161}{}{Tu me tapes sur les nerfs, petit. Qu'est-ce que tu veux, maintenant ?}
+{162}{}{Rien, je voulais juste entendre ta douce voix.}
+{163}{}{Désolé, je t'avais pas vu.}
+{164}{}{Cha Toh Weh Lo !}
+{165}{}{Ug.}
+{166}{}{Arrête de me faire perdre mon temps !}
+{167}{}{Comment t'es entré ici ? Sors de ma vue.}
+{168}{}{Je peux te donner un peu plus de munitions si t'en as vraiment besoin. Ce sera autorisé le temps que tu parles à Michael.}
+{169}{}{Je viens de t'en donner. Tu devrais apprendre à être plus économe avec tes munitions.}
+{170}{}{Désolé, t'as déjà eu plus que ta part pour cette semaine. Tu devras faire avec ce que t'as. On n'a pas des réserves infinies de munitions.}
+{171}{}{J'ai entendu parler de certaines de tes actions et on aime pas trop les tueurs d'enfants ici. Les Aînés semblent croire que t'as quelque chose à offrir, mais je veux rien avoir à faire avec toi.}
+{172}{}{J'en ai tué qu'un.}
+{173}{}{Tu connais pas toute l'histoire.}
+{174}{}{J'ai pas à te répondre.}
+{175}{}{Tu t'es bâti une sacrée réputation. Je crois pas que t'aies besoin d'aide, t'as l'air plutôt capable. Mais y a un truc que j'aimerais éclaircir, et je pourrais peut-être t'aider si tu peux m'aider.}
+{176}{}{Bien sûr. C'est quoi, le problème ?}
+{177}{}{Non merci, et merci pour rien.}
+{178}{}{Désolé, je peux pas. Merci pour l'armure, quand même.}
+{179}{}{Vu que t'as réussi à survivre seul dans le désert, je te crois plutôt capable. Mais j'ai un problème pour lequel j'aurais besoin d'aide, et je pourrais peut-être te récompenser si tu m'aides.}
+{180}{}{Non. Je crois que tu devrais partir.}
+{181}{}{J'ai envoyé un de nos Initiés au Hub y a un moment et on n'a plus eu de nouvelles. Si tu peux découvrir ce qui lui est arrivé, je t'en serais très reconnaissant.}
+{182}{}{Je vais vérifier.}
+{183}{}{Je vais essayer, mais je peux rien promettre.}
+{184}{}{Je t'ai dit de partir.}
+{185}{}{Seulement ? Je crois pas que notre ordre pourra t'aider. Bonne journée.}
+{186}{}{J'ai pas besoin de connaître toute l'histoire. Bonne journée.}
+{187}{}{Merci. Je m'en souviendrai, et quand j'aurai vu que t'as gagné assez d'expérience, je pourrai peut-être te donner quelque chose de spécial de notre ordre.}
+{188}{}{Vraiment ? Quoi ?}
+{189}{}{Donne-le-moi maintenant !}
+{190}{}{Ça marche. Salut.}
+{191}{}{Je devrais pas le dire, mais c'est pas une arme. C'est quelque chose que seuls les élites de notre ordre peuvent avoir, mais comme tu viens de l'extérieur et que t'en as plus besoin, je pourrais peut-être faire une exception.}
+{192}{}{Tu peux pas me le dire ?}
+{193}{}{D'accord, salut.}
+{194}{}{Je crois que t'as déjà une idée. Laissons-en là.}
+{195}{}{Non, je le suis pas, et je crois que tu devrais partir, « Initié ».}
+{196}{}{Seuls les Paladins portent l'Armure Assistée, un jour tu gagneras peut-être le droit de la porter.}
+{197}{}{Merci, et pour des armes high-tech ?}
+{198}{}{Bon, je vois qu'on a une brillante nouvelle recrue dans notre ordre après tout... [Talus te toise.] Fais pas le malin avec moi, Initié. Je suis pas d'humeur et j'ai pas la patience !}
+{199}{}{Je te croyais plus intelligent que ça. Je dois rien te donner. T'as de la chance que je te vire pas d'ici, tout de suite. Je crois que tu devrais partir, avant que je change d'avis.}
+{200}{}{D'accord. Tout ce que tu pourrais trouver serait utile.}
+{201}{}{Frère }
+{202}{}{ ! J'ai reçu des nouvelles du Frère Jonathan. Merci de l'avoir sauvé.}
+{203}{}{Je sais que Decker est mort, t'es plus doué que je pensais, et c'est beaucoup dire.}
+{204}{}{On fera payer à Decker ce qu'il a fait, tu as ma parole.}
+{205}{}{De rien.}
+{206}{}{Lup ?}
+{207}{}{Salut l'étranger ! On m'a dit que c'est toi qu'il faut remercier pour le retour sain et sauf de mon Initié disparu.}
+{208}{}{Je sais aussi que Decker est mort, t'es un sacré atout pour notre Confrérie.}
+{209}{}{On tolère pas les drogués ici. Je te suggère de voir le docteur et de te nettoyer.}
+{210}{}{Pour ta récompense, je te laisse le choix entre :}
+{211}{}{Alors, tu préfères quoi ?}
+{212}{}{Lance-roquettes.}
+{213}{}{Pistolet laser.}
+{214}{}{Super masse.}
+{215}{}{Laisse-moi réfléchir.}
+{216}{}{Je rentre ton autorisation tout de suite. Va le chercher chez Michael.}
+{217}{}{, il est temps que tu portes ta propre Armure Assistée. C'est un privilège très spécial pour quelqu'un de si nouveau dans notre ordre. Porte notre Armure Assistée comme un symbole d'espoir pendant que tu marches dans le désert, car un jour, quand le monde sera prêt, on refera surface et on restaurera notre Terre meurtrie. Félicitations, tu nous as tous rendus très fiers. J'enverrai l'autorisation à Michael.}
+{218}{}{Je vois que quelqu'un t'a déjà donné ton Armure Assistée. J'espérais te la donner moi-même, mais c'est pas grave. J'espère qu'elle t'aidera dans ta quête.}
+{219}{}{Attention à la posture !}
+{220}{}{Faites attention, les gens.}
+{221}{}{Pas de tire-au-flanc !}
+{222}{}{Tiens-toi bien là-bas, ou tu te retrouveras en patrouille de nuit sur le périmètre.}
+{223}{}{Silence, me force pas à faire venir Rhombus. Il va vous botter les fesses à tous.}
+{300}{}{S'il te plaît, si t'as besoin de quelque chose, vois-moi le matin.}
+{301}{}{Je serai dans la salle d'entraînement le matin. Parle-moi à ce moment-là.}
+{302}{}{Qu'est-ce que tu fais ici ? Ce sont pas tes quartiers.}
+{303}{}{Bonne nuit, Initié, parle-moi le matin. Ça peut pas être si urgent.}
+{304}{}{Je suis fatigué et je veux aller me coucher, pars s'il te plaît.}
+{305}{}{Tu déranges normalement les gens dans leurs quartiers ?}
+{400}{}{Tu peux toujours... attends une minute. Regarde-moi droit dans les yeux... Je m'en doutais. Tu devrais arrêter la drogue, ça peut vraiment te bousiller. Si tu fais pas gaffe, tu finiras comme les clodos du Hub. Alors, qu'est-ce qu'il te fallait ?}
+{401}{}{Vous avez un docteur ? Je suis blessé.}
+{402}{}{Vous avez un docteur ?}
+{403}{}{J'en ai fini d'escalader cette montagne.}
+{404}{}{Où se trouve votre docteur ?}
+{406}{}{Hmmm, je sais pas. T'as peut-être prouvé que t'es un Initié, mais ça veut pas dire qu'on commence à filer des armes à quelqu'un qui est peut-être pas qualifié, surtout un étranger, sans offense.}
+{407}{}{Armure Assistée.}
+{408}{}{Tu gagnes }
+{409}{}{ points d'expérience pour avoir sauvé l'Initié de la Confrérie de l'Acier au Hub.}
+

@@ -1,0 +1,102 @@
+{100}{}{Tu vois : Theresa.}
+{101}{}{Salut, }
+{102}{}{. Comment se passe ton voyage ?}
+{103}{}{Ça se passe plutôt bien, merci.}
+{104}{}{Pas très bien.}
+{105}{}{Hoogh !}
+{106}{}{Ça fait plaisir à entendre. Je savais bien que le monde extérieur pouvait pas être aussi terrible qu'on le dit. Je veux dire, nos ancêtres vivaient dehors, non ? Mais ce Superviseur paranoïaque veut pas nous laisser sortir.}
+{107}{}{Le Superviseur a sûrement ses raisons.}
+{108}{}{En fait, c'est plutôt terrible, dehors.}
+{109}{}{T'as raison ; le monde extérieur est pas si terrible que ça.}
+{110}{}{Le Superviseur essaie juste de nous protéger. Le monde extérieur est dangereux pour qui n'est pas préparé.}
+{111}{}{Oh, je suis désolée de l'apprendre. J'espère que tu vas bientôt trouver la Puce.}
+{112}{}{Ça devrait pas poser de problème.}
+{113}{}{Avec tous les dangers que je croise, ça risque de prendre du temps.}
+{114}{}{Hmm. Je suppose que c'était trop espérer que le monde extérieur t'ait appris à communiquer. Tant pis.}
+{115}{}{Et je suppose qu'il t'a choisi pour sortir parce qu'il savait que tu étais sous sa coupe ! Il veut juste pas renoncer à son contrôle sur nous.}
+{116}{}{Je m'insurge contre cette remarque !}
+{117}{}{En fait, je crois qu'il pense qu'il n'y a aucune raison de risquer la survie dehors tant qu'on est en sécurité ici.}
+{118}{}{Hmm. D'après ce que j'ai lu, le dehors est pas vraiment si dangereux. Mais je suppose que tu sais mieux que moi, non ?}
+{119}{}{Je savais bien que le dehors pouvait pas être si terrible. C'est pour ça que j'essaie de convaincre des gens de sortir avec moi. Je crois qu'on a plus de chances de survivre là-bas.}
+{120}{}{Tu fumes quoi ?!}
+{121}{}{C'est probablement une bonne idée.}
+{122}{}{Je suppose. J'ai toujours pensé qu'il avait juste un trip de pouvoir. Mais je suppose qu'il serait pas Superviseur s'il se souciait pas vraiment de notre bien-être, si ? Je suppose qu'on devrait juste attendre et voir si tu peux trouver la Puce.}
+{123}{}{T'inquiète pas, je m'en occupe.}
+{124}{}{Oh, allez ! Réveille-toi ! S'il croit que le dehors est si dangereux, pourquoi il t'a envoyé là-bas, hein ? Ce mec a juste un complexe de contrôle. T'es un stupide pion et tu le sais même pas !}
+{125}{}{Honnêtement, s'il croyait vraiment que le dehors était si dangereux, il aurait envoyé toute une équipe avec armes et équipement, pas juste toi. Mais t'es son pion, parce qu'il veut pas que les gens réalisent ce qu'ils ratent.}
+{126}{}{Oh, sois réaliste ! Tu crois vraiment qu'on peut vivre dans cet Abri génération après génération ? Tu trouveras peut-être une nouvelle Puce, mais qu'est-ce qui se passe quand le prochain truc lâche ? Et le suivant ?}
+{127}{}{Hmm. Je suppose que t'as raison.}
+{128}{}{On peut peut-être pas rester ici pour toujours. Mais se ruer dehors sans préparation et sans l'accord du groupe, c'est pas la réponse.}
+{129}{}{Beaucoup d'entre nous le pensent. C'est pour ça qu'on prévoit de prendre des provisions et de partir dans quelques jours. Dis, t'aurais des conseils pour nous ?}
+{130}{}{Désolée, j'ai pas vraiment découvert grand-chose là-bas.}
+{131}{}{Vous pourriez aller dans ce petit village qui s'appelle Shady Sands, à quelques jours à l'est. Ils pourraient vous aider.}
+{132}{}{D'accord. Bon, merci.}
+{133}{}{Oh, va-t'en ! On a pas besoin de l'aide d'un pion du Superviseur !}
+{134}{}{Bienvenue à notre réunion ! Comme le Superviseur t'a choisi pour sortir, tu peux peut-être nous conseiller avant qu'on parte dehors nous aussi.}
+{135}{}{Buvez pas d'eau qui brille.}
+{136}{}{Ouais... n'y allez pas.}
+{137}{}{Je crois que vos plans de départ sont mal avisés.}
+{138}{}{Hoooot !}
+{139}{}{Merci beaucoup. Je vois que tu vas nous être d'une grande aide. Pourquoi tu t'en vas pas, tout simplement ?}
+{140}{}{Désolée, je suis là pour écouter tout ça.}
+{141}{}{Très bien alors.}
+{142}{}{Vraiment ? Vu notre position, notre manque d'eau, et le but originel de cet Abri, pourquoi tu crois qu'on devrait rester ?}
+{143}{}{C'est juste une mauvaise idée, c'est tout.}
+{144}{}{Le monde extérieur est trop dangereux pour qui n'est pas préparé. Mieux vaut prendre le temps de bien se préparer avant de partir. Le Superviseur essaie de donner à l'Abri le temps nécessaire.}
+{145}{}{Bon, vu que t'as de l'expérience du dehors, t'as peut-être des remarques valables à faire.}
+{146}{}{Le dehors est trop dangereux et hostile. Vous tiendrez pas longtemps.}
+{147}{}{J'ai juste besoin d'un peu plus de temps pour trouver la Puce d'eau.}
+{148}{}{Si tu peux pas nous donner de bonnes raisons de pas partir, on va pas attendre ici et mourir de soif. Ne te mets pas en travers de notre chemin.}
+{149}{}{Désolée, les amis, je peux pas vous laisser faire ça.}
+{150}{}{Très bien. C'est votre choix.}
+{151}{}{C'est qu'une question de temps avant qu'on manque d'eau ici. Mais l'Abri n'a jamais été fait pour garder les gens enfermés pour toujours ! On a les gens et les provisions pour sortir maintenant. On a plus de chances.}
+{152}{}{Dehors, c'est trop dangereux.}
+{153}{}{L'Abri a été fait pour libérer ses habitants ensemble, en groupe, pas en petite bande qui se fera vite submerger.}
+{154}{}{Hmm. T'as peut-être raison. Y a probablement d'autres survivants là-bas, et ils pourraient être hostiles, aussi. Je suppose qu'on devra attendre que tout le monde soit prêt.}
+{155}{}{On est bien préparés maintenant. On a de l'équipement et de l'entraînement sur simulateurs. Quelques dangers dehors valent mieux que mourir lentement de soif !}
+{156}{}{Désolée, je peux pas vous laisser partir maintenant.}
+{157}{}{Bon, bonne chance alors.}
+{158}{}{Ça me plaît pas, mais je suppose qu'on va attendre que tout le monde soit prêt à partir ensemble.}
+{159}{}{C'est pour le mieux. Crois-moi, je sais de quoi je parle.}
+{160}{}{Merci à tous d'être venus encore une fois.}
+{161}{}{Nos plans avancent toujours.}
+{162}{}{On rallie de plus en plus de convertis chaque semaine.}
+{163}{}{Bientôt, on aura accès à l'équipement qu'il nous faut.}
+{164}{}{La Puce d'eau n'a toujours pas été trouvée. On doit partir bientôt.}
+{165}{}{Le Superviseur peut pas s'opposer à un groupe aussi nombreux.}
+{166}{}{Soyez patients. On n'aura qu'à attendre encore quelques semaines.}
+{167}{}{Alors, on sera enfin libres de l'Abri et du Superviseur.}
+{168}{}{N'oubliez pas de vous entraîner aux compétences de plein air dans les simulateurs !}
+{169}{}{Portez-vous bien, tout le monde.}
+{170}{}{Dépêche-toi de trouver la Puce d'eau. On peut plus attendre très longtemps.}
+{171}{}{T'inquiète pas, je vais le faire.}
+{172}{}{Je pensais pas que tu réussirais, mais t'as fait du bon boulot. Merci de nous avoir tous sauvés.}
+{173}{}{Tu gagnes 750 points d'expérience pour avoir calmé pacifiquement la faction révolutionnaire de l'Abri.}
+{174}{}{Traître ! Pourquoi t'es jamais revenu ? Maintenant tout le monde va mourir !}
+{175}{}{On en a déjà parlé. Laisse-nous tranquilles.}
+#
+# Fallout Fixt:
+#
+{176}{}{Si ça t'intéresse, on tient des réunions à 17h00.}
+{177}{}{Tu gagnes 250 points d'expérience pour avoir dispersé violemment la faction révolutionnaire de l'Abri.}
+
+
+# Theresa's Tell-Me-Abouts
+
+{1000}{}{Puce}
+{1001}{}{Abri}
+{1002}{}{Guerre}
+{1003}{}{Dehors}
+{1004}{}{Superviseur}
+{1005}{}{Eau}
+{1006}{}{Puce d'eau}
+
+
+{1100}{}{Sans elle, on aura pas d'eau potable. On doit en finir avec notre dépendance à ce genre d'équipement et devenir autonomes.}
+{1101}{}{L'Abri est notre foyer depuis longtemps, mais il est temps pour nous de faire notre chemin dehors, maintenant.}
+{1102}{}{Je crois qu'on a retenu la leçon. Il est temps de construire un monde nouveau, pas de se soucier de l'ancien.}
+{1103}{}{Dehors, c'est là qu'on devrait être ! C'est la grande aventure, recommencer à zéro et vivre de nos compétences et de notre jugeote !}
+{1104}{}{Il est perdu dans le passé. Il acceptera jamais qu'il est temps pour nous de faire notre propre avenir.}
+{1105}{}{Sans elle, on aura pas d'eau potable. On doit en finir avec notre dépendance à ce genre d'équipement et devenir autonomes.}
+{1106}{}{Sans elle, on aura pas d'eau potable. On doit en finir avec notre dépendance à ce genre d'équipement et devenir autonomes.}
+

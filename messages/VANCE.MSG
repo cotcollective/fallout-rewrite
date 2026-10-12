@@ -1,0 +1,67 @@
+{100}{}{Tu vois un homme d'affaires. Tu ignores la nature de ses affaires.}
+{101}{}{Qu'est-ce que je peux faire pour toi ?}
+{102}{}{Hein ?}
+{103}{}{T'es qui ?}
+{104}{}{Il se passe quoi dans ce bâtiment ?}
+{105}{}{Vance, c'est ça ? On m'a dit que t'as ce qu'il me faut. Je peux en avoir ?}
+{106}{}{Rien. Salut.}
+{107}{}{C'est Vance, et c'est tout ce que t'as besoin de savoir. Je peux te proposer quelque chose ?}
+{108}{}{Comment je saurais, si tu me dis pas ce que tu vends ?}
+{109}{}{Enchanté, Vance. Qu'est-ce que t'as à vendre ?}
+{110}{}{Moi vouloir came.}
+{111}{}{Non. Salut.}
+{112}{}{Si tu sais pas déjà, t'as rien à faire ici. Maintenant, pars.}
+{113}{}{JE VAIS OÙ BON ME SEMBLE ! VA EN ENFER !}
+{114}{}{D'accord. Je m'en vais.}
+{115}{}{« Rien », c'est bien ça ! Me fais pas perdre mon temps. Maintenant, sors d'ici !}
+{116}{}{Force-moi... si tu peux, taré !}
+{117}{}{D'accord, d'accord... je m'en vais.}
+{118}{}{Ouais, t'as l'air correct. Voilà ce que j'ai.}
+{119}{}{Il te toise d'un œil méfiant.}
+{120}{}{Oh, salut. Toujours content de voir un client fidèle. Qu'est-ce que je peux faire pour toi ?}
+{121}{}{vouloir pluS.}
+{122}{}{J'aimerais acheter encore de la came.}
+{123}{}{J'aime pas les gens comme toi.}
+{124}{}{C'est qui, tes potes là-bas ?}
+{125}{}{C'est qui, tes potes dans l'arrière-salle ?}
+{126}{}{Juste en visite.}
+{127}{}{Désolé de l'apprendre. Maintenant, pars.}
+{128}{}{NON !}
+{129}{}{Je m'en vais.}
+{130}{}{C'est Justin et Chad. Ils sont là pour s'assurer que personne cause pas d'ennuis.}
+{131}{}{On dirait deux mauviettes.}
+{132}{}{Enchanté, les gars.}
+{133}{}{Je vais juste traîner un peu, si ça vous dérange pas.}
+{134}{}{Juste des potes à moi. C'est tout ce que t'as besoin de savoir. Pose pas trop de questions.}
+{135}{}{Très bien. Qu'est-ce que t'as à vendre ?}
+{136}{}{Je sais ce que tu fais ici et ça me plaît pas.}
+{137}{}{Je vais juste traîner un peu, si ça vous dérange pas.}
+{138}{}{Venons-en aux affaires.}
+{139}{}{D'accord, t'as quoi ?}
+{140}{}{Je crois que je vais juste traîner un peu.}
+{141}{}{T'es pas le bienvenu ici ! Sors avant que ça tourne mal.}
+{142}{}{Je vais t'envoyer en enfer, là où les gens comme toi ont leur place.}
+{143}{}{Désolé. Pardon.}
+{144}{}{Hé, calme-toi. C'était juste un malentendu. Parlons-en.}
+{145}{}{Je veux pas d'ennuis, alors le mieux, ce serait que tu partes avant que je fasse quelque chose que tu regretteras.}
+{146}{}{Non, moi rester.}
+{147}{}{OhhD'accord. Moi partir.}
+{148}{}{Je m'en fous de ce que tu penses.}
+{149}{}{D'accord, d'accord, je m'en vais.}
+{150}{}{Dépense pas tout au même endroit.}
+{151}{}{Merci, prends soin de toi.}
+{152}{}{Ug ?}
+#
+# Fallout Fixt:
+#
+{153}{}{T'es qui, bordel, et tu fous quoi chez moi ?}
+{154}{}{Moi }
+{155}{}{. [sourire] ...toi qui ?}
+{156}{}{ ! [regard noir] tOI *qui* ?}
+{157}{}{Trop de trips au Psycho, hein ? C'est pas la première fois que je vois ça. [rires] }
+{158}{}{Super, encore un camé au cerveau cramé. Dégage d'ici, bordel.}
+{159}{}{Ungh !}
+{160}{}{Justin, Chad, montrons à ce connard comment on traite les gens comme lui...}
+{161}{}{moi vouloir came.}
+{162}{}{Nuuhhh... sa-lut.}
+

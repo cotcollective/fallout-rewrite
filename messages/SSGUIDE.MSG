@@ -1,0 +1,52 @@
+{100}{}{Tu vois : Katrina. Elle a un très joli sourire.}
+{101}{}{Je ne suis pas armée ; range ton arme, s'il te plaît.}
+{102}{}{Hng !}
+{103}{}{Pourquoi je le ferais ? On dirait un monde dangereux.}
+{104}{}{Pourquoi ça ?}
+{105}{}{Peut-être que oui, peut-être que non.}
+{106}{}{Je vais supposer que ça veut dire oui.}
+{107}{}{Normalement, je serais d'accord avec toi. C'est très dangereux de voyager sans arme. Mais ici c'est Shady Sands, et on est un peuple paisible. Y a pas besoin d'armes ici.}
+{108}{}{D'accord. Merci.}
+{109}{}{Si tu ranges pas ton arme, je te parlerai pas. Y a beaucoup de gens comme moi. Tu devrais utiliser la force seulement si la situation l'exige.}
+{110}{}{Hmm, d'accord.}
+{111}{}{Bienvenue à Shady Sands, voyageur. Je m'appelle Katrina. Mon travail c'est d'accueillir les étrangers et de les aider à comprendre notre village. On trouve qu'il y a moins de problèmes si tu écoutes ce que j'ai à dire.}
+{112}{}{Wubba !}
+{113}{}{Parle-moi un peu de toi.}
+{114}{}{Aide-moi, s'il te plaît...}
+{115}{}{Je cherche une Puce d'eau. T'en as vu une ?}
+{116}{}{J'ai besoin d'aide pour retrouver Tandi.}
+{117}{}{Je m'occupe de ton problème de scorpions rad. Des indices ?}
+{118}{}{Merci, peut-être plus tard.}
+{119}{}{C'est dommage que tu sois simple d'esprit. On aura du mal à se comprendre. J'espère que les autres dans ton Abri sont pas comme toi.}
+{120}{}{Wubba-Abri ?}
+{121}{}{Oui, je vois bien que tu viens d'un Abri. T'as cet air-là. Je viens de l'Abri 15, à l'est. Mais j'ai dû quitter ma maison et maintenant je vis ici. J'espère que tu trouveras ce que tu cherches, même si c'est juste un autre endroit où vivre. J'espère que ton Abri t'a pas mis dehors à cause de ton intelligence. J'espère qu'il y a une autre raison.}
+{122}{}{Hng.}
+{123}{}{Il faudra que tu trouves un autre moyen d'avoir tes réponses, car tu communiques pas assez bien. J'espère que tu blesseras pas trop de gens dans ton voyage. Sois gentil avec les gens ici, s'il te plaît, on te veut aucun mal.}
+{124}{}{Ahhh.}
+{125}{}{Je serais ravie de t'aider. J'ai moi-même été comme toi autrefois. J'espère que mes connaissances te seront utiles.}
+{126}{}{Qu'est-ce que je dois faire si je me blesse ?}
+{127}{}{Où je peux trouver du meilleur équipement ?}
+{128}{}{Parle-moi de cet endroit.}
+{129}{}{Parle-moi du reste du monde.}
+{130}{}{Parle-moi de toi.}
+{131}{}{C'est tout pour l'instant, merci.}
+{132}{}{Eh bien, si tu peux pas aller chez un médecin, il faudra que tu te soignes toi-même. Les stimpaks sont un objet de soin courant. Utilise-les sur toi pour soigner les blessures légères. Les premiers soins sont une méthode plus lente, mais toujours disponible. Pour les blessures graves, comme une jambe cassée, il faudra utiliser ta compétence Médecin.}
+{133}{}{Tu devras faire comme nous : le récupérer, ou l'échanger. Et si on t'attaque, tes ennemis pourraient fournir de l'équipement — si tu vis assez longtemps pour fouiller les cadavres. On est une communauté paisible, donc on troque ou on échange surtout les objets qu'on peut pas produire.}
+{134}{}{Parle-moi un peu plus du troc.}
+{135}{}{Tu es à Shady Sands. On est juste une petite ville dans un grand monde. On veut juste qu'on nous laisse tranquilles. À part quelques animaux mutés et autres créatures du désert, seuls les pillards nous causent des ennuis. Aradesh est notre chef. Il est dans la grande maison centrale, si tu veux lui parler.}
+{136}{}{Je connais très peu le monde extérieur. Je me suis échappée d'un Abri quand il a été attaqué. Malheureusement, j'ai été très blessée et je me souviens pas de grand-chose de ce qui s'est passé. Mais Dharma veillait sur moi, et j'ai été trouvée par les gens de Shady Sands. Je vis ici maintenant. T'as parlé à Ian ? C'est un garde de caravane qui a été blessé. Il récupère dans le poste de garde là-bas. [Elle pointe vers l'est] Il a plus voyagé que moi.}
+{137}{}{Ma vie était très ennuyeuse. J'ai été élevée dans un Abri. J'y ai vécu de nombreuses années. Malheureusement, on était à l'étroit et la vie était très dure. Il y a eu un schisme, et beaucoup de gens sont partis, emportant le meilleur équipement. Pourtant, certains d'entre nous ont essayé de rester dans l'Abri. Mais ensuite on a été attaqués. J'ai été blessée, et je me suis retrouvée ici. Maintenant j'essaie d'aider les gens...}
+{138}{}{Où était cet Abri à toi ?}
+{139}{}{Le troc c'est l'échange de biens. Tu me donnes des objets, et je te donne des objets en échange. Comme c'est toi qui as initié le troc, je te laisse choisir ce que tu veux. Mais l'accord doit être un accord qui me plaît, donc tu voudras probablement me donner des biens plus précieux dont t'as pas besoin en échange de choses moins chères que tu veux. Et si t'as pas assez d'objets à échanger, y a toujours les capsules. Les capsules sont la seule monnaie courante ici. Les capsules sont garanties par les marchands du Hub, donc tu peux les échanger partout.}
+{140}{}{C'était l'Abri 15. Il est plein est d'ici. On a essayé de contacter d'autres Abris, mais on a toujours échoué. Je crois que ce sont les pillards qui ont attaqué mes camarades habitants. Fais attention !}
+{141}{}{J'espère que tu la trouveras. Elle est comme une petite sœur pour moi. Je crois que c'est un des groupes de pillards qui l'a prise. Renseigne-toi autant que tu peux sur eux et équipe-toi avant d'aller les chercher. Mais ne sois pas si prompt à te battre, même eux écoutent parfois la raison...}
+{142}{}{Seth essaie de suivre les scorpions rad. Il prétend même connaître le chemin de leur repaire, mais je crois qu'il a un peu peur d'y aller. Son frère a été grièvement blessé par une de ces créatures, et Seth sait pas trop quoi faire.}
+{143}{}{En fait, oui. Mon ancienne maison, l'Abri 15, en avait une. J'y suis pas retournée depuis que j'ai été blessée, mais tu pourrais trouver ce que tu cherches là-bas. Quelqu'un a dit qu'ils ont essayé d'aller à l'Abri pour jeter un œil, mais il faisait noir et l'ascenseur était en panne. J'espère que t'es mieux préparé.}
+{144}{}{Rebonjour. J'espère que tu vas bien. Y a quelque chose que je peux faire pour toi ?}
+{145}{}{Tu dors jamais ?}
+{146}{}{Eh bien, je fais des petits sommes quand t'es pas là. En plus, je trouve l'air du désert très vivifiant et sain. Et je me lasse jamais de regarder les étoiles. Tu peux imaginer ne jamais voir le ciel nocturne de toute ta vie ? [Elle s'arrête et te regarde] Oh, j'imagine que oui.}
+{147}{}{Ah, ouais. Merci.}
+{148}{}{Y a un médecin dans le coin ?}
+{149}{}{Des petits endroits comme Shady Sands survivraient pas sans l'aide d'un guérisseur. Notre médecin, Razlo, vit au sud. Si t'es gravement blessé, va le voir. Essaie de pas le déranger la nuit, par contre. C'est un sacré grincheux sans son sommeil.}
+{150}{}{Tu gagnes 250 points d'expérience pour les connaissances que tu as acquises de Katrina.}
+{151}{}{On pend généralement les voleurs par ici. Sois sage.}

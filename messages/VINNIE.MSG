@@ -1,0 +1,78 @@
+# TRANSLATION NOTES
+# Vinnie is a gang leader, who is young and ruthless. He tries to sound tough
+# and is quite mean. He only respects people who are as ruthless and violent as
+# himself.
+
+{100}{}{Tu vois : Vinnie, du gang des Skulz.}
+{101}{}{Tu vois un jeune homme tatoué avec une sale attitude.}
+{102}{}{J'aimerais me joindre à vous.}
+{103}{}{T'es sur le territoire des Skulz, l'étranger. Tu ferais mieux de parler vite.}
+{104}{}{Désolé, mauvaise porte.}
+{105}{}{Les Skulz ? Vous êtes qui ?}
+{106}{}{Urgh ?}
+{107}{}{Ouais, tu parles que c'est la mauvaise porte !}
+{108}{}{On est l'unique gang de Junktown. On écume les rues, et la nuit la ville nous appartient.}
+{109}{}{Oh. Désolé. Salut.}
+{110}{}{Vous sauriez même pas tenir une cour d'école, Chromo.}
+{111}{}{Je croyais que c'était Gizmo qui dirigeait la ville après la tombée du jour.}
+{112}{}{Dégage d'ici, crétin !}
+{113}{}{Ce gros tas arrive même pas à se lever tout seul. C'est nous, les muscles de cette ville. On prend ce qu'on veut.}
+{114}{}{Je vois.}
+{115}{}{T'as un arrangement avec Killian ?}
+{116}{}{Quoi ?! Tu vas payer pour cette remarque !}
+{117}{}{On emmerde pas Killian et il nous emmerde pas tant qu'on reste discrets. Tu me suis ?}
+{118}{}{Ouais. Salut.}
+{119}{}{Je vois, ouais. T'es obligé de te planquer de lui.}
+{120}{}{On se laisse pas faire par qui que ce soit, et surtout pas par Killian ! C'est pas parce qu'il se prend pour un shérif glorifié qu'il contrôle les Skulz !}
+{121}{}{Désolé, je voulais pas vous énerver.}
+{122}{}{Alors, il te les brise, hein ? Moi aussi. En fait, je pense à le buter. Ça te dit ?}
+{123}{}{Tu veux buter Killian ? Mec, t'es fou. Mec, je sais pas... d'accord, je suis des vôtres.}
+{124}{}{Minable, t'avais dit qu'on allait buter Killian. Dégage d'ici.}
+{125}{}{Allez, on descend Killian.}
+{126}{}{Qu'est-ce que tu veux, maintenant ?}
+{127}{}{Rien. Désolé.}
+{128}{}{Je cherche quelqu'un pour m'aider à descendre Killian. Les Skulz avaient l'air d'un bon plan.}
+{129}{}{Merde, je pensais pas que tu le ferais ! Les Skulz règnent sur cette ville maintenant ! Woo !}
+{130}{}{On a déjà fait ce chemin. T'avais pas les couilles à l'époque, alors dégage d'ici !}
+{131}{}{Tu veux te joindre à nous, hein ? Comment on sait que t'es assez dur pour être un Skul ?}
+{132}{}{Je vais te montrer si je suis assez dur, fils de pute !}
+{133}{}{Laisse-moi faire mes preuves.}
+{134}{}{Crois-moi, je suis assez dur.}
+{135}{}{[Vinnie te regarde et rit] J'y crois pas trop.}
+{136}{}{Je vais te le prouver.}
+{137}{}{C'est bon. L'heure est venue pour toi de mourir.}
+{138}{}{T'as raison, je m'en vais.}
+{139}{}{Qu'est-ce qui rend les Skulz si durs ?}
+{140}{}{[Vinnie réfléchit une seconde.] Si tu veux prouver que t'as ta place chez les Skulz, je veux que tu voles les cendres de la femme de ce vieux salaud. Hé hé. [Vinnie marmonne] Faisons souffrir Neal pour ses dernières heures...}
+{141}{}{D'accord, je le fais.}
+{142}{}{Pas question.}
+{143}{}{Euh, je crois pas que j'en sois capable.}
+{144}{}{Je l'ai déjà volée.}
+{145}{}{Ce sera pas aussi dur que tu crois. J'ai déjà tué le salaud.}
+{146}{}{Si t'es assez dur pour ça, tu feras peut-être un Skul après tout. Ramène-la ici quand tu l'auras.}
+{147}{}{Je savais que t'étais pas fait pour les Skulz. Dégage d'ici.}
+{148}{}{Tu l'as ?}
+{149}{}{Ouais.}
+{150}{}{Non.}
+{151}{}{J'ai dû tuer Neal pour l'avoir. Il a pleuré comme une fillette.}
+{152}{}{Ha ha ! Que ce vieux coq souffre jusqu'à ce qu'on le descende ce soir — t'es des nôtres ?}
+{153}{}{J'ai décidé que je préférais rien avoir à faire avec des croûtes comme vous.}
+{154}{}{Écrasons-le.}
+{155}{}{J'ai d'autres trucs à faire avant — on se retrouve là-bas.}
+{156}{}{Tu me fais perdre mon temps pourquoi ?}
+{157}{}{Ça lui apprendra, à ce vieux con. Merci de t'en être occupé pour nous. [Une larme perle à l'œil de Vinnie] T'es un Skul, maintenant.}
+{158}{}{Euh, d'accord... retrouve-nous plus tard, mais traîne pas trop.}
+{159}{}{Bientôt, Neal aura son compte, hein ?}
+{160}{}{On avait dit qu'on reviendrait, vieux con !}
+{161}{}{Une grande foule de gens arrivent au bar...}
+{162}{}{Va te faire foutre, flic !}
+{163}{}{Tu gagnes 400 points d'expérience pour avoir volé l'urne de Neal. Les morts ne reposeront jamais en paix.}
+{164}{}{Tu gagnes 300 points d'expérience pour avoir logé une balle dans le cul de Neal, espèce de Skul.}
+{165}{}{T'es prêt à descendre Neal ?}
+{166}{}{Ouais, on glace ce salaud.}
+{167}{}{Nan, j'ai encore des trucs à faire.}
+{168}{}{Pas question. Je veux sortir.}
+{169}{}{C'est trop tard pour ça, mon pote. Quand t'es dehors, t'es VRAIMENT dehors.}
+{170}{}{On règne sur cette ville.}
+{171}{}{Hé, frérot, on règne sur cette ville !}
+
