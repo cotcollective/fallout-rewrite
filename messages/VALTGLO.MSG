@@ -1,0 +1,9 @@
+{100}{}{Tu vois : Goule luminescente.}
+{101}{}{La goule t'ignore.}
+{102}{}{Le liquide clair ne coule plus. Sans le flux, nous prenons tous notre dernier repos.}
+#
+# Sduibek, Fallout Fixt:
+#
+{103}{}{Tu nous as tous condamnés.}
+{104}{}{Tu paieras tes actes avec ton sang...}
+{105}{}{Le flux s'arrête. Ta vie aussi.}

@@ -1,0 +1,33 @@
+{100}{}{Tu vois : Troy.}
+{101}{}{Félicitations, humain. Tu as été sélectionné pour rejoindre une bande d'adorateurs d'élite. Suis-moi.}
+{102}{}{Ça aurait pas un rapport avec les rumeurs d'une armée de Super-mutants qui sème la pagaille ?}
+{103}{}{On va où ?}
+{104}{}{Qu'est-ce que t'attends ? Allons-y !}
+{105}{}{Je crois pas.}
+{106}{}{C'est quoi cette puanteur terrible, dégoûtante, de cadavre ? Oh, c'est toi !}
+{107}{}{Ruh ?}
+{108}{}{Suis-moi et tu découvriras. Ou, pour le dire autrement, suis-moi et vis, imbécile !}
+{109}{}{Donc si j'y vais pas, je meurs ? Ça a pas l'air très religieux.}
+{110}{}{Tu m'as convaincu. En route !}
+{111}{}{Je crois pas.}
+{112}{}{Commence pas ce que tu peux pas finir, le monstre !}
+{113}{}{Excellent !}
+{114}{}{Tu devrais pas jouer avec Dame Jain ou les Enfants.}
+{115}{}{Tu devrais pas insulter ce que tu peux pas tuer. Alors, tu viens avec moi et tu vis, ou tu restes ici et tu meurs ?}
+{116}{}{J'arrive !}
+{117}{}{Laisse tomber.}
+{118}{}{Punaise, certains mutants prennent vraiment pas la blague !}
+{119}{}{Si je continue à te sentir, je vais crever de toute façon !}
+{120}{}{Espèce de bête stupide ! Tu viens ou tu restes ?}
+{121}{}{Euh... Je viens !}
+{122}{}{Euh... Je reste !}
+{123}{}{Ne m'accable pas d'indécision ! C'est quoi ta réponse, humain ?}
+{124}{}{Je viens avec toi. Allons-y.}
+{125}{}{Laisse tomber.}
+{126}{}{Comment tu oses me pousser ! Personne me dit ce que je dois faire !}
+{127}{}{Chien insolent ! Tu vas mourir maintenant !}
+{128}{}{Ne m'accable pas de tes blagues ! C'est quoi ta réponse, humain ?}
+{129}{}{Je viens avec toi. Allons-y.}
+{130}{}{Laisse tomber.}
+{131}{}{Me pousse pas, mec. J'essaie encore de trouver une bonne réplique... }
+{132}{}{Le mutant t'ignore.}

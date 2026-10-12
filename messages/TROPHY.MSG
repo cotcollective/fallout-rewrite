@@ -1,0 +1,4 @@
+{100}{}{On dirait un petit trophée en or, avec un fermoir et une plaque de bronze.}
+{101}{}{Tu voles l'urne sur le comptoir avec succès.}
+{102}{}{Tu piques l'urne, en espérant que personne n'a vu ta tentative maladroite.}
+{103}{}{Ça a l'air assez précieux. Si tu veux prendre l'urne, tu devrais être plus discret.}

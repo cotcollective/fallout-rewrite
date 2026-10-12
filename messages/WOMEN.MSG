@@ -1,0 +1,5 @@
+{100}{}{Tu vois une femme meurtrie et battue.}
+{101}{}{Non, s'il te plaît, non !}
+{102}{}{[sanglote de façon incontrôlable]}
+{103}{}{[chuchote] Aide-moi, s'il te plaît !}
+{104}{}{Merci de m'avoir sauvée.}

@@ -1,0 +1,6 @@
+{100}{}{Tu vois quelque chose dans l'obscurité sous le lit.}
+#
+#TRANSLATION NOTE 101: "you decide it was just an optical illustion from the shadows"
+#
+{101}{}{Tu regardes encore et tu vois rien. Tu décides que c'était juste les ombres qui jouaient des tours à tes yeux.}
+{102}{}{Tu regardes encore et tu vois un contour dans la poussière, comme si un petit objet avait été déplacé récemment.}

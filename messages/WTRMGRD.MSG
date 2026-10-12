@@ -1,0 +1,21 @@
+{100}{}{Tu vois un garde des Marchands d'Eau.}
+{101}{}{Halte. Les non-membres marchands ne sont pas autorisés près du Château d'Eau ou des pompes.}
+{102}{}{T'as pas le droit de revenir ici, pars maintenant !}
+{103}{}{Cette zone est interdite ! Éloigne-toi des pompes.}
+{104}{}{Recule si tu tiens à ta peau.}
+{105}{}{Dernier avertissement ! Pars.}
+{106}{}{Tu ferais mieux de partir tant que tu peux.}
+{107}{}{T'as quelques secondes pour partir ou te faire tirer dessus.}
+{108}{}{T'es sourd ? Pars maintenant !}
+{109}{}{C'est ça.}
+{110}{}{Tu vas apprendre à la dure.}
+{111}{}{T'écoutes juste pas.}
+{112}{}{Donne-lui une leçon.}
+{113}{}{Donne-lui une leçon.}
+{114}{}{Les non-membres marchands ne sont pas autorisés près du Château d'Eau ou des pompes.}
+{115}{}{Tu devrais partir.}
+{116}{}{On fait confiance à personne, et on va pas commencer avec toi.}
+{117}{}{Tu ferais mieux de rester loin des pompes.}
+{118}{}{Si t'as besoin de quelque chose, va à la Chambre des Marchands.}
+{119}{}{On tirera. N'y pense même pas.}
+{120}{}{On laissera personne mettre en danger le sang vital du Hub.}

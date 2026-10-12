@@ -1,0 +1,17 @@
+{100}{}{Tu vois un citoyen de l'Abri 13.}
+{101}{}{On pensait pas que tu reviendrais. T'as une si belle chambre, et on était un peu à l'étroit chez ses parents. J'espère que ça te dérange pas.}
+{102}{}{Si, ça me dérange. Sors de ma chambre !}
+{103}{}{Non, je m'en fiche. Profite de la chambre.}
+{104}{}{Ça me rassurerait de récupérer mes quartiers. Trouve-toi un autre endroit où vivre, s'il te plaît.}
+{105}{}{Hng.}
+{106}{}{Écoute, je veux pas me disputer, mais tu mérites visiblement plus cette chambre. Pars, s'il te plaît.}
+{107}{}{Écoute, on aurait vraiment besoin de la place. J'espère que tu vas reconsidérer.}
+{108}{}{Bon, laisse-moi réfléchir un moment. Hmmm. Non. Dehors !}
+{109}{}{Bon, d'accord. T'en as plus besoin que moi.}
+{110}{}{Merci ! On apprécie vraiment. On a mis tes affaires dans le coffre.}
+{111}{}{Bon, je sais pas. T'as pas l'air de t'en servir souvent, et on aurait bien besoin de la place.}
+{112}{}{Bon. Prends-la.}
+{113}{}{J'ai besoin de cet endroit pour me souvenir de mes racines. Et puis, c'est un bon endroit pour se reposer.}
+{114}{}{Oh, je pensais pas que cet endroit te tiendrait encore à cœur, d'après ce que j'ai entendu. Passe une bonne journée. On retourne chez sa mère.}
+{115}{}{On l'aime vraiment, ici.}
+{116}{}{Tu devrais partir. C'est plus ta place ici.}

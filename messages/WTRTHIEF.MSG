@@ -1,0 +1,31 @@
+{100}{}{Tu vois un habitant de l'abri endormi.}
+{101}{}{Tu vois un habitant de l'abri qui agit de façon suspecte.}
+{102}{}{Il semble éviter ton regard.}
+{103}{}{Tu repères le voleur d'eau !}
+{104}{}{Tu gagnes 500 points d'expérience pour avoir mis fin à la menace sur les rations d'eau de l'Abri en tuant le voleur.}
+{105}{}{Merci d'avoir résolu cette affaire. Ça va bien aider le moral.}
+{106}{}{Tu gagnes 1000 points d'expérience pour avoir capturé le voleur d'eau avec succès.}
+{107}{}{Bonjour, }
+{108}{}{.}
+{109}{}{Bonjour. Tu fais quoi ici à cette heure ?}
+{110}{}{Eaah !}
+{111}{}{Je m'inquiétais pour l'Abri et j'ai fait un cauchemar. J'arrivais pas à me rendormir alors j'ai pensé faire un tour pour me détendre.}
+{112}{}{OK.}
+{113}{}{T'as vu quelqu'un d'autre dans le coin ?}
+{114}{}{Désolé, mais je cherche le voleur d'eau et j'ai besoin de voir ce que tu transportes.}
+{115}{}{Ouais, y avait un gars qui agissait bizarrement près de la salle des rations d'eau. Il m'a fait peur. J'espère qu'il m'a pas vu.}
+{116}{}{Il ressemblait à quoi ?}
+{117}{}{Désolé, mais j'ai quand même besoin de voir ce que tu transportes.}
+{118}{}{J'ai pas bien vu parce que je me suis enfui.}
+{119}{}{OK. Merci quand même.}
+{120}{}{Bien sûr. J'ai rien à cacher.}
+{121}{}{[Fouille-le]}
+{122}{}{Me touche pas ! J'ai rien. Laisse-moi tranquille maintenant !}
+{123}{}{OK. Désolé.}
+{124}{}{Tu préfères une balle dans la tête ?}
+{125}{}{J'ai volé l'eau. Je suis désolé. Me fais pas mal, s'il te plaît !}
+{126}{}{Je t'emmène chez l'officier.}
+{127}{}{OK, OK. J'ai rien à cacher. Regarde par toi-même.}
+{128}{}{Bon, bonne nuit.}
+{129}{}{Bonne nuit.}
+{130}{}{Tu trouves rien.}

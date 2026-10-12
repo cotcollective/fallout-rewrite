@@ -1,0 +1,29 @@
+{100}{}{Station de sécurité}
+{101}{}{Ce terminal, 'Tylier', contrôle les Opérations des Forces Spéciales. Veuillez présenter votre autorisation vocale.}
+{102}{}{Nuna !}
+{103}{}{Aide-moi. Moi avoir bobo.}
+{104}{}{Laisse-moi entrer.}
+{105}{}{Je suis }
+{106}{}{. Laisse-moi passer.}
+{107}{}{Tu fais quoi ici ?}
+{108}{}{Voix non reconnue. État des systèmes de sécurité : armés.}
+{109}{}{Je suis le système de sécurité du Niveau Bleu. Tous systèmes armés.}
+{110}{}{Tu peux désarmer les systèmes ?}
+{111}{}{Pourquoi les systèmes sont armés alors que la guerre est finie ?}
+{112}{}{Merci.}
+{113}{}{J'ai été programmé pour garder les systèmes armés jusqu'à ce que du personnel autorisé ait entré le bon code vocal.}
+{114}{}{Tu veux bien désarmer les systèmes pour moi ?}
+{115}{}{Au revoir.}
+{116}{}{Contournement vocal : Gamma Delta Delta. Désarme tous les systèmes.}
+{117}{}{Vous n'êtes pas autorisé. Accès refusé.}
+{118}{}{Code invalide. Accès refusé.}
+{119}{}{Contournement vocal : Gamma Omicron Delta. Désarme les systèmes.}
+{120}{}{Contournement vocal : Omicron Delta Delta. Désarme les systèmes.}
+{121}{}{Contournement vocal : Alpha Delta Delta. Désarme les systèmes.}
+{122}{}{Contournement vocal : Delta Omicron Gamma. Désarme les systèmes.}
+{123}{}{Au revoir.}
+{124}{}{Contournement vocal confirmé. Désarmement des systèmes de sécurité.}
+{125}{}{Je n'ai pas reçu l'ordre de faire autrement. Accès réseau indisponible ; le processeur central ZAX a apparemment été détruit.}
+{126}{}{Bon. Contournement vocal : Sigma Alpha Delta. Désarme les systèmes.}
+{127}{}{Au revoir.}
+{128}{}{Les systèmes de sécurité sont actuellement désarmés.}

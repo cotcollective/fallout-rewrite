@@ -1,0 +1,7 @@
+{100}{}{Tu remarques et tu évites un fil monofilament tendu en travers du couloir.}
+{101}{}{Tu ressens une douleur intense dans les jambes. Un fil monofilament t'a largement ouvert.}
+{102}{}{Il endommage gravement ta jambe droite.}
+{103}{}{Il endommage gravement ta jambe gauche.}
+{104}{}{Tu désamorces le piège à fil monofilament et tu te débarrasses du fil en sécurité avant de t'ouvrir les mains.}
+{105}{}{Tu essaies de désamorcer le fil, mais tu n'arrives pas à bien l'attraper. Tu recules avant qu'il te coupe.}
+{106}{}{Tu essaies de désamorcer le fil, mais tu glisses et tu te coupes avec.}

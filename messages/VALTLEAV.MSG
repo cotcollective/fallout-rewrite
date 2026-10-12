@@ -1,0 +1,2 @@
+{100}{}{À l'ouest, tu vois une lumière naturelle. Pour la première fois de ta vie, tu regardes le monde extérieur.}
+{101}{}{À l'ouest, tu vois des étoiles dans un ciel ouvert. Pour la première fois de ta vie, tu regardes le monde extérieur.}

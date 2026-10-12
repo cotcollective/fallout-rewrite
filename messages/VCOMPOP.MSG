@@ -1,0 +1,5 @@
+{100}{}{Cet ordinateur purifie l'eau de l'Abri.}
+{101}{}{L'ordinateur d'eau est inutile sans la puce de contrôle de purification d'eau, qui est irréparable. Il te faudra une pièce de rechange.}
+{102}{}{Tu trifouilles l'ordinateur, mais tu n'apprends rien d'autre à son sujet.}
+{103}{}{Il y a plein de lumières qui clignotent sur ce truc.}
+{104}{}{Avec la puce de rechange, l'ordinateur semble bien fonctionner.}

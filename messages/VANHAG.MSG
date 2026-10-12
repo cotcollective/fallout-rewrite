@@ -1,0 +1,13 @@
+{100}{}{Tu vois un membre des Enfants de la Cathédrale.}
+{101}{}{Je ne parle pas aux âmes païennes comme toi.}
+{102}{}{Ton rapport, VanHagan.}
+{103}{}{Le Maître est satisfait de tes progrès, mais son besoin est grand et le temps est compté.}
+{104}{}{Le Maître devrait savoir que la matière première est limitée. On ne peut pas créer nos soldats sans plus de stock.}
+{105}{}{Il est au courant de tes problèmes. Il s'en occupe, en ce moment même.}
+{106}{}{Parle-moi de ses plans. Il faudra coordonner nos activités, si l'Unité doit réussir.}
+{107}{}{Le Maître a pris connaissance d'un Abri non découvert, et vivant. Avec autant de matière première, on peut créer une grande force. D'après le logiciel de prédiction, ce sera les effectifs qu'il nous faut pour réussir.}
+{108}{}{Excellent. C'est des plus fortuit. Les habitants sont-ils contaminés ?}
+{109}{}{Oh, c'est le meilleur. Si leur représentant est un exemple, ils sont propres. De souche pure.}
+{110}{}{Oh, c'est des plus excitant. C'est quel Abri qu'on pille ?}
+{111}{}{L'Abri 13. Et on les aura bientôt. Très bientôt.}
+{112}{}{Tu gagnes 1000 points d'expérience pour avoir surpris toute la conversation sur ton Abri.}

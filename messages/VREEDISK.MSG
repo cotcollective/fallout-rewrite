@@ -1,0 +1,8 @@
+{100}{}{Ceci est le disque contenant les rapports d'autopsie de Vree.}
+{101}{}{Le Pip-Boy 2000 affiche : "Téléchargement ... Abandon, les données existent déjà !"}
+{102}{}{Le Pip-Boy 2000 affiche : "Téléchargement des données ... ... ... Terminé. Bonne journée !"}
+{103}{}{Cet holodisque contient des preuves médicales de Vree de la Confrérie de l'Acier montrant que les Super-mutants sont stériles — et que leurs copies se dégradent à chaque itération.}
+#
+# for Fallout Fixt:
+#
+{104}{}{Tu vois : les Rapports d'autopsie de Vree.}

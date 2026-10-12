@@ -1,0 +1,7 @@
+{100}{}{Tu vois un citoyen de l'Abri 13.}
+{101}{}{C'est comment, le monde extérieur ?}
+{102}{}{Faut être courageux pour s'aventurer hors de l'Abri.}
+{103}{}{Le Superviseur dit que le monde extérieur est dangereux.}
+{104}{}{Fais attention en voyageant hors de l'Abri.}
+{105}{}{N'oublie pas de voir le toubib si tu es blessé.}
+{106}{}{Le Superviseur veille à ce que tout le monde soit bien soigné dans l'Abri.}

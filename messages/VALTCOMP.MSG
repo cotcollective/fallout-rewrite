@@ -1,0 +1,3 @@
+{100}{}{Tu pourrais glaner plus d'informations de ce terminal avec une approche plus scientifique.}
+{101}{}{Ce terminal régule les provisions et les fonctions de l'Abri, et effectue le travail administratif de routine.}
+{102}{}{Les terminaux de ce niveau contrôlent l'atmosphère et la température, et assurent la maintenance de secours du labo médical.}

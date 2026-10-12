@@ -1,0 +1,51 @@
+{100}{}{Reste loin de moi ! Laisse-moi tranquille !}
+{101}{}{Salut, l'étranger. Tu devrais pas traîner ici. Y a que la mort ici !}
+{102}{}{Tu saurais pas quelque chose sur des caravanes disparues ?}
+{103}{}{T'es qui ?}
+{104}{}{Quel genre de mort ?}
+{105}{}{J'ai besoin de provisions. Donne-les-moi !}
+{106}{}{Je cherche une Puce d'eau. Tu peux m'aider ?}
+{107}{}{Je me demandais ce que tu sais sur l'Écorcheur.}
+{108}{}{Rurr ? Sniff ?}
+{109}{}{Qu'est-ce que tu veux ! Laisse-moi tranquille !}
+{110}{}{Rrr. Snrg.}
+{111}{}{Énorme ! Énorme ! Grand comme trois hommes ! Des griffes longues comme mon avant-bras ! Déchiquetés ! Déchiquetés !}
+{112}{}{Oui. Quoi d'autre ?}
+{113}{}{Calme-toi, mec. T'es en sécurité maintenant.}
+{114}{}{Mec, ça a l'air d'un sacré fils de pute bien moche !}
+{115}{}{Tu l'as tué ?}
+{116}{}{Je suis Trent. Je suis garde pour les Marchands d'Eau. Notre caravane a été attaquée... par un monstre ! Énorme, tellement rapide. Il a bouffé Joe, il a pris des balles de fusil sans broncher ! Énorme !}
+{117}{}{Qu'est-ce qui vous a attaqués ?}
+{118}{}{On dirait une sorte de mutant.}
+{119}{}{On dirait l'Écorcheur !}
+{120}{}{Eh ben, ça t'apprendra à gonfler tes prix !}
+{121}{}{Bon. C'est pas comme si j'en avais encore besoin.}
+{122}{}{Une Puce d'eau ?! Je suis garde, pas ingénieur ! Va voir les Marchands d'Eau au Hub, ils sauraient probablement !}
+{123}{}{L'Écorcheur !}
+{124}{}{Qu'est-ce que tu fais ? Laisse-moi tranquille !}
+{125}{}{Je... je sais pas. J'ai pas dormi depuis si longtemps. Faim. Soif. Fatigué. Faut que je rentre.}
+{126}{}{}
+{127}{}{D'énormes cornes, une peau rouge malade, comme un truc sorti d'une histoire de démons, et il a bouffé Joe en trois bouchées... }
+{128}{}{Personne n'est en sécurité ! Personne n'est en sécurité, plus personne, et qu'est-ce que je vais faire... }
+{129}{}{T'es fou ?! J'ai mis trois balles de Desert Eagle dedans, et il a même pas bronché !}
+{130}{}{Que ce soit un mutant, un alien ou un démon de l'Enfer, je veux plus jamais revoir un de ces trucs de ma vie !}
+{131}{}{Je suis juste un garde, merde ! Me blâme pas ! Et ils me paient bien ! J'ai aucun problème avec eux !}
+{132}{}{Comment je peux t'aider ?}
+{133}{}{Les Écorcheurs les ont eus. Je croyais que c'étaient des histoires, mais... tu croirais pas comme ils sont grands, ni comme ils sont rapides. D'abord on les a sentis, puis ils sont arrivés par-dessus la crête et nous ont déchiquetés. On a tous fui, et je sais pas comment je m'en suis sorti.}
+{134}{}{Trent, Trent Barrister. J'habite au Hub. Dernièrement le boulot se faisait rare, et je suis plutôt bon tireur, alors je me suis embauché comme garde pour les Marchands d'Eau. La paie est bonne, le risque est faible — c'est ce que je croyais.}
+{135}{}{J'en ai aucune idée. C'est de la vieille techno, non ? J'imagine que des pillards en trouvent de temps en temps, mais je saurais pas où chercher. Personne n'en utilise plus — si ?}
+{136}{}{Ils sont énormes. Comme de gros lézards, mais en cuir. D'énormes griffes, et des dents, d'énormes cornes, et ils adorent le goût des humains. Et rapides, mon Dieu qu'ils sont rapides. Heureusement qu'ils ont décidé de pas me poursuivre, sinon je serais mort.}
+{137}{}{Merci. Peut-être que ce qui s'est passé n'était qu'un malentendu. J'ai pas beaucoup d'argent, mais il est à toi maintenant.}
+{138}{}{Merci. Oh mon Dieu, ça fait du bien... J'ai pas beaucoup d'argent, mais il est à toi maintenant.}
+{139}{}{Merci. Peut-être que ce qui s'est passé n'était qu'un malentendu. J'ai pas beaucoup d'argent, mais... merde ! J'ai dû le perdre. Il est à toi maintenant.}
+{140}{}{Merci. Oh mon Dieu, ça fait du bien... J'ai pas beaucoup d'argent, mais... merde ! J'ai dû le perdre. Il est à toi maintenant.}
+{141}{}{À l'aide !}
+
+#
+# TRANSLATION NOTE: The following two lines are identical in English, but they
+# differ in foreign translations. The first line is for the case of the
+# player-character masculine ("my friend" will be masculine); the second line is
+# for the case of the player-character feminine ("my friend" will be feminine).
+#
+{142}{}{L'odeur de la mort, mon ami. L'odeur de la mort... }
+{143}{}{L'odeur de la mort, mon amie. L'odeur de la mort... }

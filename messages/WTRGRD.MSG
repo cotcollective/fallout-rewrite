@@ -1,0 +1,42 @@
+{100}{}{Tu vois le garde d'eau.}
+{101}{}{Bonjour, }
+{102}{}{. }
+{103}{}{Bonjour. Comment ça va ?}
+{104}{}{Gahh !}
+{105}{}{Eh ben Gahh ! à toi aussi... Je suis désolé que t'aies jamais appris à parler. On aurait pu être bons amis.}
+{106}{}{Ouph.}
+{107}{}{Je me sens pas très bien. Quelqu'un m'a fendu le crâne avec un gros tuyau. Je suis allé voir le toubib mais ma tête me fait encore mal. J'espère vraiment que quelqu'un va attraper le crétin qui m'a frappé.}
+{108}{}{Pourquoi ils ont fait ça ?}
+{109}{}{Guck.}
+{110}{}{Eh ben, ils m'ont attaqué alors que j'étais ici assez tard un soir. D'habitude je rentre vers huit heures, mais je restais tard parce que quelqu'un avait volé de l'eau et je vérifiais nos provisions. La prochaine chose que je sais, je me réveille au labo médical avec une grosse bosse sur la tête. Ça devient fou ici. Quelqu'un va se faire tuer pour de l'eau bientôt et je sais pas ce qu'on peut y faire.}
+{111}{}{Je vais voir ce que je peux faire.}
+{112}{}{Désolé. J'espère que tu te sentiras mieux bientôt.}
+{113}{}{Voilà ton eau.}
+{114}{}{Voilà ta ration pour aujourd'hui.}
+{115}{}{Hé ! Tu crois faire quoi ?!?}
+{116}{}{Prends pas tant de provisions, s'il te plaît. On en a besoin.}
+{117}{}{Tu enregistres tes rapports dans le système informatique de la bibliothèque. Tu devrais retourner voir le Superviseur pour finaliser tes progrès.}
+# TRANSLATION NOTE
+# The player-character's name is inserted by code between lines 118 and 119.
+{118}{}{Bonjour, }
+{119}{}{.}
+{120}{}{Salut. Comment ça s'est passé dernièrement ?}
+{121}{}{Dis, tu fais quoi ici ?}
+{122}{}{Bon, tout le monde est assez nerveux, bien sûr, mais on n'a pas eu trop de problèmes. J'espère que tu trouveras bientôt une nouvelle puce.}
+{123}{}{Je distribue les rations d'eau, bien sûr. Et je m'assure que personne n'essaie de prendre plus d'eau que sa part, même si je pense pas qu'on aura de problèmes.}
+{124}{}{Hmm. Bon, continue ton bon travail.}
+{125}{}{Toi aussi. J'espère que tu trouveras cette puce bientôt pour qu'on puisse tous reprendre une vie normale.}
+{126}{}{Tu peux prendre des provisions si t'en as besoin, puisque ton boulot est si important, mais prends-en pas trop, s'il te plaît. Il nous en reste pas beaucoup.}
+{127}{}{Je peux prendre des provisions ?}
+
+
+{1000}{}{Ration}
+{1001}{}{Rations}
+{1002}{}{Provisions}
+{1003}{}{Eau}
+
+
+{1100}{}{Je distribue les rations d'eau le matin. T'en auras pas besoin, maintenant que tu vas Dehors.}
+{1101}{}{Je distribue les rations d'eau le matin. T'en auras pas besoin, maintenant que tu vas Dehors.}
+{1102}{}{Il nous reste que quelques provisions. Tu peux en prendre si t'en as besoin pour ta mission, mais prends-en pas trop, s'il te plaît.}
+{1103}{}{Je distribue les rations d'eau le matin. T'en auras pas besoin, maintenant que tu vas Dehors.}

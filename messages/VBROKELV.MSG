@@ -1,0 +1,3 @@
+{100}{}{Tu remarques un écriteau sur la porte : l'ascenseur est en panne.}
+{101}{}{Tu vois un panneau sur la porte qui indique qu'il est en panne.}
+{102}{}{Un panneau dit : Attention : Cage d'ascenseur en construction. Veuillez utiliser l'autre ascenseur.}

@@ -1,0 +1,37 @@
+{100}{}{Tu vois : Uthern, chef des Super-mutants.}
+{101}{}{Humain ! Comment oses-tu entrer dans l'enceinte de tes supérieurs ?}
+{102}{}{Hein ?}
+{103}{}{De la racaille comme toi ne pourra jamais être meilleure que les humains !}
+{104}{}{Crève, le mutant !!}
+{105}{}{Vraiment ? Tu te prétends meilleur, mais t'as quoi comme preuve ?}
+{106}{}{Si tu te crois un meilleur que les autres, tu tombes dans le sophisme de la généralisation abusive.}
+{107}{}{C'est un miracle que ta race ait survécu aussi longtemps. Je vais commencer par toi pour la purification.}
+{108}{}{Tu ne fais que prouver mon point avec des commentaires aussi ineptes. Personnellement je te voudrais pas sous les yeux, mais mon Maître aurait des mots pour toi.}
+{109}{}{Montre-moi ton Maître.}
+{110}{}{Essaie ces mots : crève !}
+{111}{}{Quelqu'un de ton intellect voit bien que ça ne résoudra rien.}
+{112}{}{Avec plaisir.}
+{113}{}{Tu prétends que parler ne résoudra rien ? T'es plus idiot que je croyais.}
+{114}{}{Bien que tu sois idiot, je parlais de ta façon de balancer tes mots.}
+{115}{}{Ah, l'idiot finit par comprendre quelque chose.}
+{116}{}{Les mots ne feront qu'une partie du boulot. Ça, ça réglera plus de choses.}
+{117}{}{Je commence à penser que t'as peut-être un peu de sang supérieur en toi. Laisse-moi vérifier pour être sûr.}
+{118}{}{Il en a, en effet, car la mort sera ta grâce salvatrice.}
+{119}{}{La preuve la plus simple pour toi. Je suis plus intelligent, plus fort et plus rapide que toi. Ça te dirait un test de mes compétences ?}
+{120}{}{Non merci. Je te crois.}
+{121}{}{T'as oublié arrogant, stupide et moche.}
+{122}{}{Bien sûr. Voyons ce que tu sais faire.}
+{123}{}{Bien. Ça te dirait une chance d'obtenir de plus grands pouvoirs ?}
+{124}{}{Tu paries !}
+{125}{}{Jamais !}
+{126}{}{Je suis pas sûr de ça.}
+{127}{}{Crève !}
+{128}{}{Alors je t'emmène à mon Maître.}
+{129}{}{C'est presque dommage. Peu importe, ça prendra pas longtemps.}
+{130}{}{On t'offre tout le pouvoir du monde et t'as quand même peur. Je vais t'aider à décider.}
+{131}{}{Des commentaires comme ça prouvent juste à quel point je suis plus intelligent que toi. Maintenant, tu vas payer pour ton insolence !}
+{132}{}{Vous prenez les cartes de crédit, ou juste les capsules ?}
+{133}{}{Jamais !!}
+{134}{}{Désolé, je suis un peu à sec en capsules là. On peut remettre ça ?}
+{135}{}{Quoi ? Je crois que je peux généraliser au moins ça : tu viens avec moi maintenant.}
+{136}{}{Ravi de te revoir. On m'a dit que tu rôdais dans le coin. J'ai l'ordre de te ramener.}

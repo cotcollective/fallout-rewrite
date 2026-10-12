@@ -1,0 +1,8 @@
+{100}{}{Tu vois un employé des Marchands d'Eau.}
+{101}{}{Parle à Martha si tu veux un boulot.}
+{102}{}{Ces voyages de caravane deviennent trop dangereux.}
+{103}{}{Hé, t'aurais pas des clopes ?}
+{104}{}{J'ai besoin d'un bain.}
+{105}{}{Va-t'en, s'il te plaît.}
+{106}{}{Tu ferais mieux de faire attention. On paie pas ces gardes pour leur gueule.}
+{107}{}{Va ailleurs si tu veux un boulot.}

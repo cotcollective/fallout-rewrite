@@ -1,0 +1,27 @@
+{100}{}{Tu vois : Vasquez, le mercenaire desperado.}
+{101}{}{Tu vois un tireur à l'air louche.}
+{102}{}{Qu'est-ce que tu veux ?}
+{103}{}{T'es qui ?}
+{104}{}{Hnn.}
+{105}{}{Je travaille pas pour les faibles d'esprit. Tu t'en vas maintenant.}
+{106}{}{T'as jamais entendu parler de moi ? Je suis blessé ! Je m'appelle Vasquez Villanova Hernandez Ortega. Je suis un célèbre desperado, mon ami. Et, si t'en as besoin, je suis un flingue à louer.}
+{107}{}{Vraiment ? Combien tu coûtes ?}
+{108}{}{On se reverra, peut-être. Bonne chance. Hé hé.}
+{109}{}{Ahh, droit au but, mon ami. Excellent. Je t'aiderai en ville pour la modique somme de 500 capsules par semaine. Mes services sont pas donnés, mais je les vaux bien.}
+{110}{}{Super, je t'embauche. Voilà 500 capsules.}
+{111}{}{Désolé de te déranger, mais je crois pas avoir besoin de tes services.}
+{112}{}{Je suis désolé, mon ami, mais je travaille pas pour de l'argent imaginaire. Il me faut du cash froid et dur.}
+{113}{}{Excellent. Je suis à toi. Allons-y, cet endroit m'ennuie.}
+{114}{}{Ouvre la marche, je suis à tes ordres !}
+{115}{}{Allons boire un coup !}
+{116}{}{Par où on commence ?}
+{117}{}{Tant que tu restes à Junktown, je suis à toi. J'aime pas quitter cette ville.}
+{118}{}{Tu savais que j'ai une prime sur ma tête ? Elle est trop petite, ceci dit.}
+{119}{}{Ah, mon ami. Ça fait plaisir de te revoir.}
+{120}{}{Je veux t'embaucher pour une semaine.}
+{121}{}{Ravi de te revoir.}
+{122}{}{Hnn.}
+{123}{}{Bon, c'est peut-être pas si bon de te revoir. Passe une bonne journée.}
+{124}{}{Bien sûr que oui. Ma facture est petite, et ma valeur est si grande. 500 capsules, s'il te plaît.}
+{125}{}{Tiens.}
+{126}{}{T'aurais pas dû faire ça, mon ami bientôt mort.}

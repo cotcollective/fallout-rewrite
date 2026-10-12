@@ -1,0 +1,24 @@
+{100}{}{C'est pas du tout bon.}
+{101}{}{Voilà.}
+{102}{}{Le mécanisme de tir continue à s'enrayer.}
+{103}{}{C'est bien mieux.}
+{104}{}{Presque.}
+{105}{}{Ça va prendre un moment.}
+{106}{}{C'est le problème !}
+{107}{}{John, je crois que j'ai isolé le problème.}
+{108}{}{Merde !}
+{109}{}{Zut !}
+{110}{}{Ma faute !}
+{111}{}{Ça va.}
+{112}{}{OK, ça a fait mal.}
+{113}{}{C'était voulu.}
+{114}{}{Pourquoi ça arrive tout le temps ?}
+{115}{}{Mes yeux !}
+{116}{}{T'es pas un Chevalier.}
+{117}{}{J'ai besoin de parler à un Chevalier.}
+{118}{}{Je comprends pas, les cellules d'énergie continuent à griller.}
+{119}{}{Tu devrais reculer, ça peut être dangereux.}
+{120}{}{Me distrais pas, s'il te plaît.}
+{121}{}{Regarde où tu mets les pieds.}
+{122}{}{T'es perdu ?}
+{123}{}{Désolé, je peux pas parler là.}

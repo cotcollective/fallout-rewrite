@@ -1,0 +1,2 @@
+{100}{}{Tu entends une voix de femme dans un haut-parleur : "Attention ! Vous êtes entré dans une zone sécurisée. Force létale autorisée."}
+{101}{}{}

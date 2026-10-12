@@ -1,0 +1,24 @@
+{100}{}{Tu vois : Zack.}
+{101}{}{Tu vois un Trafiquant d'armes.}
+{102}{}{Salut, moi c'est Zack. Tu veux acheter des armes ? Fais voir ce que t'as à échanger.}
+{103}{}{Non.}
+{104}{}{OK.}
+{105}{}{Tu peux me faire un rabais ?}
+{106}{}{Tu veux acheter des armes ? Fais voir ce que t'as à échanger.}
+{107}{}{Désolé de te déranger.}
+{108}{}{C'était un plaisir de faire affaire avec toi.}
+{109}{}{}
+{110}{}{OK. Reviens si t'as besoin de quelque chose.}
+{111}{}{Tu ferais mieux de te décider vite. T'es là pour acheter de l'équipement, ou tu viens juste pour te faire tirer dessus ?}
+{112}{}{T'as un vrai problème d'attitude.}
+{113}{}{Désolé, je pourrais peut-être utiliser de l'équipement après tout.}
+{114}{}{Tu fous quoi ici, alors ?}
+{115}{}{Rien.}
+{116}{}{Bien sûr.}
+{117}{}{Ouais, ben tant que Gabriel le dit pas, tu paies plein prix comme tout le monde.}
+{118}{}{J'en sais rien.}
+{119}{}{Montre-moi ce que t'as quand même.}
+{120}{}{Super ! Montre-moi ce que t'as.}
+{121}{}{Je repasserai plus tard pour ce rabais.}
+{122}{}{Je peux avoir un meilleur rabais ?}
+{123}{}{Désolé. Je t'ai fait le meilleur rabais possible.}

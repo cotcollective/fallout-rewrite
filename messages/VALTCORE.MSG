@@ -1,0 +1,1 @@
+{100}{}{Ceci est le Noyau Central, le cœur du système informatique.}

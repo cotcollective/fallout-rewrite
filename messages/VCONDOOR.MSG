@@ -1,0 +1,7 @@
+{100}{}{On dirait la porte de la salle de contrôle des Cuves.}
+{101}{}{La porte est verrouillée électroniquement.}
+{102}{}{Tu déverrouilles la porte.}
+{103}{}{Tu fais griller la serrure électronique, la soudant fermée. Tant pis.}
+{104}{}{La porte est déjà déverrouillée.}
+{105}{}{Pas de chance. Il te faudra des crochets électroniques ici.}
+{106}{}{Tu trifouilles la serrure mais tu n'arrives pas encore à contourner le code. Faut continuer d'essayer !}

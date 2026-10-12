@@ -1,0 +1,5 @@
+{100}{}{Du plasma jaillit du mur nord !}
+{101}{}{Tu remarques une petite plaque de déclenchement à tes pieds.}
+{102}{}{ Tes connaissances en pièges te font croire que c'est une sorte de déclencheur.}
+{103}{}{Tu sectionnes soigneusement les ressorts de pression de la plaque de déclenchement.}
+{104}{}{T'es pas tout à fait sûr de comment empêcher la plaque de se déclencher.}

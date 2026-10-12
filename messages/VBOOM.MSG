@@ -1,0 +1,7 @@
+{100}{}{Il y a une grenade piégée sous ce panneau de sol.}
+{101}{}{ Elle n'est pas armée.}
+{102}{}{Tu désamorces le piège et tu retires la grenade à plasma.}
+{103}{}{Tu retires le fil de détente de l'interrupteur d'armement quand tu lâches la goupille et tu fais exploser la grenade !}
+{104}{}{Tu essaies de soulever légèrement le panneau et de retirer le piège, mais t'as du mal à le soulever sans tirer sur le fil de détente.}
+{105}{}{Tu soulèves la plaque mais tu n'arrives pas à bien agripper la grenade.}
+{106}{}{Tu soulèves la plaque, mais le fil de détente te glisse des doigts avant que tu réussisses à la retirer.}

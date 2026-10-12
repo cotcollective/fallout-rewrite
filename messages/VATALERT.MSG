@@ -1,0 +1,6 @@
+{100}{}{Il y a quelque chose d'étrange dans cette partie du sol.}
+{101}{}{Tu remarques rien de spécial.}
+{102}{}{Une alarme retentit au loin.}
+{103}{}{Il y a une sorte de capteur à tes pieds.}
+{104}{}{Tu désamorces le capteur.}
+{105}{}{Tu échoues à désamorcer le capteur.}

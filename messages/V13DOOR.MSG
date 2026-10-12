@@ -1,0 +1,5 @@
+{100}{}{Cette porte est trop grande pour l'ouvrir à la main. Utilise le terminal d'entrée.}
+#
+# Fallout Fixt
+#
+{101}{}{L'explosion ne raye même pas la surface de cette puissante porte de l'Abri.}

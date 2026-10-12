@@ -1,0 +1,19 @@
+{100}{}{Tu vois : Victor.}
+{101}{}{Tu vois un membre de gang.}
+{102}{}{Aaaaggghhh... }
+{103}{}{Sang neuf. Hé hé. Hé hé hé.}
+{104}{}{Euh, ouais. Euh, je crois que je vais y aller.}
+{105}{}{T'es pas quelqu'un de très joyeux, hein ?}
+{106}{}{Huh huh !}
+{107}{}{Non, en fait, je crois que je vais te garder un moment.}
+{108}{}{Pourquoi tu dis ça ? Je suis très joyeux. Je suis très joyeux parce qu'il y a plein de choses qui saignent.}
+{109}{}{T'es un vrai malade, tu sais ça ?}
+{110}{}{Euh, ouais. Salut.}
+{111}{}{Ah, oui, l'appréciation de l'art. Euh, je peux comprendre ça. Je crois.}
+{112}{}{Dis pas ça ! Ma mère disait ça ! Tu vas me le payer ! Je suis un gentil garçon, hein maman ?}
+{113}{}{Quelqu'un qui me comprend ! Enfin !}
+{114}{}{Salut encore, mon ami artiste.}
+{115}{}{Ha ! Ha ! Hé hé hé ! Ho ho ha !}
+{116}{}{Zzzzz}
+{117}{}{Victor, je t'ai déjà dit que t'es un vrai malade ?}
+{118}{}{Euh, salut.}
